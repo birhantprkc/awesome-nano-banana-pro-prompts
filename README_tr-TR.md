@@ -143,9 +143,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **13660** |
+| 📝 Toplam İstem | **13659** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **22 Mayıs 2026 Cuma 09:01:37 UTC** |
+| 🔄 Son Güncelleme | **22 Mayıs 2026 Cuma 12:44:31 UTC** |
 
 </div>
 
@@ -4475,49 +4475,7 @@ Tuz düzlüğü üzerinde dairesel bir çiçek çemberine asılı, hacimli menek
 
 ---
 
-### No. 90: Ürün Pazarlaması - Minimalist Teknoloji Reklam Posteri
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Bir kadın ve dev kablosuz kulaklıkların yer aldığı, yumuşak stüdyo aydınlatmalı, Apple tarzı temiz bir teknoloji reklamı.
-
-#### 📝 İstem
-
-```
-Temiz bir teknoloji reklam posteri. Beyaz minimalist kıyafetli bir {argument name="subject" default="şık genç kadın"}, yanında boyunun 2,5 katı büyüklüğünde, kapağı açık ve hafifçe parlayan, üzerinde gümüş rengiyle "{argument name="brand name" default="AURA"}" yazılı dev beyaz kablosuz kulaklık kutusuyla gözleri kapalı bir şekilde müziğin keyfini çıkararak başını yana eğiyor. Hafif gölgeler ve silik ses dalgası çizgileriyle tamamlanmış, tamamen temiz beyaz bir arka plan. Arka planı dolduran, açık gri renkte, ultra minimalist ince sans-serif tipografi ile "{argument name="background text" default="AURA"}" yazısı. 
-
-Alt kısımda slogan: "Sadece önemli olanı duy." Sağ üst köşedeki küçük metinde gri renkle "Designed with GPT Image 2" yazıyor. Fotogerçekçi, Apple tarzı minimalist teknoloji reklamı, yumuşak yayılı beyaz stüdyo aydınlatması.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779435486353_v822zo_HI1QtqNaAAAZfBn.jpg" width="600" alt="Ürün Pazarlaması - Minimalist Teknoloji Reklam Posteri - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779435486242_qlparu_HI1QtqJakAAqCQb.jpg" width="600" alt="Ürün Pazarlaması - Minimalist Teknoloji Reklam Posteri - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [𝐌](https://x.com/Strength04_X)
-- **Kaynak:** [Twitter Post](https://x.com/Strength04_X/status/2057389379971334309)
-- **Yayınlandı:** 21 Mayıs 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=21795)**
-
----
-
-### No. 91: Ürün Pazarlaması - Yüksek Moda ve Sağlıklı Yaşam Serisi
+### No. 90: Ürün Pazarlaması - Yüksek Moda ve Sağlıklı Yaşam Serisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4568,7 +4526,7 @@ Belirli ünlü etkileri ve taktiksel moda unsurlarını içeren, yüksek moda gi
 
 ---
 
-### No. 92: Ürün Pazarlaması - Dış Mekan Kaykay Portresi
+### No. 91: Ürün Pazarlaması - Dış Mekan Kaykay Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4602,7 +4560,7 @@ Parlak doğal gün ışığında bir kaykayın üzerinde oturan genç bir kadın
 
 ---
 
-### No. 93: Ürün Pazarlaması - Kentsel Sokak Modası Kolaj Posteri
+### No. 92: Ürün Pazarlaması - Kentsel Sokak Modası Kolaj Posteri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4636,7 +4594,7 @@ Modern bir kentsel {argument name="fashion style" default="moda kolaj posteri"},
 
 ---
 
-### No. 94: Ürün Pazarlaması - Çiçek Bahçesinde Fotogerçekçi Kadın
+### No. 93: Ürün Pazarlaması - Çiçek Bahçesinde Fotogerçekçi Kadın
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4675,7 +4633,7 @@ Uzun dalgalı siyah saçlı, zarif yumuşak çiçek desenli bir elbise giyen, pe
 
 ---
 
-### No. 95: Ürün Pazarlaması - Kolezyum Seyahat Moda Portresi
+### No. 94: Ürün Pazarlaması - Kolezyum Seyahat Moda Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4796,7 +4754,7 @@ Roma'daki Kolezyum'da, aşırı düşük açıdan çekilmiş, enerjik bir sokak 
 
 ---
 
-### No. 96: Ürün Pazarlaması - Ana de Armas Lüks Moda Portresi
+### No. 95: Ürün Pazarlaması - Ana de Armas Lüks Moda Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4853,7 +4811,7 @@ Roma'daki Kolezyum'da, aşırı düşük açıdan çekilmiş, enerjik bir sokak 
 
 ---
 
-### No. 97: Ürün Pazarlaması - Lüks Boho Çıkartma Koleksiyonu
+### No. 96: Ürün Pazarlaması - Lüks Boho Çıkartma Koleksiyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4884,6 +4842,40 @@ lüks boho çıkartma koleksiyonu, {argument name="subject" default="altın boyn
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=21644)**
+
+---
+
+### No. 97: Ürün Pazarlaması - Lüks Parfüm Dergisi Kapağı
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Lüks bir parfüm ve gece Paris fonunda zarif bir figürün yer aldığı, üst düzey bir dergi kapağı oluşturmaya yönelik sofistike bir komut.
+
+#### 📝 İstem
+
+```
+Siyah boyundan bağlamalı bir elbise giymiş zarif bir kadının yer aldığı, "{argument name="magazine title" default="CHANCE"}" başlıklı üst düzey bir dergi kapağı. Arka planda hafif duman izleri ve gece Paris şehir silüetinin bulanık bir görüntüsü yer alıyor. Ön planda, {argument name="liquid color" default="altın"} rengi sıvısı ve şeffaf camıyla büyük bir {argument name="perfume name" default="CHANCE"} Parfüm şişesi dikkat çekiyor. Görselin alt kısmında sofistike bir yazı tipiyle "TIMELESS" kelimesi yazılı; ayrıca görselde "CHANCE PANS PARFUM" etiketi, bir barkod, küçük yazılar ve kaliteyi simgeleyen "86" sayısı bulunuyor.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779349232219_95uqsz_HIxZgsoWYAAbpH5.jpg" width="600" alt="Ürün Pazarlaması - Lüks Parfüm Dergisi Kapağı - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Minahil](https://x.com/Minahil42298354)
+- **Kaynak:** [Twitter Post](https://x.com/Minahil42298354/status/2057117558260588710)
+- **Yayınlandı:** 20 Mayıs 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=21622)**
 
 ---
 
@@ -5828,7 +5820,7 @@ Bu görseli, kağıt işçiliği diorama estetiğinden ilham alan, yumuşak ve e
 
 <div align="center">
 
-### 🎯 13540 burada gösterilmeyen daha fazla istem
+### 🎯 13539 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5891,6 +5883,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-05-22T09:01:37.459Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-05-22T12:44:31.219Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **13660** |
+| 📝 Total des prompts | **13659** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **vendredi 22 mai 2026 à 09:01:22 UTC** |
+| 🔄 Dernière mise à jour | **vendredi 22 mai 2026 à 12:44:07 UTC** |
 
 </div>
 
@@ -4473,49 +4473,7 @@ Un prompt pour un éditorial de mode à grande échelle mettant en scène un suj
 
 ---
 
-### No. 90: Marketing produit - Affiche publicitaire technologique minimaliste
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Une publicité technologique épurée, style Apple, mettant en scène une femme et des écouteurs sans fil géants sous un éclairage studio doux.
-
-#### 📝 Prompt
-
-```
-Une affiche publicitaire technologique épurée. Une {argument name="subject" default="jeune femme élégante"} vêtue d'une tenue minimaliste blanche incline la tête, les yeux fermés, profitant de la musique à côté d'un boîtier d'écouteurs sans fil blanc géant, faisant 2,5 fois sa taille, ouvert et diffusant une douce lueur, avec "{argument name="brand name" default="AURA"}" gravé en argent sur le couvercle. Fond blanc pur et immaculé avec des ombres douces et subtiles ainsi que de fines lignes d'ondes sonores. Typographie sans-serif ultra-minimaliste et fine "{argument name="background text" default="AURA"}" en gris clair remplissant l'arrière-plan. 
-
-Slogan en bas : "N'entendez que l'essentiel." Un petit texte dans le coin supérieur droit indique "Designed with GPT Image 2" en gris. Photoréaliste, publicité technologique minimaliste style Apple, éclairage studio blanc doux et diffus.
-```
-
-#### 🖼️ Images générées
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779435486353_v822zo_HI1QtqNaAAAZfBn.jpg" width="600" alt="Marketing produit - Affiche publicitaire technologique minimaliste - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779435486242_qlparu_HI1QtqJakAAqCQb.jpg" width="600" alt="Marketing produit - Affiche publicitaire technologique minimaliste - Image 2">
-</div>
-
-#### 📌 Détails
-
-- **Auteur:** [𝐌](https://x.com/Strength04_X)
-- **Source:** [Twitter Post](https://x.com/Strength04_X/status/2057389379971334309)
-- **Publié:** 21 mai 2026
-- **Langues:** en
-
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=21795)**
-
----
-
-### No. 91: Marketing produit - Série Haute Couture et Bien-être
+### No. 90: Marketing produit - Série Haute Couture et Bien-être
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4566,7 +4524,7 @@ Une collection de prompts au format JSON multi-sujets pour des scènes de cabine
 
 ---
 
-### No. 92: Marketing produit - Portrait de skate en extérieur
+### No. 91: Marketing produit - Portrait de skate en extérieur
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4600,7 +4558,7 @@ Portrait photoréaliste du visage et de l'apparence exacts de {argument name="su
 
 ---
 
-### No. 93: Marketing produit - Affiche de collage de mode streetwear urbaine
+### No. 92: Marketing produit - Affiche de collage de mode streetwear urbaine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4634,7 +4592,7 @@ Une affiche de mode urbaine moderne {argument name="fashion style" default="affi
 
 ---
 
-### No. 94: Marketing produit - Femme photoréaliste dans un jardin fleuri
+### No. 93: Marketing produit - Femme photoréaliste dans un jardin fleuri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4673,7 +4631,7 @@ Jeune femme magnifique ultra-réaliste aux longs cheveux noirs ondulés, portant
 
 ---
 
-### No. 95: Marketing produit - Portrait de mode au Colisée
+### No. 94: Marketing produit - Portrait de mode au Colisée
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4794,7 +4752,7 @@ Un prompt éditorial de mode streetwear dynamique mettant en scène un mannequin
 
 ---
 
-### No. 96: Marketing produit - Portrait de mode luxueux d'Ana de Armas
+### No. 95: Marketing produit - Portrait de mode luxueux d'Ana de Armas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4851,7 +4809,7 @@ Un prompt structuré pour générer un portrait ultra-réaliste de haute couture
 
 ---
 
-### No. 97: Marketing produit - Collection d'autocollants bohème de luxe
+### No. 96: Marketing produit - Collection d'autocollants bohème de luxe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4882,6 +4840,40 @@ collection d'autocollants bohème de luxe, {argument name="subject" default="cer
 - **Langues:** en
 
 **[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=21644)**
+
+---
+
+### No. 97: Marketing produit - Couverture de magazine de parfum de luxe
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Un prompt sophistiqué pour créer une couverture de magazine haut de gamme mettant en scène un parfum de luxe et un sujet élégant sur fond de paysage parisien nocturne.
+
+#### 📝 Prompt
+
+```
+Une couverture de magazine haut de gamme intitulée "{argument name="magazine title" default="CHANCE"}" mettant en scène une femme élégante dans une robe dos nu noire. L'arrière-plan présente des volutes de fumée vaporeuses et un paysage urbain parisien flou en pleine nuit. Au premier plan, on remarque un grand flacon de parfum {argument name="perfume name" default="CHANCE"}, au liquide {argument name="liquid color" default="doré"} et au verre transparent. Le mot "TIMELESS" est inscrit dans une police sophistiquée en bas de l'image, qui comprend également l'étiquette "CHANCE PARIS PARFUM", un code-barres, des mentions légales et le numéro "86" pour la qualité.
+```
+
+#### 🖼️ Images générées
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779349232219_95uqsz_HIxZgsoWYAAbpH5.jpg" width="600" alt="Marketing produit - Couverture de magazine de parfum de luxe - Image 1">
+</div>
+
+#### 📌 Détails
+
+- **Auteur:** [Minahil](https://x.com/Minahil42298354)
+- **Source:** [Twitter Post](https://x.com/Minahil42298354/status/2057117558260588710)
+- **Publié:** 20 mai 2026
+- **Langues:** en
+
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=21622)**
 
 ---
 
@@ -5824,7 +5816,7 @@ Transformez cette image en une illustration douce au style papier découpé arti
 
 <div align="center">
 
-### 🎯 13540 prompts supplémentaires non affichés ici
+### 🎯 13539 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5887,6 +5879,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-05-22T09:01:22.847Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-05-22T12:44:07.111Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **13660** |
+| 📝 Total Prompts | **13659** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Friday, May 22, 2026 at 9:00:45 AM UTC** |
+| 🔄 Last Updated | **Friday, May 22, 2026 at 12:43:02 PM UTC** |
 
 </div>
 
@@ -4473,49 +4473,7 @@ A grand-scale fashion editorial prompt featuring a subject suspended in a circul
 
 ---
 
-### No. 90: Product Marketing - Minimalist Tech Advertisement Poster
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A clean, Apple-style tech advertisement featuring a woman and giant wireless earbuds with soft studio lighting.
-
-#### 📝 Prompt
-
-```
-A clean tech advertisement poster. A {argument name="subject" default="stylish young woman"} in a white minimalist outfit tilts her head with eyes closed enjoying music beside a giant white wireless earbud case 2.5x her height open and glowing softly, "{argument name="brand name" default="AURA"}" engraved on the case lid in silver. Pure clean white background with subtle soft shadows and faint sound wave lines. Ultra minimal thin sans-serif typography "{argument name="background text" default="AURA"}" in light grey filling the background. 
-
-Tagline bottom: "Hear only what matters." Small text top-right corner reads "Designed with GPT Image 2" in grey. Photorealistic, Apple-style minimal tech commercial, soft diffused white studio lighting.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779435486353_v822zo_HI1QtqNaAAAZfBn.jpg" width="600" alt="Product Marketing - Minimalist Tech Advertisement Poster - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779435486242_qlparu_HI1QtqJakAAqCQb.jpg" width="600" alt="Product Marketing - Minimalist Tech Advertisement Poster - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [𝐌](https://x.com/Strength04_X)
-- **Source:** [Twitter Post](https://x.com/Strength04_X/status/2057389379971334309)
-- **Published:** May 21, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=21795)**
-
----
-
-### No. 91: Product Marketing - High Fashion and Wellness Series
+### No. 90: Product Marketing - High Fashion and Wellness Series
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4566,7 +4524,7 @@ A multi-subject JSON-style prompt collection for high-fashion dressing room scen
 
 ---
 
-### No. 92: Product Marketing - Outdoor Skateboard Portrait
+### No. 91: Product Marketing - Outdoor Skateboard Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4600,7 +4558,7 @@ Photorealistic portrait of {argument name="subject" default="Sadie Sink"}'s exac
 
 ---
 
-### No. 93: Product Marketing - Urban Streetwear Fashion Collage Poster
+### No. 92: Product Marketing - Urban Streetwear Fashion Collage Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4634,7 +4592,7 @@ A Modern urban {argument name="fashion style" default="fashion collage poster"},
 
 ---
 
-### No. 94: Product Marketing - Photorealistic Woman in Floral Garden
+### No. 93: Product Marketing - Photorealistic Woman in Floral Garden
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4673,7 +4631,7 @@ Ultra realistic beautiful young woman with long wavy black hair, wearing elegant
 
 ---
 
-### No. 95: Product Marketing - Colosseum Travel Fashion Portrait
+### No. 94: Product Marketing - Colosseum Travel Fashion Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4794,7 +4752,7 @@ An energetic streetwear fashion editorial prompt featuring a model at the Coloss
 
 ---
 
-### No. 96: Product Marketing - Ana de Armas Luxury Fashion Portrait
+### No. 95: Product Marketing - Ana de Armas Luxury Fashion Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4851,7 +4809,7 @@ A structured prompt for generating a high-fashion, ultra-realistic portrait of a
 
 ---
 
-### No. 97: Product Marketing - Luxury Boho Sticker Collection
+### No. 96: Product Marketing - Luxury Boho Sticker Collection
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4882,6 +4840,40 @@ luxury boho sticker collection, {argument name="subject" default="elegant deer w
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=21644)**
+
+---
+
+### No. 97: Product Marketing - Luxury Perfume Magazine Cover
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A sophisticated prompt for creating a high-end magazine cover featuring luxury perfume and an elegant subject against a night-time Parisian backdrop.
+
+#### 📝 Prompt
+
+```
+A high-end magazine cover titled "{argument name="magazine title" default="CHANCE"}" featuring an elegant woman in a black halter dress. The background includes hazy wisps of smoke and a blurry Parisian cityscape at night. Prominently in the foreground is a large bottle of {argument name="perfume name" default="CHANCE"} Parfum, with {argument name="liquid color" default="golden"} liquid and clear glass. The word "TIMELESS" is written in a sophisticated font across the bottom of the image, which also includes the label "CHANCE PANS PARFUM", a barcode, fine print, and the number "86" for quality.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779349232219_95uqsz_HIxZgsoWYAAbpH5.jpg" width="600" alt="Product Marketing - Luxury Perfume Magazine Cover - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Minahil](https://x.com/Minahil42298354)
+- **Source:** [Twitter Post](https://x.com/Minahil42298354/status/2057117558260588710)
+- **Published:** May 20, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=21622)**
 
 ---
 
@@ -5824,7 +5816,7 @@ Convert this image into a soft, handcrafted paper-cut layered illustration style
 
 <div align="center">
 
-### 🎯 13540 more prompts not shown here
+### 🎯 13539 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5887,6 +5879,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T09:00:45.865Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T12:43:03.014Z</sub>
 
 </div>

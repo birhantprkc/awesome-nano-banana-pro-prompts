@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **13660** |
+| 📝 提示词总数 | **13659** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年5月22日星期五 UTC 09:00:49** |
+| 🔄 最后更新 | **2026年5月22日星期五 UTC 12:43:08** |
 
 </div>
 
@@ -4473,49 +4473,7 @@ scene_description": "{argument name="scene" default="两位女性探险家背靠
 
 ---
 
-### No. 90: 产品营销 - 极简科技广告海报
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张苹果风格的简洁科技广告，画面中包含一位女性和巨大的无线耳机，采用柔和的摄影棚灯光。
-
-#### 📝 提示词
-
-```
-一张简洁的科技广告海报。一位 {argument name="subject" default="时尚年轻女性"} 身着白色极简服装，闭着双眼侧头聆听音乐，身旁是一个高度为其 2.5 倍的巨大白色无线耳机盒，耳机盒处于开启状态并散发着柔和的光芒，盒盖上刻有银色的 "{argument name="brand name" default="AURA"}" 字样。纯净的白色背景，带有微妙的柔和阴影和淡淡的声波线条。背景中填充着极简的细体无衬线排版 "{argument name="background text" default="AURA"}"（浅灰色）。
-
-底部标语："Hear only what matters."（只听重要的声音。）右上角的小字写着 "Designed with GPT Image 2"（灰色）。照片级真实感，苹果风格的极简科技商业摄影，柔和的漫反射白色摄影棚灯光。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779435486353_v822zo_HI1QtqNaAAAZfBn.jpg" width="600" alt="产品营销 - 极简科技广告海报 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779435486242_qlparu_HI1QtqJakAAqCQb.jpg" width="600" alt="产品营销 - 极简科技广告海报 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [𝐌](https://x.com/Strength04_X)
-- **来源:** [Twitter Post](https://x.com/Strength04_X/status/2057389379971334309)
-- **发布时间:** 2026年5月21日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=21795)**
-
----
-
-### No. 91: 产品营销 - 高级时装与健康系列
+### No. 90: 产品营销 - 高级时装与健康系列
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4566,7 +4524,7 @@ scene_description": "{argument name="scene" default="两位女性探险家背靠
 
 ---
 
-### No. 92: 产品营销 - 户外滑板人像
+### No. 91: 产品营销 - 户外滑板人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4600,7 +4558,7 @@ scene_description": "{argument name="scene" default="两位女性探险家背靠
 
 ---
 
-### No. 93: 产品营销 - 都市街头时尚拼贴海报
+### No. 92: 产品营销 - 都市街头时尚拼贴海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4634,7 +4592,7 @@ scene_description": "{argument name="scene" default="两位女性探险家背靠
 
 ---
 
-### No. 94: 产品营销 - 花丛中写实风格的女性肖像
+### No. 93: 产品营销 - 花丛中写实风格的女性肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4673,7 +4631,7 @@ scene_description": "{argument name="scene" default="两位女性探险家背靠
 
 ---
 
-### No. 95: 产品营销 - 罗马斗兽场旅行时尚人像
+### No. 94: 产品营销 - 罗马斗兽场旅行时尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4794,7 +4752,7 @@ scene_description": "{argument name="scene" default="两位女性探险家背靠
 
 ---
 
-### No. 96: 产品营销 - Ana de Armas 高定时尚肖像
+### No. 95: 产品营销 - Ana de Armas 高定时尚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4851,7 +4809,7 @@ scene_description": "{argument name="scene" default="两位女性探险家背靠
 
 ---
 
-### No. 97: 产品营销 - 奢华波西米亚风贴纸合集
+### No. 96: 产品营销 - 奢华波西米亚风贴纸合集
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4882,6 +4840,40 @@ scene_description": "{argument name="scene" default="两位女性探险家背靠
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=21644)**
+
+---
+
+### No. 97: 产品营销 - 奢华香水杂志封面
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个精致的提示词，用于创作一张以奢华香水和优雅人物为主角，并以巴黎夜景为背景的高端杂志封面。
+
+#### 📝 提示词
+
+```
+一张高端杂志封面，标题为“{argument name="magazine title" default="CHANCE"}”，画面中是一位身着黑色挂脖连衣裙的优雅女性。背景包含朦胧的烟雾和模糊的巴黎夜景。前景显眼处是一瓶大型 {argument name="perfume name" default="CHANCE"} 香水，瓶身为透明玻璃，内含 {argument name="liquid color" default="金色"} 液体。图像底部以精致的字体写着“TIMELESS”字样，并包含“CHANCE PANS PARFUM”标签、条形码、细则文字以及代表品质的数字“86”。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779349232219_95uqsz_HIxZgsoWYAAbpH5.jpg" width="600" alt="产品营销 - 奢华香水杂志封面 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Minahil](https://x.com/Minahil42298354)
+- **来源:** [Twitter Post](https://x.com/Minahil42298354/status/2057117558260588710)
+- **发布时间:** 2026年5月20日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=21622)**
 
 ---
 
@@ -5824,7 +5816,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 <div align="center">
 
-### 🎯 13540 更多提示词未在此显示
+### 🎯 13539 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5887,6 +5879,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-22T09:00:49.537Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-22T12:43:08.320Z</sub>
 
 </div>

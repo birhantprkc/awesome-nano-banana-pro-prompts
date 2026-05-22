@@ -143,9 +143,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **13660** |
+| 📝 Gesamtanzahl Prompts | **13659** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Freitag, 22. Mai 2026 um 09:01:19 UTC** |
+| 🔄 Zuletzt aktualisiert | **Freitag, 22. Mai 2026 um 12:44:01 UTC** |
 
 </div>
 
@@ -4475,49 +4475,7 @@ Ein groß angelegtes Mode-Editorial-Prompt mit einem Motiv, das in einem kreisf�
 
 ---
 
-### No. 90: Produktmarketing - Minimalistisches Tech-Werbeposter
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Eine cleane Tech-Werbung im Apple-Stil mit einer Frau und riesigen kabellosen Ohrhörern in sanfter Studiobeleuchtung.
-
-#### 📝 Prompt
-
-```
-Ein cleanes Tech-Werbeposter. Eine {argument name="subject" default="stilvolle junge Frau"} in einem weißen, minimalistischen Outfit neigt den Kopf mit geschlossenen Augen und genießt die Musik neben einem riesigen, weißen, kabellosen Ohrhörer-Case, das 2,5-mal so groß ist wie sie selbst, geöffnet und sanft leuchtend, mit der Gravur "{argument name="brand name" default="AURA"}" in Silber auf dem Deckel. Rein weißer Hintergrund mit dezenten, weichen Schatten und schwachen Schallwellenlinien. Ultra-minimalistische, dünne serifenlose Typografie "{argument name="background text" default="AURA"}" in Hellgrau füllt den Hintergrund. 
-
-Slogan unten: "Höre nur, was zählt." Kleiner Text in der oberen rechten Ecke: "Designed with GPT Image 2" in Grau. Fotorealistisch, minimalistischer Tech-Werbespot im Apple-Stil, sanft diffuses weißes Studiolicht.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779435486353_v822zo_HI1QtqNaAAAZfBn.jpg" width="600" alt="Produktmarketing - Minimalistisches Tech-Werbeposter - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779435486242_qlparu_HI1QtqJakAAqCQb.jpg" width="600" alt="Produktmarketing - Minimalistisches Tech-Werbeposter - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [𝐌](https://x.com/Strength04_X)
-- **Quelle:** [Twitter Post](https://x.com/Strength04_X/status/2057389379971334309)
-- **Veröffentlicht:** 21. Mai 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=21795)**
-
----
-
-### No. 91: Produktmarketing - High-Fashion- und Wellness-Serie
+### No. 90: Produktmarketing - High-Fashion- und Wellness-Serie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4568,7 +4526,7 @@ Eine vielseitige Sammlung von Prompts im JSON-Stil für High-Fashion-Umkleidekab
 
 ---
 
-### No. 92: Produktmarketing - Outdoor-Skateboard-Porträt
+### No. 91: Produktmarketing - Outdoor-Skateboard-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4602,7 +4560,7 @@ Fotorealistisches Porträt mit dem exakten Gesicht und Erscheinungsbild von {arg
 
 ---
 
-### No. 93: Produktmarketing - Urban Streetwear Fashion Collage-Poster
+### No. 92: Produktmarketing - Urban Streetwear Fashion Collage-Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4636,7 +4594,7 @@ Ein modernes urbanes {argument name="fashion style" default="Fashion-Collage-Pos
 
 ---
 
-### No. 94: Produktmarketing - Fotorealistische Frau in einem Blumengarten
+### No. 93: Produktmarketing - Fotorealistische Frau in einem Blumengarten
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4675,7 +4633,7 @@ Ultra-realistische, wunderschöne junge Frau mit langem, welligem schwarzem Haar
 
 ---
 
-### No. 95: Produktmarketing - Colosseum Travel-Fashion-Porträt
+### No. 94: Produktmarketing - Colosseum Travel-Fashion-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4796,7 +4754,7 @@ Ein energiegeladener Streetwear-Fashion-Editorial-Prompt mit einem Model am Kolo
 
 ---
 
-### No. 96: Produktmarketing - Ana de Armas Luxus-Modeporträt
+### No. 95: Produktmarketing - Ana de Armas Luxus-Modeporträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4853,7 +4811,7 @@ Ein strukturierter Prompt zur Erstellung eines ultra-realistischen High-Fashion-
 
 ---
 
-### No. 97: Produktmarketing - Luxuriöse Boho-Sticker-Kollektion
+### No. 96: Produktmarketing - Luxuriöse Boho-Sticker-Kollektion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4884,6 +4842,40 @@ luxuriöse Boho-Sticker-Kollektion, {argument name="subject" default="eleganter 
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=21644)**
+
+---
+
+### No. 97: Produktmarketing - Luxus-Parfüm-Magazin-Cover
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein anspruchsvoller Prompt zur Erstellung eines hochwertigen Magazin-Covers mit Luxus-Parfüm und einer eleganten Person vor einer nächtlichen Pariser Kulisse.
+
+#### 📝 Prompt
+
+```
+Ein hochwertiges Magazin-Cover mit dem Titel „{argument name="magazine title" default="CHANCE"}“, das eine elegante Frau in einem schwarzen Neckholder-Kleid zeigt. Der Hintergrund enthält dunstige Rauchschwaden und eine verschwommene Pariser Stadtlandschaft bei Nacht. Im Vordergrund steht prominent ein großer Flakon des {argument name="perfume name" default="CHANCE"} Parfums mit {argument name="liquid color" default="goldener"} Flüssigkeit und klarem Glas. Das Wort „TIMELESS“ ist in einer eleganten Schriftart am unteren Bildrand zu sehen, das zudem das Etikett „CHANCE PARIS PARFUM“, einen Barcode, Kleingedrucktes und die Zahl „86“ für Qualität enthält.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779349232219_95uqsz_HIxZgsoWYAAbpH5.jpg" width="600" alt="Produktmarketing - Luxus-Parfüm-Magazin-Cover - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Minahil](https://x.com/Minahil42298354)
+- **Quelle:** [Twitter Post](https://x.com/Minahil42298354/status/2057117558260588710)
+- **Veröffentlicht:** 20. Mai 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=21622)**
 
 ---
 
@@ -5826,7 +5818,7 @@ Wandle dieses Bild in einen weichen, handgefertigten Scherenschnitt-Illustration
 
 <div align="center">
 
-### 🎯 13540 weitere Prompts hier nicht angezeigt
+### 🎯 13539 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5889,6 +5881,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-05-22T09:01:19.253Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-05-22T12:44:01.519Z</sub>
 
 </div>
