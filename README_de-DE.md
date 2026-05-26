@@ -143,9 +143,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **13826** |
+| 📝 Gesamtanzahl Prompts | **13825** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Dienstag, 26. Mai 2026 um 09:03:58 UTC** |
+| 🔄 Zuletzt aktualisiert | **Dienstag, 26. Mai 2026 um 12:52:17 UTC** |
 
 </div>
 
@@ -3919,47 +3919,7 @@ Eine gemütliche Anime-Illustration im Aquarellstil einer Familie, die eine gro�
 
 ---
 
-### No. 72: Comic / Storyboard - Epische Fantasy: Barbarin und uraltes Biest
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein hochdetailliertes Fantasy-Filmstill, das eine Barbarin zeigt, die neben einer riesigen gehörnten Kreatur durch eine filmreife, neblige Landschaft wandert.
-
-#### 📝 Prompt
-
-```
-Ultrarealistisches, episches Fantasy-Filmstill, 9:16 Hochformat, Ganzkörperaufnahme aus der Froschperspektive einer einsamen {argument name="warrior" default="Barbarin/Stammesjägerin"} mit Speer und geschichteten Lederriemen, Fellumhang, gewickelten Stiefeln und Armschienen, windzerzaustem geflochtenem Haar, rauer Hauttextur und feinen Narben, die neben einem {argument name="beast" default="riesigen, uralten gehörnten Biest (bisonartig)"} mit verwitterter, steinartiger Gesichtshaut, dicker Mähne, leuchtend bernsteinfarbenen Augen und runenverzierter Stirn hergeht, filmreife neblige Berge und ferne Ruinen im Hintergrund, felsiger Boden, volumetrischer Nebel, dramatisches Kontrastlicht, gedämpfte grau-braune Farbpalette, hohe Detailgenauigkeit, scharfer filmischer Fokus, kein Cartoon, keine zusätzlichen Gliedmaßen, keine deformierte Anatomie, kein Text, kein Wasserzeichen.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779780726653_ycv0xd_HJJl5VLWQAAaUkF.jpg" width="600" alt="Comic / Storyboard - Epische Fantasy: Barbarin und uraltes Biest - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779780726596_8ym741_HJJl5j7XoAAAom3.jpg" width="600" alt="Comic / Storyboard - Epische Fantasy: Barbarin und uraltes Biest - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Ai Bella](https://x.com/zahra4sure)
-- **Quelle:** [Twitter Post](https://x.com/zahra4sure/status/2058820037700681807)
-- **Veröffentlicht:** 25. Mai 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=22462)**
-
----
-
-### No. 73: Comic / Storyboard - Anime-Krieger Charakter-Designbogen
+### No. 72: Comic / Storyboard - Anime-Krieger Charakter-Designbogen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3993,7 +3953,7 @@ Ein stilisierter, von Anime inspirierter, filmischer Charakterbogen, angesiedelt
 
 ---
 
-### No. 74: Comic / Storyboard - Anime-Trainer und Pokémon-Bindungsbogen
+### No. 73: Comic / Storyboard - Anime-Trainer und Pokémon-Bindungsbogen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4029,7 +3989,7 @@ Am unteren Rand befindet sich eine Sammlung kleiner „{argument name="pokemon" 
 
 ---
 
-### No. 75: Comic / Storyboard - Anime-Porträt mit Chibi-Charakteren
+### No. 74: Comic / Storyboard - Anime-Porträt mit Chibi-Charakteren
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4063,7 +4023,7 @@ Ultrarealistisches, filmisches Anime-Nachtporträt in einem verregneten, dunklen
 
 ---
 
-### No. 76: Comic / Storyboard - Skurriles Glas-Paar im winterlichen Schneefall
+### No. 75: Comic / Storyboard - Skurriles Glas-Paar im winterlichen Schneefall
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4150,7 +4110,7 @@ Ein hochkünstlerischer Prompt für eine europäische Straßenszene bei Nacht mi
 
 ---
 
-### No. 77: Comic / Storyboard - Cyberpunk-Horror-Mashup
+### No. 76: Comic / Storyboard - Cyberpunk-Horror-Mashup
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4184,7 +4144,7 @@ Ein zusammengesetzter Prompt, der die Ästhetik von Cyberpunk-Türmen mit klassi
 
 ---
 
-### No. 78: Comic / Storyboard - Illustration eines Pferderennsiegers
+### No. 77: Comic / Storyboard - Illustration eines Pferderennsiegers
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4218,7 +4178,7 @@ Visualisierung der Ziellinie eines Pferderennens, bei dem ein bestimmtes Pferd m
 
 ---
 
-### No. 79: Comic / Storyboard - Brand im Yoshiwara Hall
+### No. 78: Comic / Storyboard - Brand im Yoshiwara Hall
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4252,7 +4212,7 @@ Eine Szene von {argument name="location" default="Yoshiwara Hall"} in Flammen, u
 
 ---
 
-### No. 80: Comic / Storyboard - Vogue Mode-Illustrationsskizze
+### No. 79: Comic / Storyboard - Vogue Mode-Illustrationsskizze
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4286,7 +4246,7 @@ Verwandle dieses Foto in eine {argument name="style" default="Mode-Illustration 
 
 ---
 
-### No. 81: Comic / Storyboard - Pferderennen im Manga-Stil
+### No. 80: Comic / Storyboard - Pferderennen im Manga-Stil
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4320,7 +4280,7 @@ Erzeugt Bilder von Pferderennen, die vom Manga Kaze no Sylphid im Kontext des Oa
 
 ---
 
-### No. 82: Comic / Storyboard - Illustration eines verschneiten japanischen Dorfes im Winter
+### No. 81: Comic / Storyboard - Illustration eines verschneiten japanischen Dorfes im Winter
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4372,7 +4332,7 @@ Eine Halbtotale einer gelassenen {argument name="subject" default="kaukasischen 
 
 ---
 
-### No. 83: Comic / Storyboard - Mars-Astronaut und Alien-Austausch
+### No. 82: Comic / Storyboard - Mars-Astronaut und Alien-Austausch
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4412,7 +4372,7 @@ Ein Mädchen in einem vollständig geschlossenen, modernen weißen Raumanzug mit
 
 ---
 
-### No. 84: Comic / Storyboard - Kosmische Space Opera: Der dunkle Imperator
+### No. 83: Comic / Storyboard - Kosmische Space Opera: Der dunkle Imperator
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4445,7 +4405,7 @@ Filmischer Space-Opera-Realismus, Meisterwerk-Qualität. Kameraposition: hohe Vo
 
 ---
 
-### No. 85: Comic / Storyboard - Aero & Chic Minimalistische Charakter-Skizze
+### No. 84: Comic / Storyboard - Aero & Chic Minimalistische Charakter-Skizze
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4485,7 +4445,7 @@ Ein minimalistisches Charakter-Porträt-Skizzenblatt in einem klaren „{argumen
 
 ---
 
-### No. 86: Comic / Storyboard - Fluoreszierende Comic-Monster-Kunst
+### No. 85: Comic / Storyboard - Fluoreszierende Comic-Monster-Kunst
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4519,7 +4479,7 @@ Ein junges Mädchen mit blauem Haar und einem besorgten Gesichtsausdruck steht v
 
 ---
 
-### No. 87: Comic / Storyboard - Historisches Make-up Napoleon Manga
+### No. 86: Comic / Storyboard - Historisches Make-up Napoleon Manga
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4559,7 +4519,7 @@ Von {argument name="author" default="Napoleon"}
 
 ---
 
-### No. 88: Comic / Storyboard - Boho-Chic Positive Vibes Sticker-Bogen
+### No. 87: Comic / Storyboard - Boho-Chic Positive Vibes Sticker-Bogen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4590,6 +4550,44 @@ Eine lebendige Illustration eines Sticker-Bogens mit einer wunderschönen, läch
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=22004)**
+
+---
+
+### No. 88: Comic / Storyboard - Vier-Panel-Manga über Komponentenunterschiede
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein Prompt für einen Vier-Panel-Manga über die verwirrende Terminologie von Industriekomponenten wie Naphtha und Tinte.
+
+#### 📝 Prompt
+
+```
+4-Panel-Manga
+ 
+{argument name="title" default="Unterschiede bei Komponenten"}
+
+Naphtha, Tinte, Inki, Inkin-tamushi
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779520924776_yd6wsb_HI4uPrwawAIDqM-.jpg" width="600" alt="Comic / Storyboard - Vier-Panel-Manga über Komponentenunterschiede - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [クラリネットクラリオンNOBU](https://x.com/NOBU79834619)
+- **Quelle:** [Twitter Post](https://x.com/NOBU79834619/status/2057632935193538600)
+- **Veröffentlicht:** 22. Mai 2026
+- **Sprachen:** ja
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=22034)**
 
 ---
 
@@ -5970,7 +5968,7 @@ Ein detaillierter technischer Prompt zur Erstellung eines hyperrealistischen Sma
 
 <div align="center">
 
-### 🎯 13706 weitere Prompts hier nicht angezeigt
+### 🎯 13705 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6033,6 +6031,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-05-26T09:03:58.434Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-05-26T12:52:17.554Z</sub>
 
 </div>

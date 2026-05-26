@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **13826** |
+| 📝 Total Prompts | **13825** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Tuesday, May 26, 2026 at 9:02:58 AM UTC** |
+| 🔄 Last Updated | **Tuesday, May 26, 2026 at 12:51:44 PM UTC** |
 
 </div>
 
@@ -3916,47 +3916,7 @@ For the First Image (Magazine Cover)
 
 ---
 
-### No. 72: Comic / Storyboard - Epic Fantasy Barbarian and Ancient Beast
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A high-detail fantasy film still featuring a female barbarian walking alongside a massive horned creature in a cinematic foggy landscape.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic epic fantasy film still, 9:16 vertical composition, low-angle full-body shot of a lone {argument name="warrior" default="female barbarian/tribal huntress"} with spear and layered leather straps, fur shoulder cape, wrapped boots and bracers, wind-tousled braided hair, gritty skin texture and subtle scars, walking beside an {argument name="beast" default="enormous ancient horned beast (bison-like)"} with weathered stone skin on the face, thick mane, glowing amber eyes, rune-carved forehead, cinematic foggy mountains and distant ruins behind them, rocky ground, volumetric mist, dramatic contrast lighting, muted gray-brown palette, high detail, sharp cinematic focus, no cartoon, no extra limbs, no deformed anatomy, no text, no watermark.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779780726653_ycv0xd_HJJl5VLWQAAaUkF.jpg" width="600" alt="Comic / Storyboard - Epic Fantasy Barbarian and Ancient Beast - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779780726596_8ym741_HJJl5j7XoAAAom3.jpg" width="600" alt="Comic / Storyboard - Epic Fantasy Barbarian and Ancient Beast - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Ai Bella](https://x.com/zahra4sure)
-- **Source:** [Twitter Post](https://x.com/zahra4sure/status/2058820037700681807)
-- **Published:** May 25, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=22462)**
-
----
-
-### No. 73: Comic / Storyboard - Anime Warrior Character Design Sheet
+### No. 72: Comic / Storyboard - Anime Warrior Character Design Sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3990,7 +3950,7 @@ A stylized anime-inspired cinematic character sheet set in a {argument name="env
 
 ---
 
-### No. 74: Comic / Storyboard - Anime Boy and Piplup Adventure Sheet
+### No. 73: Comic / Storyboard - Anime Boy and Piplup Adventure Sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4026,7 +3986,7 @@ A heartwarming, slice-of-life anime-style illustration sheet depicting the daily
 
 ---
 
-### No. 75: Comic / Storyboard - Anime Portrait with Chibi Characters
+### No. 74: Comic / Storyboard - Anime Portrait with Chibi Characters
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4060,7 +4020,7 @@ Ultra realistic cinematic anime-style nighttime portrait in a rainy dark courtya
 
 ---
 
-### No. 76: Comic / Storyboard - Whimsical Glass Couple in Winter Snowfall
+### No. 75: Comic / Storyboard - Whimsical Glass Couple in Winter Snowfall
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4147,7 +4107,7 @@ A highly artistic prompt for a European street scene at night featuring characte
 
 ---
 
-### No. 77: Comic / Storyboard - Cyberpunk Horror Mashup
+### No. 76: Comic / Storyboard - Cyberpunk Horror Mashup
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4181,7 +4141,7 @@ A composite prompt blending cyberpunk tower aesthetics with classic survival hor
 
 ---
 
-### No. 78: Comic / Storyboard - Horse Racing Winner Illustration
+### No. 77: Comic / Storyboard - Horse Racing Winner Illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4215,7 +4175,7 @@ Visualizing a horse race finish line with a specific horse and number winning th
 
 ---
 
-### No. 79: Comic / Storyboard - Yoshiwara Hall Fire Scene
+### No. 78: Comic / Storyboard - Yoshiwara Hall Fire Scene
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4249,7 +4209,7 @@ A scene of {argument name="location" default="Yoshiwara Hall"} on fire with {arg
 
 ---
 
-### No. 80: Comic / Storyboard - Vogue Fashion Illustration Sketch
+### No. 79: Comic / Storyboard - Vogue Fashion Illustration Sketch
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4283,7 +4243,7 @@ Turn this photo into a {argument name="style" default="Vogue-style fashion illus
 
 ---
 
-### No. 81: Comic / Storyboard - Manga Inspired Horse Racing
+### No. 80: Comic / Storyboard - Manga Inspired Horse Racing
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4317,7 +4277,7 @@ Generates horse racing imagery inspired by the manga Kaze no Sylphid in the cont
 
 ---
 
-### No. 82: Comic / Storyboard - Snowy Japanese Village Winter Illustration
+### No. 81: Comic / Storyboard - Snowy Japanese Village Winter Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4369,7 +4329,7 @@ A medium shot of a serene {argument name="subject" default="Caucasian woman with
 
 ---
 
-### No. 83: Comic / Storyboard - Martian Astronaut and Alien Exchange
+### No. 82: Comic / Storyboard - Martian Astronaut and Alien Exchange
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4409,7 +4369,7 @@ A girl in a fully closed modern white spacesuit with a tinted visor stands on th
 
 ---
 
-### No. 84: Comic / Storyboard - Cosmic Space Opera Dark Emperor
+### No. 83: Comic / Storyboard - Cosmic Space Opera Dark Emperor
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4442,7 +4402,7 @@ Cinematic space opera realism, masterpiece quality. Camera Position: high overhe
 
 ---
 
-### No. 85: Comic / Storyboard - Aero & Chic Minimalist Character Sketch
+### No. 84: Comic / Storyboard - Aero & Chic Minimalist Character Sketch
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4482,7 +4442,7 @@ A minimalist character portrait sketch sheet in a clean, "{argument name="style"
 
 ---
 
-### No. 86: Comic / Storyboard - Fluorescent Comic Book Monster Encounter
+### No. 85: Comic / Storyboard - Fluorescent Comic Book Monster Encounter
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4516,7 +4476,7 @@ A {argument name="character" default="young girl"} with {argument name="hair col
 
 ---
 
-### No. 87: Comic / Storyboard - Historical Makeup Napoleon Manga
+### No. 86: Comic / Storyboard - Historical Makeup Napoleon Manga
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4556,7 +4516,7 @@ By {argument name="author" default="Napoleon"}
 
 ---
 
-### No. 88: Comic / Storyboard - Boho-Chic Positive Vibes Sticker Sheet
+### No. 87: Comic / Storyboard - Boho-Chic Positive Vibes Sticker Sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4587,6 +4547,44 @@ A vibrant sticker sheet illustration featuring a beautiful, smiling {argument na
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=22004)**
+
+---
+
+### No. 88: Comic / Storyboard - Component Differences Four-Panel Manga
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A prompt for a four-panel manga about the confusing terminology of industrial components like naphtha and ink.
+
+#### 📝 Prompt
+
+```
+4-panel manga
+ 
+{argument name="title" default="Difference in Components"}
+
+Naphtha, ink, inki, inkin-tamushi
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779520924776_yd6wsb_HI4uPrwawAIDqM-.jpg" width="600" alt="Comic / Storyboard - Component Differences Four-Panel Manga - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [クラリネットクラリオンNOBU](https://x.com/NOBU79834619)
+- **Source:** [Twitter Post](https://x.com/NOBU79834619/status/2057632935193538600)
+- **Published:** May 22, 2026
+- **Languages:** ja
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=22034)**
 
 ---
 
@@ -5967,7 +5965,7 @@ A detailed technical prompt for generating a hyper-realistic smartphone mirror s
 
 <div align="center">
 
-### 🎯 13706 more prompts not shown here
+### 🎯 13705 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6030,6 +6028,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-26T09:02:58.244Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-26T12:51:44.089Z</sub>
 
 </div>

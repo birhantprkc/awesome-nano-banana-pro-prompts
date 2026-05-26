@@ -143,9 +143,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **13826** |
+| 📝 Total de prompts | **13825** |
 | ⭐ Destaque | **9** |
-| 🔄 Última atualização | **terça-feira, 26 de maio de 2026 às 09:04:16 UTC** |
+| 🔄 Última atualização | **terça-feira, 26 de maio de 2026 às 12:52:27 UTC** |
 
 </div>
 
@@ -3916,47 +3916,7 @@ Uma ilustração aconchegante em estilo anime com aquarela de uma família explo
 
 ---
 
-### No. 72: Quadrinhos / Storyboard - Fantasia Épica: Bárbara e Besta Ancestral
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrição
-
-Uma imagem cinematográfica de fantasia altamente detalhada, apresentando uma bárbara caminhando ao lado de uma criatura massiva com chifres em uma paisagem cinematográfica enevoada.
-
-#### 📝 Prompt
-
-```
-Imagem cinematográfica de fantasia épica ultrarrealista, composição vertical 9:16, plano de corpo inteiro em ângulo baixo de uma {argument name="warrior" default="bárbara/caçadora tribal"} solitária com lança e tiras de couro em camadas, capa de pele nos ombros, botas e braçadeiras envolventes, cabelo trançado ao vento, textura de pele áspera e cicatrizes sutis, caminhando ao lado de uma {argument name="beast" default="enorme besta ancestral com chifres (semelhante a um bisão)"} com pele de pedra desgastada no rosto, juba espessa, olhos âmbar brilhantes, testa com runas esculpidas, montanhas cinematográficas enevoadas e ruínas distantes ao fundo, solo rochoso, névoa volumétrica, iluminação de contraste dramática, paleta de tons cinza-acastanhados, alto detalhe, foco cinematográfico nítido, sem desenho animado, sem membros extras, sem anatomia deformada, sem texto, sem marca d'água.
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779780726653_ycv0xd_HJJl5VLWQAAaUkF.jpg" width="600" alt="Quadrinhos / Storyboard - Fantasia Épica: Bárbara e Besta Ancestral - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779780726596_8ym741_HJJl5j7XoAAAom3.jpg" width="600" alt="Quadrinhos / Storyboard - Fantasia Épica: Bárbara e Besta Ancestral - Image 2">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [Ai Bella](https://x.com/zahra4sure)
-- **Fonte:** [Twitter Post](https://x.com/zahra4sure/status/2058820037700681807)
-- **Publicado:** 25 de maio de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?id=22462)**
-
----
-
-### No. 73: Quadrinhos / Storyboard - Folha de Design de Personagem de Guerreiro de Anime
+### No. 72: Quadrinhos / Storyboard - Folha de Design de Personagem de Guerreiro de Anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3990,7 +3950,7 @@ Uma folha de personagem cinematográfica estilizada inspirada em anime, ambienta
 
 ---
 
-### No. 74: Quadrinhos / Storyboard - Folha de Vínculo entre Treinador de Anime e Pokémon
+### No. 73: Quadrinhos / Storyboard - Folha de Vínculo entre Treinador de Anime e Pokémon
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4026,7 +3986,7 @@ Uma folha de ilustração estilo anime slice-of-life emocionante, retratando as 
 
 ---
 
-### No. 75: Quadrinhos / Storyboard - Retrato em Estilo Anime com Personagens Chibi
+### No. 74: Quadrinhos / Storyboard - Retrato em Estilo Anime com Personagens Chibi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4060,7 +4020,7 @@ Retrato noturno cinematográfico ultrarrealista em estilo anime em um pátio esc
 
 ---
 
-### No. 76: Quadrinhos / Storyboard - Casal de vidro caprichoso em queda de neve de inverno
+### No. 75: Quadrinhos / Storyboard - Casal de vidro caprichoso em queda de neve de inverno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4147,7 +4107,7 @@ Um prompt altamente artístico para uma cena de rua europeia à noite, apresenta
 
 ---
 
-### No. 77: Quadrinhos / Storyboard - Mashup de Terror Cyberpunk
+### No. 76: Quadrinhos / Storyboard - Mashup de Terror Cyberpunk
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4181,7 +4141,7 @@ Um prompt composto que mescla a estética de torres cyberpunk com elementos clá
 
 ---
 
-### No. 78: Quadrinhos / Storyboard - Ilustração de Vencedor de Corrida de Cavalos
+### No. 77: Quadrinhos / Storyboard - Ilustração de Vencedor de Corrida de Cavalos
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4215,7 +4175,7 @@ Visualização da linha de chegada de uma corrida de cavalos com um cavalo e nú
 
 ---
 
-### No. 79: Quadrinhos / Storyboard - Cena do Incêndio no Yoshiwara Hall
+### No. 78: Quadrinhos / Storyboard - Cena do Incêndio no Yoshiwara Hall
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4249,7 +4209,7 @@ Uma cena do {argument name="location" default="Yoshiwara Hall"} em chamas com {a
 
 ---
 
-### No. 80: Quadrinhos / Storyboard - Esboço de Ilustração de Moda Vogue
+### No. 79: Quadrinhos / Storyboard - Esboço de Ilustração de Moda Vogue
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4283,7 +4243,7 @@ Transforme esta foto em uma {argument name="style" default="ilustração de moda
 
 ---
 
-### No. 81: Quadrinhos / Storyboard - Corrida de cavalos inspirada em mangá
+### No. 80: Quadrinhos / Storyboard - Corrida de cavalos inspirada em mangá
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4317,7 +4277,7 @@ Gera imagens de corrida de cavalos inspiradas no mangá Kaze no Sylphid no conte
 
 ---
 
-### No. 82: Quadrinhos / Storyboard - Ilustração de Inverno de uma Vila Japonesa Nevada
+### No. 81: Quadrinhos / Storyboard - Ilustração de Inverno de uma Vila Japonesa Nevada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4369,7 +4329,7 @@ Um plano médio de uma serena {argument name="subject" default="mulher caucasian
 
 ---
 
-### No. 83: Quadrinhos / Storyboard - Intercâmbio entre Astronauta Marciano e Alienígena
+### No. 82: Quadrinhos / Storyboard - Intercâmbio entre Astronauta Marciano e Alienígena
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4409,7 +4369,7 @@ Uma garota em um traje espacial branco moderno totalmente fechado com viseira fu
 
 ---
 
-### No. 84: Quadrinhos / Storyboard - Cosmic Space Opera: Imperador das Trevas
+### No. 83: Quadrinhos / Storyboard - Cosmic Space Opera: Imperador das Trevas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4442,7 +4402,7 @@ Realismo de space opera cinematográfica, qualidade de obra-prima. Posição da 
 
 ---
 
-### No. 85: Quadrinhos / Storyboard - Esboço de Personagem Minimalista Aero & Chic
+### No. 84: Quadrinhos / Storyboard - Esboço de Personagem Minimalista Aero & Chic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4482,7 +4442,7 @@ Uma folha de esboço de retrato de personagem minimalista em um estilo limpo "{a
 
 ---
 
-### No. 86: Quadrinhos / Storyboard - Arte de Monstro em Estilo História em Quadrinhos Fluorescente
+### No. 85: Quadrinhos / Storyboard - Arte de Monstro em Estilo História em Quadrinhos Fluorescente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4516,7 +4476,7 @@ Uma jovem de cabelo azul e expressão angustiada está diante de um gigante, {ar
 
 ---
 
-### No. 87: Quadrinhos / Storyboard - Mangá histórico sobre a maquiagem de Napoleão
+### No. 86: Quadrinhos / Storyboard - Mangá histórico sobre a maquiagem de Napoleão
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4556,7 +4516,7 @@ Por {argument name="author" default="Napoleão"}
 
 ---
 
-### No. 88: Quadrinhos / Storyboard - Cartela de Adesivos Boho-Chic com Mensagens Positivas
+### No. 87: Quadrinhos / Storyboard - Cartela de Adesivos Boho-Chic com Mensagens Positivas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4587,6 +4547,44 @@ Uma ilustração vibrante de uma cartela de adesivos apresentando uma linda e so
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?id=22004)**
+
+---
+
+### No. 88: Quadrinhos / Storyboard - Mangá de quatro quadros sobre diferenças de componentes
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Um prompt para um mangá de quatro quadros sobre a terminologia confusa de componentes industriais, como nafta e tinta.
+
+#### 📝 Prompt
+
+```
+Mangá de 4 quadros
+ 
+{argument name="title" default="Diferença nos Componentes"}
+
+Nafta, tinta, inki, inkin-tamushi
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779520924776_yd6wsb_HI4uPrwawAIDqM-.jpg" width="600" alt="Quadrinhos / Storyboard - Mangá de quatro quadros sobre diferenças de componentes - Image 1">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [クラリネットクラリオンNOBU](https://x.com/NOBU79834619)
+- **Fonte:** [Twitter Post](https://x.com/NOBU79834619/status/2057632935193538600)
+- **Publicado:** 22 de maio de 2026
+- **Idiomas:** ja
+
+**[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?id=22034)**
 
 ---
 
@@ -5967,7 +5965,7 @@ Um prompt técnico detalhado para gerar uma selfie no espelho via smartphone, hi
 
 <div align="center">
 
-### 🎯 13706 mais prompts não mostrados aqui
+### 🎯 13705 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6030,6 +6028,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-05-26T09:04:16.971Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-05-26T12:52:27.590Z</sub>
 
 </div>

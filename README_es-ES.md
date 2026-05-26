@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **13826** |
+| 📝 Total de prompts | **13825** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **martes, 26 de mayo de 2026, 9:03:45 UTC** |
+| 🔄 Última actualización | **martes, 26 de mayo de 2026, 12:52:10 UTC** |
 
 </div>
 
@@ -3916,47 +3916,7 @@ Una acogedora ilustración de anime estilo acuarela de una familia explorando un
 
 ---
 
-### No. 72: Cómic / Guion gráfico - Fantasía épica: bárbara y bestia ancestral
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un fotograma de película de fantasía de alto detalle que muestra a una guerrera bárbara caminando junto a una criatura masiva con cuernos en un paisaje cinematográfico con niebla.
-
-#### 📝 Prompt
-
-```
-Fotograma de película de fantasía épica ultrarrealista, composición vertical 9:16, plano de cuerpo completo en ángulo contrapicado de una {argument name="warrior" default="guerrera bárbara/cazadora tribal"} solitaria con lanza, correas de cuero superpuestas, capa de piel sobre los hombros, botas y brazaletes envueltos, cabello trenzado al viento, textura de piel rugosa con cicatrices sutiles, caminando junto a una {argument name="beast" default="enorme bestia ancestral con cuernos (tipo bisonte)"} con piel de piedra desgastada en el rostro, melena espesa, ojos de color ámbar brillante, frente con runas talladas, montañas cinematográficas con niebla y ruinas distantes al fondo, suelo rocoso, niebla volumétrica, iluminación de contraste dramática, paleta de colores gris-marrón apagados, alto detalle, enfoque cinematográfico nítido, sin dibujos animados, sin extremidades adicionales, sin anatomía deformada, sin texto, sin marca de agua.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779780726653_ycv0xd_HJJl5VLWQAAaUkF.jpg" width="600" alt="Cómic / Guion gráfico - Fantasía épica: bárbara y bestia ancestral - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779780726596_8ym741_HJJl5j7XoAAAom3.jpg" width="600" alt="Cómic / Guion gráfico - Fantasía épica: bárbara y bestia ancestral - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Ai Bella](https://x.com/zahra4sure)
-- **Fuente:** [Twitter Post](https://x.com/zahra4sure/status/2058820037700681807)
-- **Publicado:** 25 de mayo de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=22462)**
-
----
-
-### No. 73: Cómic / Guion gráfico - Hoja de diseño de personaje de guerrero anime
+### No. 72: Cómic / Guion gráfico - Hoja de diseño de personaje de guerrero anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3990,7 +3950,7 @@ Una hoja de personaje cinematográfica estilizada inspirada en el anime, ambient
 
 ---
 
-### No. 74: Cómic / Guion gráfico - Hoja de entrenamiento y vínculo entre entrenador Pokémon y su compañero
+### No. 73: Cómic / Guion gráfico - Hoja de entrenamiento y vínculo entre entrenador Pokémon y su compañero
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4026,7 +3986,7 @@ Una conmovedora hoja de ilustración estilo anime de la vida cotidiana que repre
 
 ---
 
-### No. 75: Cómic / Guion gráfico - Retrato de anime con personajes chibi
+### No. 74: Cómic / Guion gráfico - Retrato de anime con personajes chibi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4060,7 +4020,7 @@ Retrato nocturno de estilo anime cinematográfico ultrarrealista en un patio osc
 
 ---
 
-### No. 76: Cómic / Guion gráfico - Pareja de cristal caprichosa bajo la nieve invernal
+### No. 75: Cómic / Guion gráfico - Pareja de cristal caprichosa bajo la nieve invernal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4147,7 +4107,7 @@ Un prompt altamente artístico para una escena callejera europea de noche, con p
 
 ---
 
-### No. 77: Cómic / Guion gráfico - Fusión de terror cyberpunk
+### No. 76: Cómic / Guion gráfico - Fusión de terror cyberpunk
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4181,7 +4141,7 @@ Un prompt compuesto que combina la estética de torres cyberpunk con elementos c
 
 ---
 
-### No. 78: Cómic / Guion gráfico - Ilustración del ganador de carreras de caballos
+### No. 77: Cómic / Guion gráfico - Ilustración del ganador de carreras de caballos
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4215,7 +4175,7 @@ Visualización de la línea de meta de una carrera de caballos con un caballo y 
 
 ---
 
-### No. 79: Cómic / Guion gráfico - Escena del incendio en el Yoshiwara Hall
+### No. 78: Cómic / Guion gráfico - Escena del incendio en el Yoshiwara Hall
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4249,7 +4209,7 @@ Una escena de {argument name="location" default="Yoshiwara Hall"} en llamas con 
 
 ---
 
-### No. 80: Cómic / Guion gráfico - Boceto de ilustración de moda estilo Vogue
+### No. 79: Cómic / Guion gráfico - Boceto de ilustración de moda estilo Vogue
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4283,7 +4243,7 @@ Convierte esta foto en una {argument name="style" default="ilustración de moda 
 
 ---
 
-### No. 81: Cómic / Guion gráfico - Carreras de caballos al estilo manga
+### No. 80: Cómic / Guion gráfico - Carreras de caballos al estilo manga
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4317,7 +4277,7 @@ Genera imágenes de carreras de caballos inspiradas en el manga Kaze no Sylphid 
 
 ---
 
-### No. 82: Cómic / Guion gráfico - Ilustración invernal de un pueblo japonés nevado
+### No. 81: Cómic / Guion gráfico - Ilustración invernal de un pueblo japonés nevado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4369,7 +4329,7 @@ Un plano medio de una serena {argument name="subject" default="mujer caucásica 
 
 ---
 
-### No. 83: Cómic / Guion gráfico - Intercambio entre astronauta marciano y alienígena
+### No. 82: Cómic / Guion gráfico - Intercambio entre astronauta marciano y alienígena
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4409,7 +4369,7 @@ Una chica con un traje espacial moderno de color blanco completamente cerrado y 
 
 ---
 
-### No. 84: Cómic / Guion gráfico - Ópera espacial cósmica: El Emperador Oscuro
+### No. 83: Cómic / Guion gráfico - Ópera espacial cósmica: El Emperador Oscuro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4442,7 +4402,7 @@ Realismo de ópera espacial cinematográfica, calidad de obra maestra. Posición
 
 ---
 
-### No. 85: Cómic / Guion gráfico - Boceto de personaje minimalista Aero & Chic
+### No. 84: Cómic / Guion gráfico - Boceto de personaje minimalista Aero & Chic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4482,7 +4442,7 @@ Una hoja de boceto de retrato de personaje minimalista en un estilo limpio "{arg
 
 ---
 
-### No. 86: Cómic / Guion gráfico - Arte de monstruo de cómic fluorescente
+### No. 85: Cómic / Guion gráfico - Arte de monstruo de cómic fluorescente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4516,7 +4476,7 @@ Una niña con cabello azul y expresión de angustia se encuentra frente a un gig
 
 ---
 
-### No. 87: Cómic / Guion gráfico - Manga histórico sobre el maquillaje de Napoleón
+### No. 86: Cómic / Guion gráfico - Manga histórico sobre el maquillaje de Napoleón
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4556,7 +4516,7 @@ Por {argument name="author" default="Napoleón"}
 
 ---
 
-### No. 88: Cómic / Guion gráfico - Hoja de pegatinas Boho-Chic de vibras positivas
+### No. 87: Cómic / Guion gráfico - Hoja de pegatinas Boho-Chic de vibras positivas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4587,6 +4547,44 @@ Una vibrante ilustración de una hoja de pegatinas que presenta a una hermosa y 
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=22004)**
+
+---
+
+### No. 88: Cómic / Guion gráfico - Manga de cuatro paneles sobre diferencias en componentes
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt para un manga de cuatro paneles sobre la confusa terminología de componentes industriales como la nafta y la tinta.
+
+#### 📝 Prompt
+
+```
+Manga de 4 paneles
+ 
+{argument name="title" default="Diferencia en componentes"}
+
+Nafta, tinta, inki, inkin-tamushi
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779520924776_yd6wsb_HI4uPrwawAIDqM-.jpg" width="600" alt="Cómic / Guion gráfico - Manga de cuatro paneles sobre diferencias en componentes - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [クラリネットクラリオンNOBU](https://x.com/NOBU79834619)
+- **Fuente:** [Twitter Post](https://x.com/NOBU79834619/status/2057632935193538600)
+- **Publicado:** 22 de mayo de 2026
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=22034)**
 
 ---
 
@@ -5967,7 +5965,7 @@ Un prompt técnico detallado para generar una selfie en espejo con smartphone hi
 
 <div align="center">
 
-### 🎯 13706 prompts más no mostrados aquí
+### 🎯 13705 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6030,6 +6028,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-26T09:03:45.683Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-26T12:52:10.961Z</sub>
 
 </div>

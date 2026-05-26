@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **13826** |
+| 📝 คำสั่งทั้งหมด | **13825** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันอังคารที่ 26 พฤษภาคม พ.ศ. 2569 เวลา 9 นาฬิกา 03 นาที 28 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันอังคารที่ 26 พฤษภาคม พ.ศ. 2569 เวลา 12 นาฬิกา 52 นาที 01 วินาที UTC** |
 
 </div>
 
@@ -3920,47 +3920,7 @@ Milan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Si
 
 ---
 
-### No. 72: คอมิก / สตอรี่บอร์ด - นักรบเถื่อนในตำนานแฟนตาซีสุดอลังการและสัตว์ร้ายโบราณ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ภาพยนตร์แฟนตาซีรายละเอียดสูง เผยให้เห็นนักรบหญิงเผ่าเถื่อนกำลังเดินเคียงข้างสัตว์ร้ายมีเขาขนาดมหึมาท่ามกลางทิวทัศน์ที่มีหมอกปกคลุมอย่างมีชั้นเชิง
-
-#### 📝 คำสั่ง
-
-```
-ภาพนิ่งจากภาพยนตร์แฟนตาซีมหากาพย์ที่สมจริงเป็นพิเศษ องค์ประกอบภาพแนวตั้ง 9:16 มุมกล้องต่ำถ่ายเต็มตัวของ {argument name="warrior" default="นักรบหญิงเผ่าเถื่อน/นักล่าชนเผ่า"} หนึ่งเดียวที่ถือหอก สวมชุดหนังแบบเลเยอร์ ผ้าคลุมไหล่ขนสัตว์ รองเท้าบูทและปลอกแขนพันผ้า ผมเปียที่ปลิวไสวตามลม ผิวพรรณดูสมบุกสมบันและมีรอยแผลเป็นจางๆ กำลังเดินเคียงข้างกับ {argument name="beast" default="สัตว์ร้ายโบราณมีเขาขนาดมหึมา (คล้ายกระทิง)"} ที่มีผิวหน้าเหมือนหินที่ผ่านกาลเวลา แผงคอหนา ดวงตาสีอำพันเปล่งประกาย หน้าผากสลักอักขระรูน ฉากหลังเป็นภูเขาที่มีหมอกปกคลุมและซากปรักหักพังที่อยู่ไกลออกไป พื้นหิน หมอกหนา แสงเงาที่ตัดกันอย่างดราม่า โทนสีเทาน้ำตาลหม่น รายละเอียดสูง โฟกัสแบบภาพยนตร์ที่คมชัด ไม่ใช่การ์ตูน ไม่มีแขนขาเกิน ไม่มีกายวิภาคที่ผิดรูป ไม่มีข้อความ ไม่มีลายน้ำ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779780726653_ycv0xd_HJJl5VLWQAAaUkF.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - นักรบเถื่อนในตำนานแฟนตาซีสุดอลังการและสัตว์ร้ายโบราณ - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779780726596_8ym741_HJJl5j7XoAAAom3.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - นักรบเถื่อนในตำนานแฟนตาซีสุดอลังการและสัตว์ร้ายโบราณ - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Ai Bella](https://x.com/zahra4sure)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/zahra4sure/status/2058820037700681807)
-- **เผยแพร่เมื่อ:** 25 พฤษภาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=22462)**
-
----
-
-### No. 73: คอมิก / สตอรี่บอร์ด - แผ่นออกแบบตัวละครนักรบสไตล์อนิเมะ
+### No. 72: คอมิก / สตอรี่บอร์ด - แผ่นออกแบบตัวละครนักรบสไตล์อนิเมะ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3994,7 +3954,7 @@ Milan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Si
 
 ---
 
-### No. 74: คอมิก / สตอรี่บอร์ด - แผ่นภาพเทรนเนอร์อนิเมะและสายสัมพันธ์กับโปเกมอน
+### No. 73: คอมิก / สตอรี่บอร์ด - แผ่นภาพเทรนเนอร์อนิเมะและสายสัมพันธ์กับโปเกมอน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4030,7 +3990,7 @@ Milan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Si
 
 ---
 
-### No. 75: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตสไตล์อนิเมะพร้อมตัวละครจิบิ
+### No. 74: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตสไตล์อนิเมะพร้อมตัวละครจิบิ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4064,7 +4024,7 @@ Milan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Si
 
 ---
 
-### No. 76: คอมิก / สตอรี่บอร์ด - คู่รักแก้วใสในบรรยากาศหิมะตกสุดแฟนตาซี
+### No. 75: คอมิก / สตอรี่บอร์ด - คู่รักแก้วใสในบรรยากาศหิมะตกสุดแฟนตาซี
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4151,7 +4111,7 @@ Milan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Si
 
 ---
 
-### No. 77: คอมิก / สตอรี่บอร์ด - Cyberpunk Horror Mashup
+### No. 76: คอมิก / สตอรี่บอร์ด - Cyberpunk Horror Mashup
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4185,7 +4145,7 @@ Milan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Si
 
 ---
 
-### No. 78: คอมิก / สตอรี่บอร์ด - ภาพประกอบผู้ชนะการแข่งม้า
+### No. 77: คอมิก / สตอรี่บอร์ด - ภาพประกอบผู้ชนะการแข่งม้า
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4219,7 +4179,7 @@ Milan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Si
 
 ---
 
-### No. 79: คอมิก / สตอรี่บอร์ด - เหตุการณ์ไฟไหม้ที่ Yoshiwara Hall
+### No. 78: คอมิก / สตอรี่บอร์ด - เหตุการณ์ไฟไหม้ที่ Yoshiwara Hall
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4253,7 +4213,7 @@ Milan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Si
 
 ---
 
-### No. 80: คอมิก / สตอรี่บอร์ด - ภาพสเก็ตช์แฟชั่นสไตล์ Vogue
+### No. 79: คอมิก / สตอรี่บอร์ด - ภาพสเก็ตช์แฟชั่นสไตล์ Vogue
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4287,7 +4247,7 @@ Milan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Si
 
 ---
 
-### No. 81: คอมิก / สตอรี่บอร์ด - การแข่งม้าในสไตล์มังงะ
+### No. 80: คอมิก / สตอรี่บอร์ด - การแข่งม้าในสไตล์มังงะ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4321,7 +4281,7 @@ Milan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Si
 
 ---
 
-### No. 82: คอมิก / สตอรี่บอร์ด - ภาพประกอบหมู่บ้านญี่ปุ่นท่ามกลางหิมะในฤดูหนาว
+### No. 81: คอมิก / สตอรี่บอร์ด - ภาพประกอบหมู่บ้านญี่ปุ่นท่ามกลางหิมะในฤดูหนาว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4373,7 +4333,7 @@ Milan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Si
 
 ---
 
-### No. 83: คอมิก / สตอรี่บอร์ด - การแลกเปลี่ยนระหว่างนักบินอวกาศชาวโลกและมนุษย์ต่างดาวบนดาวอังคาร
+### No. 82: คอมิก / สตอรี่บอร์ด - การแลกเปลี่ยนระหว่างนักบินอวกาศชาวโลกและมนุษย์ต่างดาวบนดาวอังคาร
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4413,7 +4373,7 @@ Milan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Si
 
 ---
 
-### No. 84: คอมิก / สตอรี่บอร์ด - จักรพรรดิมืดแห่งมหากาพย์อวกาศคอสมิก
+### No. 83: คอมิก / สตอรี่บอร์ด - จักรพรรดิมืดแห่งมหากาพย์อวกาศคอสมิก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4446,7 +4406,7 @@ Milan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Si
 
 ---
 
-### No. 85: คอมิก / สตอรี่บอร์ด - ภาพสเกตช์ตัวละครสไตล์มินิมอล Aero & Chic
+### No. 84: คอมิก / สตอรี่บอร์ด - ภาพสเกตช์ตัวละครสไตล์มินิมอล Aero & Chic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4486,7 +4446,7 @@ Milan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Si
 
 ---
 
-### No. 86: คอมิก / สตอรี่บอร์ด - ศิลปะสัตว์ประหลาดในหนังสือการ์ตูนสีสะท้อนแสง
+### No. 85: คอมิก / สตอรี่บอร์ด - ศิลปะสัตว์ประหลาดในหนังสือการ์ตูนสีสะท้อนแสง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4520,7 +4480,7 @@ Milan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Si
 
 ---
 
-### No. 87: คอมิก / สตอรี่บอร์ด - มังงะประวัติศาสตร์ฉบับแต่งแต้มโดยนโปเลียน
+### No. 86: คอมิก / สตอรี่บอร์ด - มังงะประวัติศาสตร์ฉบับแต่งแต้มโดยนโปเลียน
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4560,7 +4520,7 @@ Milan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Si
 
 ---
 
-### No. 88: คอมิก / สตอรี่บอร์ด - แผ่นสติกเกอร์สไตล์โบโฮชิคเสริมพลังบวก
+### No. 87: คอมิก / สตอรี่บอร์ด - แผ่นสติกเกอร์สไตล์โบโฮชิคเสริมพลังบวก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4591,6 +4551,44 @@ Milan, Venice, Turin, Bologna, Florence, Rome, Naples, Bari, Lecce, Calabria, Si
 - **ภาษา:** en
 
 **[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=22004)**
+
+---
+
+### No. 88: คอมิก / สตอรี่บอร์ด - การ์ตูน 4 ช่องเรื่องความแตกต่างของส่วนประกอบ
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์สำหรับสร้างการ์ตูน 4 ช่องเกี่ยวกับความสับสนในคำศัพท์เฉพาะทางของส่วนประกอบทางอุตสาหกรรม เช่น แนฟทา และหมึก
+
+#### 📝 คำสั่ง
+
+```
+การ์ตูน 4 ช่อง
+ 
+{argument name="title" default="ความแตกต่างของส่วนประกอบ"}
+
+แนฟทา (Naphtha), หมึก (Ink), Inki, Inkin-tamushi
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779520924776_yd6wsb_HI4uPrwawAIDqM-.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - การ์ตูน 4 ช่องเรื่องความแตกต่างของส่วนประกอบ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [クラリネットクラリオンNOBU](https://x.com/NOBU79834619)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/NOBU79834619/status/2057632935193538600)
+- **เผยแพร่เมื่อ:** 22 พฤษภาคม 2569
+- **ภาษา:** ja
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=22034)**
 
 ---
 
@@ -5971,7 +5969,7 @@ Ana de armas, Sadie sink, Sydney sweeny {"type": "image_prompt", "version": "1.0
 
 <div align="center">
 
-### 🎯 13706 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 13705 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6034,6 +6032,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-05-26T09:03:28.325Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-05-26T12:52:01.227Z</sub>
 
 </div>

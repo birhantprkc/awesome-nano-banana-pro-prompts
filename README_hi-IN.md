@@ -143,9 +143,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **13826** |
+| 📝 कुल प्रॉम्पट्स | **13825** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **मंगलवार, 26 मई 2026 को 9:03:39 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **मंगलवार, 26 मई 2026 को 12:52:08 pm UTC बजे** |
 
 </div>
 
@@ -3916,47 +3916,7 @@ Nano Banana Pro में वायुमंडलीय गहराई की 
 
 ---
 
-### No. 72: कॉमिक / स्टोरीबोर्ड - महाकाव्य फंतासी बर्बेरियन और प्राचीन जानवर
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-एक उच्च-विवरण वाली फंतासी फिल्म का दृश्य, जिसमें एक महिला बर्बेरियन को धुंध से भरे सिनेमाई परिदृश्य में एक विशाल सींग वाले जीव के साथ चलते हुए दिखाया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-अल्ट्रा-यथार्थवादी महाकाव्य फंतासी फिल्म का दृश्य, 9:16 वर्टिकल कंपोजिशन, भाले और लेयर्ड लेदर स्ट्रैप्स, फर शोल्डर केप, रैप्ड बूट्स और ब्रेसर्स के साथ एक अकेली {argument name="warrior" default="महिला बर्बेरियन/ट्राइबल हंट्रेस"} का लो-एंगल फुल-बॉडी शॉट, हवा में बिखरे हुए लट वाले बाल, खुरदरी त्वचा और हल्के निशान, एक {argument name="beast" default="विशाल प्राचीन सींग वाले जानवर (बाइसन जैसा)"} के साथ चल रही है, जिसके चेहरे पर मौसम की मार झेल चुकी पत्थर जैसी त्वचा, घनी अयाल, चमकती एम्बर आंखें, माथे पर नक्काशीदार रून्स हैं, पीछे सिनेमाई धुंधले पहाड़ और दूर के खंडहर, पथरीली जमीन, वॉल्यूमेट्रिक धुंध, नाटकीय कंट्रास्ट लाइटिंग, म्यूट ग्रे-ब्राउन पैलेट, उच्च विवरण, शार्प सिनेमाई फोकस, कोई कार्टून नहीं, कोई अतिरिक्त अंग नहीं, कोई विकृत शारीरिक रचना नहीं, कोई टेक्स्ट नहीं, कोई वॉटरमार्क नहीं।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779780726653_ycv0xd_HJJl5VLWQAAaUkF.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - महाकाव्य फंतासी बर्बेरियन और प्राचीन जानवर - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779780726596_8ym741_HJJl5j7XoAAAom3.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - महाकाव्य फंतासी बर्बेरियन और प्राचीन जानवर - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Ai Bella](https://x.com/zahra4sure)
-- **स्रोत:** [Twitter Post](https://x.com/zahra4sure/status/2058820037700681807)
-- **प्रकाशित:** 25 मई 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=22462)**
-
----
-
-### No. 73: कॉमिक / स्टोरीबोर्ड - एनीमे वॉरियर कैरेक्टर डिज़ाइन शीट
+### No. 72: कॉमिक / स्टोरीबोर्ड - एनीमे वॉरियर कैरेक्टर डिज़ाइन शीट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3990,7 +3950,7 @@ Nano Banana Pro में वायुमंडलीय गहराई की 
 
 ---
 
-### No. 74: कॉमिक / स्टोरीबोर्ड - एनीमे ट्रेनर और पोकेमॉन बॉन्डिंग शीट
+### No. 73: कॉमिक / स्टोरीबोर्ड - एनीमे ट्रेनर और पोकेमॉन बॉन्डिंग शीट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4026,7 +3986,7 @@ Nano Banana Pro में वायुमंडलीय गहराई की 
 
 ---
 
-### No. 75: कॉमिक / स्टोरीबोर्ड - चिबी पात्रों के साथ एनीमे पोर्ट्रेट
+### No. 74: कॉमिक / स्टोरीबोर्ड - चिबी पात्रों के साथ एनीमे पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4060,7 +4020,7 @@ Nano Banana Pro में वायुमंडलीय गहराई की 
 
 ---
 
-### No. 76: कॉमिक / स्टोरीबोर्ड - सर्दियों की बर्फबारी में सनकी कांच का जोड़ा
+### No. 75: कॉमिक / स्टोरीबोर्ड - सर्दियों की बर्फबारी में सनकी कांच का जोड़ा
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4147,7 +4107,7 @@ Nano Banana Pro में वायुमंडलीय गहराई की 
 
 ---
 
-### No. 77: कॉमिक / स्टोरीबोर्ड - साइबरपंक हॉरर मैशअप
+### No. 76: कॉमिक / स्टोरीबोर्ड - साइबरपंक हॉरर मैशअप
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4181,7 +4141,7 @@ Nano Banana Pro में वायुमंडलीय गहराई की 
 
 ---
 
-### No. 78: कॉमिक / स्टोरीबोर्ड - घुड़दौड़ विजेता का चित्रण
+### No. 77: कॉमिक / स्टोरीबोर्ड - घुड़दौड़ विजेता का चित्रण
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4215,7 +4175,7 @@ Nano Banana Pro में वायुमंडलीय गहराई की 
 
 ---
 
-### No. 79: कॉमिक / स्टोरीबोर्ड - योशिवारा हॉल में आग का दृश्य
+### No. 78: कॉमिक / स्टोरीबोर्ड - योशिवारा हॉल में आग का दृश्य
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4249,7 +4209,7 @@ Nano Banana Pro में वायुमंडलीय गहराई की 
 
 ---
 
-### No. 80: कॉमिक / स्टोरीबोर्ड - Vogue फैशन इलस्ट्रेशन स्केच
+### No. 79: कॉमिक / स्टोरीबोर्ड - Vogue फैशन इलस्ट्रेशन स्केच
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4283,7 +4243,7 @@ Nano Banana Pro में वायुमंडलीय गहराई की 
 
 ---
 
-### No. 81: कॉमिक / स्टोरीबोर्ड - मंगा से प्रेरित घुड़दौड़
+### No. 80: कॉमिक / स्टोरीबोर्ड - मंगा से प्रेरित घुड़दौड़
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4317,7 +4277,7 @@ Nano Banana Pro में वायुमंडलीय गहराई की 
 
 ---
 
-### No. 82: कॉमिक / स्टोरीबोर्ड - बर्फ से ढके जापानी गाँव का शीतकालीन चित्रण
+### No. 81: कॉमिक / स्टोरीबोर्ड - बर्फ से ढके जापानी गाँव का शीतकालीन चित्रण
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4369,7 +4329,7 @@ Nano Banana Pro में वायुमंडलीय गहराई की 
 
 ---
 
-### No. 83: कॉमिक / स्टोरीबोर्ड - मंगल ग्रह पर अंतरिक्ष यात्री और एलियन का आदान-प्रदान
+### No. 82: कॉमिक / स्टोरीबोर्ड - मंगल ग्रह पर अंतरिक्ष यात्री और एलियन का आदान-प्रदान
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4409,7 +4369,7 @@ Nano Banana Pro में वायुमंडलीय गहराई की 
 
 ---
 
-### No. 84: कॉमिक / स्टोरीबोर्ड - कॉस्मिक स्पेस ओपेरा डार्क एम्परर
+### No. 83: कॉमिक / स्टोरीबोर्ड - कॉस्मिक स्पेस ओपेरा डार्क एम्परर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4442,7 +4402,7 @@ Nano Banana Pro में वायुमंडलीय गहराई की 
 
 ---
 
-### No. 85: कॉमिक / स्टोरीबोर्ड - Aero & Chic मिनिमलिस्ट कैरेक्टर स्केच
+### No. 84: कॉमिक / स्टोरीबोर्ड - Aero & Chic मिनिमलिस्ट कैरेक्टर स्केच
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4482,7 +4442,7 @@ Nano Banana Pro में वायुमंडलीय गहराई की 
 
 ---
 
-### No. 86: कॉमिक / स्टोरीबोर्ड - फ्लोरोसेंट कॉमिक बुक मॉन्स्टर आर्ट
+### No. 85: कॉमिक / स्टोरीबोर्ड - फ्लोरोसेंट कॉमिक बुक मॉन्स्टर आर्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4516,7 +4476,7 @@ Nano Banana Pro में वायुमंडलीय गहराई की 
 
 ---
 
-### No. 87: कॉमिक / स्टोरीबोर्ड - ऐतिहासिक मेकअप नेपोलियन मंगा
+### No. 86: कॉमिक / स्टोरीबोर्ड - ऐतिहासिक मेकअप नेपोलियन मंगा
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4556,7 +4516,7 @@ Nano Banana Pro में वायुमंडलीय गहराई की 
 
 ---
 
-### No. 88: कॉमिक / स्टोरीबोर्ड - बोहो-चिक पॉजिटिव वाइब्स स्टिकर शीट
+### No. 87: कॉमिक / स्टोरीबोर्ड - बोहो-चिक पॉजिटिव वाइब्स स्टिकर शीट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4587,6 +4547,44 @@ Nano Banana Pro में वायुमंडलीय गहराई की 
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=22004)**
+
+---
+
+### No. 88: कॉमिक / स्टोरीबोर्ड - घटकों के अंतर पर चार-पैनल मंगा
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+नैफ्था और इंक जैसे औद्योगिक घटकों की भ्रमित करने वाली शब्दावली के बारे में चार-पैनल मंगा के लिए एक प्रॉम्प्ट।
+
+#### 📝 प्रॉम्पट
+
+```
+4-पैनल मंगा
+ 
+{argument name="title" default="घटकों में अंतर"}
+
+नैफ्था, इंक, इनकी, इनकिन-तामुशी
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779520924776_yd6wsb_HI4uPrwawAIDqM-.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - घटकों के अंतर पर चार-पैनल मंगा - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [クラリネットクラリオンNOBU](https://x.com/NOBU79834619)
+- **स्रोत:** [Twitter Post](https://x.com/NOBU79834619/status/2057632935193538600)
+- **प्रकाशित:** 22 मई 2026
+- **भाषाएं:** ja
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=22034)**
 
 ---
 
@@ -5967,7 +5965,7 @@ Ana de armas, Sadie sink, Sydney sweeny {"type": "image_prompt", "version": "1.0
 
 <div align="center">
 
-### 🎯 13706 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 13705 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6030,6 +6028,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-26T09:03:39.741Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-26T12:52:08.014Z</sub>
 
 </div>
