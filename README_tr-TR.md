@@ -145,7 +145,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **14400** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **14 Haziran 2026 Pazar 09:02:58 UTC** |
+| 🔄 Son Güncelleme | **14 Haziran 2026 Pazar 12:33:57 UTC** |
 
 </div>
 
@@ -654,19 +654,19 @@ En boy oranı 3:4 dikey posterdir. Sahneyi tanımlayan dikey Japon kaligrafisi v
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
-### No. 1: Profil / Avatar - Black and White Male Studio Portrait
+### No. 1: Profil / Avatar - Siyah Beyaz Erkek Stüdyo Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A professional monochromatic studio portrait of a man with sharp features, featuring soft directional lighting.
+Keskin hatlara sahip bir erkeğin, yumuşak yönlü aydınlatma ile çekilmiş profesyonel monokrom stüdyo portresi.
 
 #### 📝 İstem
 
 ```
-A professional {argument name="style" default="black and white studio portrait"} of a handsome man with sharp, masculine features, short dark curly hair, and light stubble. He is wearing a {argument name="outfit" default="simple black t-shirt and dark pants with a white patterned belt"}, seated and leaning forward over a wooden stool. The composition captures an intense, direct gaze toward the camera with a subtle, confident expression. In one variation, he poses thoughtfully with his index finger lightly touching his chin, while in an alternative stance, his hand shifts slightly higher, resting gently near his collarbone. The lighting is soft and directional, casting subtle shadows that emphasize his athletic build, strong jawline, and the defined texture of his arms, all set against a {argument name="background" default="clean, neutral gray studio backdrop"}.
+Keskin ve maskülen hatlara, kısa koyu kıvırcık saçlara ve hafif kirli sakala sahip yakışıklı bir erkeğin profesyonel {argument name="style" default="siyah beyaz stüdyo portresi"}. Üzerinde {argument name="outfit" default="basit siyah bir tişört, koyu renk pantolon ve beyaz desenli bir kemer"} ile ahşap bir tabureye oturmuş ve öne doğru eğilmiş bir şekilde görülüyor. Kompozisyon, kameraya doğru yoğun ve doğrudan bir bakışı, hafif ve kendinden emin bir ifadeyle yakalıyor. Bir varyasyonda, işaret parmağı hafifçe çenesine değecek şekilde düşünceli bir poz verirken, diğer bir duruşta eli biraz daha yukarı kayarak köprücük kemiğinin yakınında nazikçe duruyor. Aydınlatma yumuşak ve yönlü olup, atletik yapısını, güçlü çene hattını ve kollarındaki belirgin dokuyu vurgulayan ince gölgeler oluşturuyor; tüm bunlar {argument name="background" default="temiz, nötr gri bir stüdyo arka planı"} önünde sergileniyor.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -674,13 +674,13 @@ A professional {argument name="style" default="black and white studio portrait"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424056887_7bl8tc_HKtXJT7WkAEwZ8j.jpg" width="600" alt="Profil / Avatar - Black and White Male Studio Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424056887_7bl8tc_HKtXJT7WkAEwZ8j.jpg" width="600" alt="Profil / Avatar - Siyah Beyaz Erkek Stüdyo Portresi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424056876_t6qf0h_HKtXJVTXoAAlwIL.jpg" width="600" alt="Profil / Avatar - Black and White Male Studio Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424056876_t6qf0h_HKtXJVTXoAAlwIL.jpg" width="600" alt="Profil / Avatar - Siyah Beyaz Erkek Stüdyo Portresi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -694,19 +694,19 @@ A professional {argument name="style" default="black and white studio portrait"}
 
 ---
 
-### No. 2: Profil / Avatar - Elegant White Pantsuit Studio Portrait
+### No. 2: Profil / Avatar - Zarif Beyaz Pantolon Ceket Takım Stüdyo Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A sophisticated prompt for a full-length studio portrait of a woman in a white pantsuit against a minimalist background.
+Minimalist bir arka plan önünde, beyaz pantolon ceket takımlı bir kadının boydan stüdyo portresi için sofistike bir istem.
 
 #### 📝 İstem
 
 ```
-A full-length studio portrait of a confident, smiling woman with {argument name="hair style" default="long, wavy brown hair"}, posing against a {argument name="background" default="clean, minimalist white background"}. She is elegantly dressed in a {argument name="outfit" default="tailored white pantsuit"}, consisting of a structured blazer, a crisp button-down shirt, and wide-leg trousers. Her look is accessorized with a delicate necklace, small earrings, and a ring. In one variation, she stands gracefully while wearing a classic black wide-brimmed fedora hat, holding a second matching black hat down by her side, completed with black pointed shoes. In another variation, she is seated comfortably on a modern, armless white leather chair, legs elegantly crossed, wearing sleek black high-heeled pumps. The lighting is soft and even, highlighting her sophisticated fashion, bright expression, and professional yet stylish demeanor.
+{argument name="hair style" default="uzun, dalgalı kahverengi saçlı"}, {argument name="background" default="temiz, minimalist beyaz arka plan"} önünde poz veren, kendinden emin ve gülümseyen bir kadının boydan stüdyo portresi. Üzerinde, yapılı bir blazer ceket, düzgün bir gömlek ve geniş paçalı pantolondan oluşan {argument name="outfit" default="özel dikim beyaz bir pantolon ceket takım"} ile zarif bir şekilde giyinmiştir. Görünümü, zarif bir kolye, küçük küpeler ve bir yüzük ile tamamlanmıştır. Bir varyasyonda, klasik siyah geniş kenarlı bir fötr şapka takarak zarif bir şekilde ayakta durmakta ve yanında ikinci bir uyumlu siyah şapka tutmaktadır; görünümü siyah sivri burunlu ayakkabılarla tamamlanmıştır. Başka bir varyasyonda ise modern, kolsuz beyaz deri bir sandalyede bacak bacak üstüne atmış bir şekilde rahatça oturmakta ve şık siyah topuklu ayakkabılar giymektedir. Aydınlatma yumuşak ve dengelidir; sofistike tarzını, parlak ifadesini ve profesyonel ama şık duruşunu ön plana çıkarmaktadır.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -714,25 +714,25 @@ A full-length studio portrait of a confident, smiling woman with {argument name=
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424052903_0jq773_HKs53PfWgAEW2VW.jpg" width="600" alt="Profil / Avatar - Elegant White Pantsuit Studio Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424052903_0jq773_HKs53PfWgAEW2VW.jpg" width="600" alt="Profil / Avatar - Zarif Beyaz Pantolon Ceket Takım Stüdyo Portresi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424052955_xhwufo_HKs53TJXQAA4Gyn.jpg" width="600" alt="Profil / Avatar - Elegant White Pantsuit Studio Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424052955_xhwufo_HKs53TJXQAA4Gyn.jpg" width="600" alt="Profil / Avatar - Zarif Beyaz Pantolon Ceket Takım Stüdyo Portresi - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424052922_ecxgm6_HKs53QfXQAAxpKU.jpg" width="600" alt="Profil / Avatar - Elegant White Pantsuit Studio Portrait - Image 3">
+<img src="https://cms-assets.youmind.com/media/1781424052922_ecxgm6_HKs53QfXQAAxpKU.jpg" width="600" alt="Profil / Avatar - Zarif Beyaz Pantolon Ceket Takım Stüdyo Portresi - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424053733_k45av3_HKs53QrWwAA3jyY.jpg" width="600" alt="Profil / Avatar - Elegant White Pantsuit Studio Portrait - Image 4">
+<img src="https://cms-assets.youmind.com/media/1781424053733_k45av3_HKs53QrWwAA3jyY.jpg" width="600" alt="Profil / Avatar - Zarif Beyaz Pantolon Ceket Takım Stüdyo Portresi - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -746,35 +746,35 @@ A full-length studio portrait of a confident, smiling woman with {argument name=
 
 ---
 
-### No. 3: Profil / Avatar - Luxury Executive Studio Portrait
+### No. 3: Profil / Avatar - Lüks Yönetici Stüdyo Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A sophisticated executive portrait prompt focusing on professional attire, high-end makeup details, and clinical photographic sharpness.
+Profesyonel giyim, üst düzey makyaj detayları ve klinik fotoğraf keskinliğine odaklanan sofistike bir yönetici portresi istemi.
 
 #### 📝 İstem
 
 ```
-Create image: use the attached image as the main facial reference with high precision while preserving exact facial structure, recognizable identity, facial proportions, skin tone, and natural asymmetry.
+Görsel oluştur: Ekli görseli ana yüz referansı olarak kullan, yüz yapısını, tanınabilir kimliği, yüz oranlarını, cilt tonunu ve doğal asimetriyi tam olarak koruyarak yüksek hassasiyetle işle.
 
-A dramatic luxury executive studio portrait. The subject wears a {argument name="attire" default="perfectly tailored black blazer/amerikana"} with structured shoulders, sharp lapels, and a {argument name="shirt" default="crisp white inner shirt"}. The overall appearance feels powerful, expensive, sophisticated, and editorial while maintaining the clean structure of a professional passport-style portrait.
+Dramatik bir lüks yönetici stüdyo portresi. Model, yapılı omuzlara ve keskin yakalara sahip {argument name="attire" default="kusursuz dikim siyah blazer ceket"} ve {argument name="shirt" default="kırışık olmayan beyaz bir gömlek"} giymektedir. Genel görünüm, profesyonel pasaport tarzı bir portrenin temiz yapısını korurken güçlü, pahalı, sofistike ve editoryal bir his uyandırır.
 
-Pose: {argument name="pose" default="front-facing studio pose"}, shoulders softly squared toward the camera, chin slightly lowered, eyes looking directly into the lens, calm but commanding expression, relaxed lips, strong presence, elegant confidence, and natural authority.
+Poz: {argument name="pose" default="önden çekim stüdyo pozu"}, omuzlar hafifçe kameraya dönük, çene hafifçe aşağıda, gözler doğrudan lense bakıyor, sakin ama otoriter bir ifade, rahat dudaklar, güçlü bir duruş, zarif bir özgüven ve doğal bir otorite.
 
-Makeup: full glam modern luxury beauty makeup. Korean glass-skin complexion with visible pores and glossy healthy shine. Bronze-champagne eyeshadow blended with soft taupe depth, luminous champagne shimmer on the center lids and inner corners, lifted eyeliner, dramatic wispy lashes, softly defined lower lashes, feathered brows, sculpted contour, bright under-eye, warm bronzed blush, and glossy rose-beige lips with rich reflective shine. Makeup feels expensive, feminine, dramatic, and editorial without becoming overly dark or gothic.
+Makyaj: Tam kapsamlı modern lüks güzellik makyajı. Görünür gözeneklere ve sağlıklı, parlak bir ışıltıya sahip Kore tarzı cam cilt (glass-skin) görünümü. Yumuşak boz kahve derinliğiyle harmanlanmış bronz-şampanya tonlarında far, göz kapaklarının ortasında ve iç köşelerde parlak şampanya ışıltısı, yukarı doğru çekilmiş eyeliner, dramatik ve seyrek kirpikler, hafifçe belirginleştirilmiş alt kirpikler, doğal taranmış kaşlar, yüz hatlarını ortaya çıkaran kontür, aydınlık göz altları, sıcak bronz allık ve zengin yansımalı, parlak gül-bej dudaklar. Makyaj; aşırı koyu veya gotik bir havaya bürünmeden pahalı, feminen, dramatik ve editoryal görünmelidir.
 
-Skin rendering: ultra-luminous Korean glass skin with realistic pore visibility. Individual pores remain visible across cheeks, nose, forehead, and around the mouth. Fine peach fuzz, realistic under-eye texture, tiny skin variations, and authentic epidermal detail remain visible. Skin appears hydrated, plump, reflective, dimensional, and alive. Strong glossy highlights on the cheekbones, nose bridge, forehead, eyelids, collarbone, and lips. No beauty-filter smoothing. No pore reduction. No airbrushed finish.
+Cilt işleme: Gerçekçi gözenek görünürlüğüne sahip ultra aydınlık Kore tarzı cam cilt. Yanaklar, burun, alın ve ağız çevresindeki bireysel gözenekler görünür kalmalıdır. İnce ayva tüyleri, gerçekçi göz altı dokusu, küçük cilt varyasyonları ve otantik epidermal detaylar seçilebilir olmalıdır. Cilt nemli, dolgun, yansımalı, boyutlu ve canlı görünmelidir. Elmacık kemikleri, burun köprüsü, alın, göz kapakları, köprücük kemiği ve dudaklarda güçlü parlak vurgular. Güzellik filtresiyle pürüzsüzleştirme yok. Gözenek azaltma yok. Airbrush bitiş yok.
 
-Hairstyle: modern luxury salon blowout. Long dark hair with soft face-framing layers concentrated around the front sections only. Smooth polished finish, healthy shine, subtle crown volume, luxurious movement, and expensive editorial styling. The back remains long and sleek. Elegant, modern, and fashionable.
+Saç modeli: Modern lüks salon fönü. Yalnızca ön kısımlarda yoğunlaşan, yüzü çerçeveleyen yumuşak katlara sahip uzun koyu renkli saçlar. Pürüzsüz ve parlak bir bitiş, sağlıklı bir ışıltı, hafif tepe hacmi, lüks bir hareketlilik ve pahalı bir editoryal stil. Arka kısım uzun ve düz kalmalıdır. Zarif, modern ve şık.
 
-Lighting: dramatic luxury beauty lighting. A strong soft key light from front-left creates luminous glossy highlights across the face while preserving visible skin texture and pores. The opposite side of the face remains slightly darker for dimension. Subtle rim lighting around the hair and shoulders creates separation from the white background. The lighting emphasizes cheekbones, jawline, eyes, lips, and glossy skin.
+Aydınlatma: Dramatik lüks güzellik aydınlatması. Önden soldan gelen güçlü ve yumuşak bir ana ışık, cilt dokusunu ve gözenekleri korurken yüz üzerinde parlak vurgular oluşturur. Yüzün karşı tarafı boyut kazanması için hafifçe daha karanlık kalmalıdır. Saç ve omuzlar etrafındaki ince kenar ışığı, beyaz arka plandan ayrışmayı sağlar. Aydınlatma elmacık kemiklerini, çene hattını, gözleri, dudakları ve parlak cildi vurgular.
 
-Background: pure white luxury studio backdrop with subtle tonal depth. Clean, bright, timeless, and premium. The contrast between the white background and black blazer creates a striking executive beauty portrait aesthetic.
+Arka plan: Hafif ton derinliğine sahip saf beyaz lüks stüdyo arka planı. Temiz, parlak, zamansız ve premium. Beyaz arka plan ile siyah blazer ceket arasındaki kontrast, çarpıcı bir yönetici güzellik portresi estetiği yaratır.
 
-Camera rendering: ultra-high-resolution professional beauty portrait captured with medium-format camera realism. Clinical sharpness on eyes, lashes, brows, lips,
+Kamera işleme: Orta format kamera gerçekçiliği ile çekilmiş ultra yüksek çözünürlüklü profesyonel güzellik portresi. Gözlerde, kirpiklerde, kaşlarda ve dudaklarda klinik keskinlik.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -782,19 +782,19 @@ Camera rendering: ultra-high-resolution professional beauty portrait captured wi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424060290_2jgevq_HKs5qJObkAAgDl1.jpg" width="600" alt="Profil / Avatar - Luxury Executive Studio Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424060290_2jgevq_HKs5qJObkAAgDl1.jpg" width="600" alt="Profil / Avatar - Lüks Yönetici Stüdyo Portresi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424060256_wcqcep_HKs5qGgaoAAb5AG.jpg" width="600" alt="Profil / Avatar - Luxury Executive Studio Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424060256_wcqcep_HKs5qGgaoAAb5AG.jpg" width="600" alt="Profil / Avatar - Lüks Yönetici Stüdyo Portresi - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424060297_shafwt_HKs5qGSbMAAX6s6.jpg" width="600" alt="Profil / Avatar - Luxury Executive Studio Portrait - Image 3">
+<img src="https://cms-assets.youmind.com/media/1781424060297_shafwt_HKs5qGSbMAAX6s6.jpg" width="600" alt="Profil / Avatar - Lüks Yönetici Stüdyo Portresi - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -808,23 +808,23 @@ Camera rendering: ultra-high-resolution professional beauty portrait captured wi
 
 ---
 
-### No. 4: Profil / Avatar - Executive Studio Portrait
+### No. 4: Profil / Avatar - Yönetici Stüdyo Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-An ultra-realistic image-to-image studio portrait prompt designed to match a reference face exactly in a premium editorial style.
+Bir referans yüzle tam olarak eşleşecek şekilde tasarlanmış, premium editoryal tarzda, ultra gerçekçi bir görselden görsele stüdyo portresi istemi.
 
 #### 📝 İstem
 
 ```
-Ultra-realistic studio portrait of a man matching the reference face exactly, seated on a {argument name="seating" default="low modern matte-black cube block"} instead of a wooden stool. He leans slightly forward with elbows resting loosely on thighs, hands softly clasped, gaze slightly off-camera for a thoughtful executive vibe.
-Same outfit: charcoal textured blazer, taupe premium tee, {argument name="trousers" default="espresso tailored trousers"}, off-white minimalist sneakers.
-Studio lighting setup: {argument name="lighting" default="soft overhead diffused key light with subtle side fill"}, creating sculpted cheekbones and controlled shadow under jawline. Faint edge light for subject separation. Background: smooth gradient from deep slate grey to charcoal.
-Focus razor sharp on eyes, shallow depth of field, realistic fabric folds at elbows and knees, natural skin pores visible, no over-retouching, premium magazine editorial style, ultra high resolution.
-Negative prompt: glossy skin, artificial HDR, harsh facial shadows, busy background.
+Referans yüzle tam olarak eşleşen, ahşap bir tabure yerine {argument name="seating" default="alçak, modern, mat siyah küp blok"} üzerinde oturan bir erkeğin ultra gerçekçi stüdyo portresi. Düşünceli bir yönetici havası için dirseklerini hafifçe uyluklarına dayamış, ellerini yumuşak bir şekilde kenetlemiş ve bakışlarını kameradan hafifçe yana çevirmiş şekilde öne doğru eğiliyor.
+Aynı kıyafet: antrasit dokulu blazer ceket, boz kahverengi premium tişört, {argument name="trousers" default="espresso rengi özel dikim pantolon"}, kırık beyaz minimalist spor ayakkabılar.
+Stüdyo ışıklandırma kurulumu: {argument name="lighting" default="hafif yan dolgu ışığı ile yumuşak tepe difüzörlü ana ışık"}, elmacık kemiklerini belirginleştiriyor ve çene hattında kontrollü gölgeler oluşturuyor. Konuyu arka plandan ayırmak için hafif kenar ışığı. Arka plan: koyu arduvaz grisinden antrasite yumuşak bir geçiş.
+Gözlerde keskin odak, sığ alan derinliği, dirsek ve dizlerde gerçekçi kumaş kıvrımları, görünür doğal cilt gözenekleri, aşırı rötuş yok, premium dergi editoryal tarzı, ultra yüksek çözünürlük.
+Negatif istem: parlak cilt, yapay HDR, sert yüz gölgeleri, karmaşık arka plan.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -832,7 +832,7 @@ Negative prompt: glossy skin, artificial HDR, harsh facial shadows, busy backgro
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424057329_52fha7_HKsCz1ba8AA8dbf.jpg" width="600" alt="Profil / Avatar - Executive Studio Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424057329_52fha7_HKsCz1ba8AA8dbf.jpg" width="600" alt="Profil / Avatar - Yönetici Stüdyo Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -880,20 +880,20 @@ Kızıl saçlı ve canlı bir kamelya çiçeği takmış bir kadının, çarpıc
 
 ---
 
-### No. 6: Profil / Avatar - Cozy Indoor Portrait with Plaid Pinafore
+### No. 6: Profil / Avatar - Ekose Önlük Elbiseli Sıcak İç Mekan Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A professional portrait prompt for a young woman in a cozy indoor setting, highlighting detailed textures and warm lighting.
+Sıcak bir iç mekan ortamında, detaylı dokuları ve yumuşak ışıklandırmayı vurgulayan genç bir kadın için profesyonel portre istemi.
 
 #### 📝 İstem
 
 ```
-Ultra-realistic portrait of a {argument name="subject" default="young woman"} with a warm, friendly smile, looking directly at the camera. She has long, straight dark hair with a smooth natural shine, light green eyes, and soft, clear skin with natural makeup. She is wearing round, thin metal-framed glasses and a {argument name="outfit" default="black fitted top layered under a brown plaid pinafore dress"}. She is holding a smartphone with both hands at chest level.
-The setting is a {argument name="environment" default="cozy indoor environment with a softly blurred bookshelf in the background"}, creating a warm and calm atmosphere. Lighting is soft and natural, coming from the front, highlighting facial features with gentle shadows. Cinematic depth of field, sharp focus on the subject, highly detailed skin texture, professional photography, 85mm lens, f/1.8, ultra HD, realistic color grading.
+Doğrudan kameraya bakan, sıcak ve samimi bir gülümsemeye sahip {argument name="subject" default="genç bir kadın"}ın ultra gerçekçi portresi. Doğal bir parlaklığa sahip uzun, düz koyu renkli saçları, açık yeşil gözleri ve doğal makyajlı, pürüzsüz ve temiz bir cildi var. Yuvarlak, ince metal çerçeveli gözlükler ve {argument name="outfit" default="kahverengi ekose bir önlük elbise altına giyilmiş siyah dar bir üst"} giyiyor. Akıllı telefonunu iki eliyle göğüs hizasında tutuyor.
+Ortam, {argument name="environment" default="arka planda hafifçe bulanıklaştırılmış bir kitaplığın olduğu sıcak bir iç mekan"} olup sıcak ve sakin bir atmosfer yaratıyor. Işıklandırma yumuşak ve doğal; önden gelerek yüz hatlarını hafif gölgelerle vurguluyor. Sinematik alan derinliği, özne üzerinde keskin odak, yüksek detaylı cilt dokusu, profesyonel fotoğrafçılık, 85mm lens, f/1.8, ultra HD, gerçekçi renk derecelendirmesi.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -901,7 +901,7 @@ The setting is a {argument name="environment" default="cozy indoor environment w
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424057789_ee96e5_HKrBJ1-WcAEc1u4.jpg" width="600" alt="Profil / Avatar - Cozy Indoor Portrait with Plaid Pinafore - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424057789_ee96e5_HKrBJ1-WcAEc1u4.jpg" width="600" alt="Profil / Avatar - Ekose Önlük Elbiseli Sıcak İç Mekan Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -915,23 +915,23 @@ The setting is a {argument name="environment" default="cozy indoor environment w
 
 ---
 
-### No. 7: Profil / Avatar - Golden Hour Smartphone Selfie with Headscarf
+### No. 7: Profil / Avatar - Golden Hour'da Başörtülü Akıllı Telefon Selfiesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-An ultra-realistic prompt for a smartphone selfie of a young woman in a headscarf during golden hour, emphasizing natural skin texture.
+Golden hour sırasında başörtülü genç bir kadının akıllı telefonla çektiği, doğal cilt dokusunu vurgulayan ultra gerçekçi bir selfie istemi.
 
 #### 📝 İstem
 
 ```
-A joyful young woman in her late teens or twenties with a soft rounded oval face, {argument name="skin tone" default="warm light-medium skin tone"}, natural skin texture, subtle redness, and visible imperfections, wearing a simple {argument name="headscarf color" default="black"} headscarf wrapped closely around her face. She is taking an extreme close-up smartphone selfie, her face filling nearly the entire frame. One hand is raised above her forehead to shield her eyes from bright sunlight. She wears a genuine closed-mouth smile, with expressive eyes partially closed from the sun, creating a warm, authentic, and approachable presence.
+Yumuşak yuvarlak hatlı bir yüze sahip, yirmili yaşlarının başında veya sonlarında, neşeli genç bir kadın; {argument name="skin tone" default="sıcak açık-orta ten rengi"}, doğal cilt dokusu, hafif kızarıklıklar ve belirgin cilt kusurları ile yüzüne sıkıca sarılmış sade bir {argument name="headscarf color" default="siyah"} başörtüsü takıyor. Yüzü neredeyse tüm kareyi kaplayacak şekilde, çok yakın mesafeden bir akıllı telefon selfiesi çekiyor. Bir eli, parlak güneş ışığından gözlerini korumak için alnının üzerinde. Yüzünde içten, kapalı bir gülümseme var; güneşten kısılmış etkileyici gözleri, sıcak, otantik ve samimi bir hava yaratıyor.
 
-Captured outdoors on a rooftop or terrace during golden hour, with a clear blue sky, subtle roofline structures, and distant urban silhouettes softly visible in the background. Direct golden-hour sunlight illuminates her face from the front-side angle, creating glowing sun-kissed skin, warm amber highlights, and soft shadows cast by her hand and headscarf.
+Dışarıda, bir çatı katında veya terasta, golden hour sırasında çekilmiş; arka planda açık mavi bir gökyüzü, hafif çatı hatları ve uzaktaki şehir silüetleri belli belirsiz görünüyor. Doğrudan gelen golden hour güneş ışığı, yüzünü ön-yan açıdan aydınlatarak güneşten öpülmüş bir cilt, sıcak kehribar parıltılar ve eli ile başörtüsünün oluşturduğu yumuşak gölgeler yaratıyor.
 
-Shot with a front-facing smartphone camera using a wide-angle selfie perspective, deep depth of field, entire face in focus, moderate sharpness, realistic selfie distortion, intimate personal framing, very little negative space. Natural golden-hour color grading with warm tones, golden peach highlights, warm beige skin tones, sky-blue accents, soft coral undertones, and deep black fabric. High realism, minimal retouching, almost no skin smoothing, preserved skin texture, natural clarity, genuine emotion, authentic social media lifestyle portrait, spontaneous candid moment, modern smartphone photography, warm, carefree, optimistic, playful atmosphere.
+Ön kamera ile geniş açılı selfie perspektifinden çekilmiş, derin alan derinliği, tüm yüz odak noktasında, orta düzeyde keskinlik, gerçekçi selfie distorsiyonu, samimi kişisel kadraj, çok az negatif alan. Sıcak tonlar, altın şeftali parıltılar, sıcak bej cilt tonları, gökyüzü mavisi vurgular, yumuşak mercan alt tonlar ve derin siyah kumaş ile doğal golden hour renk düzenlemesi. Yüksek gerçekçilik, minimal rötuş, neredeyse hiç cilt pürüzsüzleştirme yok, korunmuş cilt dokusu, doğal netlik, gerçek duygu, otantik sosyal medya yaşam tarzı portresi, spontane anlık çekim, modern akıllı telefon fotoğrafçılığı; sıcak, kaygısız, iyimser ve oyuncu bir atmosfer.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -939,19 +939,19 @@ Shot with a front-facing smartphone camera using a wide-angle selfie perspective
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424053501_uzct0x_HKqr0h5a0AAqzCy.jpg" width="600" alt="Profil / Avatar - Golden Hour Smartphone Selfie with Headscarf - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424053501_uzct0x_HKqr0h5a0AAqzCy.jpg" width="600" alt="Profil / Avatar - Golden Hour'da Başörtülü Akıllı Telefon Selfiesi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424053674_efoe1b_HKqr1IxbcAAz-A5.jpg" width="600" alt="Profil / Avatar - Golden Hour Smartphone Selfie with Headscarf - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424053674_efoe1b_HKqr1IxbcAAz-A5.jpg" width="600" alt="Profil / Avatar - Golden Hour'da Başörtülü Akıllı Telefon Selfiesi - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424053387_v908gr_HKqr1sAaAAAKtaD.jpg" width="600" alt="Profil / Avatar - Golden Hour Smartphone Selfie with Headscarf - Image 3">
+<img src="https://cms-assets.youmind.com/media/1781424053387_v908gr_HKqr1sAaAAAKtaD.jpg" width="600" alt="Profil / Avatar - Golden Hour'da Başörtülü Akıllı Telefon Selfiesi - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -965,31 +965,31 @@ Shot with a front-facing smartphone camera using a wide-angle selfie perspective
 
 ---
 
-### No. 8: Profil / Avatar - Cinematic Male Editorial Collage
+### No. 8: Profil / Avatar - Sinematik Erkek Editöryel Kolajı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A multi-panel editorial layout prompt for creating a cinematic male portrait collage with specific poses and stylistic typography.
+Belirli pozlar ve stilize tipografi ile sinematik bir erkek portre kolajı oluşturmak için çok panelli bir editöryel düzen istemi.
 
 #### 📝 İstem
 
 ```
-Use my uploaded face image as the primary identity reference. Preserve my exact facial features, face shape, hairstyle, hair texture, skin tone, eye shape, and overall likeness with high fidelity.
+Yüklediğim yüz görselini birincil kimlik referansı olarak kullan. Yüz hatlarımı, yüz şeklimi, saç stilimi, saç dokumu, cilt tonumu, göz şeklimi ve genel benzerliğimi yüksek sadakatle koru.
 
-Create a cinematic aesthetic male portrait collage inspired by the reference image. Make a {argument name="layout" default="5-panel editorial layout"} featuring only me in different stylish poses.
+Referans görselden ilham alan sinematik estetik bir erkek portre kolajı oluştur. Sadece benim farklı şık pozlarda yer aldığım bir {argument name="layout" default="5 panelli editöryel düzen"} hazırla.
 
-Top left: close-up side profile looking away, soft confident expression, wearing a clean white t-shirt and minimal chain.
-Top right: low-angle portrait looking upward, wearing a black open-collar shirt, relaxed confident vibe.
-Bottom center: seated pose on a chair, one hand near face, wearing a black button-up shirt, calm thoughtful expression.
-Side panels: dramatic black-and-white profile shots with fashion magazine style.
+Sol üst: başka yöne bakan yakın çekim yan profil, yumuşak ve kendinden emin bir ifade, temiz beyaz bir tişört ve minimal bir kolye.
+Sağ üst: yukarı bakan düşük açılı portre, siyah açık yakalı gömlek, rahat ve özgüvenli bir hava.
+Alt orta: sandalyede oturan poz, bir el yüze yakın, siyah düğmeli gömlek, sakin ve düşünceli bir ifade.
+Yan paneller: moda dergisi tarzında dramatik siyah-beyaz profil çekimleri.
 
-Keep my natural hairstyle but enhance it with {argument name="hair style" default="textured messy volume"}. Add cinematic street photography lighting, dark moody tones, high contrast, film grain, subtle scratches, luxury fashion editorial aesthetic.
+Doğal saç stilimi koru ancak onu {argument name="hair style" default="dokulu ve hacimli dağınık"} bir tarzla geliştir. Sinematik sokak fotoğrafçılığı ışıklandırması, karanlık ve karamsar tonlar, yüksek kontrast, film greni, hafif çizikler ve lüks moda editöryeli estetiği ekle.
 
-Add handwritten typography elements like {argument name="text" default="“Never look back”"} and “Collect moments, not things” in a stylish red and white brush script.
-Ultra-realistic photography, professional portrait shoot, 4K detail, Instagram aesthetic.
+{argument name="text" default="“Never look back”"} ve “Collect moments, not things” gibi el yazısı tipografi öğelerini şık kırmızı ve beyaz fırça stiliyle ekle.
+Ultra gerçekçi fotoğrafçılık, profesyonel portre çekimi, 4K detay, Instagram estetiği.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -997,7 +997,7 @@ Ultra-realistic photography, professional portrait shoot, 4K detail, Instagram a
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424062078_3uui2l_HKqTYpLaMAAPYPN.jpg" width="600" alt="Profil / Avatar - Cinematic Male Editorial Collage - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424062078_3uui2l_HKqTYpLaMAAPYPN.jpg" width="600" alt="Profil / Avatar - Sinematik Erkek Editöryel Kolajı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1482,61 +1482,62 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Sosyal Medya Gönderisi - Wind-Swept Golden Hour Portrait
+### No. 21: Sosyal Medya Gönderisi - Rüzgarda Savrulan Altın Saat Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A structured vintage film portrait prompt of a serene young woman with wind-swept hair in intense golden hour sunlight.
+Yoğun altın saat güneş ışığında, rüzgarda savrulan saçlara sahip huzurlu genç bir kadının yapılandırılmış vintage film portresi istemi.
 
 #### 📝 İstem
 
 ```
 {
   "subject_details": {
-    "gender": "Female",
-    "age": "Early to mid-20s",
-    "complexion": "Fair with a warm, sun-kissed golden glow",
+    "gender": "Kadın",
+    "age": "20'li yaşların başı veya ortası",
+    "complexion": "Sıcak, güneş öpücüğü almış altın rengi bir ışıltıya sahip açık ten",
     "facial_features": [
-      "Soft, natural brown eyes",
-      "Relaxed, unstyled natural eyebrows",
-      "Smooth, youthful skin texture",
-      "Plump, slightly parted natural pink lips"
+      "Yumuşak, doğal kahverengi gözler",
+      "Rahat, şekillendirilmemiş doğal kaşlar",
+      "Pürüzsüz, genç cilt dokusu",
+      "Dolgun, hafif aralık doğal pembe dudaklar"
     ],
-    "hair": "Short, dark brown messy bob, highly wind-swept with fine, dynamic loose strands blowing across her forehead, cheeks, and up into the sky",
-    "expression": "Serene, calm, and subtly confident, looking slightly down directly into the camera lens"
+    "hair": "Kısa, koyu kahverengi dağınık bob kesim, alnına, yanaklarına ve gökyüzüne doğru savrulan ince, dinamik ve dağınık saç telleriyle rüzgarda yoğun bir şekilde savruluyor",
+    "expression": "Huzurlu, sakin ve hafif özgüvenli, doğrudan kamera merceğine hafifçe aşağı doğru bakıyor"
   },
   "apparel_and_textures": {
-    "primary_garment": "Crisp white button-down shirt",
-    "details": "Collar popped slightly open, unbuttoned at the top to expose the neck and collarbones, lightweight breathable cotton texture",
-    "accessories": "Three delicate, layered thin gold chain necklaces (one featuring tiny metallic beads/links), small subtle stud earring in the left earlobe"
+    "primary_garment": "Canlı beyaz düğmeli gömlek",
+    "details": "Yaka kısmı hafifçe açık, boynu ve köprücük kemiklerini ortaya çıkarmak için üst düğmesi iliklenmemiş, hafif ve nefes alabilir pamuklu doku",
+    "accessories": "Üç adet zarif, katmanlı ince altın zincir kolye (biri minik metalik boncuklar/halkalar içeriyor), sol kulak memesinde küçük ve zarif bir küpe"
   },
   "makeup_and_styling": {
-    "style": "Fresh-faced, dewy natural summer aesthetic",
-    "details": "Glowing highlighted skin, soft peachy-pink blush across the cheeks and nose, clear lip balm, bare eyes with no heavy mascara or eyeliner"
+    "style": "Taze, nemli ve doğal yaz estetiği",
+    "details": "Işıltılı ve aydınlatılmış bir cilt, yanaklarda ve burunda yumuşak şeftali-pembe allık, şeffaf dudak parlatıcısı, ağır maskara veya eyeliner içermeyen yalın gözler"
   },
   "lighting_and_shadows": {
-    "lighting_style": "Intense, direct golden hour sunlight",
-    "light_source": "Low-angle strong sunlight illuminating the subject from the front-left (viewer's perspective)",
+    "lighting_style": "Yoğun, doğrudan altın saat güneş ışığı",
+    "light_source": "Ön-soldan (izleyicinin bakış açısına göre) özneyi aydınlatan düşük açılı güçlü güneş ışığı",
     "shadow_mapping": [
-      "Sharp, deep shadow cast by the jawline heavily obscuring the right side of the neck",
-      "Crisp shadow cast by the nose downwards toward the right cheek",
-      "Bright, glowing highlights catching the tip of the nose, cheeks, and chin"
+      "Çene hattının oluşturduğu, boynun sağ tarafını büyük ölçüde gizleyen keskin ve derin gölge",
+      "Burnun sağ yanağa doğru aşağıya düşen keskin gölgesi",
+      "Burun ucunu, yanakları ve çeneyi yakalayan parlak, ışıltılı vurgular"
     ]
   },
   "environment_and_colors": {
-    "background": "Clear, completely cloudless open sky",
-    "overall_palette": "High-contrast complementary colors: stark white shirt, warm radiant golden-orange skin tones, and a smooth gradient of bright cerulean blue in the background"
+    "background": "Berrak, tamamen bulutsuz açık gökyüzü",
+    "overall_palette": "Yüksek kontrastlı tamamlayıcı renkler: bembeyaz gömlek, sıcak ve ışıltılı altın-turuncu cilt tonları ve arka planda parlak gökyüzü mavisi pürüzsüz bir geçiş"
   },
   "cinematography_and_technical": {
-    "shot_composition": "Low-angle medium close-up portrait, framing from the mid-chest up",
-    "camera_equipment": "35mm analog film camera, vintage prime lens",
-    "focus": "Tack-sharp on the facial features, capturing the fine details of the flying hair against the sky",
-    "aesthetic": "Nostalgic summer editorial, classic 90s film photography, breezy cinematic slice-of-life",
+    "shot_composition": "Düşük açılı orta yakın çekim portre, göğüs hizasından yukarıyı kadraja alıyor",
+    "camera_equipment": "35mm analog film kamera, vintage prime lens",
+    "focus": "Yüz hatlarında tam netlik, gökyüzüne karşı uçuşan saçların ince detaylarını yakalıyor",
+    "aesthetic": "Nostaljik yaz editoryali, klasik 90'lar film fotoğrafçılığı, esintili sinematik yaşamdan bir kesit",
     "aspect_ratio": "4:5"
   },
-  "master_prompt": "Cinematic 35mm vintage film portrait of a serene young woman from a low angle, looking slightly down at the camera. Features: glowing sun-kissed skin, natural brown eyes, slightly parted pink lips. Hair: dark brown messy bob, heavily wind-swept with fine loose strands flying across her face against the sky. Wardrobe: crisp white open-collar button-down shirt, three delicate layered thin gold chain necklaces. Makeup: fresh dewy natural skin, soft peach blush, clear lip balm. Lighting: intense
+  "master_prompt": "Düşük açıdan çekilmiş, kameraya hafifçe aşağı doğru bakan huzurlu genç bir kadının sinematik 35mm vintage film portresi. Özellikler: ışıltılı güneş öpücüğü almış cilt, doğal kahverengi gözler, hafif aralık pembe dudaklar. Saç: koyu kahverengi dağınık bob kesim, gökyüzüne karşı yüzünde uçuşan ince dağınık tellerle rüzgarda yoğun bir şekilde savruluyor. Kıyafet: canlı beyaz açık yakalı düğmeli gömlek, üç adet zarif katmanlı ince altın zincir kolye. Makyaj: taze nemli doğal cilt, yumuşak şeftali allık, şeffaf dudak parlatıcısı. Işıklandırma: yoğun"
+}
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1544,7 +1545,7 @@ A structured vintage film portrait prompt of a serene young woman with wind-swep
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424065066_fu8pc6_HKvO8ZYbcAAJtpA.jpg" width="600" alt="Sosyal Medya Gönderisi - Wind-Swept Golden Hour Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424065066_fu8pc6_HKvO8ZYbcAAJtpA.jpg" width="600" alt="Sosyal Medya Gönderisi - Rüzgarda Savrulan Altın Saat Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1558,36 +1559,36 @@ A structured vintage film portrait prompt of a serene young woman with wind-swep
 
 ---
 
-### No. 22: Sosyal Medya Gönderisi - Photorealistic Nightlife Couple Selfie
+### No. 22: Sosyal Medya Gönderisi - Fotogerçekçi Gece Hayatı Çift Selfiesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A detailed prompt for generating realistic, Instagram-style selfies of couples at night events, focusing on authentic textures and moody club lighting.
+Gece etkinliklerinde çiftlerin gerçekçi, Instagram tarzı selfielerini oluşturmak için; otantik dokulara ve atmosferik kulüp ışıklandırmasına odaklanan detaylı bir komut.
 
 #### 📝 İstem
 
 ```
-Ultra-photorealistic romantic couple night-event selfie, real photograph, not illustration. Warm candid Instagram editorial aesthetic.
+Ultra fotogerçekçi romantik çift gece etkinliği selfiesi, gerçek fotoğraf, illüstrasyon değil. Sıcak, doğal ve Instagram editoryal estetiği.
 
-Create a single close-up lifestyle photo of a handsome young man and a beautiful young woman together at a stylish night event or upscale club. Preserve the identities from the reference images with realistic facial features, natural skin texture, believable expressions, and authentic couple chemistry. The image should feel like an intimate, fashionable memory from their relationship: stylish, playful, romantic, spontaneous, and real.
+Şık bir gece etkinliğinde veya lüks bir kulüpte, yakışıklı bir genç adam ve güzel bir genç kadının birlikte olduğu tek bir yakın plan yaşam tarzı fotoğrafı oluşturun. Referans görsellerdeki kimlikleri; gerçekçi yüz hatları, doğal cilt dokusu, inandırıcı ifadeler ve otantik çift kimyası ile koruyun. Görsel, ilişkilerinden samimi, modaya uygun bir anı gibi hissettirmeli: şık, eğlenceli, romantik, spontane ve gerçek.
 
-SCENE — PURPLE NIGHT EVENT SELFIE:
-The couple is captured under {argument name="lighting" default="purple-blue ambient club lighting"}. Both are wearing slim sunglasses. The man has slightly messy dark hair, light beard/stubble, layered necklaces, an open dark shirt, and a confident relaxed expression. The woman has long dark wavy hair, glossy lips, an elegant cool expression, and wears a {argument name="clothing" default="black sparkly or dotted evening top"}. Close-up selfie angle, moody nightlife atmosphere, realistic purple light reflecting softly on their skin, cinematic yet candid.
-STYLE:
-Realistic lifestyle photography, high-resolution, natural skin texture, no plastic smoothing, no waxy faces, no artificial doll-like look. Premium Instagram memory-dump aesthetic: intimate, cool, fashionable, polished but spontaneous.
+SAHNE — MOR GECE ETKİNLİĞİ SELFİESİ:
+Çift, {argument name="lighting" default="mor-mavi ortam kulüp ışıklandırması"} altında yakalanmıştır. İkisi de ince güneş gözlükleri takmaktadır. Adamın hafif dağınık koyu saçları, hafif sakalı, katmanlı kolyeleri, açık koyu renkli bir gömleği ve kendinden emin, rahat bir ifadesi vardır. Kadının uzun dalgalı koyu saçları, parlak dudakları, zarif ve havalı bir ifadesi vardır ve {argument name="clothing" default="siyah ışıltılı veya puantiyeli bir gece üstü"} giymektedir. Yakın plan selfie açısı, atmosferik gece hayatı havası, ciltlerine yumuşak bir şekilde yansıyan gerçekçi mor ışık, sinematik ama doğal.
+STİL:
+Gerçekçi yaşam tarzı fotoğrafçılığı, yüksek çözünürlük, doğal cilt dokusu, plastik pürüzsüzleştirme yok, mumsu yüzler yok, yapay oyuncak bebek görünümü yok. Premium Instagram anı dökümü estetiği: samimi, havalı, modaya uygun, cilalı ama spontane.
 
-CAMERA:
-Realistic smartphone selfie perspective or close lifestyle-camera framing. Natural angle, candid composition, sharp faces, realistic proportions, believable hands if visible, soft background blur, premium editorial nightlife mood.
-BACKGROUND:
-{argument name="location" default="Stylish indoor event or club interior"} with softly blurred people, modern decor, purple-blue ambient lights, upscale nightlife atmosphere, and subtle depth of field.
+KAMERA:
+Gerçekçi akıllı telefon selfie perspektifi veya yakın yaşam tarzı kamera kadrajı. Doğal açı, doğal kompozisyon, keskin yüzler, gerçekçi oranlar, görünürse inandırıcı eller, yumuşak arka plan bulanıklığı, premium editoryal gece hayatı havası.
+ARKA PLAN:
+{argument name="location" default="Şık bir iç mekan etkinliği veya kulüp içi"}, hafif bulanık insanlar, modern dekor, mor-mavi ortam ışıkları, lüks gece hayatı atmosferi ve hafif alan derinliği ile.
 
-MOOD:
-Cool, romantic, slightly mysterious, fashionable, intimate nightlife couple energy.
-NEGATIVE PROMPT:
-low quality, cartoon, illustration, 3D render, plastic skin, waxy face, generic AI face, identity drift, distorted hands, extra fingers, missing fingers, fused fingers, warped faces, uneven eyes, melted mouth, bad teeth, blurry face, overexposed highlights, messy background, text, watermark, logo, duplicate face, extra people, creepy expression, bad anatomy, unnatural pose, fake skin texture, harsh flash, oversaturated colors.
+RUH HALİ:
+Havalı, romantik, hafif gizemli, modaya uygun, samimi gece hayatı çift enerjisi.
+NEGATİF KOMUT:
+düşük kalite, çizgi film, illüstrasyon, 3D render, plastik cilt, mumsu yüz, genel yapay zeka yüzü, kimlik kayması, bozuk eller, fazladan parmaklar, eksik parmaklar, birleşik parmaklar, çarpık yüzler, dengesiz gözler, erimiş ağız, kötü dişler, bulanık yüz, aşırı pozlanmış parlak noktalar, dağınık arka plan, metin, filigran, logo, kopya yüz, fazladan insanlar, ürkütücü ifade, kötü anatomi, doğal olmayan poz, sahte cilt dokusu, sert flaş, aşırı doygun renkler.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1595,7 +1596,7 @@ low quality, cartoon, illustration, 3D render, plastic skin, waxy face, generic 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424050515_e6hvev_HKubJXJWcAA5YcZ.jpg" width="600" alt="Sosyal Medya Gönderisi - Photorealistic Nightlife Couple Selfie - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424050515_e6hvev_HKubJXJWcAA5YcZ.jpg" width="600" alt="Sosyal Medya Gönderisi - Fotogerçekçi Gece Hayatı Çift Selfiesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1609,31 +1610,31 @@ low quality, cartoon, illustration, 3D render, plastic skin, waxy face, generic 
 
 ---
 
-### No. 23: Sosyal Medya Gönderisi - Urban Street Fashion Couple Selfie
+### No. 23: Sosyal Medya Gönderisi - Şehirli Sokak Modası Çift Selfie'si
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A photorealistic prompt for a top-down couple's selfie featuring edgy urban fashion, boho accessories, and a candid social media aesthetic.
+İddialı şehir modası, bohem aksesuarlar ve doğal bir sosyal medya estetiğine sahip, yukarıdan çekilmiş gerçekçi bir çift selfie'si istemi.
 
 #### 📝 İstem
 
 ```
-Ultra-photorealistic top-down {argument name="subject" default="couple selfie"} taken from above, stylish street-fashion aesthetic, cool candid vibe. A fashionable young couple stands close together under a textured concrete ceiling, looking up at the camera in a playful, confident pose. The composition is slightly tilted and editorial, with a casual but trendy social-media feel.
+Yukarıdan çekilmiş ultra gerçekçi {argument name="subject" default="çift selfie'si"}, şık sokak modası estetiği, havalı ve doğal bir hava. Modaya uygun genç bir çift, dokulu bir beton tavanın altında birbirine yakın duruyor, oyuncu ve kendinden emin bir pozla kameraya bakıyor. Kompozisyon hafif eğik ve editoryal olup, gündelik ama trend bir sosyal medya hissi veriyor.
 
-The woman has straight dark hair with soft bangs, full lips, and a chic sultry expression. She wears narrow oval sunglasses, layered necklaces, a brown strapless or bandeau-style top, and bold statement accessories such as an arm cuff, bracelets, and rings. Her style feels boho, edgy, and effortlessly cool.
+Kadının düz koyu renk saçları, hafif perçemleri, dolgun dudakları ve şık, çekici bir ifadesi var. Dar oval güneş gözlükleri, katmanlı kolyeler, kahverengi straplez veya bando tarzı bir üst ve kol manşeti, bilezikler ve yüzükler gibi iddialı aksesuarlar takıyor. Tarzı bohem, keskin ve zahmetsizce havalı hissettiriyor.
 
-The man stands very close beside her, leaning in so their heads nearly touch. He has dark hair, stylish clear or thin metal-frame glasses, and a soft pout or playful kissy expression. He wears a modern layered outfit such as a dark jacket over a light top, with subtle jewelry or necklace details. His vibe is artsy, trendy, and urban.
+Erkek hemen yanında, başları neredeyse birbirine değecek kadar yakın duruyor. Koyu renk saçları, şık şeffaf veya ince metal çerçeveli gözlükleri ve hafif büzülmüş veya oyuncu bir öpücük ifadesi var. Açık renk bir üst üzerine koyu bir ceket gibi modern ve katmanlı bir kıyafet giyiyor, üzerinde ince takı veya kolye detayları var. Havası sanatsal, trend ve şehirli.
 
-Both should feel like a stylish couple with coordinated fashion energy. The mood is intimate, youthful, and aesthetic, like a candid Instagram or Pinterest street-style selfie. Neutral muted color palette, soft daylight, realistic skin texture, slightly moody tone, clean but lived-in urban feel.
+Her ikisi de uyumlu bir moda enerjisine sahip şık bir çift gibi görünmeli. Atmosfer samimi, genç ve estetik; doğal bir Instagram veya Pinterest sokak stili selfie'si gibi. Nötr ve yumuşak renk paleti, yumuşak gün ışığı, gerçekçi cilt dokusu, hafif karamsar bir ton, temiz ama yaşanmışlık hissi veren şehirli bir hava.
 
-Style details:
-top-view selfie, urban fashion couple, trendy accessories, editorial street style, soft natural lighting, cool neutral tones, intimate framing, candid social-media aesthetic, realistic phone-camera look.
+Stil detayları:
+üstten çekim selfie, şehirli moda çifti, trend aksesuarlar, editoryal sokak stili, yumuşak doğal aydınlatma, havalı nötr tonlar, samimi kadraj, doğal sosyal medya estetiği, gerçekçi telefon kamerası görünümü.
 
-Negative prompt:
-blurry face, distorted hands, extra limbs, bad anatomy, cartoon, illustration, low quality, awkward pose, messy composition, overly bright colors, plastic skin, duplicate features, unrealistic glasses, deformed accessories
+Negatif istem:
+bulanık yüz, bozuk eller, fazladan uzuvlar, kötü anatomi, çizgi film, illüstrasyon, düşük kalite, tuhaf poz, dağınık kompozisyon, aşırı parlak renkler, plastik cilt, yinelenen özellikler, gerçekçi olmayan gözlükler, deforme olmuş aksesuarlar
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1641,13 +1642,13 @@ blurry face, distorted hands, extra limbs, bad anatomy, cartoon, illustration, l
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424057414_0jc0qx_HKuaocMWYAAD4WV.jpg" width="600" alt="Sosyal Medya Gönderisi - Urban Street Fashion Couple Selfie - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424057414_0jc0qx_HKuaocMWYAAD4WV.jpg" width="600" alt="Sosyal Medya Gönderisi - Şehirli Sokak Modası Çift Selfie'si - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424057426_6v7wxt_HKuarLtXIAAt9nQ.jpg" width="600" alt="Sosyal Medya Gönderisi - Urban Street Fashion Couple Selfie - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424057426_6v7wxt_HKuarLtXIAAt9nQ.jpg" width="600" alt="Sosyal Medya Gönderisi - Şehirli Sokak Modası Çift Selfie'si - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1661,33 +1662,33 @@ blurry face, distorted hands, extra limbs, bad anatomy, cartoon, illustration, l
 
 ---
 
-### No. 24: Sosyal Medya Gönderisi - Subway Staircase Fashion Portrait
+### No. 24: Sosyal Medya Gönderisi - Metro Merdivenlerinde Moda Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A dramatic low-angle fashion shot of an elegant woman on a subway staircase, emphasizing presence and urban energy.
+Metro merdivenlerinde zarif bir kadının, duruşunu ve kentsel enerjiyi vurgulayan dramatik, düşük açılı moda çekimi.
 
 #### 📝 İstem
 
 ```
-Ultra-cinematic full-body fashion portrait of a {argument name="subject" default="young elegant woman"} sitting gracefully on the upper section of an underground subway staircase. Her body leans naturally against the stairs, with both arms extended and resting elegantly on the stairs behind and beside her, creating a relaxed yet confident pose. She turns her head towards the camera with a captivating, confident, and soft gaze.
+Yeraltı metro merdivenlerinin üst kısmında zarif bir şekilde oturan {argument name="subject" default="genç ve şık bir kadın"} figürünün ultra sinematik tam boy moda portresi. Vücudu merdivenlere doğal bir şekilde yaslanmış, her iki kolu da arkasında ve yanında zarifçe uzanarak rahat ama kendinden emin bir poz oluşturuyor. Başını kameraya doğru çevirmiş, büyüleyici, öz güvenli ve yumuşak bir bakış atıyor.
 
-Camera angle: {argument name="angle" default="dramatic low-angle shot"} from the lower steps, positioned below eye level, looking upward towards the subject. Woman-on-top perspective, emphasizing presence, confidence, elegance, and elongated legs. Strong visual hierarchy with the subject dominating the composition.
+Kamera açısı: Alt basamaklardan, göz hizasının altından, özneye doğru yukarı bakan {argument name="angle" default="dramatik düşük açılı çekim"}. Kadının üstte olduğu perspektif; duruşu, öz güveni, zarafeti ve uzun bacakları vurguluyor. Özne kompozisyona hakim, güçlü bir görsel hiyerarşi mevcut.
 
-She has a short, sleek, thick mocha-brown bob haircut styled with soft luxurious waves that elegantly frame her face.
+Yüzünü zarifçe çerçeveleyen, yumuşak ve lüks dalgalarla şekillendirilmiş, kısa, düz ve yoğun moka kahvesi renginde bob kesim saçlara sahip.
 
-Outfit: modern smart-casual quiet luxury fashion. A fitted cream tank top paired with high-waisted charcoal palazzo trousers featuring black suspenders. Black pointed-toe heels, amber-tinted glasses, and refined minimalist accessories. Sophisticated, chic, timeless, and effortlessly elegant.
+Kıyafet: Modern, smart-casual, 'quiet luxury' moda tarzı. Krem rengi dar bir atlet, siyah askılı, yüksek belli antrasit palazzo pantolon ile kombinlenmiş. Siyah sivri burunlu topuklu ayakkabılar, kehribar tonlu gözlükler ve rafine minimalist aksesuarlar. Sofistike, şık, zamansız ve zahmetsizce zarif.
 
-Environment: {argument name="setting" default="contemporary underground subway station staircase"}. Commuters moving up and down the stairs around her, rendered as soft motion blur and creamy bokeh, creating a sense of urban energy while keeping the woman as the focal point.
+Ortam: {argument name="setting" default="çağdaş bir yeraltı metro istasyonu merdiveni"}. Etrafında inip çıkan yolcular, yumuşak hareket bulanıklığı ve kremsi bir bokeh efektiyle işlenerek kentsel bir enerji hissi yaratıyor; kadın ise odak noktası olarak korunuyor.
 
-Lighting: Vogue editorial lighting, premium fashion magazine aesthetic, cinematic highlights and shadows, soft contrast, subtle rim light, realistic ambient subway illumination.
+Aydınlatma: Vogue editoryal aydınlatma, premium moda dergisi estetiği, sinematik parlak noktalar ve gölgeler, yumuşak kontrast, hafif kenar ışığı, gerçekçi ortam metro aydınlatması.
 
-Photography style: luxury fashion campaign, professional model photography, hyper-realistic skin texture, ultra-detailed fabric texture, natural pose, depth and dimensionality, cinematic color grading, rich tonal range, timeless mood, photorealistic, extremely detailed.
+Fotoğraf tarzı: Lüks moda kampanyası, profesyonel model fotoğrafçılığı, hiper gerçekçi cilt dokusu, ultra detaylı kumaş dokusu, doğal poz, derinlik ve boyut, sinematik renk düzenleme, zengin ton aralığı, zamansız atmosfer, fotogerçekçi, son derece detaylı.
 
-Technical specifications: 85mm lens, f/1.8, shallow depth of field, high resolution, HDR quality, razor-sharp focus on subject, creamy background bokeh, masterpiece fashion photography, award-winning editorial shot.
+Teknik özellikler: 85mm lens, f/1.8, sığ alan derinliği, yüksek çözünürlük, HDR kalitesi, özne üzerinde keskin odak, kremsi arka plan bokeh efekti, başyapıt moda fotoğrafçılığı, ödüllü editoryal çekim.
 
 –Ar 2:3 –stylize 150
 ```
@@ -1697,13 +1698,13 @@ Technical specifications: 85mm lens, f/1.8, shallow depth of field, high resolut
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424063652_k773lk_HKtVh1HXQAAsDNK.jpg" width="600" alt="Sosyal Medya Gönderisi - Subway Staircase Fashion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424063652_k773lk_HKtVh1HXQAAsDNK.jpg" width="600" alt="Sosyal Medya Gönderisi - Metro Merdivenlerinde Moda Portresi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424063664_abkw22_HKtVh1GWsAAZIcM.jpg" width="600" alt="Sosyal Medya Gönderisi - Subway Staircase Fashion Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424063664_abkw22_HKtVh1GWsAAZIcM.jpg" width="600" alt="Sosyal Medya Gönderisi - Metro Merdivenlerinde Moda Portresi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1717,19 +1718,19 @@ Technical specifications: 85mm lens, f/1.8, shallow depth of field, high resolut
 
 ---
 
-### No. 25: Sosyal Medya Gönderisi - Muscular Man Resort Fashion Portrait
+### No. 25: Sosyal Medya Gönderisi - Kaslı Erkek Tatil Modası Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A high-contrast digital photograph prompt of a muscular man in old money resort fashion, featuring hard natural sunlight and sharp photographic detail.
+Eski zengin (old money) tatil modasındaki kaslı bir erkeğin, sert doğal gün ışığı ve keskin fotoğraf detaylarıyla öne çıkan yüksek kontrastlı dijital fotoğraf istemi.
 
 #### 📝 İstem
 
 ```
-An extremely muscular man stands confidently centered, facing the camera straight on, featuring dark, glossy, slicked-back hair with a single stray curl resting naturally on his right forehead, alongside a short manicured beard and aviator sunglasses hiding his eyes in a neutral, posed expression. He is dressed in a tight, highly textured {argument name="outfit" default="white knit short-sleeve polo shirt"} with a collar, paired with dark olive-brown dress trousers, his left hand deliberately tucked into his front left pocket while his right arm rests straight down at his side. He is positioned directly against a slightly textured, matte warm off-white painted concrete wall with a pristine, clean horizontal top edge that creates a shallow spatial depth. Rising behind the wall in the distant background is a {argument name="background" default="vivid sky-blue expanse"} dotted with scattered fluffy white clouds and the curved top of a weathered metal street light pole extending upward. The scene is illuminated by single-source, {argument name="lighting" default="bright, hard natural sunlight"} striking from a high front-left angle, casting highly directional, deep black-to-dark-gray harsh shadows to the right side of his silhouette directly onto the wall behind him, as well as distinct cast shadows under his collar and rigid pectoral muscles. This golden, warm lighting preserves crisp specular highlights on his left shoulder, left bicep, the left side of his face, and along the intricate raised ridges of his white knit shirt, creating a high-contrast, heavily structured, and energetic atmosphere. Captured as a stylized yet realistic digital photograph using a 50mm lens at ISO 100, f/8, and 1/500s for a tack-sharp, grain-free deep depth of field that emphasizes the clothing texture and clean visual style reminiscent of old money resort fashion and fitness influencer aesthetics, featuring high contrast curve post-processing, enhanced clarity on the garments, and warm color grading for his tanned skin tones while keeping the whites strictly neutral, framed in a 1:1 aspect ratio.
+Son derece kaslı bir adam, kameraya doğrudan bakacak şekilde kendinden emin bir duruşla merkezde duruyor; sağ alnına doğal bir şekilde düşen tek bir tutam saçla birlikte koyu renkli, parlak ve geriye taranmış saçları, kısa bakımlı sakalı ve gözlerini gizleyen pilot gözlükleriyle nötr, poz vermiş bir ifade sergiliyor. Yakalı, dar ve yüksek dokulu {argument name="outfit" default="beyaz örgü kısa kollu polo yaka tişört"} giymiş, altına koyu zeytin-kahverengi kumaş pantolon tercih etmiş; sol eli kasıtlı olarak ön sol cebine sokulmuş, sağ kolu ise yanında dümdüz duruyor. Hafif dokulu, mat sıcak kırık beyaz boyalı beton bir duvarın tam önünde konumlanmış; duvarın üst kenarı, sığ bir mekansal derinlik yaratan kusursuz ve temiz yatay bir çizgiye sahip. Duvarın arkasında, uzak arka planda, dağınık kabarık beyaz bulutlarla bezeli {argument name="background" default="canlı gökyüzü mavisi bir genişlik"} ve yukarı doğru uzanan, aşınmış metal bir sokak lambasının kavisli tepesi görülüyor. Sahne, sol ön taraftan yüksek bir açıyla vuran tek kaynaklı {argument name="lighting" default="parlak, sert doğal gün ışığı"} ile aydınlatılıyor; bu ışık, silüetinin sağ tarafında, doğrudan arkasındaki duvara düşen, yönü belirgin, derin siyah-koyu gri sert gölgeler oluşturuyor; ayrıca yakasının ve belirgin göğüs kaslarının altında net gölgeler yaratıyor. Bu altın rengi, sıcak aydınlatma; sol omzunda, sol pazısında, yüzünün sol tarafında ve beyaz örgü tişörtünün karmaşık kabarık dokularında keskin parlak noktaları koruyarak yüksek kontrastlı, güçlü bir yapıya sahip ve enerjik bir atmosfer yaratıyor. 50mm lens, ISO 100, f/8 ve 1/500s enstantane hızı kullanılarak, eski zengin tatil modasını ve fitness influencer estetiğini anımsatan, kıyafet dokusunu ve temiz görsel stili vurgulayan, tane içermeyen, derin alan derinliğine sahip, stilize ancak gerçekçi bir dijital fotoğraf olarak çekilmiştir; yüksek kontrast eğrisi post-prodüksiyonu, giysiler üzerinde artırılmış netlik ve bronzlaşmış ten tonları için sıcak renk derecelendirmesi uygulanmış olup beyazlar kesinlikle nötr tutulmuştur, 1:1 en boy oranında çerçevelenmiştir.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1737,7 +1738,7 @@ An extremely muscular man stands confidently centered, facing the camera straigh
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424063952_jn3ozy_HKtLwQIXUAAy1iK.jpg" width="600" alt="Sosyal Medya Gönderisi - Muscular Man Resort Fashion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424063952_jn3ozy_HKtLwQIXUAAy1iK.jpg" width="600" alt="Sosyal Medya Gönderisi - Kaslı Erkek Tatil Modası Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1751,18 +1752,18 @@ An extremely muscular man stands confidently centered, facing the camera straigh
 
 ---
 
-### No. 26: Sosyal Medya Gönderisi - Freckled Model Gold Makeup Portrait
+### No. 26: Sosyal Medya Gönderisi - Çilli Model Altın Makyaj Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A high-fashion editorial portrait prompt of a freckled woman with metallic gold makeup, utilizing medium-format photography aesthetics and cinematic lighting.
+Metalik altın makyajlı çilli bir kadının yer aldığı, orta format fotoğraf estetiği ve sinematik aydınlatma kullanan yüksek moda editoryal portre istemi.
 
 #### 📝 İstem
 
 ```
-Ultra-realistic luxury fashion editorial portrait of a young red-haired woman with fair freckled skin, natural facial asymmetry, authentic proportions, casting-model appearance, close-up three-quarter view, relaxed expression, gaze directed downward or off-camera. Contemporary editorial makeup featuring diffused metallic champagne-gold graphic eye makeup with organically imperfect edges. Freckles fully visible. Highly detailed skin texture with visible pores, tonal variation, subtle redness, and natural imperfections. Sleek wet-look or loosely pulled-back hair with realistic irregularities. Sculptural minimalist gold jewelry with natural reflections and imperfect highlights. Low-key cinematic lighting, strong contrast, single directional soft light source, deep shadows, dimensional facial contours, dark near-black background with subtle falloff. Cinematic color grading, slightly desaturated tones, warm undertones, rich blacks, soft highlight rolloff. Medium-format photography, 100mm lens, shallow depth of field, razor-sharp focus on skin texture, subtle lens imperfections, gentle highlight bloom, organically integrated fine film grain. Modern high-fashion editorial campaign aesthetic, sophisticated, bold, luxurious, understated, ultra-detailed, photorealistic, authentic photography. Negative prompt: CGI, 3D render, digital art, illustration, anime, cartoon, painting, overprocessed skin, beauty retouching, airbrushed skin, plastic skin, flawless skin, idealized beauty, glam makeup, commercial beauty advertising, symmetrical face, doll-like features, heavy skin smoothing, excessive sharpening, artificial lighting, flat lighting, evenly lit studio lighting, bright seamless backdrop, ornate jewelry, diamonds, silver jewelry, white eye makeup, exaggerated highlights, HDR look, oversaturated colors, excessive contrast, fake film grain overlay, waxy skin, blurry skin texture, low detail skin, distorted anatomy, deformed face, extra facial features, low resolution, artifacts, watermark, logo, signature, text.
+Açık tenli, çilli, doğal yüz asimetrisine sahip, otantik oranlı, casting modeli görünümlü, kızıl saçlı genç bir kadının ultra gerçekçi lüks moda editoryal portresi; yakın çekim, üç çeyrek açı, rahat bir ifade, bakışlar aşağıya veya kamera dışına yönlendirilmiş. Organik ve kusurlu kenarlara sahip, dağıtılmış metalik şampanya-altın rengi grafik göz makyajı içeren çağdaş editoryal makyaj. Çiller tamamen görünür. Gözenekler, ton farklılıkları, hafif kızarıklık ve doğal kusurlarla birlikte oldukça detaylı cilt dokusu. Gerçekçi düzensizliklere sahip, ıslak görünümlü veya gevşekçe arkaya taranmış saçlar. Doğal yansımalara ve kusurlu parlaklıklara sahip heykelsi minimalist altın takılar. Düşük anahtarlı (low-key) sinematik aydınlatma, güçlü kontrast, tek yönlü yumuşak ışık kaynağı, derin gölgeler, boyutlu yüz hatları, hafif geçişli koyu, siyaha yakın arka plan. Sinematik renk derecelendirmesi, hafif doygunluğu azaltılmış tonlar, sıcak alt tonlar, zengin siyahlar, yumuşak parlaklık geçişleri. Orta format fotoğrafçılık, 100mm lens, sığ alan derinliği, cilt dokusuna keskin odaklanma, hafif lens kusurları, nazik parlaklık yayılımı, organik olarak entegre edilmiş ince film greni. Modern yüksek moda editoryal kampanya estetiği, sofistike, cesur, lüks, abartısız, ultra detaylı, fotogerçekçi, otantik fotoğrafçılık. Negatif istem: CGI, 3D render, dijital sanat, illüstrasyon, anime, çizgi film, resim, aşırı işlenmiş cilt, güzellik rötuşu, airbrush cilt, plastik cilt, kusursuz cilt, idealize edilmiş güzellik, glam makyaj, ticari güzellik reklamı, simetrik yüz, oyuncak bebek benzeri özellikler, ağır cilt pürüzsüzleştirme, aşırı keskinleştirme, yapay aydınlatma, düz aydınlatma, eşit aydınlatılmış stüdyo ışığı, parlak kesintisiz arka plan, süslü takılar, elmaslar, gümüş takılar, beyaz göz makyajı, abartılı parlaklıklar, HDR görünümü, aşırı doygun renkler, aşırı kontrast, sahte film greni kaplaması, mumsu cilt, bulanık cilt dokusu, düşük detaylı cilt, bozuk anatomi, deforme olmuş yüz, ekstra yüz özellikleri, düşük çözünürlük, artefaktlar, filigran, logo, imza, metin.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1770,13 +1771,13 @@ Ultra-realistic luxury fashion editorial portrait of a young red-haired woman wi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424062657_2db7uj_HKtA5hnXMAE6sVz.jpg" width="600" alt="Sosyal Medya Gönderisi - Freckled Model Gold Makeup Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424062657_2db7uj_HKtA5hnXMAE6sVz.jpg" width="600" alt="Sosyal Medya Gönderisi - Çilli Model Altın Makyaj Portresi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424062705_fkerxg_HKtA0YpXAAAlHrt.jpg" width="600" alt="Sosyal Medya Gönderisi - Freckled Model Gold Makeup Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424062705_fkerxg_HKtA0YpXAAAlHrt.jpg" width="600" alt="Sosyal Medya Gönderisi - Çilli Model Altın Makyaj Portresi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1790,19 +1791,19 @@ Ultra-realistic luxury fashion editorial portrait of a young red-haired woman wi
 
 ---
 
-### No. 27: Sosyal Medya Gönderisi - Night Parking Defender Car Portrait
+### No. 27: Sosyal Medya Gönderisi - Gece Park Yeri Defender Araba Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A nighttime portrait prompt of a young man sitting casually on a black Defender car in an illuminated parking lot.
+Aydınlatılmış bir otoparkta siyah bir Defender arabanın üzerinde rahat bir şekilde oturan genç bir adamın gece portresi istemi.
 
 #### 📝 İstem
 
 ```
-Keeping the same face and hairstyle of {argument name="subject" default="20 years old boy"} with dark, wearing a {argument name="clothing" default="black buffer shirt, black cargo lose jeans"}. brown-white sneakers, bracelet, chain, wristwatch, Sunglasses on eyes, sitting casually a {argument name="vehicle" default="sleek black Defender car"} side seating fayring the other on the car. The setting is an outdoor parking lot at night, illuminated by numerous streetlights. A crescent moon is visible in the dark sky, and a small tree is behind.
+Koyu renkli, {argument name="clothing" default="siyah şişme mont, siyah bol kargo pantolon"} giymiş {argument name="subject" default="20 yaşındaki genç"} ile aynı yüz ve saç stilini koruyarak. Kahverengi-beyaz spor ayakkabılar, bileklik, zincir, kol saati ve gözünde güneş gözlüğü ile {argument name="vehicle" default="şık siyah bir Defender arabanın"} yan tarafında, diğer tarafa bakacak şekilde rahatça oturuyor. Ortam, gece vakti çok sayıda sokak lambasıyla aydınlatılmış bir açık hava otoparkı. Karanlık gökyüzünde bir hilal görünüyor ve arkada küçük bir ağaç var.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1810,7 +1811,7 @@ Keeping the same face and hairstyle of {argument name="subject" default="20 year
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424064692_8okypf_HKsZN5eWcAAJZuK.jpg" width="600" alt="Sosyal Medya Gönderisi - Night Parking Defender Car Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424064692_8okypf_HKsZN5eWcAAJZuK.jpg" width="600" alt="Sosyal Medya Gönderisi - Gece Park Yeri Defender Araba Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1824,19 +1825,19 @@ Keeping the same face and hairstyle of {argument name="subject" default="20 year
 
 ---
 
-### No. 28: Sosyal Medya Gönderisi - East Asian Woman Photo Strip
+### No. 28: Sosyal Medya Gönderisi - Doğu Asyalı Kadın Fotoğraf Şeridi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A vertical photo collage of four expressive close-up portraits of an East Asian woman.
+Doğu Asyalı bir kadının dört etkileyici yakın plan portresinden oluşan dikey bir fotoğraf kolajı.
 
 #### 📝 İstem
 
 ```
-A vertical photo strip collage featuring four distinct, close-up portraits of a beautiful {argument name="subject" default="East Asian woman"} with long, wavy black hair, set against a {argument name="background" default="clean, minimal light grey background"}. In the first panel at the top, she is laughing joyfully with a wide, radiant smile, showing her teeth, with her hand resting gently under her chin. In the second panel, she tilts her head slightly, looking off to the side with a soft, serene expression while resting her cheek against her hand, showcasing elegant silver rings on her fingers. In the third panel, she looks directly into the camera with wide, expressive brown eyes while playfully puckering her lips. In the bottom panel, she offers a charming, knowing smile while playfully winking one eye. Throughout all the frames, she has luminous, dewy skin, natural makeup with soft coral-toned lips, and wears elegant, {argument name="jewelry" default="multi-layered silver hoop earrings"}. The lighting is bright, soft, and even, capturing a cheerful, lively, and highly photogenic mood.
+Uzun, dalgalı siyah saçlı güzel bir {argument name="subject" default="Doğu Asyalı kadın"} figürünün, {argument name="background" default="temiz, minimal açık gri bir arka plan"} önünde yer aldığı, dört farklı yakın plan portresinden oluşan dikey bir fotoğraf şeridi kolajı. En üstteki ilk karede, dişlerini gösteren geniş, ışıl ışıl bir gülümsemeyle neşeyle gülüyor ve elini hafifçe çenesinin altına dayıyor. İkinci karede, başını hafifçe yana eğerek, parmaklarındaki zarif gümüş yüzükleri sergilediği bir pozda, yanağını eline dayamış şekilde yumuşak ve huzurlu bir ifadeyle yana bakıyor. Üçüncü karede, geniş ve etkileyici kahverengi gözleriyle doğrudan kameraya bakarken dudaklarını muzip bir şekilde büzüyor. En alttaki karede ise, tek gözünü kırparak büyüleyici ve anlamlı bir gülümseme sunuyor. Tüm kareler boyunca parlak, nemli bir cilde, yumuşak mercan tonlarında dudaklara sahip doğal bir makyajla görünüyor ve zarif, {argument name="jewelry" default="çok katmanlı gümüş halka küpeler"} takıyor. Aydınlatma parlak, yumuşak ve dengeli olup neşeli, canlı ve oldukça fotojenik bir atmosferi yansıtıyor.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1844,7 +1845,7 @@ A vertical photo strip collage featuring four distinct, close-up portraits of a 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424056308_mffbze_HKsfUtNXYAE5H_D.jpg" width="600" alt="Sosyal Medya Gönderisi - East Asian Woman Photo Strip - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424056308_mffbze_HKsfUtNXYAE5H_D.jpg" width="600" alt="Sosyal Medya Gönderisi - Doğu Asyalı Kadın Fotoğraf Şeridi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1858,19 +1859,19 @@ A vertical photo strip collage featuring four distinct, close-up portraits of a 
 
 ---
 
-### No. 29: Sosyal Medya Gönderisi - Douyin Style Cinematic Portrait
+### No. 29: Sosyal Medya Gönderisi - Douyin Tarzı Sinematik Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-An introspective cinematic portrait featuring Douyin-inspired makeup and soft blue-gray lighting.
+Douyin esintili makyaj ve yumuşak mavi-gri aydınlatma içeren içsel bir sinematik portre.
 
 #### 📝 İstem
 
 ```
-A cinematic close-up portrait capturing a calm and introspective mood. {argument name="lighting" default="Soft blue-gray lighting"} highlights her glowing skin, refined facial features, and elegant {argument name="makeup style" default="Douyin-inspired makeup"}. Long ash-brown hair with natural loose strands frames her face beautifully, while the {argument name="clothing" default="navy-blue shirt and white AirPods"} add a modern, sophisticated touch. The ultra-realistic details, cool color grading, and emotional atmosphere create a timeless and visually captivating portrait.
+Sakin ve içsel bir ruh halini yakalayan sinematik bir yakın plan portre. {argument name="lighting" default="Yumuşak mavi-gri aydınlatma"} cildinin ışıltısını, zarif yüz hatlarını ve şık {argument name="makeup style" default="Douyin esintili makyajını"} ön plana çıkarıyor. Doğal ve dağınık tutamlarıyla uzun küllü kahverengi saçları yüzünü güzel bir şekilde çerçevelerken, {argument name="clothing" default="lacivert gömlek ve beyaz AirPods"} modern ve sofistike bir dokunuş katıyor. Ultra gerçekçi detaylar, soğuk renk tonlaması ve duygusal atmosfer, zamansız ve görsel olarak büyüleyici bir portre yaratıyor.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1878,13 +1879,13 @@ A cinematic close-up portrait capturing a calm and introspective mood. {argument
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424056383_kz6c4e_HKsSUEVbgAAkpnR.jpg" width="600" alt="Sosyal Medya Gönderisi - Douyin Style Cinematic Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424056383_kz6c4e_HKsSUEVbgAAkpnR.jpg" width="600" alt="Sosyal Medya Gönderisi - Douyin Tarzı Sinematik Portre - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424056397_xzcbu1_HKsSUDjaIAAOiCQ.jpg" width="600" alt="Sosyal Medya Gönderisi - Douyin Style Cinematic Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424056397_xzcbu1_HKsSUDjaIAAOiCQ.jpg" width="600" alt="Sosyal Medya Gönderisi - Douyin Tarzı Sinematik Portre - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1898,21 +1899,21 @@ A cinematic close-up portrait capturing a calm and introspective mood. {argument
 
 ---
 
-### No. 30: Sosyal Medya Gönderisi - 90s Nostalgic Tokyo Street Portrait
+### No. 30: Sosyal Medya Gönderisi - 90'lar Nostaljik Tokyo Sokak Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A film-style prompt that captures a nostalgic 90s aesthetic of a woman walking through Tokyo at dusk, featuring vintage camera props and warm cinematic lighting.
+Alacakaranlıkta Tokyo'da yürüyen bir kadının nostaljik 90'lar estetiğini yakalayan, vintage kamera aksesuarları ve sıcak sinematik aydınlatma içeren film tarzı bir istem.
 
 #### 📝 İstem
 
 ```
-A full-length portrait shot of a {argument name="subject" default="beautiful young woman with long, open, wavy black hair"} smiling warmly while walking across a crosswalk on a {argument name="location" default="Tokyo street"} at dusk. She is holding a small vintage point-and-shoot film camera with both hands at waist level. She is wearing a {argument name="outfit" default="casual denim jacket over a white cropped t-shirt, a matching denim miniskirt"}, and has a small beige canvas camera bag slung over her shoulder.
-Background: A vibrant, slightly blurred Japanese street scene at twilight. To the left is a brightly lit vending machine and a shop front featuring glowing red and green neon signage with Japanese kanji characters. Pedestrians are blurred walking in the background under warm streetlights.
-Style & Camera Parameters: 90s film photography aesthetic with a soft, warm nostalgic glow and realistic subtle film grain. Shot on a 35mm lens, f/2.8 aperture, cinematic color grading, preserving natural facial features and skin texture. Vertical 9:16 aspect ratio.
+Alacakaranlıkta bir {argument name="location" default="Tokyo sokağındaki"} yaya geçidinde yürürken sıcak bir şekilde gülümseyen, {argument name="subject" default="uzun, açık, dalgalı siyah saçlı güzel genç bir kadının"} tam boy portre çekimi. İki eliyle bel hizasında küçük bir vintage analog fotoğraf makinesi tutuyor. Üzerinde {argument name="outfit" default="beyaz kısa bir tişörtün üzerine giyilmiş günlük kot ceket ve uyumlu bir kot mini etek"} var ve omzunda küçük, bej renkli bir kanvas kamera çantası asılı.
+Arka Plan: Alacakaranlıkta canlı, hafif bulanık bir Japon sokak manzarası. Solda parlak bir otomat ve üzerinde Japonca kanji karakterleri bulunan, kırmızı ve yeşil neon tabelalarla aydınlatılmış bir dükkan vitrini var. Arka planda yayalar, sıcak sokak lambalarının altında bulanık bir şekilde yürüyor.
+Stil ve Kamera Parametreleri: Yumuşak, sıcak ve nostaljik bir ışıltıya sahip, gerçekçi ve ince film grenli 90'lar film fotoğrafçılığı estetiği. 35mm lens, f/2.8 diyafram açıklığı ile çekilmiş, doğal yüz hatlarını ve cilt dokusunu koruyan sinematik renk derecelendirmesi. Dikey 9:16 en boy oranı.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1920,7 +1921,7 @@ Style & Camera Parameters: 90s film photography aesthetic with a soft, warm nost
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424051597_o8a3c1_HKsIWmCbIAACrx0.jpg" width="600" alt="Sosyal Medya Gönderisi - 90s Nostalgic Tokyo Street Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424051597_o8a3c1_HKsIWmCbIAACrx0.jpg" width="600" alt="Sosyal Medya Gönderisi - 90'lar Nostaljik Tokyo Sokak Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1934,19 +1935,19 @@ Style & Camera Parameters: 90s film photography aesthetic with a soft, warm nost
 
 ---
 
-### No. 31: Sosyal Medya Gönderisi - 35mm Film Aesthetic Triple-Panel Portrait
+### No. 31: Sosyal Medya Gönderisi - 35mm Film Estetiğinde Üç Panelli Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-An ultra-realistic three-panel vertical collage featuring candid flash photography and a 35mm film aesthetic.
+Doğal flaş fotoğrafçılığı ve 35mm film estetiğine sahip, ultra gerçekçi üç panelli dikey kolaj.
 
 #### 📝 İstem
 
 ```
-Ultra-realistic candid flash photography, 35mm film aesthetic, three-panel vertical collage composition. Top panel: a young woman with {argument name="hair style" default="long dark wavy hair"} and soft natural texture rests her face on one hand, fingers gently touching her cheek, subtle henna design visible on the wrist and hand, wearing a {argument name="outfit" default="dark traditional embroidered outfit"} with warm mustard and black details, relaxed thoughtful expression, direct gaze into the camera, luminous fair skin with natural blush and visible freckles, glossy lips, thick natural eyebrows, striking {argument name="eye color" default="light hazel-green eyes"}, minimal makeup, strong on-camera flash creating bright highlights and soft shadows, cozy indoor setting with blurred neutral background and a small green potted plant on the right. Middle panel: extreme close-up crop focused only on the eyes and eyebrows, emphasizing hazel-green irises, natural lashes, skin texture, freckles, and flash reflections with cinematic sharpness. Bottom panel: same woman in the same pose looking slightly to the side instead of directly at the camera, chin resting on hand, identical styling and lighting, soft film grain, nostalgic disposable camera look, shallow depth of field, intimate editorial portrait, authentic skin texture, no heavy retouching, warm indoor ambience, high detail, photorealistic, 8k.
+Ultra gerçekçi doğal flaş fotoğrafçılığı, 35mm film estetiği, üç panelli dikey kolaj kompozisyonu. Üst panel: {argument name="hair style" default="uzun koyu dalgalı saçlı"} ve yumuşak doğal dokuya sahip genç bir kadın, yüzünü bir eline dayamış, parmakları hafifçe yanağına dokunuyor, bileğinde ve elinde belli belirsiz kına deseni, üzerinde sıcak hardal ve siyah detaylı {argument name="outfit" default="koyu renkli geleneksel işlemeli bir kıyafet"} var, rahat ve düşünceli bir ifade, doğrudan kameraya bakıyor, doğal allıklı ve belirgin çilli aydınlık açık ten, parlak dudaklar, kalın doğal kaşlar, çarpıcı {argument name="eye color" default="açık ela-yeşil gözler"}, minimal makyaj, parlak vurgular ve yumuşak gölgeler yaratan güçlü kamera flaşı, bulanık nötr arka planlı ve sağda küçük yeşil saksı bitkisi olan samimi bir iç mekan. Orta panel: Sadece gözlere ve kaşlara odaklanan, ela-yeşil irisleri, doğal kirpikleri, cilt dokusunu, çilleri ve sinematik keskinlikteki flaş yansımalarını vurgulayan aşırı yakın plan çekim. Alt panel: Aynı kadının aynı pozda, doğrudan kameraya bakmak yerine hafifçe yana baktığı, çenesini eline dayadığı, aynı stil ve aydınlatmaya sahip, yumuşak film grenli, nostaljik tek kullanımlık kamera görünümü, sığ alan derinliği, samimi editoryal portre, otantik cilt dokusu, ağır rötuş yok, sıcak iç mekan ambiyansı, yüksek detay, fotogerçekçi, 8k.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1954,13 +1955,13 @@ Ultra-realistic candid flash photography, 35mm film aesthetic, three-panel verti
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424052964_af4iap_HKr6AQJaQAAiYDn.jpg" width="600" alt="Sosyal Medya Gönderisi - 35mm Film Aesthetic Triple-Panel Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424052964_af4iap_HKr6AQJaQAAiYDn.jpg" width="600" alt="Sosyal Medya Gönderisi - 35mm Film Estetiğinde Üç Panelli Portre - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424052987_4msqan_HKr6Ac6bkAAW0bO.jpg" width="600" alt="Sosyal Medya Gönderisi - 35mm Film Aesthetic Triple-Panel Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424052987_4msqan_HKr6Ac6bkAAW0bO.jpg" width="600" alt="Sosyal Medya Gönderisi - 35mm Film Estetiğinde Üç Panelli Portre - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1974,19 +1975,19 @@ Ultra-realistic candid flash photography, 35mm film aesthetic, three-panel verti
 
 ---
 
-### No. 32: Sosyal Medya Gönderisi - Upscale Resort Pathway Male Portrait
+### No. 32: Sosyal Medya Gönderisi - Lüks Tatil Köyü Yolu Erkek Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A sophisticated male portrait set in a luxury resort during twilight, featuring atmospheric lighting and detailed linen textures.
+Alacakaranlıkta lüks bir tatil köyünde geçen, atmosferik aydınlatma ve detaylı keten dokularına sahip sofistike bir erkek portresi.
 
 #### 📝 İstem
 
 ```
-A well-groomed man with a neatly maintained beard stands directly in the center of the frame at a slight forty-five-degree angle, leaning back casually with level shoulders. He is dressed in an {argument name="outfit" default="off-white linen long-sleeve shirt"} unbuttoned at the top and matching linen trousers, shaping the loose, slightly wrinkled matte fabric by resting his relaxed left hand in his front trouser pocket, where his thumb hooks naturally over the outer seam beside a thin silver cuff bracelet. His face holds a confident, deliberately posed, subtle closed smile, with relaxed eyebrows and a direct gaze capturing the viewer's immediate attention. Following the natural lines of his relaxed posture downward, the scene transitions into a deeply layered {argument name="setting" default="outdoor resort pathway"}. In the immediate left foreground, the rough, heavily textured brown bark of a thriving palm tree trunk naturally frames the composition. A solid, smooth poured cool gray concrete walkway, bordered by manicured olive-green grass, recedes into a slightly blurred midground, beautifully illuminated by pristine, modern rectangular bollard lights resting on the ground. Behind the subject, a tightly packed vertical light wood bamboo-style slat fence provides a clean textural midground, while the right side is anchored by a pristine modern building wing featuring perfectly smooth, matte warm taupe painted drywall, sharp geometric lines, recessed windows, and a dark structural pillar. Towering in the deep background, a dominant row of thriving, dark green conical cypress trees forms a dense privacy hedge against a twilight blue sky. A serene, sophisticated twilight mood permeates this upscale setting, draped in a {argument name="color palette" default="cool, desaturated split-complementary"} color palette where moody, soft diffused lighting cascades gently from above. The cool blue ambient dusk temperature washes over the scene, while the ground bollards emit a contrasting warm orange and yellow accent glow that creates subtle highlights directly along the concrete path. Soft, short, gradual gray shadows pool delicately under the man's facial features and within the natural folds of his linen garments, establishing a calm, low-contrast, and evenly filled atmospheric depth. Captured straight on as highly realistic digital photography mimicking a 50mm to 85mm lens at an aperture of f/2.8 to f/4 with a 1/125s shutter speed, the image balances tack-sharp focal clarity on the subject's face with a medium depth of field that gently softens the background. The sophisticated aesthetic is finalized with intentional post-processing that introduces visible digital noise grain, lifted blacks for a soft cinematic matte fade, slightly desaturated greens, and split toning that pushes cool blues into the shadows and warm golden hues into the practical midtone highlights, all elegantly framed in a 9:16 aspect ratio.
+Bakımlı sakallı, düzgün görünümlü bir adam, omuzları hizalı bir şekilde hafifçe geriye yaslanmış, karenin tam merkezinde kırk beş derecelik bir açıyla duruyor. Üzerinde, üst düğmeleri açık {argument name="outfit" default="kırık beyaz keten uzun kollu gömlek"} ve uyumlu keten pantolonu var; gevşek, hafif kırışık mat kumaşın şeklini, rahatlamış sol elini ön pantolon cebine sokarak belirginleştiriyor; başparmağı ince bir gümüş bilekliğin yanındaki dış dikişin üzerine doğal bir şekilde takılmış durumda. Yüzünde kendine güvenen, bilinçli bir şekilde poz verilmiş, hafif kapalı bir gülümseme var; rahat kaşları ve doğrudan bakışı izleyicinin dikkatini anında üzerine çekiyor. Rahat duruşunun doğal çizgilerini aşağıya doğru takip ettiğimizde, sahne derin katmanlı bir {argument name="setting" default="açık hava tatil köyü yolu"} ortamına geçiş yapıyor. Sol ön planda, gelişmiş bir palmiye ağacının kaba, yoğun dokulu kahverengi gövdesi kompozisyonu doğal bir şekilde çerçeveliyor. Bakımlı zeytin yeşili çimlerle çevrili, pürüzsüz ve soğuk gri beton bir yürüyüş yolu, zeminde duran kusursuz, modern dikdörtgen babalarla (bollard) güzelce aydınlatılmış, hafif bulanık bir orta plana doğru uzanıyor. Modelin arkasında, dikey olarak sıkıca yerleştirilmiş açık renkli ahşap bambu tarzı çit temiz bir dokusal orta plan sağlarken, sağ taraf mükemmel pürüzsüzlükte, mat sıcak boz renkte boyanmış alçıpan, keskin geometrik çizgiler, gömme pencereler ve koyu renkli yapısal bir sütun içeren kusursuz modern bir bina kanadıyla sabitleniyor. Derin arka planda yükselen, gelişmiş koyu yeşil konik selvi ağaçlarından oluşan baskın bir sıra, alacakaranlık mavisi gökyüzüne karşı yoğun bir mahremiyet çiti oluşturuyor. Bu lüks ortama, yukarıdan nazikçe yayılan karamsar ve yumuşak aydınlatmanın hakim olduğu {argument name="color palette" default="soğuk, doygunluğu azaltılmış bölünmüş tamamlayıcı"} bir renk paletiyle sarmalanmış, dingin ve sofistike bir alacakaranlık havası hakim. Soğuk mavi ortam alacakaranlık ısısı sahnenin üzerine yayılırken, yerdeki babalar beton yol boyunca doğrudan ince vurgular oluşturan zıt sıcak turuncu ve sarı bir parıltı yayıyor. Adamın yüz hatlarının altında ve keten kıyafetlerinin doğal kıvrımlarında yumuşak, kısa ve kademeli gri gölgeler nazikçe birikerek sakin, düşük kontrastlı ve eşit şekilde doldurulmuş atmosferik bir derinlik oluşturuyor. 50mm ila 85mm lens, f/2.8 ila f/4 diyafram açıklığı ve 1/125s enstantane hızını taklit eden son derece gerçekçi bir dijital fotoğrafçılık olarak doğrudan çekilen görüntü, modelin yüzündeki keskin odak netliği ile arka planı nazikçe yumuşatan orta derinlikteki alan derinliğini dengeliyor. Sofistike estetik, görünür dijital gren, yumuşak sinematik mat solukluk için yükseltilmiş siyahlar, hafifçe doygunluğu azaltılmış yeşiller ve gölgelere soğuk mavileri, pratik orta ton vurgularına ise sıcak altın tonlarını iten bölünmüş tonlama (split toning) gibi kasıtlı post-prodüksiyon işlemleriyle tamamlanıyor ve her şey 9:16 en boy oranında zarif bir şekilde çerçeveleniyor.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1994,7 +1995,7 @@ A well-groomed man with a neatly maintained beard stands directly in the center 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424061347_u6zpo3_HKrblwGWwAA5NK8.jpg" width="600" alt="Sosyal Medya Gönderisi - Upscale Resort Pathway Male Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424061347_u6zpo3_HKrblwGWwAA5NK8.jpg" width="600" alt="Sosyal Medya Gönderisi - Lüks Tatil Köyü Yolu Erkek Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2008,19 +2009,19 @@ A well-groomed man with a neatly maintained beard stands directly in the center 
 
 ---
 
-### No. 33: Sosyal Medya Gönderisi - Luxury Bathroom Lifestyle Portrait
+### No. 33: Sosyal Medya Gönderisi - Lüks Banyo Yaşam Tarzı Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A cinematic full-body portrait prompt of a stylish man in a premium hotel suite, featuring warm ambient lighting and contemporary interior design.
+Sıcak ortam aydınlatması ve çağdaş iç mekan tasarımıyla, birinci sınıf bir otel süitindeki şık bir erkeğin sinematik tam boy portre istemi.
 
 #### 📝 İstem
 
 ```
-Ultra-realistic cinematic full-body portrait of a {argument name="subject" default="stylish young man"} exysame from reference image leaning casually against a modern luxury bathroom counter in a premium hotel suite. He has thick voluminous textured black hair, smooth warm-brown skin tone and a confident calm expression while looking directly at the camera. He is wearing an oversized {argument name="clothing" default="dark charcoal-grey graphic t-shirt"} with bold white typography, relaxed black cargo pants, clean white sneakers, and a modern black wristwatch. In one hand he is casually holding a white baseball cap while the other hand rests inside his pocket. The setting features {argument name="interior" default="elegant contemporary interior design"} with warm ambient lighting, textured stone walls, a glowing circular backlit mirror creating a halo effect behind him, luxury sink accessories, and subtle decorative plants. Relaxed crossed-leg pose, fashion editorial style, premium lifestyle photography, cinematic mood, shallow depth of field, soft shadows, warm golden-brown color grading, ultra-detailed skin texture, realistic fabric folds, professional DSLR quality, 85mm lens, f/1.8, high dynamic range, sharp focus, luxury Instagram influencer aesthetic, photorealistic, 8K resolution.
+Birinci sınıf bir otel süitindeki modern ve lüks bir banyo tezgahına rahat bir şekilde yaslanmış, referans görseldeki {argument name="subject" default="şık genç erkek"} figürünün ultra gerçekçi sinematik tam boy portresi. Gür, hacimli ve dokulu siyah saçlara, pürüzsüz sıcak kahverengi bir cilt tonuna sahip ve doğrudan kameraya bakarken kendinden emin, sakin bir ifade sergiliyor. Üzerinde cesur beyaz tipografiye sahip büyük beden bir {argument name="clothing" default="koyu füme grafik tişört"}, rahat siyah kargo pantolon, temiz beyaz spor ayakkabılar ve modern bir siyah kol saati var. Bir elinde gelişigüzel bir şekilde beyaz bir beyzbol şapkası tutarken diğer eli cebinde duruyor. Ortam, {argument name="interior" default="zarif ve çağdaş bir iç mekan tasarımı"}, sıcak ortam aydınlatması, dokulu taş duvarlar, arkasında hale etkisi yaratan ışıklı dairesel bir ayna, lüks lavabo aksesuarları ve zarif dekoratif bitkilerle çevrili. Rahat bacak bacak üstüne atma pozu, moda editoryal tarzı, premium yaşam tarzı fotoğrafçılığı, sinematik atmosfer, sığ alan derinliği, yumuşak gölgeler, sıcak altın-kahverengi renk tonlaması, ultra detaylı cilt dokusu, gerçekçi kumaş kıvrımları, profesyonel DSLR kalitesi, 85mm lens, f/1.8, yüksek dinamik aralık, keskin odak, lüks Instagram influencer estetiği, fotogerçekçi, 8K çözünürlük.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -2028,7 +2029,7 @@ Ultra-realistic cinematic full-body portrait of a {argument name="subject" defau
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424063116_sufy9f_HKrGZc5bgAAUGTn.jpg" width="600" alt="Sosyal Medya Gönderisi - Luxury Bathroom Lifestyle Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424063116_sufy9f_HKrGZc5bgAAUGTn.jpg" width="600" alt="Sosyal Medya Gönderisi - Lüks Banyo Yaşam Tarzı Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2042,85 +2043,85 @@ Ultra-realistic cinematic full-body portrait of a {argument name="subject" defau
 
 ---
 
-### No. 34: İnfografik / Eğitici Görsel - AR Scenic Cliffside Portrait Analysis
+### No. 34: İnfografik / Eğitici Görsel - AR Manzaralı Uçurum Portre Analizi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A highly technological prompt for an augmented reality analysis of a scenic portrait on a Nusa Penida cliffside with data overlays.
+Nusa Penida uçurumundaki manzaralı bir portrenin veri katmanlarıyla artırılmış gerçeklik analizi için yüksek teknolojili bir komut.
 
 #### 📝 İstem
 
 ```
 {
   "image_description": {
-    "overall_theme": "High-technology augmented reality analysis of a scenic outdoor portrait",
-    "resolution": "4K UHD, hyper-realistic with sharp data overlay",
+    "overall_theme": "Manzaralı bir dış mekan portresinin yüksek teknolojili artırılmış gerçeklik analizi",
+    "resolution": "4K UHD, keskin veri katmanlarıyla hiper gerçekçi",
     "subject": {
       "name": "Woman_Model_A",
-      "pose": "Seated_profile, looking_left, side",
+      "pose": "Oturur_pozisyonda_profil, sola_bakıyor, yan",
       "attire": {
-        "garment": "Draped_One_Shoulder Pleated_Silk_Green_Dress",
+        "garment": "Drape_Tek_Omuz_Pileli_İpek_Yeşil_Elbise",
         "color_hex": "#1E6641",
-        "footwear": "Boots_Maroon",
+        "footwear": "Botlar_Bordo",
         "accessory": {
-          "type": "Bag_Two-Tone Leather/Metal",
-          "details": "Gold_Buckle_feature"
+          "type": "Çanta_İki_Tonlu Deri/Metal",
+          "details": "Altın_Toka_özelliği"
         }
       }
     },
     "environment": {
-      "location": "Nusa_Penida_Cliffside",
-      "terrain": "Rocky_Path",
+      "location": "Nusa_Penida_Uçurumu",
+      "terrain": "Kayalık_Yol",
       "details": {
         "main_trees": {
-          "type": "Fern_Tree",
+          "type": "Eğrelti_Ağacı",
           "count": 3
         },
-        "vegetation": "Lush mossy trees, vibrant red flowers, exotic plants",
-        "boundary": "Wooden fence posts with thick rope rail",
-        "background": "Distant tree-covered cliffs partially obscured by mist, with birds in flight",
-        "specific_sign": "Small sign on a fence post with the text 'Kelingking'"
+        "vegetation": "Gür yosunlu ağaçlar, canlı kırmızı çiçekler, egzotik bitkiler",
+        "boundary": "Kalın halatlı korkuluklara sahip ahşap çit direkleri",
+        "background": "Sis tarafından kısmen gizlenmiş, ağaçlarla kaplı uzak uçurumlar ve uçuşan kuşlar",
+        "specific_sign": "Çit direğinde 'Kelingking' yazılı küçük bir tabela"
       }
     },
     "data_overlay": {
-      "style": "Translucent cyan digital interface with glowing gridlines and panel outlines",
+      "style": "Parlayan ızgara çizgileri ve panel ana hatlarına sahip yarı saydam camgöbeği dijital arayüz",
       "panels": [
         {
-          "position": "Top-Left (Stacked Vertical)",
+          "position": "Sol-Üst (Dikey İstiflenmiş)",
           "content": [
-            "ANALYSIS: SUBJECT_DETECT",
-            "POSE: SEATED_PROFILE",
-            "OUTFIT: DRAPED_ONE_SHOULDER",
-            "COLOR: #1E6641_SILK_GREEN",
-            "ACCESSORY_1: BAG_TWO-TONE",
-            "MATERIAL: LEATHER/METAL",
-            "HEEL: BOOTS_MAROON"
+            "ANALİZ: ÖZNE_ALGILANDI",
+            "POZ: OTURUR_PROFİL",
+            "KIYAFET: DRAPE_TEK_OMUZ",
+            "RENK: #1E6641_İPEK_YEŞİL",
+            "AKSESUAR_1: ÇANTA_İKİ_TONLU",
+            "MATERYAL: DERİ/METAL",
+            "TOPUK: BOTLAR_BORDO"
           ]
         },
         {
-          "position": "Top-Center (Floating Block)",
-          "content": "COORDINATES: -8.7495° S, 115.0934° E"
+          "position": "Orta-Üst (Yüzen Blok)",
+          "content": "KOORDİNATLAR: -8.7495° G, 115.0934° D"
         },
         {
-          "position": "Center-Left (Embedded Annotation)",
-          "linked_to": "Leftmost Fern Tree",
-          "content": "FERN_TREE (count: 3)"
+          "position": "Sol-Orta (Gömülü Açıklama)",
+          "linked_to": "En Soldaki Eğrelti Ağacı",
+          "content": "EĞRELTİ_AĞACI (adet: 3)"
         },
         {
-          "position": "Center-Right (Embedded Annotation)",
-          "linked_to": "Rightmost Fern Tree",
-          "content": "FERN_TREE (count: 3)"
+          "position": "Sağ-Orta (Gömülü Açıklama)",
+          "linked_to": "En Sağdaki Eğrelti Ağacı",
+          "content": "EĞRELTİ_AĞACI (adet: 3)"
         },
         {
-          "position": "Top-Right (Annotation)",
-          "linked_to": "Cliffs",
-          "content": "CLIFF_DISTANCE (approx: 450m)"
+          "position": "Sağ-Üst (Açıklama)",
+          "linked_to": "Uçurumlar",
+          "content": "UÇURUM_MESAFESİ (yaklaşık: 450m)"
         },
         {
-          "position": "Bottom-Right (Formatted JSON Block)",
-          "content": "{\n  \"model\": {\n    \"name\": \"Woman_Model_A\",\n    \"pose\": \"Seated_left_looking_side\"\n  },\n  \"apparel\": {\n    \"garment\": \"Pleated_Silk_Green_Dress\",\n    \"style\": \"One-Shoulder_Draped\"\n  },\n  \"bag\": {\n    \"type\": \"Two-Tone_Leather_Gold-Buckle\",\n    \"brand\": \"Luxury_Accessory\"\n  },\n  \"location\": \"Nusa_Penida_Cliffside\",\n  \"terrain\": \"Rocky_Path\"\n}"
+          "position": "Sağ-Alt (Biçimlendirilmiş JSON Bloğu)",
+          "content": "{\n  \"model\": {\n    \"name\": \"Woman_Model_A\",\n    \"pose\": \"Oturur_sol_yan_bakış\"\n  },\n  \"apparel\": {\n    \"garment\": \"Pileli_İpek_Yeşil_Elbise\",\n    \"style\": \"Tek_Omuz_Drape\"\n  },\n  \"bag\": {\n    \"type\": \"İki_Tonlu_Deri_Altın_Toka\",\n    \"brand\": \"Lüks_Aksesuar\"\n  },\n  \"location\": \"Nusa_Penida_Uçurumu\",\n  \"terrain\": \"Kayalık_Yol\"\n}"
         }
       ]
     }
@@ -2133,7 +2134,7 @@ A highly technological prompt for an augmented reality analysis of a scenic port
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424058640_02zl8s_HKrYUBHbMAAq3Be.jpg" width="600" alt="İnfografik / Eğitici Görsel - AR Scenic Cliffside Portrait Analysis - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424058640_02zl8s_HKrYUBHbMAAq3Be.jpg" width="600" alt="İnfografik / Eğitici Görsel - AR Manzaralı Uçurum Portre Analizi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3447,19 +3448,19 @@ Nano Banana Pro'da atmosferik derinliği keşfetmek. Canlı turuncu saçlar ile 
 
 ---
 
-### No. 68: Çizgi Roman / Hikaye Taslağı - Archive Recovery Operative Character Sheet
+### No. 68: Çizgi Roman / Hikaye Taslağı - Arşiv Kurtarma Operatörü Karakter Sayfası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A comprehensive prompt for a sci-fi character design sheet, showing front, side, and back views of a recovery operative in tactical armor.
+Taktik zırhlı bir kurtarma operatörünün ön, yan ve arka görünümlerini gösteren, bilim kurgu karakter tasarım sayfasına yönelik kapsamlı bir komut.
 
 #### 📝 İstem
 
 ```
-full body character sheet, front view, side view, back view, {argument name="character role" default="Archive Recovery Operative"}, realistic sci fi, {argument name="armor color" default="white and dark gray"} tactical armor, industrial design, armored trench coat, blue vertical visor helmet, reinforced chest armor, utility belts, retrieval equipment, non military aesthetic, futuristic recovery unit, highly detailed, clean white background, ultra realistic image , realistic, real life.
+tam vücut karakter sayfası, ön görünüm, yan görünüm, arka görünüm, {argument name="character role" default="Arşiv Kurtarma Operatörü"}, gerçekçi bilim kurgu, {argument name="armor color" default="beyaz ve koyu gri"} taktik zırh, endüstriyel tasarım, zırhlı trençkot, mavi dikey vizörlü kask, güçlendirilmiş göğüs zırhı, yardımcı kemerler, kurtarma ekipmanı, askeri olmayan estetik, fütüristik kurtarma birimi, yüksek detaylı, temiz beyaz arka plan, ultra gerçekçi görsel, gerçekçi, gerçek hayat.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -3467,7 +3468,7 @@ full body character sheet, front view, side view, back view, {argument name="cha
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424051793_bqtprz_HKuz485WUAAVbHj.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Archive Recovery Operative Character Sheet - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424051793_bqtprz_HKuz485WUAAVbHj.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Arşiv Kurtarma Operatörü Karakter Sayfası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3481,19 +3482,19 @@ full body character sheet, front view, side view, back view, {argument name="cha
 
 ---
 
-### No. 69: Çizgi Roman / Hikaye Taslağı - Futuristic Mobile Suit Pilot
+### No. 69: Çizgi Roman / Hikaye Taslağı - Fütüristik Mobil Zırh Pilotu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A cinematic Dutch angle shot of a young woman donning a sci-fi pilot suit, featuring melancholic lighting and hyper-realistic details.
+Bilim kurgu pilot kıyafeti giymiş genç bir kadının melankolik aydınlatma ve hiper gerçekçi detaylarla sunulduğu sinematik bir Dutch angle çekimi.
 
 #### 📝 İstem
 
 ```
-A cinematic, dutch angle, full body shot of a {argument name="subject" default="young woman"} as in <<<image_1>>> cooly walking in profile, using both hands to put on an off-white, mobile suit pilot helmet with metallic black visor. She wears a tight, detailed, {argument name="outfit" default="futuristic white mobile suit pilot suit"} with subtle signs of wear and tear, including scuffs and grime textures. The lighting is {argument name="lighting" default="soft, cool, and diffused"}, creating a melancholic and introspective mood with a palette of pale blues, stark whites, and pops of muted grey. The background is a blurred, minimalist sci-fi interior with sterile, light-toned architecture. Shot on a 35mm lens with a shallow depth of field, focusing sharply on her face and body, high-quality digital photography, hyper-realistic, intricate details, soft cinematic highlights, ethereal atmosphere. Loose messy hair style. Visor should have no reflection of the photographer. Lazily gazing at the camera.
+Sinematik, dutch angle, tam boy bir {argument name="subject" default="genç kadın"} çekimi, tıpkı <<<image_1>>> görselindeki gibi, profilden havalı bir şekilde yürüyor ve iki eliyle metalik siyah vizörlü, kırık beyaz bir mobil zırh pilot kaskını takıyor. Üzerinde, aşınma ve yıpranma izleri, sürtünme ve kir dokuları içeren, dar ve detaylı bir {argument name="outfit" default="fütüristik beyaz mobil zırh pilot kıyafeti"} var. Aydınlatma {argument name="lighting" default="yumuşak, soğuk ve yayılmış"} olup, soluk maviler, keskin beyazlar ve mat gri tonlarıyla melankolik ve içe dönük bir atmosfer yaratıyor. Arka plan, steril ve açık tonlu mimariye sahip, bulanık, minimalist bir bilim kurgu iç mekanı. 35mm lens ile sığ alan derinliğinde çekilmiş, yüzüne ve vücuduna keskin bir şekilde odaklanılmış, yüksek kaliteli dijital fotoğrafçılık, hiper gerçekçi, karmaşık detaylar, yumuşak sinematik vurgular, ruhani bir atmosfer. Dağınık saç stili. Vizörde fotoğrafçının yansıması olmamalı. Kameraya tembelce bakıyor.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -3501,7 +3502,7 @@ A cinematic, dutch angle, full body shot of a {argument name="subject" default="
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424064326_au4qs1_HKqGyNeacAArkgV.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Futuristic Mobile Suit Pilot - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424064326_au4qs1_HKqGyNeacAArkgV.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Fütüristik Mobil Zırh Pilotu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4223,18 +4224,18 @@ Belden yukarısı görünen, rüzgarda savrulan saçlara ve etkileyici gözlere 
 
 ---
 
-### No. 87: Ürün Pazarlaması - Brutalist Botanical Haute Macabre Editorial
+### No. 87: Ürün Pazarlaması - Brütalist Botanik Haute Macabre Editöryeli
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-A complex editorial photography prompt featuring avant-garde macabre couture within a brutalist concrete vault.
+Brütalist beton bir mahzen içerisinde avangart ve ürkütücü bir haute couture tasarımını konu alan karmaşık bir editöryel fotoğrafçılık istemi.
 
 #### 📝 İstem
 
 ```
-{"vibe_title_en": "Autumnal Haute Macabre", "master_prompt": "A hyper-realistic, medium-format editorial photograph of The Protagonist standing in a cavernous, dust-filled brutalist concrete botanical vault. The Protagonist is styled in avant-garde, macabre autumnal couture: a massive skirt constructed entirely of hundreds of fresh, heavy, dewy white roses, a tight corset woven from dried golden wheat and distressed amber silk, and knee-high, distressed crimson leather lace-up boots. They wear a dramatic, sculptural headpiece made of curled, desiccated sunflower leaves and crimson leather gloves. In one hand, they gracefully hold a towering, 7-foot-tall dried sunflower as a staff. The Protagonist's face features editorial, eerie makeup with a crimson lip stain subtly smeared upward at the corners like a porcelain doll, contrasting with hyper-detailed, natural skin pores and a pale complexion. The expression is one of theatrical, eerie confidence with the head tilted slightly back. The setting features a flat, textured ash-grey concrete wall behind them, scattered frost and fallen dried petals on the floor, and suspended dust motes in the air. Shot on Hasselblad H6D-100c, 80mm f/2.8 lens. Soft, directional Rembrandt lighting with a subtle volumetric haze to catch the dust. Kodak Portra 400 film stock, emphasizing the tactile weave of the dried leaves, the velvet texture of the roses, and the rich, organic color palette of golds, whites, and deep crimsons. Cinematic, unsettling, majestic.", "meta": {"intent": "Surreal Haute Couture Editorial", "priorities": "Photographic realism, tactile floral textures, eerie narrative energy, physical weight of impossible garments", "device_profile": "Medium Format Hasselblad"}, "frame": {"aspect": "4:5", "composition": "Full body portrait, slightly asymmetrical balance with the prop", "layout": "Subject centered but dynamic pose, tall floral staff breaking the vertical plane", "camera_angle": "Eye-level, slightly low to emphasize theatrical majesty", "tilt_roll_degrees": "0"}, "subject": {"gender": "Female", "identity": "The Protagonist", "demographics": "Ageless, ethereal", "face": "Symmetrical, eerie high-fashion makeup, smeared crimson lips, visible skin pores", "hair": "Concealed beneath a massive floral headpiece", "body": "Tall, statuesque, wearing heavy sculptural garments", "expression": "Theatrical, eerie confidence, chin tilted up with an unsettling half-smile", "pose": "Standing elegantly, resting weight on one hip, gripping a giant sunflower staff"}, "wardrobe_accessories": {"garments": [{"item": "Voluminous skirt", "material": "Fresh, heavy white roses with dew", "color": "Pure white and cream", "fit": "Massive, sculptural bell shape"}, {"item": "Corset bodice", "material": "Dried golden wheat and distressed silk", "color": "Amber and gold", "fit": "Tight, structured, laced"}, {"item": "Knee-high lace-up boots", "material": "Distressed, weathered leather", "color": "Crimson red", "fit": "Fitted, tightly laced"}], "accessories": [{"item": "Giant sunflower staff", "color": "Golden yellow and brown", "material": "Dried organic flora, thick stalk", "brand_style": "Avant-garde nature"}, {"item": "Sculptural headpiece", "color": "Golden yellow and dried amber", "material": "Curled dried sunflower leaves and petals", "brand_style": "Theatrical couture"}, {"item": "Long gauntlet gloves", "color": "Crimson red", "material": "Textured leather", "brand_style": "Vintage macabre"}]}, "environment": {"setting": "Cavernous brutalist concrete botanical vault", "surfaces": "Textured ash-grey concrete walls, frost-dusted floor with fallen dried petals", "depth": "Shallow focus on the background but implying immense architectural scale", "atmosphere": "Cold, still, suspended dust motes catching the light, faint volumetric haze", "lens_interaction": "Soft focus falloff on the extreme edges of the background wall"}, "lighting": {"key": "Soft directional softbox from upper left imitating overcast skylight", "fill": "Subtle silver reflector bouncing light into the shadows of the roses", "rim": "Faint cool rim light separating the golden headpiece from the grey concrete", "shadows": "Deep but soft-edged, anchoring the subject firmly to the floor", "color_temperature": "5200K", "sensor_flare": "None"}, "camera": {"lens_type": "Medium Format Prime", "focal_length": "80mm", "aperture": "f/2.8", "focus": "Tack sharp on the face and the center of the white rose skirt", "sensor_format": "Medium Format 100MP", "perspective_distortion": "Zero distortion, perfectly rectilinear"}, "post_processing": {"color": "Rich, analog color grade with muted neutral background and popping organic golds and reds", "tonality": "High micro-contrast to emphasize the dried textures versus soft macro contrast for a cinematic feel", "texture": "Kodak Portra 400 film grain, preserved natural imperfections", "digital_sharpening": "None, pure optical sharpness only", "chromatic_aberration": "Minimal, existing only at the extreme edges of the sunflower staff"}, "negative_specifications": ["neon", "digital painting", "3d render", "plastic skin", "cartoon", "illustration", "modern cityscape", "casual clothing", "flat lighting", "CGI look"]}
+{"vibe_title_en": "Sonbahar Haute Macabre", "master_prompt": "The Protagonist'in tozlu, mağara benzeri brütalist beton bir botanik mahzende durduğu, hiper gerçekçi, orta format bir editöryel fotoğraf. The Protagonist, avangart ve ürkütücü bir sonbahar couture tasarımıyla giydirilmiştir: tamamen yüzlerce taze, ağır ve çiy damlalı beyaz gülden oluşan devasa bir etek; kurumuş altın başaklar ve yıpranmış kehribar rengi ipekten dokunmuş dar bir korse; ve diz boyu, yıpranmış kızıl deri bağcıklı botlar. Başında kıvrılmış, kurumuş ayçiçeği yapraklarından yapılmış dramatik ve heykelsi bir başlık ve ellerinde kızıl deri eldivenler bulunmaktadır. Bir elinde, asa niyetine 2 metrelik devasa, kurumuş bir ayçiçeği tutmaktadır. The Protagonist'in yüzünde, porselen bir bebek gibi köşelerden yukarı doğru hafifçe dağılmış kızıl rujla yapılmış, hiper detaylı doğal cilt gözenekleri ve solgun ten rengiyle tezat oluşturan editöryel ve tekinsiz bir makyaj vardır. İfadesi, başı hafifçe geriye eğik, teatral ve ürkütücü bir özgüven taşımaktadır. Arka planda düz, dokulu kül grisi bir beton duvar, yerde dağılmış kırağı ve dökülmüş kurumuş yapraklar, havada ise asılı toz zerreleri yer almaktadır. Hasselblad H6D-100c, 80mm f/2.8 lens ile çekilmiştir. Tozu yakalamak için hafif hacimsel pus ile yumuşak, yönlü Rembrandt ışıklandırması kullanılmıştır. Kodak Portra 400 film stoğu, kurumuş yaprakların dokunsal örgüsünü, güllerin kadifemsi dokusunu ve altın, beyaz ve derin kızıl tonlarından oluşan zengin, organik renk paletini vurgulamaktadır. Sinematik, huzursuz edici, görkemli.", "meta": {"intent": "Sürreal Haute Couture Editöryeli", "priorities": "Fotoğrafik gerçekçilik, dokunsal çiçek dokuları, tekinsiz anlatı enerjisi, imkansız kıyafetlerin fiziksel ağırlığı", "device_profile": "Orta Format Hasselblad"}, "frame": {"aspect": "4:5", "composition": "Tam boy portre, aksesuarla hafif asimetrik denge", "layout": "Özne merkezli ancak dinamik poz, dikey düzlemi kıran uzun çiçekli asa", "camera_angle": "Göz hizası, teatral görkemi vurgulamak için hafif düşük açı", "tilt_roll_degrees": "0"}, "subject": {"gender": "Kadın", "identity": "The Protagonist", "demographics": "Yaşsız, ruhani", "face": "Simetrik, tekinsiz yüksek moda makyajı, dağılmış kızıl dudaklar, görünür cilt gözenekleri", "hair": "Devasa çiçekli başlığın altında gizli", "body": "Uzun, heykelsi, ağır heykelsi kıyafetler içinde", "expression": "Teatral, tekinsiz özgüven, çene yukarı kalkık ve huzursuz edici bir yarım gülümseme", "pose": "Zarif bir şekilde ayakta, ağırlığını bir kalçasına vermiş, dev ayçiçeği asasını kavrıyor"}, "wardrobe_accessories": {"garments": [{"item": "Hacimli etek", "material": "Taze, ağır, çiy damlalı beyaz güller", "color": "Saf beyaz ve krem", "fit": "Devasa, heykelsi çan formu"}, {"item": "Korse büstiyer", "material": "Kurumuş altın başaklar ve yıpranmış ipek", "color": "Kehribar ve altın", "fit": "Dar, yapılandırılmış, bağcıklı"}, {"item": "Diz boyu bağcıklı botlar", "material": "Yıpranmış, eskitilmiş deri", "color": "Kızıl kırmızı", "fit": "Vücuda oturan, sıkı bağcıklı"}], "accessories": [{"item": "Dev ayçiçeği asası", "color": "Altın sarısı ve kahverengi", "material": "Kurumuş organik bitki, kalın sap", "brand_style": "Avangart doğa"}, {"item": "Heykelsi başlık", "color": "Altın sarısı ve kurumuş kehribar", "material": "Kıvrılmış kurumuş ayçiçeği yaprakları ve taç yaprakları", "brand_style": "Teatral couture"}, {"item": "Uzun eldivenler", "color": "Kızıl kırmızı", "material": "Dokulu deri", "brand_style": "Vintage macabre"}]}, "environment": {"setting": "Mağara benzeri brütalist beton botanik mahzen", "surfaces": "Dokulu kül grisi beton duvarlar, kırağı kaplı zemin ve dökülmüş kurumuş yapraklar", "depth": "Arka planda sığ odak ancak devasa mimari ölçek hissi", "atmosphere": "Soğuk, durgun, ışığı yakalayan asılı toz zerreleri, hafif hacimsel pus", "lens_interaction": "Arka plan duvarının uç kenarlarında yumuşak odak düşüşü"}, "lighting": {"key": "Sol üstten gelen, kapalı hava gün ışığını taklit eden yumuşak yönlü softbox", "fill": "Güllerin gölgelerine ışık yansıtan ince gümüş reflektör", "rim": "Altın başlığı gri betondan ayıran hafif soğuk kenar ışığı", "shadows": "Derin ama yumuşak kenarlı, özneyi zemine sıkıca sabitleyen", "color_temperature": "5200K", "sensor_flare": "Yok"}, "camera": {"lens_type": "Orta Format Prime", "focal_length": "80mm", "aperture": "f/2.8", "focus": "Yüz ve beyaz gül eteğinin merkezi üzerinde keskin odak", "sensor_format": "Orta Format 100MP", "perspective_distortion": "Sıfır bozulma, mükemmel doğrusal"}, "post_processing": {"color": "Nötr arka plan ve öne çıkan organik altın ve kırmızı tonlarıyla zengin, analog renk derecelendirmesi", "tonality": "Kurumuş dokuları vurgulamak için yüksek mikro kontrast, sinematik his için yumuşak makro kontrast", "texture": "Kodak Portra 400 film greni, korunmuş doğal kusurlar", "digital_sharpening": "Yok, sadece saf optik keskinlik", "chromatic_aberration": "Minimum, sadece ayçiçeği asasının uç kenarlarında mevcut"}, "negative_specifications": ["neon", "dijital boyama", "3d render", "plastik cilt", "karikatür", "illüstrasyon", "modern şehir manzarası", "günlük kıyafet", "düz ışıklandırma", "CGI görünümü"]}
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -4242,13 +4243,13 @@ A complex editorial photography prompt featuring avant-garde macabre couture wit
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424058760_i2ajqc_HKsZ_b8WgAAEkgN.jpg" width="600" alt="Ürün Pazarlaması - Brutalist Botanical Haute Macabre Editorial - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424058760_i2ajqc_HKsZ_b8WgAAEkgN.jpg" width="600" alt="Ürün Pazarlaması - Brütalist Botanik Haute Macabre Editöryeli - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424058744_19a190_HKsZ_eEWgAAdJd5.jpg" width="600" alt="Ürün Pazarlaması - Brutalist Botanical Haute Macabre Editorial - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424058744_19a190_HKsZ_eEWgAAdJd5.jpg" width="600" alt="Ürün Pazarlaması - Brütalist Botanik Haute Macabre Editöryeli - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -4262,22 +4263,22 @@ A complex editorial photography prompt featuring avant-garde macabre couture wit
 
 ---
 
-### No. 88: Ürün Pazarlaması - Luxury Street Fashion Portrait
+### No. 88: Ürün Pazarlaması - Lüks Sokak Modası Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A high-fashion prompt for a cinematic portrait of a young woman in urban attire, leaning against a mirrored wall.
+Kentsel kıyafetler içinde, aynalı bir duvara yaslanmış genç bir kadının sinematik portresi için yüksek moda istemi.
 
 #### 📝 İstem
 
 ```
-Create a cinematic, ultra-realistic full-body portrait of a {argument name="subject" default="stylish 20-year-old girl"} leaning casually against a {argument name="background" default="modern dark mirrored wall outdoors"}. She has beautiful, flowing curly hair.
-**Outfit & Accessories:** An {argument name="outfit" default="oversized, biscuit-colored branded A/X t-shirt, loose black-wash baggy jeans, and clean white sneakers"}. She is wearing a luxury diamond wristwatch and a delicate gold neck chain.
-**Pose & Style:** She is standing in a full confident, comfortable, and luxury fashion pose.
-**Quality:** Photorealistic, 8K resolution, high-fidelity details, dramatic depth of field with cinematic lighting.
+Sinematik, ultra gerçekçi, tam boy bir {argument name="subject" default="şık, 20 yaşında bir kız"} portresi oluşturun; {argument name="background" default="dış mekanda modern, koyu renkli aynalı bir duvar"} önünde rahat bir şekilde yaslanmış olsun. Güzel, dalgalı ve hacimli saçlara sahip.
+**Kıyafet & Aksesuarlar:** {argument name="outfit" default="oversize, bisküvi rengi markalı bir A/X tişört, bol kesim siyah yıkamalı jean ve temiz beyaz spor ayakkabılar"}. Lüks bir elmas kol saati ve zarif bir altın kolye takıyor.
+**Poz & Stil:** Kendinden emin, rahat ve lüks bir moda pozu veriyor.
+**Kalite:** Fotogerçekçi, 8K çözünürlük, yüksek sadakatli detaylar, sinematik aydınlatma ile dramatik alan derinliği.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -4285,7 +4286,7 @@ Create a cinematic, ultra-realistic full-body portrait of a {argument name="subj
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424058862_ttluw9_HKq_owIbEAAd_UP.jpg" width="600" alt="Ürün Pazarlaması - Luxury Street Fashion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424058862_ttluw9_HKq_owIbEAAd_UP.jpg" width="600" alt="Ürün Pazarlaması - Lüks Sokak Modası Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4299,19 +4300,19 @@ Create a cinematic, ultra-realistic full-body portrait of a {argument name="subj
 
 ---
 
-### No. 89: Ürün Pazarlaması - Copper Wall High Fashion Gowns
+### No. 89: Ürün Pazarlaması - Bakır Duvar Yüksek Moda Elbiseleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-An editorial photography prompt featuring models in silk satin and pleated gowns against a weathered copper architectural backdrop.
+Eskimiş bakır mimari bir arka plan önünde ipek saten ve pileli elbiseler giymiş modellerin yer aldığı bir editoryal fotoğrafçılık istemi.
 
 #### 📝 İstem
 
 ```
-A high-fashion, editorial photography capture of {argument name="subjects" default="two elegant models"} posing against a dramatic architectural backdrop made of large, weathered copper panels. The background features a mix of warm, brushed copper and sections with a green, oxidized verdigris patina. On the left, a model with sleek, slicked-back hair looks over her shoulder at the camera, wearing a sophisticated, floor-length silk satin gown in a {argument name="color 1" default="warm champagne gold"} color with an asymmetrical, structured neckline. On the right, the second model stands on a slightly raised platform, wearing a sleeveless, {argument name="color 2" default="rust-orange"} gown featuring a finely pleated, tiered ruffled skirt that cascades down. She has a classic bob hairstyle and rests her hands gently against the curved copper wall. Lush green Monstera and tropical plants in matching copper planters frame the scene, adding a natural touch. The lighting is warm and cinematic, casting soft shadows and highlighting the rich textures of the fabric and the metallic walls.
+Büyük, eskimiş bakır panellerden oluşan dramatik bir mimari arka plan önünde poz veren {argument name="subjects" default="iki zarif model"} ile yüksek moda, editoryal bir fotoğraf çekimi. Arka planda sıcak, fırçalanmış bakır ile yeşil, oksitlenmiş bakır pası (verdigris) bölümlerinin bir karışımı yer alıyor. Solda, saçları geriye doğru taranmış, şık bir model omzunun üzerinden kameraya bakıyor; üzerinde asimetrik, yapılandırılmış yaka kesimine sahip, {argument name="color 1" default="sıcak şampanya rengi"} tonunda, yere kadar uzanan sofistike bir ipek saten elbise var. Sağda, ikinci model hafif yüksek bir platform üzerinde duruyor; üzerinde aşağıya doğru kat kat dökülen, ince pileli, fırfırlı eteğe sahip, kolsuz, {argument name="color 2" default="pas rengi turuncu"} bir elbise var. Klasik bir bob saç kesimine sahip ve ellerini hafifçe kavisli bakır duvara dayamış. Uyumlu bakır saksılardaki gür yeşil Monstera ve tropikal bitkiler sahneyi çerçeveleyerek doğal bir dokunuş katıyor. Işıklandırma sıcak ve sinematik; yumuşak gölgeler oluştururken kumaşın ve metalik duvarların zengin dokularını vurguluyor.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -4319,7 +4320,7 @@ A high-fashion, editorial photography capture of {argument name="subjects" defau
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424062445_oyb3za_HKq_CxQW4AAcHIt.jpg" width="600" alt="Ürün Pazarlaması - Copper Wall High Fashion Gowns - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424062445_oyb3za_HKq_CxQW4AAcHIt.jpg" width="600" alt="Ürün Pazarlaması - Bakır Duvar Yüksek Moda Elbiseleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4333,24 +4334,24 @@ A high-fashion, editorial photography capture of {argument name="subjects" defau
 
 ---
 
-### No. 90: Ürün Pazarlaması - Premium Anime Typographic Poster
+### No. 90: Ürün Pazarlaması - Premium Anime Tipografik Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A sophisticated prompt for creating high-fashion anime-style posters with bold typography and cinematic lighting, ideal for brand visuals or stylized character portraits.
+Cesur tipografi ve sinematik ışıklandırma ile yüksek moda anime tarzı posterler oluşturmak için sofistike bir komut; marka görselleri veya stilize karakter portreleri için idealdir.
 
 #### 📝 İstem
 
 ```
-Create a {argument name="style" default="premium anime-style typographic poster"}. Accurately recreate the person's face and features based on the reference photo. Show her in a stylish side-walking pose with a modern, high-fashion outfit and a confident expression. Place "{argument name="main text" default="AI VISUAL EDITOR"}" in huge, bold English typography behind the subject, using textured orange letters on a dark vintage background. 
+Bir {argument name="style" default="premium anime tarzı tipografik poster"} oluştur. Referans fotoğrafa dayanarak kişinin yüzünü ve özelliklerini doğru bir şekilde yeniden yarat. Onu şık bir yan yürüyüş pozunda, modern, yüksek moda bir kıyafet ve kendinden emin bir ifadeyle göster. "{argument name="main text" default="AI VISUAL EDITOR"}" yazısını, koyu renkli vintage bir arka plan üzerinde dokulu turuncu harfler kullanarak, öznenin arkasında devasa ve kalın İngilizce tipografi ile yerleştir.
 
-Add professional-themed text on the left side:
-"AI VISUAL EDITOR is more than a career. It is passion, discipline, growth, and impact. Every challenge builds expertise, every step creates success. Focused on progress. Driven by purpose."
+Sol tarafa profesyonel temalı metni ekle:
+"AI VISUAL EDITOR bir kariyerden daha fazlasıdır. Tutku, disiplin, gelişim ve etkidir. Her zorluk uzmanlık inşa eder, her adım başarı yaratır. İlerlemeye odaklı. Amaçla hareket eden."
 
-Subtly integrate the branding handle "{argument name="handle" default="AIwithkinza"}" on the clothing. Include the signature watermark "Kinza 💫" subtly in the bottom corner of the design. Premium poster aesthetic, cinematic lighting, clean composition, grain texture, ultra-detailed digital illustration, 4K, 9:16 aspect ratio.
+Marka kullanıcı adını "{argument name="handle" default="AIwithkinza"}" kıyafetin üzerine incelikle entegre et. Tasarımın alt köşesine imza niteliğindeki "Kinza 💫" filigranını hafifçe ekle. Premium poster estetiği, sinematik ışıklandırma, temiz kompozisyon, gren dokusu, ultra detaylı dijital illüstrasyon, 4K, 9:16 en boy oranı.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -4358,7 +4359,7 @@ Subtly integrate the branding handle "{argument name="handle" default="AIwithkin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424050516_5cv5d2_HKqi-xzbgAAF78S.jpg" width="600" alt="Ürün Pazarlaması - Premium Anime Typographic Poster - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424050516_5cv5d2_HKqi-xzbgAAF78S.jpg" width="600" alt="Ürün Pazarlaması - Premium Anime Tipografik Poster - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4372,21 +4373,21 @@ Subtly integrate the branding handle "{argument name="handle" default="AIwithkin
 
 ---
 
-### No. 91: Ürün Pazarlaması - Italian Villa Travel Editorial
+### No. 91: Ürün Pazarlaması - İtalyan Villası Seyahat Editöryali
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A romantic, photorealistic portrait of a woman on a Mediterranean balcony, captured with luxury travel magazine aesthetics.
+Lüks seyahat dergisi estetiğiyle çekilmiş, Akdeniz balkonunda romantik ve fotogerçekçi bir kadın portresi.
 
 #### 📝 İstem
 
 ```
-Photorealistic romantic {argument name="location" default="European travel editorial"} portrait of a beautiful young woman, standing in an open {argument name="doorway color" default="crimson-red"} balcony doorway of a luxurious {argument name="villa type" default="Italian coastal villa"}. She wears a pink-and-white micro pinstripe sundress with a deep plunging neckline with delicate red velvet floral ruffle trim along the inner V-neckline. Front buttons, thin straps, elegant ruby-red drop earrings, delicate gold with red stone bracelet. Fair pinkish flawless skin, natural soft-glam makeup, large brown striking eyes, subtle peach blush, pink-rosy plumpy lips. Dark brown hair styled in a messy romantic low updo with loose face-framing wavy strands. Her body is turned slightly away from camera while leaning gently against the doorframe, hands relaxed together in front of her body. She looks toward the camera with a soft dreamy expression, lips slightly parted. Vintage floral wallpaper, lace-covered table, flowers and antique decor inside the room. Bright Mediterranean coastline, turquoise water, white cliffside buildings and flower boxes visible outside the balcony. Eye-level shot, medium portrait framing, 85mm lens, f/1.8, shallow depth of field, creamy bokeh, natural window light, soft diffused daylight, warm filmic tones, luxury travel magazine aesthetic, highly detailed, photorealistic, cinematic, elegant, romantic atmosphere.
+Lüks bir {argument name="villa type" default="İtalyan sahil villası"}nın açık {argument name="doorway color" default="kızıl"} balkon kapısında duran güzel genç bir kadının fotogerçekçi, romantik {argument name="location" default="Avrupa seyahat editöryali"} portresi. İç V yaka boyunca zarif kırmızı kadife çiçek fırfırlı süslemelere sahip, derin dekolteli, pembe-beyaz mikro ince çizgili bir yazlık elbise giyiyor. Ön düğmeli, ince askılı, zarif yakut kırmızısı sallantılı küpeler, kırmızı taşlı zarif altın bileklik. Kusursuz, açık pembe ten, doğal soft-glam makyaj, iri kahverengi çarpıcı gözler, hafif şeftali tonlarında allık, pembe-gül rengi dolgun dudaklar. Dağınık ve romantik bir şekilde düşük topuz yapılmış, yüzünü çerçeveleyen gevşek dalgalı tutamlara sahip koyu kahverengi saçlar. Vücudu kameradan hafifçe yana dönük, kapı pervazına nazikçe yaslanmış, elleri vücudunun önünde rahat bir şekilde birleşmiş. Yumuşak ve hayalperest bir ifadeyle, dudakları hafif aralık şekilde kameraya bakıyor. İçeride vintage çiçekli duvar kağıdı, dantel örtülü masa, çiçekler ve antika dekorlar. Balkonun dışında parlak Akdeniz kıyı şeridi, turkuaz su, beyaz yamaç binaları ve çiçek kutuları görünüyor. Göz hizası çekim, orta portre kadrajı, 85mm lens, f/1.8, sığ alan derinliği, kremsi bokeh, doğal pencere ışığı, yumuşak dağılmış gün ışığı, sıcak filmik tonlar, lüks seyahat dergisi estetiği, yüksek detaylı, fotogerçekçi, sinematik, zarif, romantik atmosfer.
 
-Negative prompt: standing centered, ruffles around entire cups, dark moody lighting, harsh shadows, heavy makeup, modern interior, wide-angle distortion, cartoon, CGI, blur, watermark.
+Negatif istem: ortalanmış duruş, göğüs kısmının tamamında fırfırlar, karanlık ve karamsar aydınlatma, sert gölgeler, ağır makyaj, modern iç mekan, geniş açı bozulması, çizgi film, CGI, bulanıklık, filigran.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -4394,19 +4395,19 @@ Negative prompt: standing centered, ruffles around entire cups, dark moody light
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424055074_cmmmtc_HKqcr_TakAACa5Y.jpg" width="600" alt="Ürün Pazarlaması - Italian Villa Travel Editorial - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424055074_cmmmtc_HKqcr_TakAACa5Y.jpg" width="600" alt="Ürün Pazarlaması - İtalyan Villası Seyahat Editöryali - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424055110_7mt4no_HKqctx2b0AAxC-q.jpg" width="600" alt="Ürün Pazarlaması - Italian Villa Travel Editorial - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424055110_7mt4no_HKqctx2b0AAxC-q.jpg" width="600" alt="Ürün Pazarlaması - İtalyan Villası Seyahat Editöryali - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424055085_lo7wan_HKqcvTPacAA1pUE.jpg" width="600" alt="Ürün Pazarlaması - Italian Villa Travel Editorial - Image 3">
+<img src="https://cms-assets.youmind.com/media/1781424055085_lo7wan_HKqcvTPacAA1pUE.jpg" width="600" alt="Ürün Pazarlaması - İtalyan Villası Seyahat Editöryali - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -4420,22 +4421,22 @@ Negative prompt: standing centered, ruffles around entire cups, dark moody light
 
 ---
 
-### No. 92: Ürün Pazarlaması - Patterned Orange Jumpsuit Fashion Lifestyle
+### No. 92: Ürün Pazarlaması - Desenli Turuncu Tulum Moda Yaşam Tarzı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A detailed lifestyle photography prompt for a woman in a stylized orange jumpsuit with geometric patterns, set in a studio environment.
+Stüdyo ortamında, geometrik desenli stilize bir turuncu tulum giyen bir kadın için detaylı yaşam tarzı fotoğrafçılığı istemi.
 
 #### 📝 İstem
 
 ```
-Ultra-realistic fashion lifestyle photography of a cheerful young woman with shoulder-length wavy dark brown hair, wearing round thin-metal eyeglasses, small hoop earrings, and subtle natural makeup with {argument name="lipstick color" default="bright orange"} lipstick. She is seated comfortably in a {argument name="furniture" default="modern molded lounge chair with a light-blue cushioned interior and smooth curved design"}. Her pose is relaxed and confident, with one hand gently touching her glasses and the other resting naturally on the chair armrest. She is smiling directly at the camera with a warm, genuine expression.
-She wears a stylish tailored {argument name="outfit" default="orange jumpsuit featuring bold white abstract geometric line patterns"}, a belted waist, rolled-up sleeves, wide-leg pants, and a soft satin-like fabric with realistic folds and texture. The outfit maintains the exact same pattern and design, only changing the original red color to a vibrant orange. She pairs it with clean white crew socks and minimalist white leather sneakers.
-Studio fashion editorial setup with a seamless vibrant blue background and matching blue wall, contrasted by a smooth orange floor. Full-body composition, centered framing, seated pose, legs casually crossed, modern contemporary aesthetic. Soft professional studio lighting with balanced highlights and shadows, sharp focus, highly detailed skin texture, realistic fabric rendering, premium fashion campaign photography, magazine-quality styling, natural color grading, ultra-realistic, DSLR quality, shallow depth of field, crisp details, luxury commercial photoshoot, 8K resolution.
-Negative Prompt: blurry, low resolution, extra fingers, deformed hands, distorted face, bad anatomy, duplicated limbs, unrealistic proportions, overexposed lighting, oversaturated colors, watermark, logo, text, cropped feet, cartoon, CGI, illustration, painting, artificial skin texture, exaggerated makeup, unnatural pose.
+Omuz hizasında dalgalı koyu kahverengi saçlara sahip, ince metal çerçeveli yuvarlak gözlükler, küçük halka küpeler ve {argument name="lipstick color" default="parlak turuncu"} ruj ile hafif doğal bir makyaj yapmış neşeli genç bir kadının ultra gerçekçi moda yaşam tarzı fotoğrafı. {argument name="furniture" default="açık mavi minderli iç kısma ve pürüzsüz kavisli tasarıma sahip modern kalıplı bir uzanma koltuğunda"} rahat bir şekilde oturuyor. Pozu rahat ve kendinden emin; bir eli nazikçe gözlüklerine dokunurken diğeri doğal bir şekilde koltuğun kolçağında duruyor. Sıcak ve samimi bir ifadeyle doğrudan kameraya gülümsüyor.
+Üzerinde şık ve özel dikim {argument name="outfit" default="cesur beyaz soyut geometrik çizgi desenlerine sahip turuncu bir tulum"}, kemerli bir bel, kıvrılmış kollar, geniş paçalı pantolon ve gerçekçi kıvrımlara ve dokuya sahip yumuşak saten benzeri bir kumaş var. Kıyafet, orijinal kırmızı rengin canlı bir turuncuya dönüştürülmesi dışında tam olarak aynı desen ve tasarımı koruyor. Kombinini temiz beyaz kısa çoraplar ve minimalist beyaz deri spor ayakkabılarla tamamlıyor.
+Kesintisiz canlı mavi bir arka plan ve uyumlu mavi duvar ile pürüzsüz turuncu bir zeminin kontrast oluşturduğu stüdyo moda editoryal kurulumu. Tam boy kompozisyon, merkezlenmiş kadraj, oturur poz, bacaklar rahatça çapraz, modern çağdaş estetik. Dengeli parlaklık ve gölgelere sahip yumuşak profesyonel stüdyo aydınlatması, keskin odak, yüksek detaylı cilt dokusu, gerçekçi kumaş işleme, premium moda kampanyası fotoğrafçılığı, dergi kalitesinde stil, doğal renk derecelendirme, ultra gerçekçi, DSLR kalitesi, sığ alan derinliği, net detaylar, lüks ticari fotoğraf çekimi, 8K çözünürlük.
+Negatif İstem: bulanık, düşük çözünürlük, fazladan parmaklar, deforme olmuş eller, bozuk yüz, kötü anatomi, çoğaltılmış uzuvlar, gerçekçi olmayan oranlar, aşırı pozlanmış aydınlatma, aşırı doygun renkler, filigran, logo, metin, kesilmiş ayaklar, çizgi film, CGI, illüstrasyon, resim, yapay cilt dokusu, abartılı makyaj, doğal olmayan poz.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -4443,25 +4444,25 @@ Negative Prompt: blurry, low resolution, extra fingers, deformed hands, distorte
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424059865_19risw_HKqc7U4aQAEGEGF.jpg" width="600" alt="Ürün Pazarlaması - Patterned Orange Jumpsuit Fashion Lifestyle - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424059865_19risw_HKqc7U4aQAEGEGF.jpg" width="600" alt="Ürün Pazarlaması - Desenli Turuncu Tulum Moda Yaşam Tarzı - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424059871_1erlrw_HKqc7-7a4AAZ5JN.jpg" width="600" alt="Ürün Pazarlaması - Patterned Orange Jumpsuit Fashion Lifestyle - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424059871_1erlrw_HKqc7-7a4AAZ5JN.jpg" width="600" alt="Ürün Pazarlaması - Desenli Turuncu Tulum Moda Yaşam Tarzı - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424059875_d25pwf_HKqc8iIbgAAKLat.jpg" width="600" alt="Ürün Pazarlaması - Patterned Orange Jumpsuit Fashion Lifestyle - Image 3">
+<img src="https://cms-assets.youmind.com/media/1781424059875_d25pwf_HKqc8iIbgAAKLat.jpg" width="600" alt="Ürün Pazarlaması - Desenli Turuncu Tulum Moda Yaşam Tarzı - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424060844_ds1lss_HKqc9GXbEAAS9aQ.jpg" width="600" alt="Ürün Pazarlaması - Patterned Orange Jumpsuit Fashion Lifestyle - Image 4">
+<img src="https://cms-assets.youmind.com/media/1781424060844_ds1lss_HKqc9GXbEAAS9aQ.jpg" width="600" alt="Ürün Pazarlaması - Desenli Turuncu Tulum Moda Yaşam Tarzı - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -4475,33 +4476,33 @@ Negative Prompt: blurry, low resolution, extra fingers, deformed hands, distorte
 
 ---
 
-### No. 93: Ürün Pazarlaması - Red Monochrome Fashion Studio Portrait
+### No. 93: Ürün Pazarlaması - Kırmızı Monokrom Moda Stüdyosu Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A high-fashion editorial photography prompt set in an intense monochrome red studio, featuring a dramatic low-angle perspective and detailed realistic textures.
+Dramatik bir düşük açı perspektifi ve detaylı gerçekçi dokular içeren, yoğun monokrom kırmızı bir stüdyoda geçen yüksek moda editoryal fotoğrafçılık istemi.
 
 #### 📝 İstem
 
 ```
-Ultra-realistic fashion portrait photography, UHD 18K, vertical aspect ratio 2:3, cinematic editorial masterpiece. A {argument name="subject" default="young women"} sits casually on a simple chair in the middle of a minimalist studio entirely covered in {argument name="color theme" default="intense, bright red"}. The camera is positioned at an extreme low angle from below, creating a dominant and dramatic perspective that makes the figure appear strong, charismatic, and alluring.
+Ultra gerçekçi moda portre fotoğrafçılığı, UHD 18K, 2:3 dikey en boy oranı, sinematik editoryal başyapıt. {argument name="subject" default="genç bir kadın"}, tamamen {argument name="color theme" default="yoğun, parlak kırmızı"} ile kaplı minimalist bir stüdyonun ortasındaki sade bir sandalyede rahat bir şekilde oturuyor. Kamera, figürü güçlü, karizmatik ve çekici gösteren baskın ve dramatik bir perspektif yaratarak aşağıdan aşırı düşük bir açıya yerleştirilmiştir.
 
-The women sits with her body slightly slumped back against the back of the chair. Her legs are spread loosely, creating a natural and confident pose. Her right hand hangs loosely beside her thigh, while her left hand rests on her knee with loose, relaxed fingers. Her shoulders are slightly slumped, reinforcing a tired yet elegant impression.
+Kadın, vücudu sandalyenin arkasına hafifçe yaslanmış şekilde oturuyor. Bacakları doğal ve kendinden emin bir duruş oluşturacak şekilde hafifçe açık. Sağ eli uyluğunun yanında serbestçe sarkarken, sol eli gevşek ve rahat parmaklarla dizinin üzerinde duruyor. Omuzları hafifçe düşük, bu da yorgun ama zarif bir izlenimi pekiştiriyor.
 
-Her head is raised and tilted slightly back, revealing a strong jawline and long neck. Her eyes are gently closed as if she is enjoying a moment of silence, lost in thought, or feeling the warmth of the light enveloping her body. Her lips are slightly parted, conveying a subtle emotional nuance of exhaustion, longing, and serenity.
+Başını kaldırmış ve hafifçe geriye doğru eğmiş, güçlü bir çene hattını ve uzun boynunu ortaya çıkarıyor. Gözleri, sanki bir sessizlik anının tadını çıkarıyormuş, düşüncelere dalmış ya da vücudunu saran ışığın sıcaklığını hissediyormuş gibi hafifçe kapalı. Dudakları hafifçe aralık; bu da yorgunluk, özlem ve dinginlikten oluşan ince bir duygusal nüans taşıyor.
 
-Her wavy hair with a natural texture appears slightly messy, creating a lively and spontaneous impression. The skin appears clean, healthy, and realistic, with fine pore details and soft reflections of light on the face, neck, and hands. There are no tattoos on the body; the focus is entirely on the facial structure, expression, and the play of light that shapes the body's contours.
+Doğal dokulu dalgalı saçları hafif dağınık görünüyor, bu da canlı ve spontane bir izlenim yaratıyor. Cilt temiz, sağlıklı ve gerçekçi görünüyor; ince gözenek detayları ve yüz, boyun ve ellerde yumuşak ışık yansımaları mevcut. Vücutta dövme yok; odak tamamen yüz yapısı, ifade ve vücudun hatlarını şekillendiren ışık oyununda.
 
-The {argument name="clothing" default="long-sleeved white shirt"} is worn casually. The top few buttons are undone, creating a more casual and elegant silhouette. The sleeves are rolled up below the elbows, revealing the fabric's natural, realistic creased texture. The well-cut dark trousers are paired with a classic leather belt, providing a masculine and modern touch.
+{argument name="clothing" default="uzun kollu beyaz gömlek"} günlük bir tarzda giyilmiş. Üstteki birkaç düğme açık, bu da daha gündelik ve zarif bir silüet yaratıyor. Kollar dirseklerin altına kadar sıvanmış, kumaşın doğal ve gerçekçi kırışık dokusunu gözler önüne seriyor. İyi kesimli koyu renkli pantolon, klasik bir deri kemerle tamamlanarak maskülen ve modern bir dokunuş sağlıyor.
 
-The studio lighting is dramatic, with a deep red hue dominating the entire background and surrounding space. The strong red light comes from behind and to the sides, creating contrasting silhouettes and soft shadows that emphasize the shape of the body and face. A thin layer of atmospheric smoke or haze permeates the air, making the red light appear deeper and more cinematic.
+Stüdyo aydınlatması dramatik; tüm arka plana ve çevreleyen alana derin bir kırmızı ton hakim. Güçlü kırmızı ışık arkadan ve yanlardan gelerek, vücudun ve yüzün şeklini vurgulayan kontrast silüetler ve yumuşak gölgeler oluşturuyor. Havada ince bir atmosferik duman veya pus tabakası var, bu da kırmızı ışığın daha derin ve sinematik görünmesini sağlıyor.
 
-The background is kept simple, with no distracting elements, just a gradation of bright red to dark red, creating an emotional and intense atmosphere. The combination of the bright red with the white clothing creates a strong and eye-catching visual contrast.
+Arka plan basit tutulmuş; dikkat dağıtıcı hiçbir unsur yok, sadece parlak kırmızıdan koyu kırmızıya geçiş yapan bir renk tonu, duygusal ve yoğun bir atmosfer yaratıyor. Parlak kırmızı ile beyaz kıyafetin kombinasyonu, güçlü ve dikkat çekici bir görsel kontrast oluşturuyor.
 
-Luxury fashion campaign, dramatic studio lighting, cinematic low-angle portrait, intense monochromatic red environment, editorial photography, photorealistic skin texture, realistic fabric folds, masculine elegance, emotional storytelling, moody atmosphere, volumetric light, subtle haze, contemporary fashion aesthetic, ultra detailed face, sharp focus, award-winning photography, premium magazine cover quality, masterpiece composition, extraordinary realism, hyper realistic portrait.
+Lüks moda kampanyası, dramatik stüdyo aydınlatması, sinematik düşük açılı portre, yoğun monokrom kırmızı ortam, editoryal fotoğrafçılık, fotogerçekçi cilt dokusu, gerçekçi kumaş kıvrımları, maskülen zarafet, duygusal hikaye anlatımı, karamsar atmosfer, hacimsel ışık, hafif pus, çağdaş moda estetiği, ultra detaylı yüz, keskin odak, ödüllü fotoğrafçılık, premium dergi kapağı kalitesi, başyapıt kompozisyonu, olağanüstü gerçekçilik, hiper gerçekçi portre.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -4509,7 +4510,7 @@ Luxury fashion campaign, dramatic studio lighting, cinematic low-angle portrait,
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424060254_ezaii4_HKqTWmfbYAAo7fs.jpg" width="600" alt="Ürün Pazarlaması - Red Monochrome Fashion Studio Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424060254_ezaii4_HKqTWmfbYAAo7fs.jpg" width="600" alt="Ürün Pazarlaması - Kırmızı Monokrom Moda Stüdyosu Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5526,19 +5527,19 @@ Tam boy stüdyo portresi için yapılandırılmış bir istem. Konu, at kuyruğu
 
 ---
 
-### No. 120: Oyun Varlığı - Pixar Style 3D Businessman
+### No. 120: Oyun Varlığı - Pixar Tarzı 3D İş İnsanı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-A charming 3D animated character design of a businessman walking in a city, inspired by Pixar film renders.
+Pixar film renderlarından esinlenilmiş, şehirde yürüyen bir iş insanının büyüleyici 3D animasyon karakter tasarımı.
 
 #### 📝 İstem
 
 ```
-Charming stylized 3D animated {argument name="character" default="African American businessman"} character standing walking outside on a {argument name="setting" default="busy city sidewalk"} talking on his mobile phone on a sunny day, large expressive brown eyes, soft rounded facial features, slightly exaggerated proportions, short brown hair hair, warm rosy cheeks, warm golden morning light, cinematic soft lighting, shallow depth of field, subsurface scattering skin, ultra-detailed 3D animated film render, {argument name="style" default="Pixar-inspired style"}, 85mm lens, high resolution, highly detailed, soft bokeh background, volumetric light, hyperreal human, ultra realistic face, doll face, realistic 3d human portrait
+Güneşli bir günde {argument name="setting" default="hareketli bir şehir kaldırımında"} cep telefonuyla konuşurken dışarıda yürüyen, büyüleyici ve stilize 3D animasyonlu {argument name="character" default="Afro-Amerikalı iş insanı"} karakteri; büyük ve etkileyici kahverengi gözler, yumuşak ve yuvarlak yüz hatları, hafif abartılı oranlar, kısa kahverengi saçlar, sıcak pembe yanaklar, sıcak altın rengi sabah ışığı, sinematik yumuşak aydınlatma, sığ alan derinliği, yüzey altı saçılmalı cilt, ultra detaylı 3D animasyon film renderı, {argument name="style" default="Pixar esintili tarz"}, 85mm lens, yüksek çözünürlük, yüksek detay, yumuşak bokeh arka plan, hacimsel ışık, hiper gerçekçi insan, ultra gerçekçi yüz, oyuncak bebek yüzü, gerçekçi 3d insan portresi
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -5546,7 +5547,7 @@ Charming stylized 3D animated {argument name="character" default="African Americ
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424055171_gzis1m_HKM7uAuX0AAWB_h.jpg" width="600" alt="Oyun Varlığı - Pixar Style 3D Businessman - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424055171_gzis1m_HKM7uAuX0AAWB_h.jpg" width="600" alt="Oyun Varlığı - Pixar Tarzı 3D İş İnsanı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5629,6 +5630,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-14T09:02:58.019Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-14T12:33:57.433Z</sub>
 
 </div>

@@ -145,7 +145,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **14400** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันอาทิตย์ที่ 14 มิถุนายน พ.ศ. 2569 เวลา 9 นาฬิกา 02 นาที 19 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันอาทิตย์ที่ 14 มิถุนายน พ.ศ. 2569 เวลา 12 นาฬิกา 33 นาที 32 วินาที UTC** |
 
 </div>
 
@@ -654,19 +654,19 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
-### No. 1: โปรไฟล์ / รูปประจำตัว - Black and White Male Studio Portrait
+### No. 1: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตผู้ชายในสตูดิโอแบบขาวดำ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A professional monochromatic studio portrait of a man with sharp features, featuring soft directional lighting.
+ภาพถ่ายพอร์ตเทรตผู้ชายในสตูดิโอแบบขาวดำระดับมืออาชีพ โดดเด่นด้วยแสงเงาที่นุ่มนวลและมีทิศทางชัดเจน
 
 #### 📝 คำสั่ง
 
 ```
-A professional {argument name="style" default="black and white studio portrait"} of a handsome man with sharp, masculine features, short dark curly hair, and light stubble. He is wearing a {argument name="outfit" default="simple black t-shirt and dark pants with a white patterned belt"}, seated and leaning forward over a wooden stool. The composition captures an intense, direct gaze toward the camera with a subtle, confident expression. In one variation, he poses thoughtfully with his index finger lightly touching his chin, while in an alternative stance, his hand shifts slightly higher, resting gently near his collarbone. The lighting is soft and directional, casting subtle shadows that emphasize his athletic build, strong jawline, and the defined texture of his arms, all set against a {argument name="background" default="clean, neutral gray studio backdrop"}.
+{argument name="style" default="ภาพถ่ายพอร์ตเทรตในสตูดิโอแบบขาวดำ"} ระดับมืออาชีพของชายหนุ่มรูปงามที่มีโครงหน้าคมเข้มแบบผู้ชาย ผมสั้นหยิกสีเข้ม และมีหนวดเคราจางๆ เขาสวมใส่ {argument name="outfit" default="เสื้อยืดสีดำเรียบๆ และกางเกงขายาวสีเข้มพร้อมเข็มขัดลายสีขาว"} นั่งโน้มตัวไปข้างหน้าบนเก้าอี้สตูลไม้ องค์ประกอบภาพจับภาพสายตาที่จ้องมองมายังกล้องอย่างเข้มข้นและตรงไปตรงมา พร้อมด้วยสีหน้าที่ดูมั่นใจและสุขุม ในรูปแบบหนึ่งเขาท่าทางครุ่นคิดโดยใช้นิ้วชี้แตะที่คางเบาๆ ในขณะที่อีกรูปแบบหนึ่งมือของเขาขยับสูงขึ้นเล็กน้อย วางพักไว้ใกล้กับกระดูกไหปลาร้า แสงไฟมีความนุ่มนวลและมีทิศทาง ทำให้เกิดเงาที่ช่วยเน้นรูปร่างที่ดูแข็งแรง แนวขากรรไกรที่ชัดเจน และพื้นผิวของแขนที่เด่นชัด ทั้งหมดนี้อยู่บน {argument name="background" default="ฉากหลังสตูดิโอสีเทาที่สะอาดและเป็นกลาง"}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -674,13 +674,13 @@ A professional {argument name="style" default="black and white studio portrait"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424056887_7bl8tc_HKtXJT7WkAEwZ8j.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Black and White Male Studio Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424056887_7bl8tc_HKtXJT7WkAEwZ8j.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตผู้ชายในสตูดิโอแบบขาวดำ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424056876_t6qf0h_HKtXJVTXoAAlwIL.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Black and White Male Studio Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424056876_t6qf0h_HKtXJVTXoAAlwIL.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตผู้ชายในสตูดิโอแบบขาวดำ - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -694,19 +694,19 @@ A professional {argument name="style" default="black and white studio portrait"}
 
 ---
 
-### No. 2: โปรไฟล์ / รูปประจำตัว - Elegant White Pantsuit Studio Portrait
+### No. 2: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายสตูดิโอในชุดกางเกงสีขาวสุดหรู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A sophisticated prompt for a full-length studio portrait of a woman in a white pantsuit against a minimalist background.
+คำสั่ง (Prompt) สำหรับการถ่ายภาพสตูดิโอเต็มตัวของผู้หญิงในชุดกางเกงสีขาวบนพื้นหลังแบบมินิมอล
 
 #### 📝 คำสั่ง
 
 ```
-A full-length studio portrait of a confident, smiling woman with {argument name="hair style" default="long, wavy brown hair"}, posing against a {argument name="background" default="clean, minimalist white background"}. She is elegantly dressed in a {argument name="outfit" default="tailored white pantsuit"}, consisting of a structured blazer, a crisp button-down shirt, and wide-leg trousers. Her look is accessorized with a delicate necklace, small earrings, and a ring. In one variation, she stands gracefully while wearing a classic black wide-brimmed fedora hat, holding a second matching black hat down by her side, completed with black pointed shoes. In another variation, she is seated comfortably on a modern, armless white leather chair, legs elegantly crossed, wearing sleek black high-heeled pumps. The lighting is soft and even, highlighting her sophisticated fashion, bright expression, and professional yet stylish demeanor.
+ภาพถ่ายสตูดิโอเต็มตัวของผู้หญิงที่ดูมั่นใจและมีรอยยิ้ม โดยมี {argument name="hair style" default="ผมยาวสีน้ำตาลเป็นลอน"} โพสท่าอยู่หน้า {argument name="background" default="พื้นหลังสีขาวสะอาดตาแบบมินิมอล"} เธอสวมใส่ {argument name="outfit" default="ชุดกางเกงสีขาวสั่งตัด"} อย่างสง่างาม ประกอบด้วยเสื้อเบลเซอร์ที่มีโครงสร้างชัดเจน เสื้อเชิ้ตสีขาวสะอาดตา และกางเกงขาบาน ลุคของเธอเสริมด้วยสร้อยคอเส้นเล็ก ต่างหูคู่เล็ก และแหวน ในรูปแบบหนึ่ง เธอโพสท่ายืนอย่างสง่างามโดยสวมหมวกเฟโดราปีกกว้างสีดำสุดคลาสสิก และถือหมวกสีดำที่เข้าชุดกันอีกใบไว้ข้างตัว พร้อมสวมรองเท้าหัวแหลมสีดำ ในอีกรูปแบบหนึ่ง เธอนั่งอย่างสบายบนเก้าอี้หนังสีขาวแบบไม่มีที่วางแขนดีไซน์ทันสมัย ไขว่ห้างอย่างสง่างาม และสวมรองเท้าส้นสูงสีดำทรงเพรียว แสงไฟมีความนุ่มนวลและสม่ำเสมอ ช่วยขับเน้นแฟชั่นที่ดูหรูหรา สีหน้าสดใส และบุคลิกที่ดูเป็นมืออาชีพแต่ยังคงความมีสไตล์
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -714,25 +714,25 @@ A full-length studio portrait of a confident, smiling woman with {argument name=
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424052903_0jq773_HKs53PfWgAEW2VW.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Elegant White Pantsuit Studio Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424052903_0jq773_HKs53PfWgAEW2VW.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายสตูดิโอในชุดกางเกงสีขาวสุดหรู - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424052955_xhwufo_HKs53TJXQAA4Gyn.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Elegant White Pantsuit Studio Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424052955_xhwufo_HKs53TJXQAA4Gyn.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายสตูดิโอในชุดกางเกงสีขาวสุดหรู - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424052922_ecxgm6_HKs53QfXQAAxpKU.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Elegant White Pantsuit Studio Portrait - Image 3">
+<img src="https://cms-assets.youmind.com/media/1781424052922_ecxgm6_HKs53QfXQAAxpKU.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายสตูดิโอในชุดกางเกงสีขาวสุดหรู - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424053733_k45av3_HKs53QrWwAA3jyY.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Elegant White Pantsuit Studio Portrait - Image 4">
+<img src="https://cms-assets.youmind.com/media/1781424053733_k45av3_HKs53QrWwAA3jyY.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายสตูดิโอในชุดกางเกงสีขาวสุดหรู - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -746,35 +746,35 @@ A full-length studio portrait of a confident, smiling woman with {argument name=
 
 ---
 
-### No. 3: โปรไฟล์ / รูปประจำตัว - Luxury Executive Studio Portrait
+### No. 3: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตผู้บริหารระดับลักชูรี
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A sophisticated executive portrait prompt focusing on professional attire, high-end makeup details, and clinical photographic sharpness.
+พรอมต์สำหรับภาพถ่ายพอร์ตเทรตผู้บริหารที่ดูภูมิฐาน เน้นรายละเอียดการแต่งกายแบบมืออาชีพ การแต่งหน้าสไตล์ไฮเอนด์ และความคมชัดระดับสตูดิโอถ่ายภาพชั้นนำ
 
 #### 📝 คำสั่ง
 
 ```
-Create image: use the attached image as the main facial reference with high precision while preserving exact facial structure, recognizable identity, facial proportions, skin tone, and natural asymmetry.
+สร้างรูปภาพ: ใช้รูปภาพที่แนบมาเป็นข้อมูลอ้างอิงหลักของใบหน้าด้วยความแม่นยำสูง โดยยังคงโครงสร้างใบหน้า อัตลักษณ์ที่จดจำได้ สัดส่วนใบหน้า โทนสีผิว และความไม่สมมาตรตามธรรมชาติไว้อย่างครบถ้วน
 
-A dramatic luxury executive studio portrait. The subject wears a {argument name="attire" default="perfectly tailored black blazer/amerikana"} with structured shoulders, sharp lapels, and a {argument name="shirt" default="crisp white inner shirt"}. The overall appearance feels powerful, expensive, sophisticated, and editorial while maintaining the clean structure of a professional passport-style portrait.
+ภาพถ่ายพอร์ตเทรตผู้บริหารระดับลักชูรีที่ดูโดดเด่น ตัวแบบสวมใส่ {argument name="attire" default="เสื้อเบลเซอร์สีดำสั่งตัดพิเศษ"} ที่มีไหล่ทรงสวย ปกเสื้อคมชัด และ {argument name="shirt" default="เสื้อเชิ้ตสีขาวสะอาดตาด้านใน"} ภาพรวมให้ความรู้สึกทรงพลัง หรูหรา มีระดับ และดูเหมือนภาพถ่ายในนิตยสาร โดยยังคงความสะอาดตาตามแบบฉบับภาพถ่ายพอร์ตเทรตระดับมืออาชีพ
 
-Pose: {argument name="pose" default="front-facing studio pose"}, shoulders softly squared toward the camera, chin slightly lowered, eyes looking directly into the lens, calm but commanding expression, relaxed lips, strong presence, elegant confidence, and natural authority.
+ท่าทาง: {argument name="pose" default="ท่าโพสต์ในสตูดิโอแบบหันหน้าตรง"} ไหล่ตั้งตรงเข้าหากล้องเล็กน้อย คางก้มลงเล็กน้อย ดวงตามองตรงมาที่เลนส์ แสดงสีหน้าสงบนิ่งแต่ดูมีอำนาจ ริมฝีปากผ่อนคลาย ดูมีพลัง สง่างาม และมีความมั่นใจแบบผู้นำ
 
-Makeup: full glam modern luxury beauty makeup. Korean glass-skin complexion with visible pores and glossy healthy shine. Bronze-champagne eyeshadow blended with soft taupe depth, luminous champagne shimmer on the center lids and inner corners, lifted eyeliner, dramatic wispy lashes, softly defined lower lashes, feathered brows, sculpted contour, bright under-eye, warm bronzed blush, and glossy rose-beige lips with rich reflective shine. Makeup feels expensive, feminine, dramatic, and editorial without becoming overly dark or gothic.
+การแต่งหน้า: แต่งหน้าสไตล์ลักชูรีโมเดิร์นแบบจัดเต็ม ผิวหน้าแบบ Korean glass-skin ที่เห็นรูขุมขนชัดเจนและมีความฉ่ำวาวสุขภาพดี อายแชโดว์โทนบรอนซ์แชมเปญเบลนด์เข้ากับสีน้ำตาลอมเทา เพิ่มความลึกด้วยชิมเมอร์สีแชมเปญที่กลางเปลือกตาและหัวตา กรีดอายไลเนอร์แบบยกหาง ขนตาฟุ้งสวยงาม ขนตาล่างที่ปัดอย่างประณีต คิ้วทรงสวย คอนทัวร์ใบหน้าให้มีมิติ ใต้ตาดูสว่าง บลัชออนโทนบรอนซ์อบอุ่น และริมฝีปากสีโรสเบจเงางามสะท้อนแสง การแต่งหน้าให้ลุคที่ดูแพง เป็นผู้หญิง ดูโดดเด่นและมีสไตล์แบบเอดิทอเรียลโดยไม่ดูเข้มหรือดาร์กจนเกินไป
 
-Skin rendering: ultra-luminous Korean glass skin with realistic pore visibility. Individual pores remain visible across cheeks, nose, forehead, and around the mouth. Fine peach fuzz, realistic under-eye texture, tiny skin variations, and authentic epidermal detail remain visible. Skin appears hydrated, plump, reflective, dimensional, and alive. Strong glossy highlights on the cheekbones, nose bridge, forehead, eyelids, collarbone, and lips. No beauty-filter smoothing. No pore reduction. No airbrushed finish.
+การเรนเดอร์ผิว: ผิวหน้าแบบ Korean glass-skin ที่สว่างสดใสพร้อมความสมจริงของรูขุมขน เห็นรูขุมขนชัดเจนทั่วบริเวณแก้ม จมูก หน้าผาก และรอบปาก มีไรขนอ่อนๆ ผิวใต้ตาที่ดูสมจริง รายละเอียดของผิวหนังที่ดูเป็นธรรมชาติ ผิวดูชุ่มชื้น อิ่มน้ำ สะท้อนแสง มีมิติ และดูมีชีวิตชีวา ไฮไลท์เงางามที่โหนกแก้ม สันจมูก หน้าผาก เปลือกตา ไหปลาร้า และริมฝีปาก ไม่มีการใช้ฟิลเตอร์ปรับผิวเรียบ ไม่มีการลดรูขุมขน และไม่มีการรีทัชแบบแอร์บรัช
 
-Hairstyle: modern luxury salon blowout. Long dark hair with soft face-framing layers concentrated around the front sections only. Smooth polished finish, healthy shine, subtle crown volume, luxurious movement, and expensive editorial styling. The back remains long and sleek. Elegant, modern, and fashionable.
+ทรงผม: ทรงผมไดร์วอลลุ่มสไตล์ลักชูรีซาลอน ผมยาวสีเข้มพร้อมเลเยอร์ล้อมกรอบหน้าที่เน้นเฉพาะช่วงด้านหน้า ผมดูเรียบลื่นเงางาม มีวอลลุ่มที่โคนผมเล็กน้อย ดูหรูหราและจัดแต่งทรงแบบมืออาชีพ ด้านหลังผมยาวตรงสลวย ดูสง่างาม ทันสมัย และมีสไตล์
 
-Lighting: dramatic luxury beauty lighting. A strong soft key light from front-left creates luminous glossy highlights across the face while preserving visible skin texture and pores. The opposite side of the face remains slightly darker for dimension. Subtle rim lighting around the hair and shoulders creates separation from the white background. The lighting emphasizes cheekbones, jawline, eyes, lips, and glossy skin.
+การจัดแสง: แสงสตูดิโอแบบบิวตี้ลักชูรี แสงหลักที่นุ่มนวลจากด้านหน้าซ้ายสร้างไฮไลท์ที่เงางามบนใบหน้า ในขณะที่ยังคงรักษาพื้นผิวและรูขุมขนของผิวไว้ได้ชัดเจน ด้านตรงข้ามของใบหน้าจะมืดลงเล็กน้อยเพื่อสร้างมิติ มีแสงริมไลท์ (rim light) อ่อนๆ รอบเส้นผมและไหล่เพื่อแยกตัวแบบออกจากพื้นหลังสีขาว การจัดแสงเน้นให้เห็นโหนกแก้ม แนวขากรรไกร ดวงตา ริมฝีปาก และผิวที่ฉ่ำวาว
 
-Background: pure white luxury studio backdrop with subtle tonal depth. Clean, bright, timeless, and premium. The contrast between the white background and black blazer creates a striking executive beauty portrait aesthetic.
+พื้นหลัง: ฉากหลังสตูดิโอสีขาวบริสุทธิ์ที่มีความลึกของโทนสีเล็กน้อย ดูสะอาดตา สว่างไสว เหนือกาลเวลา และพรีเมียม ความต่างระหว่างพื้นหลังสีขาวกับเบลเซอร์สีดำสร้างสุนทรียภาพของภาพถ่ายพอร์ตเทรตผู้บริหารที่ดูโดดเด่น
 
-Camera rendering: ultra-high-resolution professional beauty portrait captured with medium-format camera realism. Clinical sharpness on eyes, lashes, brows, lips,
+การเรนเดอร์กล้อง: ภาพถ่ายพอร์ตเทรตบิวตี้ระดับมืออาชีพความละเอียดสูงพิเศษ ถ่ายด้วยกล้อง Medium Format ที่ให้ความสมจริงสูงสุด ความคมชัดระดับคลินิกที่ดวงตา ขนตา คิ้ว และริมฝีปาก
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -782,19 +782,19 @@ Camera rendering: ultra-high-resolution professional beauty portrait captured wi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424060290_2jgevq_HKs5qJObkAAgDl1.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Luxury Executive Studio Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424060290_2jgevq_HKs5qJObkAAgDl1.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตผู้บริหารระดับลักชูรี - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424060256_wcqcep_HKs5qGgaoAAb5AG.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Luxury Executive Studio Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424060256_wcqcep_HKs5qGgaoAAb5AG.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตผู้บริหารระดับลักชูรี - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424060297_shafwt_HKs5qGSbMAAX6s6.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Luxury Executive Studio Portrait - Image 3">
+<img src="https://cms-assets.youmind.com/media/1781424060297_shafwt_HKs5qGSbMAAX6s6.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตผู้บริหารระดับลักชูรี - Image 3">
 </div>
 
 #### 📌 รายละเอียด
@@ -808,23 +808,23 @@ Camera rendering: ultra-high-resolution professional beauty portrait captured wi
 
 ---
 
-### No. 4: โปรไฟล์ / รูปประจำตัว - Executive Studio Portrait
+### No. 4: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตระดับผู้บริหารในสตูดิโอ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-An ultra-realistic image-to-image studio portrait prompt designed to match a reference face exactly in a premium editorial style.
+คำสั่ง (Prompt) สำหรับสร้างภาพพอร์ตเทรตในสตูดิโอแบบ Image-to-image ที่สมจริงเป็นพิเศษ ออกแบบมาเพื่อให้ใบหน้าตรงกับภาพอ้างอิงอย่างแม่นยำในสไตล์นิตยสารระดับพรีเมียม
 
 #### 📝 คำสั่ง
 
 ```
-Ultra-realistic studio portrait of a man matching the reference face exactly, seated on a {argument name="seating" default="low modern matte-black cube block"} instead of a wooden stool. He leans slightly forward with elbows resting loosely on thighs, hands softly clasped, gaze slightly off-camera for a thoughtful executive vibe.
-Same outfit: charcoal textured blazer, taupe premium tee, {argument name="trousers" default="espresso tailored trousers"}, off-white minimalist sneakers.
-Studio lighting setup: {argument name="lighting" default="soft overhead diffused key light with subtle side fill"}, creating sculpted cheekbones and controlled shadow under jawline. Faint edge light for subject separation. Background: smooth gradient from deep slate grey to charcoal.
-Focus razor sharp on eyes, shallow depth of field, realistic fabric folds at elbows and knees, natural skin pores visible, no over-retouching, premium magazine editorial style, ultra high resolution.
-Negative prompt: glossy skin, artificial HDR, harsh facial shadows, busy background.
+ภาพถ่ายพอร์ตเทรตในสตูดิโอที่สมจริงเป็นพิเศษของชายคนหนึ่งซึ่งมีใบหน้าตรงกับภาพอ้างอิง นั่งอยู่บน {argument name="seating" default="บล็อกลูกบาศก์สีดำด้านทรงต่ำที่ดูทันสมัย"} แทนที่จะเป็นเก้าอี้ไม้ เขานั่งโน้มตัวไปข้างหน้าเล็กน้อยโดยวางข้อศอกไว้บนต้นขาอย่างผ่อนคลาย มือประสานกันเบาๆ สายตามองออกไปนอกกล้องเล็กน้อยเพื่อให้ได้บรรยากาศแบบผู้บริหารที่ดูครุ่นคิด
+ชุดเดิม: เบลเซอร์ผ้าทอสีเทาชาร์โคล เสื้อยืดพรีเมียมสีน้ำตาลอมเทา {argument name="trousers" default="กางเกงขายาวทรงเทเลอร์สีเอสเปรสโซ"} รองเท้าผ้าใบมินิมอลสีขาวออฟไวท์
+การจัดแสงในสตูดิโอ: {argument name="lighting" default="แสงหลักแบบกระจายจากด้านบนพร้อมแสงเสริมด้านข้างเล็กน้อย"} สร้างโครงหน้าให้ชัดเจนและควบคุมเงาใต้แนวกราม มีแสงขอบจางๆ เพื่อแยกตัวแบบออกจากพื้นหลัง: พื้นหลังไล่เฉดสีเรียบเนียนจากสีเทาสเลทเข้มไปจนถึงสีเทาชาร์โคล
+โฟกัสที่ดวงตาอย่างคมชัด ระยะชัดลึกตื้น รอยยับของผ้าที่ข้อศอกและหัวเข่าดูสมจริง เห็นรูขุมขนตามธรรมชาติ ไม่มีการรีทัชจนเกินจริง สไตล์นิตยสารระดับพรีเมียม ความละเอียดสูงเป็นพิเศษ
+Negative prompt: ผิวเงาเกินไป, HDR แบบหลอกตา, เงาบนใบหน้าที่แข็งกระด้าง, พื้นหลังที่ดูวุ่นวาย
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -832,7 +832,7 @@ Negative prompt: glossy skin, artificial HDR, harsh facial shadows, busy backgro
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424057329_52fha7_HKsCz1ba8AA8dbf.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Executive Studio Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424057329_52fha7_HKsCz1ba8AA8dbf.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตระดับผู้บริหารในสตูดิโอ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -880,20 +880,20 @@ Negative prompt: glossy skin, artificial HDR, harsh facial shadows, busy backgro
 
 ---
 
-### No. 6: โปรไฟล์ / รูปประจำตัว - Cozy Indoor Portrait with Plaid Pinafore
+### No. 6: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตในร่มบรรยากาศอบอุ่นกับชุดเอี๊ยมลายสก็อต
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A professional portrait prompt for a young woman in a cozy indoor setting, highlighting detailed textures and warm lighting.
+พรอมต์สำหรับภาพพอร์ตเทรตระดับมืออาชีพของหญิงสาวในบรรยากาศในร่มที่ดูอบอุ่น เน้นรายละเอียดของพื้นผิวและแสงที่นุ่มนวล
 
 #### 📝 คำสั่ง
 
 ```
-Ultra-realistic portrait of a {argument name="subject" default="young woman"} with a warm, friendly smile, looking directly at the camera. She has long, straight dark hair with a smooth natural shine, light green eyes, and soft, clear skin with natural makeup. She is wearing round, thin metal-framed glasses and a {argument name="outfit" default="black fitted top layered under a brown plaid pinafore dress"}. She is holding a smartphone with both hands at chest level.
-The setting is a {argument name="environment" default="cozy indoor environment with a softly blurred bookshelf in the background"}, creating a warm and calm atmosphere. Lighting is soft and natural, coming from the front, highlighting facial features with gentle shadows. Cinematic depth of field, sharp focus on the subject, highly detailed skin texture, professional photography, 85mm lens, f/1.8, ultra HD, realistic color grading.
+ภาพพอร์ตเทรตสมจริงพิเศษของ {argument name="subject" default="หญิงสาว"} ที่มีรอยยิ้มอบอุ่นและเป็นมิตร กำลังมองตรงมาที่กล้อง เธอมีผมยาวตรงสีเข้มเป็นประกายเงางามอย่างเป็นธรรมชาติ ดวงตาสีเขียวอ่อน และผิวพรรณที่เนียนใสด้วยการแต่งหน้าแบบธรรมชาติ เธอสวมแว่นตากรอบโลหะทรงกลมบางและ {argument name="outfit" default="เสื้อตัวในเข้ารูปสีดำสวมทับด้วยชุดเอี๊ยมลายสก็อตสีน้ำตาล"} เธอกำลังถือสมาร์ทโฟนด้วยมือทั้งสองข้างในระดับหน้าอก
+ฉากหลังเป็น {argument name="environment" default="บรรยากาศในร่มที่แสนอบอุ่นพร้อมชั้นหนังสือที่เบลออย่างนุ่มนวล"} สร้างบรรยากาศที่อบอุ่นและสงบ แสงไฟมีความนุ่มนวลและเป็นธรรมชาติที่ส่องมาจากด้านหน้า ช่วยขับเน้นโครงหน้าด้วยเงาที่ละมุนตา ระยะชัดลึกแบบภาพยนตร์ โฟกัสที่ตัวแบบอย่างคมชัด พื้นผิวผิวหนังที่มีรายละเอียดสูง การถ่ายภาพระดับมืออาชีพ เลนส์ 85 มม. f/1.8 ความละเอียดระดับ Ultra HD การปรับโทนสีที่สมจริง
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -901,7 +901,7 @@ The setting is a {argument name="environment" default="cozy indoor environment w
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424057789_ee96e5_HKrBJ1-WcAEc1u4.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Cozy Indoor Portrait with Plaid Pinafore - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424057789_ee96e5_HKrBJ1-WcAEc1u4.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตในร่มบรรยากาศอบอุ่นกับชุดเอี๊ยมลายสก็อต - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -915,23 +915,23 @@ The setting is a {argument name="environment" default="cozy indoor environment w
 
 ---
 
-### No. 7: โปรไฟล์ / รูปประจำตัว - Golden Hour Smartphone Selfie with Headscarf
+### No. 7: โปรไฟล์ / รูปประจำตัว - ภาพเซลฟี่สมาร์ทโฟนช่วงโกลเด้นอาวร์กับสาวสวมผ้าคลุมศีรษะ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-An ultra-realistic prompt for a smartphone selfie of a young woman in a headscarf during golden hour, emphasizing natural skin texture.
+พรอมต์ภาพสมจริงพิเศษสำหรับภาพเซลฟี่ด้วยสมาร์ทโฟนของหญิงสาวที่สวมผ้าคลุมศีรษะในช่วงโกลเด้นอาวร์ โดยเน้นที่พื้นผิวผิวพรรณที่เป็นธรรมชาติ
 
 #### 📝 คำสั่ง
 
 ```
-A joyful young woman in her late teens or twenties with a soft rounded oval face, {argument name="skin tone" default="warm light-medium skin tone"}, natural skin texture, subtle redness, and visible imperfections, wearing a simple {argument name="headscarf color" default="black"} headscarf wrapped closely around her face. She is taking an extreme close-up smartphone selfie, her face filling nearly the entire frame. One hand is raised above her forehead to shield her eyes from bright sunlight. She wears a genuine closed-mouth smile, with expressive eyes partially closed from the sun, creating a warm, authentic, and approachable presence.
+หญิงสาวร่าเริงในวัยรุ่นตอนปลายหรือวัยยี่สิบต้นๆ ที่มีใบหน้ารูปไข่กลมมน {argument name="skin tone" default="ผิวโทนสีอ่อนถึงกลางโทนอุ่น"} มีพื้นผิวผิวพรรณที่เป็นธรรมชาติ มีรอยแดงจางๆ และเห็นตำหนิบนผิวเล็กน้อย สวมผ้าคลุมศีรษะสี {argument name="headscarf color" default="ดำ"} แบบเรียบง่ายพันรอบใบหน้าอย่างกระชับ เธอถ่ายภาพเซลฟี่ด้วยสมาร์ทโฟนในระยะใกล้มากจนใบหน้าเกือบเต็มเฟรม มือข้างหนึ่งยกขึ้นเหนือหน้าผากเพื่อบังแสงแดดจ้า เธอมีรอยยิ้มปิดปากที่เป็นธรรมชาติ ดวงตาที่แสดงอารมณ์หรี่ลงเล็กน้อยจากแสงแดด ทำให้ดูอบอุ่น จริงใจ และเข้าถึงง่าย
 
-Captured outdoors on a rooftop or terrace during golden hour, with a clear blue sky, subtle roofline structures, and distant urban silhouettes softly visible in the background. Direct golden-hour sunlight illuminates her face from the front-side angle, creating glowing sun-kissed skin, warm amber highlights, and soft shadows cast by her hand and headscarf.
+ถ่ายทำกลางแจ้งบนดาดฟ้าหรือระเบียงในช่วงโกลเด้นอาวร์ มีท้องฟ้าสีครามสดใส โครงสร้างขอบหลังคาจางๆ และเงาของเมืองในระยะไกลที่มองเห็นได้อย่างนุ่มนวลในพื้นหลัง แสงแดดช่วงโกลเด้นอาวร์ส่องกระทบใบหน้าจากมุมด้านหน้าข้าง ทำให้ผิวดูเปล่งประกายราวกับถูกแสงแดดจูบ มีไฮไลท์สีอำพันโทนอุ่น และเงาที่ทอดลงมาจากมือและผ้าคลุมศีรษะ
 
-Shot with a front-facing smartphone camera using a wide-angle selfie perspective, deep depth of field, entire face in focus, moderate sharpness, realistic selfie distortion, intimate personal framing, very little negative space. Natural golden-hour color grading with warm tones, golden peach highlights, warm beige skin tones, sky-blue accents, soft coral undertones, and deep black fabric. High realism, minimal retouching, almost no skin smoothing, preserved skin texture, natural clarity, genuine emotion, authentic social media lifestyle portrait, spontaneous candid moment, modern smartphone photography, warm, carefree, optimistic, playful atmosphere.
+ถ่ายด้วยกล้องหน้าของสมาร์ทโฟนในมุมมองเซลฟี่แบบมุมกว้าง ระยะชัดลึกสูง ใบหน้าทั้งหมดอยู่ในโฟกัส ความคมชัดปานกลาง มีความบิดเบี้ยวแบบภาพเซลฟี่ที่สมจริง การจัดเฟรมที่ดูใกล้ชิดเป็นส่วนตัว มีพื้นที่ว่างน้อยมาก การปรับแต่งสีแบบโกลเด้นอาวร์ที่เป็นธรรมชาติด้วยโทนสีอุ่น ไฮไลท์สีพีชทอง โทนสีผิวสีเบจโทนอุ่น เน้นสีฟ้าของท้องฟ้า อันเดอร์โทนสีปะการังอ่อนๆ และผ้าสีดำสนิท ความสมจริงสูง การรีทัชน้อยที่สุด แทบไม่มีการทำให้ผิวเรียบเนียน คงไว้ซึ่งพื้นผิวผิวพรรณตามธรรมชาติ ความคมชัดที่เป็นธรรมชาติ อารมณ์ที่แท้จริง ภาพพอร์ตเทรตไลฟ์สไตล์บนโซเชียลมีเดียที่ดูสมจริง ช่วงเวลาที่ดูเป็นธรรมชาติและไม่ได้ตั้งใจ การถ่ายภาพด้วยสมาร์ทโฟนสมัยใหม่ บรรยากาศอบอุ่น ไร้กังวล มองโลกในแง่ดี และขี้เล่น
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -939,19 +939,19 @@ Shot with a front-facing smartphone camera using a wide-angle selfie perspective
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424053501_uzct0x_HKqr0h5a0AAqzCy.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Golden Hour Smartphone Selfie with Headscarf - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424053501_uzct0x_HKqr0h5a0AAqzCy.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพเซลฟี่สมาร์ทโฟนช่วงโกลเด้นอาวร์กับสาวสวมผ้าคลุมศีรษะ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424053674_efoe1b_HKqr1IxbcAAz-A5.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Golden Hour Smartphone Selfie with Headscarf - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424053674_efoe1b_HKqr1IxbcAAz-A5.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพเซลฟี่สมาร์ทโฟนช่วงโกลเด้นอาวร์กับสาวสวมผ้าคลุมศีรษะ - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424053387_v908gr_HKqr1sAaAAAKtaD.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Golden Hour Smartphone Selfie with Headscarf - Image 3">
+<img src="https://cms-assets.youmind.com/media/1781424053387_v908gr_HKqr1sAaAAAKtaD.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพเซลฟี่สมาร์ทโฟนช่วงโกลเด้นอาวร์กับสาวสวมผ้าคลุมศีรษะ - Image 3">
 </div>
 
 #### 📌 รายละเอียด
@@ -965,31 +965,31 @@ Shot with a front-facing smartphone camera using a wide-angle selfie perspective
 
 ---
 
-### No. 8: โปรไฟล์ / รูปประจำตัว - Cinematic Male Editorial Collage
+### No. 8: โปรไฟล์ / รูปประจำตัว - คอลลาจภาพถ่ายแฟชั่นผู้ชายสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A multi-panel editorial layout prompt for creating a cinematic male portrait collage with specific poses and stylistic typography.
+พรอมต์สำหรับสร้างคอลลาจภาพถ่ายพอร์ตเทรตผู้ชายสไตล์ภาพยนตร์แบบหลายช่อง พร้อมการจัดวางแบบนิตยสารและตัวอักษรที่มีสไตล์
 
 #### 📝 คำสั่ง
 
 ```
-Use my uploaded face image as the primary identity reference. Preserve my exact facial features, face shape, hairstyle, hair texture, skin tone, eye shape, and overall likeness with high fidelity.
+ใช้ภาพใบหน้าที่ฉันอัปโหลดเป็นข้อมูลอ้างอิงหลักในการสร้างตัวตน รักษาลักษณะใบหน้า รูปหน้า ทรงผม เนื้อสัมผัสของเส้นผม สีผิว รูปทรงดวงตา และความเหมือนโดยรวมให้มีความแม่นยำสูง
 
-Create a cinematic aesthetic male portrait collage inspired by the reference image. Make a {argument name="layout" default="5-panel editorial layout"} featuring only me in different stylish poses.
+สร้างคอลลาจภาพถ่ายพอร์ตเทรตผู้ชายสไตล์ภาพยนตร์โดยได้รับแรงบันดาลใจจากภาพอ้างอิง สร้าง {argument name="layout" default="เลย์เอาต์นิตยสาร 5 ช่อง"} ที่มีเพียงฉันในท่าโพสที่มีสไตล์แตกต่างกัน
 
-Top left: close-up side profile looking away, soft confident expression, wearing a clean white t-shirt and minimal chain.
-Top right: low-angle portrait looking upward, wearing a black open-collar shirt, relaxed confident vibe.
-Bottom center: seated pose on a chair, one hand near face, wearing a black button-up shirt, calm thoughtful expression.
-Side panels: dramatic black-and-white profile shots with fashion magazine style.
+ซ้ายบน: ภาพโคลสอัพด้านข้างหันหน้าออก สีหน้ามั่นใจแบบนุ่มนวล สวมเสื้อยืดสีขาวสะอาดตาและสร้อยคอแบบมินิมอล
+ขวาบน: ภาพพอร์ตเทรตมุมต่ำมองขึ้นด้านบน สวมเสื้อเชิ้ตคอเปิดสีดำ ให้ความรู้สึกผ่อนคลายและมั่นใจ
+กลางล่าง: ท่าทางนั่งบนเก้าอี้ มือข้างหนึ่งอยู่ใกล้ใบหน้า สวมเสื้อเชิ้ตติดกระดุมสีดำ สีหน้าสงบและครุ่นคิด
+แผงด้านข้าง: ภาพถ่ายโปรไฟล์ขาวดำที่ดูมีมิติในสไตล์นิตยสารแฟชั่น
 
-Keep my natural hairstyle but enhance it with {argument name="hair style" default="textured messy volume"}. Add cinematic street photography lighting, dark moody tones, high contrast, film grain, subtle scratches, luxury fashion editorial aesthetic.
+คงทรงผมธรรมชาติของฉันไว้แต่เพิ่มความโดดเด่นด้วย {argument name="hair style" default="วอลลุ่มผมยุ่งแบบมีเท็กซ์เจอร์"} เพิ่มแสงสไตล์สตรีทโฟโตกราฟีแบบภาพยนตร์ โทนสีเข้มและดุดัน คอนทราสต์สูง เกรนฟิล์ม รอยขีดข่วนเล็กน้อย และความสวยงามแบบนิตยสารแฟชั่นหรูหรา
 
-Add handwritten typography elements like {argument name="text" default="“Never look back”"} and “Collect moments, not things” in a stylish red and white brush script.
-Ultra-realistic photography, professional portrait shoot, 4K detail, Instagram aesthetic.
+เพิ่มองค์ประกอบตัวอักษรที่เขียนด้วยลายมือ เช่น {argument name="text" default="“Never look back”"} และ “Collect moments, not things” ด้วยฟอนต์พู่กันสีแดงและสีขาวที่มีสไตล์
+ภาพถ่ายสมจริงพิเศษ การถ่ายภาพพอร์ตเทรตระดับมืออาชีพ รายละเอียดระดับ 4K สไตล์อินสตาแกรม
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -997,7 +997,7 @@ Ultra-realistic photography, professional portrait shoot, 4K detail, Instagram a
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424062078_3uui2l_HKqTYpLaMAAPYPN.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Cinematic Male Editorial Collage - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424062078_3uui2l_HKqTYpLaMAAPYPN.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - คอลลาจภาพถ่ายแฟชั่นผู้ชายสไตล์ภาพยนตร์ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1482,61 +1482,62 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: โพสต์บนโซเชียลมีเดีย - Wind-Swept Golden Hour Portrait
+### No. 21: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตช่วงโกลเด้นอาวร์ท่ามกลางสายลม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 คำอธิบาย
 
-A structured vintage film portrait prompt of a serene young woman with wind-swept hair in intense golden hour sunlight.
+พรอมต์ภาพพอร์ตเทรตสไตล์ฟิล์มวินเทจที่จัดวางองค์ประกอบมาอย่างดี ของหญิงสาวผู้เงียบสงบกับเส้นผมที่ปลิวไสวท่ามกลางแสงแดดจัดในช่วงโกลเด้นอาวร์
 
 #### 📝 คำสั่ง
 
 ```
 {
   "subject_details": {
-    "gender": "Female",
-    "age": "Early to mid-20s",
-    "complexion": "Fair with a warm, sun-kissed golden glow",
+    "gender": "หญิง",
+    "age": "ช่วงอายุ 20 ต้นๆ ถึงกลางๆ",
+    "complexion": "ผิวขาวพร้อมประกายสีทองอบอุ่นจากแสงแดด",
     "facial_features": [
-      "Soft, natural brown eyes",
-      "Relaxed, unstyled natural eyebrows",
-      "Smooth, youthful skin texture",
-      "Plump, slightly parted natural pink lips"
+      "ดวงตาสีน้ำตาลธรรมชาติที่ดูอ่อนโยน",
+      "คิ้วธรรมชาติที่ดูผ่อนคลายไม่ได้จัดแต่ง",
+      "ผิวพรรณเรียบเนียนดูอ่อนเยาว์",
+      "ริมฝีปากสีชมพูธรรมชาติที่อวบอิ่มและเผยอเล็กน้อย"
     ],
-    "hair": "Short, dark brown messy bob, highly wind-swept with fine, dynamic loose strands blowing across her forehead, cheeks, and up into the sky",
-    "expression": "Serene, calm, and subtly confident, looking slightly down directly into the camera lens"
+    "hair": "ผมบ๊อบสั้นสีน้ำตาลเข้มที่ดูยุ่งเหยิง ปลิวไสวไปตามลมอย่างมาก มีปอยผมละเอียดที่ดูมีชีวิตชีวาพัดผ่านหน้าผาก แก้ม และลอยขึ้นไปบนท้องฟ้า",
+    "expression": "ดูสงบ นิ่ง และมีความมั่นใจอย่างแผ่วเบา สายตามองต่ำลงมาที่เลนส์กล้องโดยตรง"
   },
   "apparel_and_textures": {
-    "primary_garment": "Crisp white button-down shirt",
-    "details": "Collar popped slightly open, unbuttoned at the top to expose the neck and collarbones, lightweight breathable cotton texture",
-    "accessories": "Three delicate, layered thin gold chain necklaces (one featuring tiny metallic beads/links), small subtle stud earring in the left earlobe"
+    "primary_garment": "เสื้อเชิ้ตสีขาวสะอาดตา",
+    "details": "ปกเสื้อเปิดออกเล็กน้อย ปลดกระดุมเม็ดบนเพื่อให้เห็นลำคอและกระดูกไหปลาร้า เนื้อผ้าคอตตอนน้ำหนักเบาระบายอากาศได้ดี",
+    "accessories": "สร้อยคอโซ่ทองเส้นเล็ก 3 เส้นซ้อนกัน (เส้นหนึ่งมีลูกปัดหรือข้อต่อโลหะขนาดจิ๋ว) ต่างหูสตั๊ดขนาดเล็กที่ติ่งหูซ้าย"
   },
   "makeup_and_styling": {
-    "style": "Fresh-faced, dewy natural summer aesthetic",
-    "details": "Glowing highlighted skin, soft peachy-pink blush across the cheeks and nose, clear lip balm, bare eyes with no heavy mascara or eyeliner"
+    "style": "ลุคหน้าสดแบบดิวอี้ (Dewy) สไตล์ซัมเมอร์ที่เป็นธรรมชาติ",
+    "details": "ผิวโกลว์ฉ่ำวาว ปัดแก้มและจมูกด้วยโทนสีพีชอมชมพูอ่อนๆ ทาลิปบาล์มใส ดวงตาดูเป็นธรรมชาติโดยไม่ปัดมาสคาร่าหรือเขียนอายไลเนอร์หนา"
   },
   "lighting_and_shadows": {
-    "lighting_style": "Intense, direct golden hour sunlight",
-    "light_source": "Low-angle strong sunlight illuminating the subject from the front-left (viewer's perspective)",
+    "lighting_style": "แสงแดดจัดจ้านโดยตรงในช่วงโกลเด้นอาวร์",
+    "light_source": "แสงแดดแรงมุมต่ำส่องกระทบตัวแบบจากด้านหน้าซ้าย (มุมมองของผู้ชม)",
     "shadow_mapping": [
-      "Sharp, deep shadow cast by the jawline heavily obscuring the right side of the neck",
-      "Crisp shadow cast by the nose downwards toward the right cheek",
-      "Bright, glowing highlights catching the tip of the nose, cheeks, and chin"
+      "เงาเข้มและคมชัดจากแนวขากรรไกรที่บดบังด้านขวาของลำคออย่างชัดเจน",
+      "เงาคมชัดจากจมูกทอดลงมาทางแก้มขวา",
+      "ไฮไลท์ที่สว่างสดใสตกกระทบบริเวณปลายจมูก แก้ม และคาง"
     ]
   },
   "environment_and_colors": {
-    "background": "Clear, completely cloudless open sky",
-    "overall_palette": "High-contrast complementary colors: stark white shirt, warm radiant golden-orange skin tones, and a smooth gradient of bright cerulean blue in the background"
+    "background": "ท้องฟ้าเปิดโล่ง ปราศจากเมฆโดยสิ้นเชิง",
+    "overall_palette": "สีคู่ตรงข้ามที่มีคอนทราสต์สูง: เสื้อเชิ้ตสีขาวสะอาดตา โทนผิวสีส้มทองที่เปล่งประกายอบอุ่น และพื้นหลังที่เป็นการไล่เฉดสีฟ้าสดใส"
   },
   "cinematography_and_technical": {
-    "shot_composition": "Low-angle medium close-up portrait, framing from the mid-chest up",
-    "camera_equipment": "35mm analog film camera, vintage prime lens",
-    "focus": "Tack-sharp on the facial features, capturing the fine details of the flying hair against the sky",
-    "aesthetic": "Nostalgic summer editorial, classic 90s film photography, breezy cinematic slice-of-life",
+    "shot_composition": "ภาพพอร์ตเทรตระยะใกล้ระดับกลาง (Medium close-up) มุมต่ำ จัดเฟรมตั้งแต่ช่วงกลางหน้าอกขึ้นไป",
+    "camera_equipment": "กล้องฟิล์มอนาล็อก 35 มม. เลนส์ไพรม์วินเทจ",
+    "focus": "โฟกัสคมชัดที่ใบหน้า เก็บรายละเอียดเส้นผมที่ปลิวไสวตัดกับท้องฟ้าได้อย่างชัดเจน",
+    "aesthetic": "ภาพถ่ายสไตล์บรรณาธิการช่วงซัมเมอร์ที่ชวนให้คิดถึงวันวาน ภาพถ่ายฟิล์มยุค 90 สุดคลาสสิก ให้ความรู้สึกเหมือนฉากในภาพยนตร์ที่ดูสบายตา",
     "aspect_ratio": "4:5"
   },
-  "master_prompt": "Cinematic 35mm vintage film portrait of a serene young woman from a low angle, looking slightly down at the camera. Features: glowing sun-kissed skin, natural brown eyes, slightly parted pink lips. Hair: dark brown messy bob, heavily wind-swept with fine loose strands flying across her face against the sky. Wardrobe: crisp white open-collar button-down shirt, three delicate layered thin gold chain necklaces. Makeup: fresh dewy natural skin, soft peach blush, clear lip balm. Lighting: intense
+  "master_prompt": "ภาพพอร์ตเทรตฟิล์มวินเทจ 35 มม. สไตล์ภาพยนตร์ของหญิงสาวผู้เงียบสงบในมุมต่ำ สายตามองต่ำลงมาที่กล้องเล็กน้อย รายละเอียด: ผิวโกลว์สวยจากแสงแดด ดวงตาสีน้ำตาลธรรมชาติ ริมฝีปากสีชมพูเผยอเล็กน้อย ผม: ผมบ๊อบสั้นสีน้ำตาลเข้มยุ่งๆ ปลิวไสวไปตามลมอย่างมากพร้อมปอยผมละเอียดที่พัดผ่านใบหน้าตัดกับท้องฟ้า เครื่องแต่งกาย: เสื้อเชิ้ตสีขาวสะอาดตาเปิดคอ สร้อยคอโซ่ทองเส้นเล็ก 3 เส้นซ้อนกัน เมคอัพ: ผิวฉ่ำวาวเป็นธรรมชาติ ปัดแก้มสีพีชอ่อน ทาลิปบาล์มใส แสง: แสงแดดจัดจ้าน"
+}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1544,7 +1545,7 @@ A structured vintage film portrait prompt of a serene young woman with wind-swep
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424065066_fu8pc6_HKvO8ZYbcAAJtpA.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Wind-Swept Golden Hour Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424065066_fu8pc6_HKvO8ZYbcAAJtpA.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตช่วงโกลเด้นอาวร์ท่ามกลางสายลม - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1558,36 +1559,36 @@ A structured vintage film portrait prompt of a serene young woman with wind-swep
 
 ---
 
-### No. 22: โพสต์บนโซเชียลมีเดีย - Photorealistic Nightlife Couple Selfie
+### No. 22: โพสต์บนโซเชียลมีเดีย - เซลฟี่คู่รักยามค่ำคืนแบบสมจริง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A detailed prompt for generating realistic, Instagram-style selfies of couples at night events, focusing on authentic textures and moody club lighting.
+คำสั่ง (Prompt) สำหรับสร้างภาพเซลฟี่คู่รักสไตล์ Instagram ที่สมจริงในงานอีเวนต์กลางคืน โดยเน้นที่พื้นผิวที่ดูเป็นธรรมชาติและแสงสีในคลับที่ให้บรรยากาศสุดเหวี่ยง
 
 #### 📝 คำสั่ง
 
 ```
-Ultra-photorealistic romantic couple night-event selfie, real photograph, not illustration. Warm candid Instagram editorial aesthetic.
+ภาพเซลฟี่คู่รักในงานอีเวนต์กลางคืนที่สมจริงดุจภาพถ่ายจริง ไม่ใช่ภาพวาด ให้ความรู้สึกอบอุ่นและเป็นกันเองแบบภาพถ่ายลง Instagram
 
-Create a single close-up lifestyle photo of a handsome young man and a beautiful young woman together at a stylish night event or upscale club. Preserve the identities from the reference images with realistic facial features, natural skin texture, believable expressions, and authentic couple chemistry. The image should feel like an intimate, fashionable memory from their relationship: stylish, playful, romantic, spontaneous, and real.
+สร้างภาพถ่ายไลฟ์สไตล์ระยะใกล้ของชายหนุ่มหน้าตาดีและหญิงสาวสวยที่ถ่ายคู่กันในงานอีเวนต์กลางคืนที่มีสไตล์หรือคลับหรู รักษาอัตลักษณ์จากภาพอ้างอิงด้วยโครงหน้าสมจริง พื้นผิวผิวหนังที่เป็นธรรมชาติ สีหน้าท่าทางที่ดูน่าเชื่อถือ และเคมีของคู่รักที่ดูเป็นธรรมชาติ ภาพควรให้ความรู้สึกเหมือนเป็นความทรงจำที่ใกล้ชิดและทันสมัยจากความสัมพันธ์ของพวกเขา ทั้งดูมีสไตล์ ขี้เล่น โรแมนติก เป็นกันเอง และสมจริง
 
-SCENE — PURPLE NIGHT EVENT SELFIE:
-The couple is captured under {argument name="lighting" default="purple-blue ambient club lighting"}. Both are wearing slim sunglasses. The man has slightly messy dark hair, light beard/stubble, layered necklaces, an open dark shirt, and a confident relaxed expression. The woman has long dark wavy hair, glossy lips, an elegant cool expression, and wears a {argument name="clothing" default="black sparkly or dotted evening top"}. Close-up selfie angle, moody nightlife atmosphere, realistic purple light reflecting softly on their skin, cinematic yet candid.
-STYLE:
-Realistic lifestyle photography, high-resolution, natural skin texture, no plastic smoothing, no waxy faces, no artificial doll-like look. Premium Instagram memory-dump aesthetic: intimate, cool, fashionable, polished but spontaneous.
+ฉาก — เซลฟี่ในงานอีเวนต์ยามค่ำคืนโทนสีม่วง:
+คู่รักถูกถ่ายภายใต้ {argument name="lighting" default="แสงไฟในคลับโทนม่วง-น้ำเงิน"} ทั้งคู่สวมแว่นกันแดดทรงสลิม ฝ่ายชายมีผมสีเข้มยุ่งเล็กน้อย มีเคราจางๆ สวมสร้อยคอหลายชั้น เสื้อเชิ้ตสีเข้มแบบเปิดอก และมีสีหน้ามั่นใจแบบผ่อนคลาย ฝ่ายหญิงมีผมยาวสีเข้มเป็นลอน ริมฝีปากฉ่ำวาว สีหน้าดูเท่และสง่างาม สวม {argument name="clothing" default="เสื้อท็อปออกงานสีดำมีกลิตเตอร์หรือลายจุด"} มุมกล้องแบบเซลฟี่ระยะใกล้ บรรยากาศยามค่ำคืนที่ดูมีอารมณ์ร่วม แสงสีม่วงสะท้อนบนผิวอย่างนุ่มนวล ให้ความรู้สึกเหมือนภาพยนตร์แต่ยังคงความเป็นธรรมชาติ
+สไตล์:
+ภาพถ่ายไลฟ์สไตล์ที่สมจริง ความละเอียดสูง พื้นผิวผิวหนังเป็นธรรมชาติ ไม่มีการปรับผิวให้เรียบเนียนจนดูเป็นพลาสติก ไม่มีความมันวาวบนใบหน้า ไม่ดูเหมือนตุ๊กตาที่สร้างจาก AI สไตล์ภาพถ่ายลง Instagram ระดับพรีเมียม: ให้ความรู้สึกใกล้ชิด เท่ ทันสมัย ดูดีแต่เป็นธรรมชาติ
 
-CAMERA:
-Realistic smartphone selfie perspective or close lifestyle-camera framing. Natural angle, candid composition, sharp faces, realistic proportions, believable hands if visible, soft background blur, premium editorial nightlife mood.
-BACKGROUND:
-{argument name="location" default="Stylish indoor event or club interior"} with softly blurred people, modern decor, purple-blue ambient lights, upscale nightlife atmosphere, and subtle depth of field.
+กล้อง:
+มุมมองแบบเซลฟี่จากสมาร์ทโฟนหรือการจัดเฟรมภาพไลฟ์สไตล์ระยะใกล้ มุมกล้องที่เป็นธรรมชาติ องค์ประกอบภาพแบบไม่ตั้งใจ ใบหน้าคมชัด สัดส่วนสมจริง มือดูสมจริง (หากมองเห็น) พื้นหลังเบลออย่างนุ่มนวล บรรยากาศยามค่ำคืนแบบพรีเมียม
+พื้นหลัง:
+{argument name="location" default="งานอีเวนต์ในร่มที่มีสไตล์หรือภายในคลับ"} พร้อมผู้คนที่เบลออย่างนุ่มนวล การตกแต่งที่ทันสมัย แสงไฟโทนม่วง-น้ำเงิน บรรยากาศยามค่ำคืนสุดหรู และระยะชัดลึกที่ดูมีมิติ
 
-MOOD:
-Cool, romantic, slightly mysterious, fashionable, intimate nightlife couple energy.
-NEGATIVE PROMPT:
-low quality, cartoon, illustration, 3D render, plastic skin, waxy face, generic AI face, identity drift, distorted hands, extra fingers, missing fingers, fused fingers, warped faces, uneven eyes, melted mouth, bad teeth, blurry face, overexposed highlights, messy background, text, watermark, logo, duplicate face, extra people, creepy expression, bad anatomy, unnatural pose, fake skin texture, harsh flash, oversaturated colors.
+อารมณ์:
+เท่ โรแมนติก ลึกลับเล็กน้อย ทันสมัย และพลังของคู่รักในยามค่ำคืนที่ใกล้ชิด
+คำสั่งเชิงลบ (Negative Prompt):
+คุณภาพต่ำ, การ์ตูน, ภาพวาด, เรนเดอร์ 3D, ผิวพลาสติก, ใบหน้ามันวาว, ใบหน้า AI ทั่วไป, อัตลักษณ์เปลี่ยน, มือบิดเบี้ยว, นิ้วเกิน, นิ้วขาด, นิ้วติดกัน, ใบหน้าผิดรูป, ตาไม่เท่ากัน, ปากเบี้ยว, ฟันไม่สวย, ใบหน้าเบลอ, แสงจ้าเกินไป, พื้นหลังรก, ข้อความ, ลายน้ำ, โลโก้, ใบหน้าซ้ำ, คนเกิน, สีหน้าดูน่ากลัว, กายวิภาคผิดปกติ, ท่าทางไม่เป็นธรรมชาติ, พื้นผิวผิวหนังปลอม, แฟลชแรงเกินไป, สีสดเกินจริง
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1595,7 +1596,7 @@ low quality, cartoon, illustration, 3D render, plastic skin, waxy face, generic 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424050515_e6hvev_HKubJXJWcAA5YcZ.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Photorealistic Nightlife Couple Selfie - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424050515_e6hvev_HKubJXJWcAA5YcZ.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - เซลฟี่คู่รักยามค่ำคืนแบบสมจริง - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1609,31 +1610,31 @@ low quality, cartoon, illustration, 3D render, plastic skin, waxy face, generic 
 
 ---
 
-### No. 23: โพสต์บนโซเชียลมีเดีย - Urban Street Fashion Couple Selfie
+### No. 23: โพสต์บนโซเชียลมีเดีย - ภาพเซลฟี่คู่รักสไตล์สตรีทแฟชั่น
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A photorealistic prompt for a top-down couple's selfie featuring edgy urban fashion, boho accessories, and a candid social media aesthetic.
+คำสั่งสร้างภาพ (Prompt) แนวสมจริงสำหรับภาพเซลฟี่มุมสูงของคู่รักที่มาพร้อมแฟชั่นสตรีทสุดเท่ เครื่องประดับสไตล์โบโฮ และบรรยากาศแบบแคนดิดสำหรับโซเชียลมีเดีย
 
 #### 📝 คำสั่ง
 
 ```
-Ultra-photorealistic top-down {argument name="subject" default="couple selfie"} taken from above, stylish street-fashion aesthetic, cool candid vibe. A fashionable young couple stands close together under a textured concrete ceiling, looking up at the camera in a playful, confident pose. The composition is slightly tilted and editorial, with a casual but trendy social-media feel.
+ภาพเซลฟี่มุมสูง {argument name="subject" default="couple selfie"} ที่สมจริงสุด ๆ ถ่ายจากมุมบน สไตล์สตรีทแฟชั่นสุดชิค ให้ความรู้สึกเท่และเป็นธรรมชาติ คู่รักวัยรุ่นสุดแฟชั่นยืนชิดกันใต้เพดานคอนกรีตที่มีพื้นผิวชัดเจน ทั้งคู่มองขึ้นมาที่กล้องในท่าทางที่ดูขี้เล่นและมั่นใจ องค์ประกอบภาพมีความเอียงเล็กน้อยแบบนิตยสาร ให้ความรู้สึกสบาย ๆ แต่ทันสมัยแบบโซเชียลมีเดีย
 
-The woman has straight dark hair with soft bangs, full lips, and a chic sultry expression. She wears narrow oval sunglasses, layered necklaces, a brown strapless or bandeau-style top, and bold statement accessories such as an arm cuff, bracelets, and rings. Her style feels boho, edgy, and effortlessly cool.
+ฝ่ายหญิงมีผมตรงสีเข้มพร้อมหน้าม้าบาง ๆ ริมฝีปากอิ่ม และสีหน้าสุดชิคที่ดูเย้ายวน เธอสวมแว่นตากันแดดทรงรีแคบ สร้อยคอหลายชั้น เสื้อเกาะอกสีน้ำตาล และเครื่องประดับที่โดดเด่น เช่น กำไลต้นแขน สร้อยข้อมือ และแหวน สไตล์ของเธอให้ความรู้สึกแบบโบโฮ เท่ และดูดีแบบไม่ต้องพยายาม
 
-The man stands very close beside her, leaning in so their heads nearly touch. He has dark hair, stylish clear or thin metal-frame glasses, and a soft pout or playful kissy expression. He wears a modern layered outfit such as a dark jacket over a light top, with subtle jewelry or necklace details. His vibe is artsy, trendy, and urban.
+ฝ่ายชายยืนชิดข้างเธอมาก โน้มตัวเข้ามาจนศีรษะแทบจะชิดกัน เขามีผมสีเข้ม สวมแว่นตากรอบโลหะบางหรือกรอบใสสุดเท่ และทำท่าทางทำปากจู๋แบบขี้เล่น เขาสวมชุดเลเยอร์ที่ทันสมัย เช่น แจ็กเก็ตสีเข้มทับเสื้อตัวในสีอ่อน พร้อมเครื่องประดับหรือสร้อยคอเล็กน้อย บรรยากาศของเขาดูมีความเป็นศิลปิน ทันสมัย และมีความเป็นคนเมือง
 
-Both should feel like a stylish couple with coordinated fashion energy. The mood is intimate, youthful, and aesthetic, like a candid Instagram or Pinterest street-style selfie. Neutral muted color palette, soft daylight, realistic skin texture, slightly moody tone, clean but lived-in urban feel.
+ทั้งคู่ควรดูเป็นคู่รักที่มีสไตล์และมีพลังของแฟชั่นที่เข้ากัน บรรยากาศมีความใกล้ชิด อ่อนเยาว์ และดูดี เหมือนภาพเซลฟี่สไตล์สตรีทแบบแคนดิดบน Instagram หรือ Pinterest โทนสีเป็นกลางและนุ่มนวล แสงกลางวันนุ่มนวล ผิวสัมผัสสมจริง โทนภาพมีความหม่นเล็กน้อย ให้ความรู้สึกถึงความเป็นเมืองที่สะอาดแต่ดูมีชีวิตชีวา
 
-Style details:
-top-view selfie, urban fashion couple, trendy accessories, editorial street style, soft natural lighting, cool neutral tones, intimate framing, candid social-media aesthetic, realistic phone-camera look.
+รายละเอียดสไตล์:
+เซลฟี่มุมสูง, คู่รักแฟชั่นสตรีท, เครื่องประดับทันสมัย, สไตล์สตรีทแบบนิตยสาร, แสงธรรมชาติที่นุ่มนวล, โทนสีกลางสุดเท่, การจัดเฟรมแบบใกล้ชิด, บรรยากาศโซเชียลมีเดียแบบแคนดิด, ภาพถ่ายจากกล้องมือถือที่สมจริง
 
-Negative prompt:
-blurry face, distorted hands, extra limbs, bad anatomy, cartoon, illustration, low quality, awkward pose, messy composition, overly bright colors, plastic skin, duplicate features, unrealistic glasses, deformed accessories
+คำสั่งเชิงลบ (Negative prompt):
+ใบหน้าเบลอ, มือผิดรูป, แขนขาเกิน, กายวิภาคผิดปกติ, การ์ตูน, ภาพวาด, คุณภาพต่ำ, ท่าทางดูเกร็ง, องค์ประกอบภาพยุ่งเหยิง, สีสดเกินไป, ผิวดูเป็นพลาสติก, ฟีเจอร์ซ้ำซ้อน, แว่นตาไม่สมจริง, เครื่องประดับผิดรูป
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1641,13 +1642,13 @@ blurry face, distorted hands, extra limbs, bad anatomy, cartoon, illustration, l
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424057414_0jc0qx_HKuaocMWYAAD4WV.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Urban Street Fashion Couple Selfie - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424057414_0jc0qx_HKuaocMWYAAD4WV.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพเซลฟี่คู่รักสไตล์สตรีทแฟชั่น - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424057426_6v7wxt_HKuarLtXIAAt9nQ.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Urban Street Fashion Couple Selfie - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424057426_6v7wxt_HKuarLtXIAAt9nQ.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพเซลฟี่คู่รักสไตล์สตรีทแฟชั่น - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1661,33 +1662,33 @@ blurry face, distorted hands, extra limbs, bad anatomy, cartoon, illustration, l
 
 ---
 
-### No. 24: โพสต์บนโซเชียลมีเดีย - Subway Staircase Fashion Portrait
+### No. 24: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแฟชั่นบนบันไดรถไฟฟ้าใต้ดิน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A dramatic low-angle fashion shot of an elegant woman on a subway staircase, emphasizing presence and urban energy.
+ภาพถ่ายแฟชั่นมุมต่ำสุดดราม่าของหญิงสาวผู้สง่างามบนบันไดรถไฟฟ้าใต้ดิน เน้นย้ำถึงตัวตนและพลังของคนเมือง
 
 #### 📝 คำสั่ง
 
 ```
-Ultra-cinematic full-body fashion portrait of a {argument name="subject" default="young elegant woman"} sitting gracefully on the upper section of an underground subway staircase. Her body leans naturally against the stairs, with both arms extended and resting elegantly on the stairs behind and beside her, creating a relaxed yet confident pose. She turns her head towards the camera with a captivating, confident, and soft gaze.
+ภาพถ่ายแฟชั่นเต็มตัวสไตล์ภาพยนตร์สุดล้ำของ {argument name="subject" default="หญิงสาวผู้สง่างาม"} ที่นั่งอย่างสง่างามอยู่บนส่วนบนของบันไดรถไฟฟ้าใต้ดิน ร่างกายของเธอเอนพิงบันไดอย่างเป็นธรรมชาติ โดยแขนทั้งสองข้างเหยียดออกและวางพาดบนบันไดด้านหลังและด้านข้างอย่างมีจริต สร้างท่าทางที่ดูผ่อนคลายแต่เปี่ยมไปด้วยความมั่นใจ เธอหันหน้ามาทางกล้องด้วยสายตาที่น่าหลงใหล มั่นใจ และอ่อนโยน
 
-Camera angle: {argument name="angle" default="dramatic low-angle shot"} from the lower steps, positioned below eye level, looking upward towards the subject. Woman-on-top perspective, emphasizing presence, confidence, elegance, and elongated legs. Strong visual hierarchy with the subject dominating the composition.
+มุมกล้อง: {argument name="angle" default="ภาพมุมต่ำสุดดราม่า"} จากขั้นบันไดด้านล่าง จัดวางตำแหน่งให้ต่ำกว่าระดับสายตา มองขึ้นไปยังตัวแบบ เป็นมุมมองที่เน้นตัวแบบอยู่ด้านบน ช่วยขับเน้นตัวตน ความมั่นใจ ความสง่างาม และช่วงขาที่ดูยาวระหง มีลำดับภาพที่ชัดเจนโดยให้ตัวแบบเป็นจุดเด่นขององค์ประกอบภาพ
 
-She has a short, sleek, thick mocha-brown bob haircut styled with soft luxurious waves that elegantly frame her face.
+เธอมีผมบ๊อบสั้น หนา เงางาม สีน้ำตาลมอคค่า จัดทรงเป็นลอนคลื่นนุ่มนวลดูหรูหราที่ล้อมกรอบใบหน้าอย่างสง่างาม
 
-Outfit: modern smart-casual quiet luxury fashion. A fitted cream tank top paired with high-waisted charcoal palazzo trousers featuring black suspenders. Black pointed-toe heels, amber-tinted glasses, and refined minimalist accessories. Sophisticated, chic, timeless, and effortlessly elegant.
+เครื่องแต่งกาย: แฟชั่นสไตล์โมเดิร์นสมาร์ทแคชชวลแบบ Quiet Luxury เสื้อกล้ามสีครีมเข้ารูปจับคู่กับกางเกงพาลาซโซเอวสูงสีเทาเข้มพร้อมสายเอี๊ยมสีดำ รองเท้าส้นสูงหัวแหลมสีดำ แว่นตากันแดดเลนส์สีอำพัน และเครื่องประดับมินิมอลที่ดูประณีต ให้ลุคที่ดูซับซ้อน ชิค เหนือกาลเวลา และสง่างามอย่างเป็นธรรมชาติ
 
-Environment: {argument name="setting" default="contemporary underground subway station staircase"}. Commuters moving up and down the stairs around her, rendered as soft motion blur and creamy bokeh, creating a sense of urban energy while keeping the woman as the focal point.
+สภาพแวดล้อม: {argument name="setting" default="บันไดสถานีรถไฟฟ้าใต้ดินร่วมสมัย"} มีผู้คนสัญจรไปมาขึ้นลงบันไดรอบตัวเธอ โดยแสดงผลเป็นภาพเบลอจากการเคลื่อนไหวและโบเก้ที่นุ่มนวล สร้างความรู้สึกถึงพลังของคนเมืองในขณะที่ยังคงให้หญิงสาวเป็นจุดโฟกัสหลัก
 
-Lighting: Vogue editorial lighting, premium fashion magazine aesthetic, cinematic highlights and shadows, soft contrast, subtle rim light, realistic ambient subway illumination.
+แสง: แสงแบบนิตยสาร Vogue สุนทรียศาสตร์แฟชั่นระดับพรีเมียม ไฮไลท์และเงาแบบภาพยนตร์ คอนทราสต์ที่นุ่มนวล แสงขอบ (rim light) ที่ละเอียดอ่อน และแสงไฟในสถานีรถไฟฟ้าที่สมจริง
 
-Photography style: luxury fashion campaign, professional model photography, hyper-realistic skin texture, ultra-detailed fabric texture, natural pose, depth and dimensionality, cinematic color grading, rich tonal range, timeless mood, photorealistic, extremely detailed.
+สไตล์การถ่ายภาพ: แคมเปญแฟชั่นหรูหรา การถ่ายภาพนางแบบมืออาชีพ พื้นผิวผิวหนังที่สมจริงเป็นพิเศษ พื้นผิวผ้าที่มีรายละเอียดสูง ท่าทางที่เป็นธรรมชาติ ความลึกและมิติ การปรับสีแบบภาพยนตร์ ช่วงโทนสีที่เข้มข้น อารมณ์เหนือกาลเวลา ภาพถ่ายสมจริง รายละเอียดสูงมาก
 
-Technical specifications: 85mm lens, f/1.8, shallow depth of field, high resolution, HDR quality, razor-sharp focus on subject, creamy background bokeh, masterpiece fashion photography, award-winning editorial shot.
+ข้อมูลทางเทคนิค: เลนส์ 85 มม., f/1.8, ระยะชัดตื้น, ความละเอียดสูง, คุณภาพ HDR, โฟกัสที่คมชัดบนตัวแบบ, โบเก้พื้นหลังที่นุ่มนวล, ผลงานภาพถ่ายแฟชั่นระดับมาสเตอร์พีซ, ภาพถ่ายเชิงบรรณาธิการระดับรางวัล
 
 –Ar 2:3 –stylize 150
 ```
@@ -1697,13 +1698,13 @@ Technical specifications: 85mm lens, f/1.8, shallow depth of field, high resolut
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424063652_k773lk_HKtVh1HXQAAsDNK.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Subway Staircase Fashion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424063652_k773lk_HKtVh1HXQAAsDNK.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแฟชั่นบนบันไดรถไฟฟ้าใต้ดิน - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424063664_abkw22_HKtVh1GWsAAZIcM.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Subway Staircase Fashion Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424063664_abkw22_HKtVh1GWsAAZIcM.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแฟชั่นบนบันไดรถไฟฟ้าใต้ดิน - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1717,19 +1718,19 @@ Technical specifications: 85mm lens, f/1.8, shallow depth of field, high resolut
 
 ---
 
-### No. 25: โพสต์บนโซเชียลมีเดีย - Muscular Man Resort Fashion Portrait
+### No. 25: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแฟชั่นรีสอร์ตของชายหนุ่มกล้ามโต
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A high-contrast digital photograph prompt of a muscular man in old money resort fashion, featuring hard natural sunlight and sharp photographic detail.
+พรอมต์สำหรับภาพถ่ายดิจิทัลคอนทราสต์สูงของชายหนุ่มกล้ามโตในลุคแฟชั่นรีสอร์ตสไตล์ Old Money โดดเด่นด้วยแสงแดดธรรมชาติที่จัดจ้านและรายละเอียดภาพที่คมชัด
 
 #### 📝 คำสั่ง
 
 ```
-An extremely muscular man stands confidently centered, facing the camera straight on, featuring dark, glossy, slicked-back hair with a single stray curl resting naturally on his right forehead, alongside a short manicured beard and aviator sunglasses hiding his eyes in a neutral, posed expression. He is dressed in a tight, highly textured {argument name="outfit" default="white knit short-sleeve polo shirt"} with a collar, paired with dark olive-brown dress trousers, his left hand deliberately tucked into his front left pocket while his right arm rests straight down at his side. He is positioned directly against a slightly textured, matte warm off-white painted concrete wall with a pristine, clean horizontal top edge that creates a shallow spatial depth. Rising behind the wall in the distant background is a {argument name="background" default="vivid sky-blue expanse"} dotted with scattered fluffy white clouds and the curved top of a weathered metal street light pole extending upward. The scene is illuminated by single-source, {argument name="lighting" default="bright, hard natural sunlight"} striking from a high front-left angle, casting highly directional, deep black-to-dark-gray harsh shadows to the right side of his silhouette directly onto the wall behind him, as well as distinct cast shadows under his collar and rigid pectoral muscles. This golden, warm lighting preserves crisp specular highlights on his left shoulder, left bicep, the left side of his face, and along the intricate raised ridges of his white knit shirt, creating a high-contrast, heavily structured, and energetic atmosphere. Captured as a stylized yet realistic digital photograph using a 50mm lens at ISO 100, f/8, and 1/500s for a tack-sharp, grain-free deep depth of field that emphasizes the clothing texture and clean visual style reminiscent of old money resort fashion and fitness influencer aesthetics, featuring high contrast curve post-processing, enhanced clarity on the garments, and warm color grading for his tanned skin tones while keeping the whites strictly neutral, framed in a 1:1 aspect ratio.
+ชายหนุ่มกล้ามโตยืนอย่างมั่นใจอยู่ตรงกลาง หันหน้าเข้าหากล้องโดยตรง ผมสีเข้มเป็นเงางามถูกเซ็ตเสยไปด้านหลังโดยมีปอยผมตกลงมาที่หน้าผากด้านขวาอย่างเป็นธรรมชาติ พร้อมด้วยเคราที่เล็มอย่างประณีตและแว่นตากันแดดทรงนักบินที่บดบังดวงตาภายใต้สีหน้าเรียบเฉย เขาสวมใส่ {argument name="outfit" default="เสื้อโปโลแขนสั้นผ้าถักสีขาว"} ที่เข้ารูปและมีพื้นผิวสัมผัสชัดเจนพร้อมปกเสื้อ จับคู่กับกางเกงสแล็คสีน้ำตาลมะกอกเข้ม มือซ้ายล้วงกระเป๋ากางเกงด้านหน้าอย่างตั้งใจ ในขณะที่แขนขวาทิ้งตัวตรงแนบลำตัว เขาโพสท่าอยู่หน้าผนังคอนกรีตทาสีขาวออฟไวท์แบบด้านที่มีพื้นผิวเล็กน้อย โดยมีขอบบนของผนังที่เรียบตรงสะอาดตาช่วยสร้างมิติความลึกที่ตื้น ด้านหลังผนังในระยะไกลคือ {argument name="background" default="ท้องฟ้าสีฟ้าสดใส"} ที่ประดับด้วยก้อนเมฆสีขาวฟูฟ่องและส่วนโค้งด้านบนของเสาไฟถนนโลหะเก่าแก่ที่ยื่นขึ้นไป ฉากนี้ได้รับแสงจากแหล่งกำเนิดเดียวคือ {argument name="lighting" default="แสงแดดธรรมชาติที่สว่างและจัดจ้าน"} ซึ่งส่องมาจากมุมสูงด้านหน้าซ้าย ทำให้เกิดเงาที่เข้มลึกตั้งแต่สีดำไปจนถึงสีเทาเข้มทางด้านขวาของร่างบนผนังด้านหลัง รวมถึงเงาที่ชัดเจนใต้ปกเสื้อและกล้ามเนื้อหน้าอกที่เด่นชัด แสงสีทองโทนอุ่นนี้ช่วยรักษาไฮไลต์ที่คมชัดบนไหล่ซ้าย ต้นแขนซ้าย ด้านซ้ายของใบหน้า และตามแนวสันนูนที่ซับซ้อนของเสื้อผ้าถักสีขาว สร้างบรรยากาศที่มีคอนทราสต์สูง โครงสร้างชัดเจน และเปี่ยมไปด้วยพลัง ถ่ายทอดออกมาเป็นภาพถ่ายดิจิทัลที่มีสไตล์แต่สมจริงโดยใช้เลนส์ 50 มม. ที่ ISO 100, f/8 และความเร็วชัตเตอร์ 1/500 วินาที เพื่อให้ได้ภาพที่คมชัดลึกโดยไม่มีสัญญาณรบกวน (grain) ซึ่งเน้นย้ำถึงพื้นผิวของเสื้อผ้าและสไตล์ภาพที่สะอาดตา ชวนให้นึกถึงแฟชั่นรีสอร์ตสไตล์ Old Money และความสวยงามแบบอินฟลูเอนเซอร์สายฟิตเนส พร้อมการปรับแต่งภาพด้วยเส้นโค้งคอนทราสต์สูง เพิ่มความชัดเจนของรายละเอียดเสื้อผ้า และการเกรดสีโทนอุ่นสำหรับผิวสีแทนโดยที่ยังคงสีขาวให้เป็นกลางอย่างเคร่งครัด จัดวางในอัตราส่วนภาพ 1:1
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1737,7 +1738,7 @@ An extremely muscular man stands confidently centered, facing the camera straigh
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424063952_jn3ozy_HKtLwQIXUAAy1iK.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Muscular Man Resort Fashion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424063952_jn3ozy_HKtLwQIXUAAy1iK.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแฟชั่นรีสอร์ตของชายหนุ่มกล้ามโต - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1751,18 +1752,18 @@ An extremely muscular man stands confidently centered, facing the camera straigh
 
 ---
 
-### No. 26: โพสต์บนโซเชียลมีเดีย - Freckled Model Gold Makeup Portrait
+### No. 26: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตสาวกระแต่งหน้าโทนสีทอง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 คำอธิบาย
 
-A high-fashion editorial portrait prompt of a freckled woman with metallic gold makeup, utilizing medium-format photography aesthetics and cinematic lighting.
+พรอมต์ภาพพอร์ตเทรตแฟชั่นชั้นสูงของหญิงสาวที่มีกระบนใบหน้า แต่งหน้าด้วยโทนสีทองเมทัลลิก โดยใช้สุนทรียศาสตร์ของการถ่ายภาพแบบ Medium-format และการจัดแสงแบบภาพยนตร์
 
 #### 📝 คำสั่ง
 
 ```
-Ultra-realistic luxury fashion editorial portrait of a young red-haired woman with fair freckled skin, natural facial asymmetry, authentic proportions, casting-model appearance, close-up three-quarter view, relaxed expression, gaze directed downward or off-camera. Contemporary editorial makeup featuring diffused metallic champagne-gold graphic eye makeup with organically imperfect edges. Freckles fully visible. Highly detailed skin texture with visible pores, tonal variation, subtle redness, and natural imperfections. Sleek wet-look or loosely pulled-back hair with realistic irregularities. Sculptural minimalist gold jewelry with natural reflections and imperfect highlights. Low-key cinematic lighting, strong contrast, single directional soft light source, deep shadows, dimensional facial contours, dark near-black background with subtle falloff. Cinematic color grading, slightly desaturated tones, warm undertones, rich blacks, soft highlight rolloff. Medium-format photography, 100mm lens, shallow depth of field, razor-sharp focus on skin texture, subtle lens imperfections, gentle highlight bloom, organically integrated fine film grain. Modern high-fashion editorial campaign aesthetic, sophisticated, bold, luxurious, understated, ultra-detailed, photorealistic, authentic photography. Negative prompt: CGI, 3D render, digital art, illustration, anime, cartoon, painting, overprocessed skin, beauty retouching, airbrushed skin, plastic skin, flawless skin, idealized beauty, glam makeup, commercial beauty advertising, symmetrical face, doll-like features, heavy skin smoothing, excessive sharpening, artificial lighting, flat lighting, evenly lit studio lighting, bright seamless backdrop, ornate jewelry, diamonds, silver jewelry, white eye makeup, exaggerated highlights, HDR look, oversaturated colors, excessive contrast, fake film grain overlay, waxy skin, blurry skin texture, low detail skin, distorted anatomy, deformed face, extra facial features, low resolution, artifacts, watermark, logo, signature, text.
+ภาพพอร์ตเทรตแฟชั่นชั้นสูงที่สมจริงเป็นพิเศษของหญิงสาวผมแดงที่มีผิวขาวและมีกระตามธรรมชาติ มีความไม่สมมาตรของใบหน้าตามธรรมชาติ สัดส่วนที่สมจริง ดูเหมือนนางแบบแคสติ้ง ภาพโคลสอัพมุมสามส่วน สีหน้าผ่อนคลาย สายตามองลงด้านล่างหรือมองออกนอกกล้อง แต่งหน้าสไตล์แฟชั่นร่วมสมัยด้วยอายแชโดว์กราฟิกสีทองแชมเปญเมทัลลิกแบบฟุ้งกระจายที่มีขอบไม่เนี๊ยบจนเกินไป เห็นกระได้อย่างชัดเจน ผิวมีรายละเอียดสูงเห็นรูขุมขนชัดเจน มีความแตกต่างของโทนสี มีรอยแดงเล็กน้อย และความไม่สมบูรณ์แบบตามธรรมชาติ ผมสไตล์เปียกหรือรวบไว้หลวมๆ อย่างเป็นธรรมชาติ เครื่องประดับทองสไตล์มินิมอลที่มีรูปทรงสวยงามพร้อมการสะท้อนแสงที่เป็นธรรมชาติและไฮไลท์ที่ไม่สมบูรณ์แบบ การจัดแสงแบบภาพยนตร์ Low-key คอนทราสต์สูง แหล่งกำเนิดแสงนุ่มนวลทิศทางเดียว เงาลึก โครงหน้ามีมิติ พื้นหลังสีเข้มเกือบดำพร้อมการไล่ระดับแสงที่นุ่มนวล การปรับโทนสีแบบภาพยนตร์ โทนสีลดความอิ่มตัวลงเล็กน้อย โทนสีอบอุ่น สีดำที่เข้มข้น ไฮไลท์ที่นุ่มนวล การถ่ายภาพแบบ Medium-format เลนส์ 100 มม. ระยะชัดลึกตื้น โฟกัสที่พื้นผิวผิวหนังอย่างคมชัด มีความไม่สมบูรณ์ของเลนส์เล็กน้อย ไฮไลท์ฟุ้งกระจายอย่างนุ่มนวล และเกรนฟิล์มที่ละเอียดอย่างเป็นธรรมชาติ สุนทรียศาสตร์ของแคมเปญแฟชั่นชั้นสูงสมัยใหม่ มีความซับซ้อน โดดเด่น หรูหรา เรียบง่าย รายละเอียดสูงมาก สมจริงเหมือนภาพถ่าย และมีความเป็นธรรมชาติ Negative prompt: CGI, เรนเดอร์ 3D, งานศิลปะดิจิทัล, ภาพวาดประกอบ, อะนิเมะ, การ์ตูน, ภาพวาด, ผิวที่ผ่านการแต่งมากเกินไป, การรีทัชความงาม, ผิวที่ผ่านการแอร์บรัช, ผิวพลาสติก, ผิวไร้ที่ติ, ความงามในอุดมคติ, การแต่งหน้าแบบจัดเต็ม, โฆษณาความงามเชิงพาณิชย์, ใบหน้าสมมาตร, ใบหน้าเหมือนตุ๊กตา, การทำให้ผิวเรียบเนียนเกินไป, การปรับความคมชัดมากเกินไป, แสงประดิษฐ์, แสงแบน, แสงสตูดิโอที่สว่างเท่ากัน, ฉากหลังสีสว่างที่ไม่มีรอยต่อ, เครื่องประดับหรูหรา, เพชร, เครื่องประดับเงิน, อายแชโดว์สีขาว, ไฮไลท์ที่เกินจริง, ลุค HDR, สีอิ่มตัวเกินไป, คอนทราสต์สูงเกินไป, การซ้อนทับของเกรนฟิล์มปลอม, ผิวดูเหมือนขี้ผึ้ง, พื้นผิวผิวเบลอ, รายละเอียดผิวต่ำ, กายวิภาคบิดเบี้ยว, ใบหน้าผิดรูป, มีอวัยวะบนใบหน้าเกิน, ความละเอียดต่ำ, สิ่งแปลกปลอม, ลายน้ำ, โลโก้, ลายเซ็น, ข้อความ
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1770,13 +1771,13 @@ Ultra-realistic luxury fashion editorial portrait of a young red-haired woman wi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424062657_2db7uj_HKtA5hnXMAE6sVz.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Freckled Model Gold Makeup Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424062657_2db7uj_HKtA5hnXMAE6sVz.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตสาวกระแต่งหน้าโทนสีทอง - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424062705_fkerxg_HKtA0YpXAAAlHrt.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Freckled Model Gold Makeup Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424062705_fkerxg_HKtA0YpXAAAlHrt.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตสาวกระแต่งหน้าโทนสีทอง - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1790,19 +1791,19 @@ Ultra-realistic luxury fashion editorial portrait of a young red-haired woman wi
 
 ---
 
-### No. 27: โพสต์บนโซเชียลมีเดีย - Night Parking Defender Car Portrait
+### No. 27: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายพอร์ตเทรตชายหนุ่มกับรถ Defender ในลานจอดรถยามค่ำคืน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A nighttime portrait prompt of a young man sitting casually on a black Defender car in an illuminated parking lot.
+พรอมต์สำหรับสร้างภาพพอร์ตเทรตยามค่ำคืนของชายหนุ่มที่นั่งอย่างเป็นกันเองบนรถ Defender สีดำในลานจอดรถที่มีแสงไฟส่องสว่าง
 
 #### 📝 คำสั่ง
 
 ```
-Keeping the same face and hairstyle of {argument name="subject" default="20 years old boy"} with dark, wearing a {argument name="clothing" default="black buffer shirt, black cargo lose jeans"}. brown-white sneakers, bracelet, chain, wristwatch, Sunglasses on eyes, sitting casually a {argument name="vehicle" default="sleek black Defender car"} side seating fayring the other on the car. The setting is an outdoor parking lot at night, illuminated by numerous streetlights. A crescent moon is visible in the dark sky, and a small tree is behind.
+คงใบหน้าและทรงผมเดิมของ {argument name="subject" default="เด็กหนุ่มอายุ 20 ปี"} ผิวเข้ม สวมใส่ {argument name="clothing" default="เสื้อบัฟเฟอร์สีดำ กางเกงคาร์โก้ทรงหลวมสีดำ"} รองเท้าผ้าใบสีน้ำตาลขาว สร้อยข้อมือ สร้อยคอ นาฬิกาข้อมือ แว่นตากันแดด นั่งอย่างเป็นกันเองบน {argument name="vehicle" default="รถ Defender สีดำโฉบเฉี่ยว"} โดยหันข้างให้กล้อง ฉากหลังเป็นลานจอดรถกลางแจ้งในยามค่ำคืนที่สว่างไสวด้วยแสงจากโคมไฟถนนจำนวนมาก มองเห็นพระจันทร์เสี้ยวบนท้องฟ้ามืดมิด และมีต้นไม้เล็กๆ อยู่ด้านหลัง
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1810,7 +1811,7 @@ Keeping the same face and hairstyle of {argument name="subject" default="20 year
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424064692_8okypf_HKsZN5eWcAAJZuK.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Night Parking Defender Car Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424064692_8okypf_HKsZN5eWcAAJZuK.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายพอร์ตเทรตชายหนุ่มกับรถ Defender ในลานจอดรถยามค่ำคืน - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1824,19 +1825,19 @@ Keeping the same face and hairstyle of {argument name="subject" default="20 year
 
 ---
 
-### No. 28: โพสต์บนโซเชียลมีเดีย - East Asian Woman Photo Strip
+### No. 28: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแนวตั้งของหญิงสาวชาวเอเชียตะวันออก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A vertical photo collage of four expressive close-up portraits of an East Asian woman.
+คอลลาจภาพถ่ายแนวตั้งที่ประกอบด้วยภาพพอร์ตเทรตระยะใกล้ที่แสดงอารมณ์ต่างๆ ของหญิงสาวชาวเอเชียตะวันออกจำนวน 4 ภาพ
 
 #### 📝 คำสั่ง
 
 ```
-A vertical photo strip collage featuring four distinct, close-up portraits of a beautiful {argument name="subject" default="East Asian woman"} with long, wavy black hair, set against a {argument name="background" default="clean, minimal light grey background"}. In the first panel at the top, she is laughing joyfully with a wide, radiant smile, showing her teeth, with her hand resting gently under her chin. In the second panel, she tilts her head slightly, looking off to the side with a soft, serene expression while resting her cheek against her hand, showcasing elegant silver rings on her fingers. In the third panel, she looks directly into the camera with wide, expressive brown eyes while playfully puckering her lips. In the bottom panel, she offers a charming, knowing smile while playfully winking one eye. Throughout all the frames, she has luminous, dewy skin, natural makeup with soft coral-toned lips, and wears elegant, {argument name="jewelry" default="multi-layered silver hoop earrings"}. The lighting is bright, soft, and even, capturing a cheerful, lively, and highly photogenic mood.
+คอลลาจภาพถ่ายแนวตั้งที่ประกอบด้วยภาพพอร์ตเทรตระยะใกล้ที่โดดเด่น 4 ภาพของ {argument name="subject" default="หญิงสาวชาวเอเชียตะวันออก"} ผู้มีผมยาวสลวยสีดำเป็นลอน โดยมีฉากหลังเป็น {argument name="background" default="พื้นหลังสีเทาอ่อนที่สะอาดตาและเรียบง่าย"} ในช่องแรกด้านบน เธอหัวเราะอย่างมีความสุขด้วยรอยยิ้มที่กว้างและสดใสจนเห็นฟัน พร้อมกับวางมือไว้ใต้คางอย่างนุ่มนวล ในช่องที่สอง เธอเอียงศีรษะเล็กน้อย มองไปด้านข้างด้วยสีหน้าอ่อนโยนและสงบนิ่งขณะวางแก้มแนบกับมือ เผยให้เห็นแหวนเงินดีไซน์หรูหราบนนิ้วมือ ในช่องที่สาม เธอมองตรงมาที่กล้องด้วยดวงตาสีน้ำตาลที่กลมโตและเปี่ยมไปด้วยความรู้สึก พร้อมกับทำปากจู๋อย่างขี้เล่น ในช่องล่างสุด เธอส่งยิ้มที่มีเสน่ห์และดูรู้ทันพร้อมกับขยิบตาอย่างซุกซน ตลอดทั้งภาพเธอมีผิวพรรณที่เปล่งปลั่งและดูฉ่ำวาว แต่งหน้าในลุคธรรมชาติด้วยริมฝีปากโทนสีส้มปะการังอ่อนๆ และสวมใส่ {argument name="jewelry" default="ต่างหูห่วงเงินแบบหลายชั้น"} ที่ดูสง่างาม แสงในภาพมีความสว่าง นุ่มนวล และสม่ำเสมอ ช่วยถ่ายทอดบรรยากาศที่ร่าเริง มีชีวิตชีวา และดูดีในทุกมุมมอง
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1844,7 +1845,7 @@ A vertical photo strip collage featuring four distinct, close-up portraits of a 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424056308_mffbze_HKsfUtNXYAE5H_D.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - East Asian Woman Photo Strip - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424056308_mffbze_HKsfUtNXYAE5H_D.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแนวตั้งของหญิงสาวชาวเอเชียตะวันออก - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1858,19 +1859,19 @@ A vertical photo strip collage featuring four distinct, close-up portraits of a 
 
 ---
 
-### No. 29: โพสต์บนโซเชียลมีเดีย - Douyin Style Cinematic Portrait
+### No. 29: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตแนว Cinematic สไตล์ Douyin
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-An introspective cinematic portrait featuring Douyin-inspired makeup and soft blue-gray lighting.
+ภาพพอร์ตเทรตแนว Cinematic ที่ดูมีความครุ่นคิด โดยใช้การแต่งหน้าสไตล์ Douyin และแสงโทนสีฟ้าอมเทาที่นุ่มนวล
 
 #### 📝 คำสั่ง
 
 ```
-A cinematic close-up portrait capturing a calm and introspective mood. {argument name="lighting" default="Soft blue-gray lighting"} highlights her glowing skin, refined facial features, and elegant {argument name="makeup style" default="Douyin-inspired makeup"}. Long ash-brown hair with natural loose strands frames her face beautifully, while the {argument name="clothing" default="navy-blue shirt and white AirPods"} add a modern, sophisticated touch. The ultra-realistic details, cool color grading, and emotional atmosphere create a timeless and visually captivating portrait.
+ภาพพอร์ตเทรตระยะใกล้แนว Cinematic ที่ถ่ายทอดอารมณ์ความสงบและดูมีความครุ่นคิด {argument name="lighting" default="แสงโทนสีฟ้าอมเทาที่นุ่มนวล"} ช่วยขับเน้นผิวพรรณที่เปล่งประกาย โครงหน้าอันประณีต และ {argument name="makeup style" default="การแต่งหน้าสไตล์ Douyin"} ที่ดูสง่างาม ผมยาวสีน้ำตาลหม่นที่มีปอยผมปล่อยลงมาอย่างเป็นธรรมชาตินั้นช่วยล้อมกรอบใบหน้าได้อย่างสวยงาม ในขณะที่ {argument name="clothing" default="เสื้อเชิ้ตสีน้ำเงินกรมท่าและหูฟัง AirPods สีขาว"} ช่วยเพิ่มสัมผัสที่ดูทันสมัยและมีความซับซ้อน รายละเอียดที่สมจริงเป็นพิเศษ การปรับโทนสีที่ดูเย็นตา และบรรยากาศที่เปี่ยมไปด้วยอารมณ์ความรู้สึก ทำให้ภาพพอร์ตเทรตนี้ดูเหนือกาลเวลาและน่าหลงใหลในเชิงภาพอย่างแท้จริง
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1878,13 +1879,13 @@ A cinematic close-up portrait capturing a calm and introspective mood. {argument
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424056383_kz6c4e_HKsSUEVbgAAkpnR.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Douyin Style Cinematic Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424056383_kz6c4e_HKsSUEVbgAAkpnR.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตแนว Cinematic สไตล์ Douyin - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424056397_xzcbu1_HKsSUDjaIAAOiCQ.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Douyin Style Cinematic Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424056397_xzcbu1_HKsSUDjaIAAOiCQ.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตแนว Cinematic สไตล์ Douyin - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1898,21 +1899,21 @@ A cinematic close-up portrait capturing a calm and introspective mood. {argument
 
 ---
 
-### No. 30: โพสต์บนโซเชียลมีเดีย - 90s Nostalgic Tokyo Street Portrait
+### No. 30: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตสตรีทโตเกียวสไตล์ย้อนยุค 90s
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A film-style prompt that captures a nostalgic 90s aesthetic of a woman walking through Tokyo at dusk, featuring vintage camera props and warm cinematic lighting.
+พรอมต์สไตล์ฟิล์มที่ถ่ายทอดความรู้สึกย้อนยุคในยุค 90s ของหญิงสาวที่กำลังเดินอยู่ในโตเกียวช่วงพลบค่ำ พร้อมอุปกรณ์ประกอบฉากกล้องวินเทจและแสงสีแบบภาพยนตร์ที่อบอุ่น
 
 #### 📝 คำสั่ง
 
 ```
-A full-length portrait shot of a {argument name="subject" default="beautiful young woman with long, open, wavy black hair"} smiling warmly while walking across a crosswalk on a {argument name="location" default="Tokyo street"} at dusk. She is holding a small vintage point-and-shoot film camera with both hands at waist level. She is wearing a {argument name="outfit" default="casual denim jacket over a white cropped t-shirt, a matching denim miniskirt"}, and has a small beige canvas camera bag slung over her shoulder.
-Background: A vibrant, slightly blurred Japanese street scene at twilight. To the left is a brightly lit vending machine and a shop front featuring glowing red and green neon signage with Japanese kanji characters. Pedestrians are blurred walking in the background under warm streetlights.
-Style & Camera Parameters: 90s film photography aesthetic with a soft, warm nostalgic glow and realistic subtle film grain. Shot on a 35mm lens, f/2.8 aperture, cinematic color grading, preserving natural facial features and skin texture. Vertical 9:16 aspect ratio.
+ภาพพอร์ตเทรตเต็มตัวของ {argument name="subject" default="หญิงสาวสวยผมยาวสลวยสีดำเป็นลอน"} ที่กำลังยิ้มอย่างอบอุ่นขณะเดินข้ามทางม้าลายบน {argument name="location" default="ถนนในโตเกียว"} ในช่วงพลบค่ำ เธอถือกล้องฟิล์มคอมแพคแบบวินเทจขนาดเล็กไว้ด้วยมือทั้งสองข้างในระดับเอว เธอสวม {argument name="outfit" default="แจ็กเก็ตยีนส์ลำลองทับเสื้อยืดครอปสีขาว และกระโปรงยีนส์สั้นเข้าชุดกัน"} และมีกระเป๋ากล้องผ้าแคนวาสใบเล็กสีเบจสะพายอยู่บนไหล่
+พื้นหลัง: ฉากถนนในญี่ปุ่นที่ดูมีชีวิตชีวาและเบลอเล็กน้อยในช่วงโพล้เพล้ ทางด้านซ้ายมีตู้ขายของอัตโนมัติที่สว่างไสวและหน้าร้านที่มีป้ายไฟนีออนสีแดงและเขียวพร้อมตัวอักษรคันจิญี่ปุ่น มีผู้คนเดินผ่านไปมาแบบเบลอๆ อยู่ในพื้นหลังภายใต้แสงไฟถนนที่อบอุ่น
+สไตล์และพารามิเตอร์กล้อง: สุนทรียศาสตร์การถ่ายภาพฟิล์มยุค 90s พร้อมแสงนวลตาที่อบอุ่นและชวนให้นึกถึงวันวาน รวมถึงเกรนฟิล์มที่สมจริง ถ่ายด้วยเลนส์ 35 มม. รูรับแสง f/2.8 การปรับสีแบบภาพยนตร์ โดยยังคงรักษาลักษณะใบหน้าและพื้นผิวผิวที่เป็นธรรมชาติเอาไว้ อัตราส่วนภาพแนวตั้ง 9:16
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1920,7 +1921,7 @@ Style & Camera Parameters: 90s film photography aesthetic with a soft, warm nost
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424051597_o8a3c1_HKsIWmCbIAACrx0.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - 90s Nostalgic Tokyo Street Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424051597_o8a3c1_HKsIWmCbIAACrx0.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตสตรีทโตเกียวสไตล์ย้อนยุค 90s - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1934,19 +1935,19 @@ Style & Camera Parameters: 90s film photography aesthetic with a soft, warm nost
 
 ---
 
-### No. 31: โพสต์บนโซเชียลมีเดีย - 35mm Film Aesthetic Triple-Panel Portrait
+### No. 31: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรต 3 แผงสไตล์ฟิล์ม 35 มม.
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-An ultra-realistic three-panel vertical collage featuring candid flash photography and a 35mm film aesthetic.
+ภาพคอลลาจแนวตั้ง 3 แผงที่สมจริงเป็นพิเศษ โดดเด่นด้วยการถ่ายภาพแบบแคนดิดด้วยแฟลชและสไตล์ฟิล์ม 35 มม.
 
 #### 📝 คำสั่ง
 
 ```
-Ultra-realistic candid flash photography, 35mm film aesthetic, three-panel vertical collage composition. Top panel: a young woman with {argument name="hair style" default="long dark wavy hair"} and soft natural texture rests her face on one hand, fingers gently touching her cheek, subtle henna design visible on the wrist and hand, wearing a {argument name="outfit" default="dark traditional embroidered outfit"} with warm mustard and black details, relaxed thoughtful expression, direct gaze into the camera, luminous fair skin with natural blush and visible freckles, glossy lips, thick natural eyebrows, striking {argument name="eye color" default="light hazel-green eyes"}, minimal makeup, strong on-camera flash creating bright highlights and soft shadows, cozy indoor setting with blurred neutral background and a small green potted plant on the right. Middle panel: extreme close-up crop focused only on the eyes and eyebrows, emphasizing hazel-green irises, natural lashes, skin texture, freckles, and flash reflections with cinematic sharpness. Bottom panel: same woman in the same pose looking slightly to the side instead of directly at the camera, chin resting on hand, identical styling and lighting, soft film grain, nostalgic disposable camera look, shallow depth of field, intimate editorial portrait, authentic skin texture, no heavy retouching, warm indoor ambience, high detail, photorealistic, 8k.
+ภาพถ่ายแคนดิดด้วยแฟลชที่สมจริงเป็นพิเศษ สไตล์ฟิล์ม 35 มม. องค์ประกอบภาพคอลลาจแนวตั้ง 3 แผง แผงบน: หญิงสาวที่มี {argument name="hair style" default="ผมยาวหยักศกสีเข้ม"} และพื้นผิวที่เป็นธรรมชาติ นั่งเท้าคางโดยใช้นิ้วแตะแก้มเบาๆ เห็นลวดลายเฮนน่าจางๆ บนข้อมือและมือ สวมใส่ {argument name="outfit" default="ชุดปักแบบดั้งเดิมสีเข้ม"} ที่มีรายละเอียดสีมัสตาร์ดและสีดำที่อบอุ่น สีหน้าผ่อนคลายและครุ่นคิด มองตรงมาที่กล้อง ผิวขาวกระจ่างใสดูมีเลือดฝาดและเห็นกระชัดเจน ริมฝีปากฉ่ำวาว คิ้วหนาเป็นธรรมชาติ ดวงตา {argument name="eye color" default="สีเขียวอมน้ำตาลอ่อน"} ที่โดดเด่น แต่งหน้าแบบมินิมอล แฟลชกล้องที่สว่างจ้าสร้างไฮไลท์ที่คมชัดและเงาที่นุ่มนวล บรรยากาศภายในบ้านที่อบอุ่นพร้อมฉากหลังที่เป็นกลางแบบเบลอๆ และกระถางต้นไม้เล็กๆ ทางด้านขวา แผงกลาง: ภาพโคลสอัพเน้นเฉพาะดวงตาและคิ้ว เน้นม่านตาสีเขียวอมน้ำตาล ขนตาที่เป็นธรรมชาติ พื้นผิวของผิวหนัง กระ และเงาสะท้อนจากแฟลชด้วยความคมชัดระดับภาพยนตร์ แผงล่าง: หญิงคนเดิมในท่าเดิมแต่หันมองไปด้านข้างเล็กน้อยแทนที่จะมองตรงมาที่กล้อง เท้าคาง สไตล์และการจัดแสงเหมือนเดิม มีเกรนฟิล์มที่นุ่มนวล ให้ความรู้สึกย้อนยุคเหมือนกล้องใช้แล้วทิ้ง ระยะชัดลึกตื้น ภาพพอร์ตเทรตเชิงบรรณาธิการที่ดูใกล้ชิด พื้นผิวผิวหนังที่สมจริง ไม่มีการรีทัชหนัก บรรยากาศภายในบ้านที่อบอุ่น รายละเอียดสูง สมจริงเหมือนภาพถ่าย ความละเอียด 8k
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1954,13 +1955,13 @@ Ultra-realistic candid flash photography, 35mm film aesthetic, three-panel verti
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424052964_af4iap_HKr6AQJaQAAiYDn.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - 35mm Film Aesthetic Triple-Panel Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424052964_af4iap_HKr6AQJaQAAiYDn.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรต 3 แผงสไตล์ฟิล์ม 35 มม. - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424052987_4msqan_HKr6Ac6bkAAW0bO.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - 35mm Film Aesthetic Triple-Panel Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424052987_4msqan_HKr6Ac6bkAAW0bO.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรต 3 แผงสไตล์ฟิล์ม 35 มม. - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1974,19 +1975,19 @@ Ultra-realistic candid flash photography, 35mm film aesthetic, three-panel verti
 
 ---
 
-### No. 32: โพสต์บนโซเชียลมีเดีย - Upscale Resort Pathway Male Portrait
+### No. 32: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตชายหนุ่มบนทางเดินในรีสอร์ตหรู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A sophisticated male portrait set in a luxury resort during twilight, featuring atmospheric lighting and detailed linen textures.
+ภาพพอร์ตเทรตชายหนุ่มมาดเนี้ยบในรีสอร์ตหรูช่วงเวลาโพล้เพล้ โดดเด่นด้วยแสงบรรยากาศและรายละเอียดของเนื้อผ้าลินิน
 
 #### 📝 คำสั่ง
 
 ```
-A well-groomed man with a neatly maintained beard stands directly in the center of the frame at a slight forty-five-degree angle, leaning back casually with level shoulders. He is dressed in an {argument name="outfit" default="off-white linen long-sleeve shirt"} unbuttoned at the top and matching linen trousers, shaping the loose, slightly wrinkled matte fabric by resting his relaxed left hand in his front trouser pocket, where his thumb hooks naturally over the outer seam beside a thin silver cuff bracelet. His face holds a confident, deliberately posed, subtle closed smile, with relaxed eyebrows and a direct gaze capturing the viewer's immediate attention. Following the natural lines of his relaxed posture downward, the scene transitions into a deeply layered {argument name="setting" default="outdoor resort pathway"}. In the immediate left foreground, the rough, heavily textured brown bark of a thriving palm tree trunk naturally frames the composition. A solid, smooth poured cool gray concrete walkway, bordered by manicured olive-green grass, recedes into a slightly blurred midground, beautifully illuminated by pristine, modern rectangular bollard lights resting on the ground. Behind the subject, a tightly packed vertical light wood bamboo-style slat fence provides a clean textural midground, while the right side is anchored by a pristine modern building wing featuring perfectly smooth, matte warm taupe painted drywall, sharp geometric lines, recessed windows, and a dark structural pillar. Towering in the deep background, a dominant row of thriving, dark green conical cypress trees forms a dense privacy hedge against a twilight blue sky. A serene, sophisticated twilight mood permeates this upscale setting, draped in a {argument name="color palette" default="cool, desaturated split-complementary"} color palette where moody, soft diffused lighting cascades gently from above. The cool blue ambient dusk temperature washes over the scene, while the ground bollards emit a contrasting warm orange and yellow accent glow that creates subtle highlights directly along the concrete path. Soft, short, gradual gray shadows pool delicately under the man's facial features and within the natural folds of his linen garments, establishing a calm, low-contrast, and evenly filled atmospheric depth. Captured straight on as highly realistic digital photography mimicking a 50mm to 85mm lens at an aperture of f/2.8 to f/4 with a 1/125s shutter speed, the image balances tack-sharp focal clarity on the subject's face with a medium depth of field that gently softens the background. The sophisticated aesthetic is finalized with intentional post-processing that introduces visible digital noise grain, lifted blacks for a soft cinematic matte fade, slightly desaturated greens, and split toning that pushes cool blues into the shadows and warm golden hues into the practical midtone highlights, all elegantly framed in a 9:16 aspect ratio.
+ชายหนุ่มผู้ดูแลตัวเองเป็นอย่างดีพร้อมหนวดเคราที่ตัดแต่งอย่างประณีต ยืนอยู่กึ่งกลางเฟรมพอดีในมุมเฉียง 45 องศาเล็กน้อย เอนตัวพิงอย่างผ่อนคลายโดยที่ไหล่ทั้งสองข้างขนานกัน เขาแต่งกายด้วย {argument name="outfit" default="เสื้อเชิ้ตแขนยาวผ้าลินินสีขาวออฟไวท์"} ปลดกระดุมคอเสื้อและกางเกงผ้าลินินเข้าชุดกัน เผยให้เห็นรูปทรงของเนื้อผ้าแมตต์ที่หลวมและยับเล็กน้อย โดยเขาวางมือซ้ายที่ผ่อนคลายไว้ในกระเป๋ากางเกงด้านหน้า ซึ่งนิ้วหัวแม่มือเกี่ยวไว้ที่ตะเข็บด้านนอกอย่างเป็นธรรมชาติข้างกำไลข้อมือเงินเส้นบาง ใบหน้าของเขาแสดงรอยยิ้มปิดปากจางๆ อย่างมั่นใจและตั้งใจโพสต์ท่า คิ้วที่ผ่อนคลายและสายตาที่จ้องมองตรงมาดึงดูดความสนใจของผู้พบเห็นได้ในทันที เมื่อไล่สายตาลงมาตามแนวท่าทางที่ผ่อนคลาย ฉากจะเปลี่ยนผ่านไปสู่ {argument name="setting" default="ทางเดินในรีสอร์ตกลางแจ้ง"} ที่มีเลเยอร์ลึกซึ้ง ในส่วนหน้าด้านซ้าย ลำต้นของต้นปาล์มที่มีเปลือกสีน้ำตาลขรุขระและมีรายละเอียดชัดเจนช่วยจัดองค์ประกอบภาพได้อย่างเป็นธรรมชาติ ทางเดินคอนกรีตสีเทาเย็นที่เรียบเนียนและมั่นคง ขนาบข้างด้วยสนามหญ้าสีเขียวมะกอกที่ได้รับการตัดแต่งอย่างดี ทอดตัวลึกลงไปสู่ฉากหลังที่เบลอเล็กน้อย ส่องสว่างอย่างงดงามด้วยไฟเสาเตี้ยทรงเหลี่ยมดีไซน์ทันสมัยที่วางอยู่บนพื้น ด้านหลังของตัวแบบมีรั้วระแนงไม้สีอ่อนแนวตั้งที่เรียงตัวชิดกัน ช่วยสร้างฉากหลังที่มีพื้นผิวสะอาดตา ในขณะที่ด้านขวาถูกยึดไว้ด้วยปีกอาคารสมัยใหม่ที่สมบูรณ์แบบ โดดเด่นด้วยผนังปูนฉาบเรียบสีน้ำตาลอมเทา (taupe) แบบแมตต์ เส้นสายเรขาคณิตที่คมชัด หน้าต่างแบบฝัง และเสาโครงสร้างสีเข้ม ในฉากหลังที่ลึกลงไป แถวของต้นไซปรัสทรงกรวยสีเขียวเข้มที่เติบโตอย่างสมบูรณ์ทำหน้าที่เป็นแนวรั้วต้นไม้หนาทึบเพื่อความเป็นส่วนตัวตัดกับท้องฟ้าสีครามยามโพล้เพล้ บรรยากาศยามเย็นที่เงียบสงบและหรูหราอบอวลอยู่ในสถานที่ระดับไฮเอนด์แห่งนี้ โดยถูกฉาบไว้ด้วย {argument name="color palette" default="โทนสีเย็นแบบแยกส่วนประกอบ (split-complementary)"} ที่มีแสงนุ่มนวลฟุ้งกระจายลงมาจากด้านบน อุณหภูมิสีน้ำเงินเย็นของยามค่ำคืนปกคลุมไปทั่วฉาก ในขณะที่ไฟเสาเตี้ยที่พื้นเปล่งแสงสีส้มและเหลืองที่ตัดกัน สร้างไฮไลต์จางๆ ตามแนวทางเดินคอนกรีต เงาสีเทาที่นุ่มนวลและค่อยๆ จางหายไปปรากฏอยู่ใต้ใบหน้าของชายหนุ่มและตามรอยพับของเสื้อผ้าลินิน สร้างมิติของบรรยากาศที่ดูสงบ คอนทราสต์ต่ำ และมีความสว่างที่ทั่วถึง ภาพถูกถ่ายในมุมตรงเสมือนภาพถ่ายดิจิทัลที่สมจริง โดยใช้เลนส์ 50 มม. ถึง 85 มม. ที่รูรับแสง f/2.8 ถึง f/4 และความเร็วชัตเตอร์ 1/125 วินาที สร้างสมดุลระหว่างความคมชัดที่ใบหน้าของตัวแบบกับระยะชัดลึกที่ช่วยละลายฉากหลังอย่างนุ่มนวล สุนทรียภาพอันซับซ้อนนี้ถูกเติมเต็มด้วยการปรับแต่งภาพที่เพิ่มเกรนสัญญาณรบกวนดิจิทัล (digital noise grain) การยกส่วนสีดำขึ้นเพื่อให้เกิดเอฟเฟกต์ภาพยนตร์แบบแมตต์ที่นุ่มนวล การลดความอิ่มตัวของสีเขียวเล็กน้อย และการปรับโทนสีแยก (split toning) ที่ผลักสีน้ำเงินเย็นเข้าไปในส่วนเงาและสีทองอบอุ่นเข้าไปในส่วนไฮไลต์โทนกลาง ทั้งหมดนี้ถูกจัดวางอย่างสง่างามในอัตราส่วนภาพ 9:16
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1994,7 +1995,7 @@ A well-groomed man with a neatly maintained beard stands directly in the center 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424061347_u6zpo3_HKrblwGWwAA5NK8.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Upscale Resort Pathway Male Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424061347_u6zpo3_HKrblwGWwAA5NK8.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตชายหนุ่มบนทางเดินในรีสอร์ตหรู - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -2008,19 +2009,19 @@ A well-groomed man with a neatly maintained beard stands directly in the center 
 
 ---
 
-### No. 33: โพสต์บนโซเชียลมีเดีย - Luxury Bathroom Lifestyle Portrait
+### No. 33: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตไลฟ์สไตล์ในห้องน้ำสุดหรู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A cinematic full-body portrait prompt of a stylish man in a premium hotel suite, featuring warm ambient lighting and contemporary interior design.
+พรอมต์ภาพพอร์ตเทรตเต็มตัวสไตล์ภาพยนตร์ของชายหนุ่มสุดเท่ในห้องสวีทโรงแรมระดับพรีเมียม โดดเด่นด้วยแสงไฟบรรยากาศโทนอุ่นและการตกแต่งภายในสไตล์ร่วมสมัย
 
 #### 📝 คำสั่ง
 
 ```
-Ultra-realistic cinematic full-body portrait of a {argument name="subject" default="stylish young man"} exysame from reference image leaning casually against a modern luxury bathroom counter in a premium hotel suite. He has thick voluminous textured black hair, smooth warm-brown skin tone and a confident calm expression while looking directly at the camera. He is wearing an oversized {argument name="clothing" default="dark charcoal-grey graphic t-shirt"} with bold white typography, relaxed black cargo pants, clean white sneakers, and a modern black wristwatch. In one hand he is casually holding a white baseball cap while the other hand rests inside his pocket. The setting features {argument name="interior" default="elegant contemporary interior design"} with warm ambient lighting, textured stone walls, a glowing circular backlit mirror creating a halo effect behind him, luxury sink accessories, and subtle decorative plants. Relaxed crossed-leg pose, fashion editorial style, premium lifestyle photography, cinematic mood, shallow depth of field, soft shadows, warm golden-brown color grading, ultra-detailed skin texture, realistic fabric folds, professional DSLR quality, 85mm lens, f/1.8, high dynamic range, sharp focus, luxury Instagram influencer aesthetic, photorealistic, 8K resolution.
+ภาพพอร์ตเทรตเต็มตัวสไตล์ภาพยนตร์ที่สมจริงเป็นพิเศษของ {argument name="subject" default="ชายหนุ่มสุดเท่"} ตามภาพอ้างอิง กำลังพิงเคาน์เตอร์ห้องน้ำหรูสไตล์โมเดิร์นในห้องสวีทโรงแรมระดับพรีเมียมอย่างเป็นกันเอง เขามีผมสีดำหนานุ่มมีวอลลุ่ม ผิวสีน้ำตาลโทนอุ่นเนียนละเอียด และมีสีหน้ามั่นใจและสงบนิ่งขณะมองตรงมาที่กล้อง เขาสวม {argument name="clothing" default="เสื้อยืดโอเวอร์ไซส์สีเทาเข้มลายกราฟิก"} ที่มีตัวอักษรสีขาวโดดเด่น กางเกงคาร์โก้สีดำทรงสบาย รองเท้าผ้าใบสีขาวสะอาดตา และนาฬิกาข้อมือสีดำสุดทันสมัย มือข้างหนึ่งถือหมวกเบสบอลสีขาวอย่างสบายๆ ส่วนอีกข้างล้วงกระเป๋ากางเกง ฉากหลังประกอบด้วย {argument name="interior" default="การตกแต่งภายในสไตล์ร่วมสมัยที่หรูหรา"} พร้อมแสงไฟบรรยากาศโทนอุ่น ผนังหินที่มีพื้นผิวสัมผัส กระจกเงาทรงกลมที่มีไฟส่องสว่างด้านหลังสร้างเอฟเฟกต์รัศมีรอบตัวเขา อุปกรณ์อ่างล้างหน้าสุดหรู และต้นไม้ประดับตกแต่งอย่างลงตัว ท่าโพสยืนไขว้ขาแบบผ่อนคลาย สไตล์แฟชั่นเอดิทอเรียล ภาพถ่ายไลฟ์สไตล์ระดับพรีเมียม อารมณ์แบบภาพยนตร์ ระยะชัดลึกตื้น เงาที่นุ่มนวล การปรับโทนสีน้ำตาลทองที่อบอุ่น พื้นผิวผิวหนังที่มีรายละเอียดสูง รอยยับของผ้าที่สมจริง คุณภาพระดับกล้อง DSLR มืออาชีพ เลนส์ 85 มม. f/1.8 ช่วงไดนามิกสูง โฟกัสคมชัด สุนทรียภาพแบบอินฟลูเอนเซอร์หรูบน Instagram สมจริงดั่งภาพถ่าย ความละเอียด 8K
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -2028,7 +2029,7 @@ Ultra-realistic cinematic full-body portrait of a {argument name="subject" defau
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424063116_sufy9f_HKrGZc5bgAAUGTn.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Luxury Bathroom Lifestyle Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424063116_sufy9f_HKrGZc5bgAAUGTn.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตไลฟ์สไตล์ในห้องน้ำสุดหรู - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -2042,53 +2043,53 @@ Ultra-realistic cinematic full-body portrait of a {argument name="subject" defau
 
 ---
 
-### No. 34: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - AR Scenic Cliffside Portrait Analysis
+### No. 34: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การวิเคราะห์ภาพถ่ายบุคคลบนหน้าผาสวยงามด้วยเทคโนโลยี AR
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 คำอธิบาย
 
-A highly technological prompt for an augmented reality analysis of a scenic portrait on a Nusa Penida cliffside with data overlays.
+พรอมต์เทคโนโลยีขั้นสูงสำหรับการวิเคราะห์ภาพถ่ายบุคคลบนหน้าผาที่ Nusa Penida ด้วยเทคโนโลยีความเป็นจริงเสริม (AR) พร้อมการแสดงผลข้อมูลซ้อนทับ
 
 #### 📝 คำสั่ง
 
 ```
 {
   "image_description": {
-    "overall_theme": "High-technology augmented reality analysis of a scenic outdoor portrait",
-    "resolution": "4K UHD, hyper-realistic with sharp data overlay",
+    "overall_theme": "การวิเคราะห์ภาพถ่ายบุคคลกลางแจ้งด้วยเทคโนโลยีความเป็นจริงเสริม (AR) ขั้นสูง",
+    "resolution": "4K UHD, สมจริงเป็นพิเศษพร้อมการแสดงผลข้อมูลซ้อนทับที่คมชัด",
     "subject": {
       "name": "Woman_Model_A",
-      "pose": "Seated_profile, looking_left, side",
+      "pose": "นั่งหันข้าง, มองไปทางซ้าย",
       "attire": {
-        "garment": "Draped_One_Shoulder Pleated_Silk_Green_Dress",
+        "garment": "ชุดเดรสผ้าไหมอัดพลีทเปิดไหล่ข้างเดียว",
         "color_hex": "#1E6641",
-        "footwear": "Boots_Maroon",
+        "footwear": "รองเท้าบูทสีเลือดหมู",
         "accessory": {
-          "type": "Bag_Two-Tone Leather/Metal",
-          "details": "Gold_Buckle_feature"
+          "type": "กระเป๋าหนังผสมโลหะแบบทูโทน",
+          "details": "หัวเข็มขัดสีทอง"
         }
       }
     },
     "environment": {
-      "location": "Nusa_Penida_Cliffside",
-      "terrain": "Rocky_Path",
+      "location": "หน้าผา Nusa Penida",
+      "terrain": "ทางเดินหิน",
       "details": {
         "main_trees": {
-          "type": "Fern_Tree",
+          "type": "ต้นเฟิร์น",
           "count": 3
         },
-        "vegetation": "Lush mossy trees, vibrant red flowers, exotic plants",
-        "boundary": "Wooden fence posts with thick rope rail",
-        "background": "Distant tree-covered cliffs partially obscured by mist, with birds in flight",
-        "specific_sign": "Small sign on a fence post with the text 'Kelingking'"
+        "vegetation": "ต้นไม้เขียวชอุ่มปกคลุมด้วยมอส, ดอกไม้สีแดงสดใส, พืชพรรณแปลกตา",
+        "boundary": "รั้วไม้พร้อมราวเชือกหนา",
+        "background": "หน้าผาที่ปกคลุมด้วยต้นไม้ในระยะไกลซึ่งถูกบดบังด้วยหมอกบางส่วน พร้อมนกที่กำลังบิน",
+        "specific_sign": "ป้ายขนาดเล็กบนเสารั้วที่มีข้อความว่า 'Kelingking'"
       }
     },
     "data_overlay": {
-      "style": "Translucent cyan digital interface with glowing gridlines and panel outlines",
+      "style": "อินเทอร์เฟซดิจิทัลสีฟ้าอมเขียวโปร่งแสง พร้อมเส้นตารางเรืองแสงและโครงร่างแผงข้อมูล",
       "panels": [
         {
-          "position": "Top-Left (Stacked Vertical)",
+          "position": "ซ้ายบน (เรียงแนวตั้ง)",
           "content": [
             "ANALYSIS: SUBJECT_DETECT",
             "POSE: SEATED_PROFILE",
@@ -2100,26 +2101,26 @@ A highly technological prompt for an augmented reality analysis of a scenic port
           ]
         },
         {
-          "position": "Top-Center (Floating Block)",
+          "position": "กลางบน (บล็อกลอยตัว)",
           "content": "COORDINATES: -8.7495° S, 115.0934° E"
         },
         {
-          "position": "Center-Left (Embedded Annotation)",
-          "linked_to": "Leftmost Fern Tree",
-          "content": "FERN_TREE (count: 3)"
+          "position": "ซ้ายกลาง (คำอธิบายประกอบแบบฝัง)",
+          "linked_to": "ต้นเฟิร์นต้นซ้ายสุด",
+          "content": "FERN_TREE (จำนวน: 3)"
         },
         {
-          "position": "Center-Right (Embedded Annotation)",
-          "linked_to": "Rightmost Fern Tree",
-          "content": "FERN_TREE (count: 3)"
+          "position": "ขวากลาง (คำอธิบายประกอบแบบฝัง)",
+          "linked_to": "ต้นเฟิร์นต้นขวาสุด",
+          "content": "FERN_TREE (จำนวน: 3)"
         },
         {
-          "position": "Top-Right (Annotation)",
-          "linked_to": "Cliffs",
-          "content": "CLIFF_DISTANCE (approx: 450m)"
+          "position": "ขวาบน (คำอธิบายประกอบ)",
+          "linked_to": "หน้าผา",
+          "content": "CLIFF_DISTANCE (ประมาณ: 450 ม.)"
         },
         {
-          "position": "Bottom-Right (Formatted JSON Block)",
+          "position": "ขวาล่าง (บล็อก JSON ที่จัดรูปแบบ)",
           "content": "{\n  \"model\": {\n    \"name\": \"Woman_Model_A\",\n    \"pose\": \"Seated_left_looking_side\"\n  },\n  \"apparel\": {\n    \"garment\": \"Pleated_Silk_Green_Dress\",\n    \"style\": \"One-Shoulder_Draped\"\n  },\n  \"bag\": {\n    \"type\": \"Two-Tone_Leather_Gold-Buckle\",\n    \"brand\": \"Luxury_Accessory\"\n  },\n  \"location\": \"Nusa_Penida_Cliffside\",\n  \"terrain\": \"Rocky_Path\"\n}"
         }
       ]
@@ -2133,7 +2134,7 @@ A highly technological prompt for an augmented reality analysis of a scenic port
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424058640_02zl8s_HKrYUBHbMAAq3Be.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - AR Scenic Cliffside Portrait Analysis - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424058640_02zl8s_HKrYUBHbMAAq3Be.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การวิเคราะห์ภาพถ่ายบุคคลบนหน้าผาสวยงามด้วยเทคโนโลยี AR - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -3447,19 +3448,19 @@ A highly technological prompt for an augmented reality analysis of a scenic port
 
 ---
 
-### No. 68: คอมิก / สตอรี่บอร์ด - Archive Recovery Operative Character Sheet
+### No. 68: คอมิก / สตอรี่บอร์ด - แผ่นตัวละครปฏิบัติการกู้คืนข้อมูล (Archive Recovery Operative)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A comprehensive prompt for a sci-fi character design sheet, showing front, side, and back views of a recovery operative in tactical armor.
+ชุดคำสั่ง (Prompt) สำหรับออกแบบตัวละครแนวไซไฟแบบครบวงจร แสดงภาพตัวละครปฏิบัติการกู้คืนข้อมูลในชุดเกราะยุทธวิธีทั้งมุมด้านหน้า ด้านข้าง และด้านหลัง
 
 #### 📝 คำสั่ง
 
 ```
-full body character sheet, front view, side view, back view, {argument name="character role" default="Archive Recovery Operative"}, realistic sci fi, {argument name="armor color" default="white and dark gray"} tactical armor, industrial design, armored trench coat, blue vertical visor helmet, reinforced chest armor, utility belts, retrieval equipment, non military aesthetic, futuristic recovery unit, highly detailed, clean white background, ultra realistic image , realistic, real life.
+ภาพตัวละครเต็มตัว, มุมมองด้านหน้า, มุมมองด้านข้าง, มุมมองด้านหลัง, {argument name="character role" default="Archive Recovery Operative"}, ไซไฟสมจริง, ชุดเกราะยุทธวิธี {argument name="armor color" default="สีขาวและสีเทาเข้ม"}, การออกแบบเชิงอุตสาหกรรม, เสื้อโค้ทกันฝนแบบเกราะ, หมวกนิรภัยพร้อมกระบังหน้าแนวตั้งสีน้ำเงิน, เกราะหน้าอกเสริมความแข็งแกร่ง, เข็มขัดอเนกประสงค์, อุปกรณ์กู้คืน, สุนทรียศาสตร์แบบไม่ใช่ทหาร, หน่วยกู้คืนแห่งอนาคต, รายละเอียดสูง, พื้นหลังสีขาวสะอาดตา, ภาพสมจริงพิเศษ, สมจริง, เหมือนจริง
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -3467,7 +3468,7 @@ full body character sheet, front view, side view, back view, {argument name="cha
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424051793_bqtprz_HKuz485WUAAVbHj.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Archive Recovery Operative Character Sheet - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424051793_bqtprz_HKuz485WUAAVbHj.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - แผ่นตัวละครปฏิบัติการกู้คืนข้อมูล (Archive Recovery Operative) - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -3481,19 +3482,19 @@ full body character sheet, front view, side view, back view, {argument name="cha
 
 ---
 
-### No. 69: คอมิก / สตอรี่บอร์ด - Futuristic Mobile Suit Pilot
+### No. 69: คอมิก / สตอรี่บอร์ด - นักบินโมบิลสูทแห่งโลกอนาคต
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A cinematic Dutch angle shot of a young woman donning a sci-fi pilot suit, featuring melancholic lighting and hyper-realistic details.
+ภาพถ่ายมุมเงยแบบ Dutch angle ของหญิงสาวในชุดนักบินไซไฟ ให้บรรยากาศหม่นหมองพร้อมรายละเอียดที่สมจริงดั่งมีชีวิต
 
 #### 📝 คำสั่ง
 
 ```
-A cinematic, dutch angle, full body shot of a {argument name="subject" default="young woman"} as in <<<image_1>>> cooly walking in profile, using both hands to put on an off-white, mobile suit pilot helmet with metallic black visor. She wears a tight, detailed, {argument name="outfit" default="futuristic white mobile suit pilot suit"} with subtle signs of wear and tear, including scuffs and grime textures. The lighting is {argument name="lighting" default="soft, cool, and diffused"}, creating a melancholic and introspective mood with a palette of pale blues, stark whites, and pops of muted grey. The background is a blurred, minimalist sci-fi interior with sterile, light-toned architecture. Shot on a 35mm lens with a shallow depth of field, focusing sharply on her face and body, high-quality digital photography, hyper-realistic, intricate details, soft cinematic highlights, ethereal atmosphere. Loose messy hair style. Visor should have no reflection of the photographer. Lazily gazing at the camera.
+ภาพถ่ายเต็มตัวในมุมเงยแบบ Dutch angle ของ {argument name="subject" default="หญิงสาว"} ตามที่ปรากฏใน <<<image_1>>> กำลังเดินอย่างเท่ในมุมข้าง โดยใช้สองมือสวมหมวกกันน็อกนักบินโมบิลสูทสีขาวออฟไวท์ที่มีกระบังหน้าสีดำเมทัลลิก เธอสวม {argument name="outfit" default="ชุดนักบินโมบิลสูทสีขาวแห่งโลกอนาคต"} ที่เข้ารูปและมีรายละเอียดชัดเจน พร้อมร่องรอยการใช้งานเล็กน้อย เช่น รอยขีดข่วนและคราบสกปรก แสงที่ใช้เป็นแบบ {argument name="lighting" default="นุ่มนวล เย็นตา และกระจายตัว"} สร้างอารมณ์ที่ดูหม่นหมองและครุ่นคิดด้วยโทนสีฟ้าอ่อน สีขาวสว่าง และสีเทาหม่น ฉากหลังเป็นภายในอาคารสไตล์ไซไฟแบบมินิมอลที่เบลอละลาย พร้อมสถาปัตยกรรมโทนสว่างที่ดูสะอาดตา ถ่ายด้วยเลนส์ 35 มม. ที่มีระยะชัดตื้น โฟกัสที่ใบหน้าและร่างกายอย่างคมชัด เป็นภาพถ่ายดิจิทัลคุณภาพสูง สมจริงดั่งมีชีวิต รายละเอียดซับซ้อน ไฮไลท์แบบภาพยนตร์ที่นุ่มนวล บรรยากาศดูราวกับอยู่ในความฝัน ทรงผมยุ่งเหยิงเล็กน้อย กระบังหน้าต้องไม่มีเงาสะท้อนของช่างภาพ กำลังมองมาที่กล้องอย่างเกียจคร้าน
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -3501,7 +3502,7 @@ A cinematic, dutch angle, full body shot of a {argument name="subject" default="
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424064326_au4qs1_HKqGyNeacAArkgV.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Futuristic Mobile Suit Pilot - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424064326_au4qs1_HKqGyNeacAArkgV.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - นักบินโมบิลสูทแห่งโลกอนาคต - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -4223,18 +4224,18 @@ A cinematic, dutch angle, full body shot of a {argument name="subject" default="
 
 ---
 
-### No. 87: การตลาดผลิตภัณฑ์ - Brutalist Botanical Haute Macabre Editorial
+### No. 87: การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นชั้นสูงแนว Brutalist Botanical Haute Macabre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 คำอธิบาย
 
-A complex editorial photography prompt featuring avant-garde macabre couture within a brutalist concrete vault.
+พรอมต์สำหรับการถ่ายภาพเชิงบรรณาธิการที่ซับซ้อน นำเสนอแฟชั่นชั้นสูงแนวสยองขวัญล้ำสมัยภายในห้องนิรภัยคอนกรีตสไตล์ Brutalist
 
 #### 📝 คำสั่ง
 
 ```
-{"vibe_title_en": "Autumnal Haute Macabre", "master_prompt": "A hyper-realistic, medium-format editorial photograph of The Protagonist standing in a cavernous, dust-filled brutalist concrete botanical vault. The Protagonist is styled in avant-garde, macabre autumnal couture: a massive skirt constructed entirely of hundreds of fresh, heavy, dewy white roses, a tight corset woven from dried golden wheat and distressed amber silk, and knee-high, distressed crimson leather lace-up boots. They wear a dramatic, sculptural headpiece made of curled, desiccated sunflower leaves and crimson leather gloves. In one hand, they gracefully hold a towering, 7-foot-tall dried sunflower as a staff. The Protagonist's face features editorial, eerie makeup with a crimson lip stain subtly smeared upward at the corners like a porcelain doll, contrasting with hyper-detailed, natural skin pores and a pale complexion. The expression is one of theatrical, eerie confidence with the head tilted slightly back. The setting features a flat, textured ash-grey concrete wall behind them, scattered frost and fallen dried petals on the floor, and suspended dust motes in the air. Shot on Hasselblad H6D-100c, 80mm f/2.8 lens. Soft, directional Rembrandt lighting with a subtle volumetric haze to catch the dust. Kodak Portra 400 film stock, emphasizing the tactile weave of the dried leaves, the velvet texture of the roses, and the rich, organic color palette of golds, whites, and deep crimsons. Cinematic, unsettling, majestic.", "meta": {"intent": "Surreal Haute Couture Editorial", "priorities": "Photographic realism, tactile floral textures, eerie narrative energy, physical weight of impossible garments", "device_profile": "Medium Format Hasselblad"}, "frame": {"aspect": "4:5", "composition": "Full body portrait, slightly asymmetrical balance with the prop", "layout": "Subject centered but dynamic pose, tall floral staff breaking the vertical plane", "camera_angle": "Eye-level, slightly low to emphasize theatrical majesty", "tilt_roll_degrees": "0"}, "subject": {"gender": "Female", "identity": "The Protagonist", "demographics": "Ageless, ethereal", "face": "Symmetrical, eerie high-fashion makeup, smeared crimson lips, visible skin pores", "hair": "Concealed beneath a massive floral headpiece", "body": "Tall, statuesque, wearing heavy sculptural garments", "expression": "Theatrical, eerie confidence, chin tilted up with an unsettling half-smile", "pose": "Standing elegantly, resting weight on one hip, gripping a giant sunflower staff"}, "wardrobe_accessories": {"garments": [{"item": "Voluminous skirt", "material": "Fresh, heavy white roses with dew", "color": "Pure white and cream", "fit": "Massive, sculptural bell shape"}, {"item": "Corset bodice", "material": "Dried golden wheat and distressed silk", "color": "Amber and gold", "fit": "Tight, structured, laced"}, {"item": "Knee-high lace-up boots", "material": "Distressed, weathered leather", "color": "Crimson red", "fit": "Fitted, tightly laced"}], "accessories": [{"item": "Giant sunflower staff", "color": "Golden yellow and brown", "material": "Dried organic flora, thick stalk", "brand_style": "Avant-garde nature"}, {"item": "Sculptural headpiece", "color": "Golden yellow and dried amber", "material": "Curled dried sunflower leaves and petals", "brand_style": "Theatrical couture"}, {"item": "Long gauntlet gloves", "color": "Crimson red", "material": "Textured leather", "brand_style": "Vintage macabre"}]}, "environment": {"setting": "Cavernous brutalist concrete botanical vault", "surfaces": "Textured ash-grey concrete walls, frost-dusted floor with fallen dried petals", "depth": "Shallow focus on the background but implying immense architectural scale", "atmosphere": "Cold, still, suspended dust motes catching the light, faint volumetric haze", "lens_interaction": "Soft focus falloff on the extreme edges of the background wall"}, "lighting": {"key": "Soft directional softbox from upper left imitating overcast skylight", "fill": "Subtle silver reflector bouncing light into the shadows of the roses", "rim": "Faint cool rim light separating the golden headpiece from the grey concrete", "shadows": "Deep but soft-edged, anchoring the subject firmly to the floor", "color_temperature": "5200K", "sensor_flare": "None"}, "camera": {"lens_type": "Medium Format Prime", "focal_length": "80mm", "aperture": "f/2.8", "focus": "Tack sharp on the face and the center of the white rose skirt", "sensor_format": "Medium Format 100MP", "perspective_distortion": "Zero distortion, perfectly rectilinear"}, "post_processing": {"color": "Rich, analog color grade with muted neutral background and popping organic golds and reds", "tonality": "High micro-contrast to emphasize the dried textures versus soft macro contrast for a cinematic feel", "texture": "Kodak Portra 400 film grain, preserved natural imperfections", "digital_sharpening": "None, pure optical sharpness only", "chromatic_aberration": "Minimal, existing only at the extreme edges of the sunflower staff"}, "negative_specifications": ["neon", "digital painting", "3d render", "plastic skin", "cartoon", "illustration", "modern cityscape", "casual clothing", "flat lighting", "CGI look"]}
+{"vibe_title_en": "Autumnal Haute Macabre", "master_prompt": "ภาพถ่ายเชิงบรรณาธิการแบบไฮเปอร์เรียลลิสติกด้วยกล้อง Medium Format ของ The Protagonist ที่ยืนอยู่ในห้องนิรภัยพฤกษศาสตร์คอนกรีตสไตล์ Brutalist ที่กว้างใหญ่และเต็มไปด้วยฝุ่น The Protagonist สวมชุดแฟชั่นชั้นสูงแนวสยองขวัญฤดูใบไม้ร่วงสุดล้ำสมัย: กระโปรงขนาดมหึมาที่สร้างขึ้นจากดอกกุหลาบสีขาวสดที่หนักอึ้งและมีหยาดน้ำค้างเกาะอยู่หลายร้อยดอก คอร์เซ็ตเข้ารูปที่ถักทอจากรวงข้าวสาลีสีทองแห้งและผ้าไหมสีอำพันที่ดูเก่าแก่ และรองเท้าบูทหนังสีแดงเข้มแบบผูกเชือกยาวถึงเข่าที่ดูผ่านการใช้งานมาอย่างโชกโชน พวกเขาสวมเครื่องประดับศีรษะเชิงประติมากรรมที่ดูน่าทึ่งซึ่งทำจากใบทานตะวันแห้งม้วนงอและถุงมือหนังสีแดงเข้ม ในมือข้างหนึ่งถือไม้เท้าดอกทานตะวันแห้งสูง 7 ฟุตอย่างสง่างาม ใบหน้าของ The Protagonist แต่งหน้าในสไตล์บรรณาธิการที่ดูแปลกตาด้วยลิปสติกสีแดงเข้มที่แต้มเลอะขึ้นไปที่มุมปากเล็กน้อยคล้ายตุ๊กตากระเบื้อง ตัดกับรายละเอียดรูขุมขนบนผิวหนังที่เป็นธรรมชาติและผิวพรรณที่ซีดเผือด แสดงออกถึงความมั่นใจที่ดูน่าขนลุกและเต็มไปด้วยอารมณ์ละคร โดยเอียงศีรษะไปด้านหลังเล็กน้อย ฉากหลังเป็นผนังคอนกรีตสีเทาขี้เถ้าที่มีพื้นผิวเรียบ มีเกล็ดน้ำค้างแข็งและกลีบดอกไม้แห้งร่วงหล่นอยู่บนพื้น และมีละอองฝุ่นลอยอยู่ในอากาศ ถ่ายด้วยกล้อง Hasselblad H6D-100c เลนส์ 80mm f/2.8 ใช้แสงแบบ Rembrandt ที่นุ่มนวลและมีทิศทาง พร้อมหมอกจางๆ เพื่อจับละอองฝุ่น ใช้ฟิล์ม Kodak Portra 400 เน้นความรู้สึกสัมผัสของใบไม้แห้ง เนื้อสัมผัสกำมะหยี่ของดอกกุหลาบ และโทนสีธรรมชาติที่เข้มข้นของสีทอง สีขาว และสีแดงเข้ม ให้ความรู้สึกแบบภาพยนตร์ที่น่าพิศวงและยิ่งใหญ่", "meta": {"intent": "Surreal Haute Couture Editorial", "priorities": "ความสมจริงของการถ่ายภาพ, พื้นผิวของดอกไม้ที่สัมผัสได้, พลังของเรื่องราวที่น่าขนลุก, น้ำหนักทางกายภาพของชุดที่ไม่น่าเป็นไปได้", "device_profile": "Medium Format Hasselblad"}, "frame": {"aspect": "4:5", "composition": "ภาพพอร์ตเทรตเต็มตัว, ความสมดุลแบบอสมมาตรเล็กน้อยกับอุปกรณ์ประกอบฉาก", "layout": "ตัวแบบอยู่ตรงกลางแต่มีท่าทางที่ดูเคลื่อนไหว, ไม้เท้าดอกไม้สูงที่ตัดระนาบแนวตั้ง", "camera_angle": "ระดับสายตา, ต่ำเล็กน้อยเพื่อเน้นความยิ่งใหญ่แบบละคร", "tilt_roll_degrees": "0"}, "subject": {"gender": "หญิง", "identity": "The Protagonist", "demographics": "ไร้อายุ, ดูเป็นอมตะ", "face": "สมมาตร, แต่งหน้าแฟชั่นชั้นสูงที่ดูแปลกตา, ริมฝีปากสีแดงเข้มที่ดูเลอะ, เห็นรูขุมขนชัดเจน", "hair": "ซ่อนอยู่ใต้เครื่องประดับศีรษะดอกไม้ขนาดใหญ่", "body": "สูง, สง่างาม, สวมชุดประติมากรรมที่มีน้ำหนัก", "expression": "ความมั่นใจที่ดูน่าขนลุกและเต็มไปด้วยอารมณ์ละคร, เชิดคางขึ้นพร้อมรอยยิ้มมุมปากที่ดูไม่น่าไว้วางใจ", "pose": "ยืนอย่างสง่างาม, ทิ้งน้ำหนักลงบนสะโพกข้างหนึ่ง, มือจับไม้เท้าดอกทานตะวันยักษ์"}, "wardrobe_accessories": {"garments": [{"item": "กระโปรงขนาดใหญ่", "material": "ดอกกุหลาบสีขาวสดที่หนักอึ้งพร้อมหยาดน้ำค้าง", "color": "สีขาวบริสุทธิ์และสีครีม", "fit": "ขนาดมหึมา, รูปทรงระฆังเชิงประติมากรรม"}, {"item": "คอร์เซ็ตท่อนบน", "material": "รวงข้าวสาลีสีทองแห้งและผ้าไหมที่ดูเก่าแก่", "color": "สีอำพันและสีทอง", "fit": "รัดรูป, มีโครง, ผูกเชือก"}, {"item": "รองเท้าบูทผูกเชือกยาวถึงเข่า", "material": "หนังที่ดูผ่านการใช้งานและเก่าแก่", "color": "สีแดงเข้ม", "fit": "เข้ารูป, ผูกเชือกแน่น"}], "accessories": [{"item": "ไม้เท้าดอกทานตะวันยักษ์", "color": "สีเหลืองทองและสีน้ำตาล", "material": "พืชแห้งออร์แกนิก, ก้านหนา", "brand_style": "ธรรมชาติแนวล้ำสมัย"}, {"item": "เครื่องประดับศีรษะเชิงประติมากรรม", "color": "สีเหลืองทองและสีอำพันแห้ง", "material": "ใบและกลีบดอกทานตะวันแห้งม้วนงอ", "brand_style": "แฟชั่นชั้นสูงแนวละคร"}, {"item": "ถุงมือยาว", "color": "สีแดงเข้ม", "material": "หนังที่มีพื้นผิว", "brand_style": "วินเทจแนวสยองขวัญ"}]}, "environment": {"setting": "ห้องนิรภัยพฤกษศาสตร์คอนกรีตสไตล์ Brutalist ที่กว้างใหญ่", "surfaces": "ผนังคอนกรีตสีเทาขี้เถ้าที่มีพื้นผิว, พื้นที่ปกคลุมด้วยน้ำค้างแข็งพร้อมกลีบดอกไม้แห้งที่ร่วงหล่น", "depth": "ระยะชัดตื้นที่ฉากหลังแต่บ่งบอกถึงขนาดสถาปัตยกรรมที่ยิ่งใหญ่", "atmosphere": "เย็น, นิ่ง, ละอองฝุ่นที่ลอยอยู่ในอากาศจับกับแสง, หมอกจางๆ", "lens_interaction": "การลดทอนความชัดที่ขอบสุดของผนังฉากหลัง"}, "lighting": {"key": "ซอฟต์บ็อกซ์แบบนุ่มที่มีทิศทางจากด้านซ้ายบนเลียนแบบแสงสกายไลท์ในวันที่มีเมฆมาก", "fill": "แผ่นสะท้อนแสงสีเงินที่สะท้อนแสงเข้าไปในเงาของดอกกุหลาบ", "rim": "แสงขอบสีเย็นจางๆ ที่แยกเครื่องประดับศีรษะสีทองออกจากคอนกรีตสีเทา", "shadows": "ลึกแต่ขอบนุ่มนวล, ยึดตัวแบบไว้กับพื้นอย่างมั่นคง", "color_temperature": "5200K", "sensor_flare": "ไม่มี"}, "camera": {"lens_type": "Medium Format Prime", "focal_length": "80mm", "aperture": "f/2.8", "focus": "คมชัดที่ใบหน้าและจุดศูนย์กลางของกระโปรงดอกกุหลาบสีขาว", "sensor_format": "Medium Format 100MP", "perspective_distortion": "ไม่มีความบิดเบือน, เป็นเส้นตรงที่สมบูรณ์แบบ"}, "post_processing": {"color": "การเกรดสีแบบอนาล็อกที่เข้มข้น พร้อมพื้นหลังที่เป็นกลางและสีทองและสีแดงออร์แกนิกที่โดดเด่น", "tonality": "คอนทราสต์ขนาดเล็กที่สูงเพื่อเน้นพื้นผิวแห้งเทียบกับคอนทราสต์มาโครที่นุ่มนวลเพื่อความรู้สึกแบบภาพยนตร์", "texture": "เกรนฟิล์ม Kodak Portra 400, คงความไม่สมบูรณ์แบบตามธรรมชาติ", "digital_sharpening": "ไม่มี, ความคมชัดทางออปติกล้วนๆ", "chromatic_aberration": "น้อยที่สุด, มีเพียงที่ขอบสุดของไม้เท้าดอกทานตะวัน"}, "negative_specifications": ["นีออน", "ภาพวาดดิจิทัล", "เรนเดอร์ 3D", "ผิวพลาสติก", "การ์ตูน", "ภาพประกอบ", "ทิวทัศน์เมืองสมัยใหม่", "เสื้อผ้าลำลอง", "แสงแบน", "ดูเป็น CGI"]}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -4242,13 +4243,13 @@ A complex editorial photography prompt featuring avant-garde macabre couture wit
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424058760_i2ajqc_HKsZ_b8WgAAEkgN.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Brutalist Botanical Haute Macabre Editorial - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424058760_i2ajqc_HKsZ_b8WgAAEkgN.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นชั้นสูงแนว Brutalist Botanical Haute Macabre - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424058744_19a190_HKsZ_eEWgAAdJd5.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Brutalist Botanical Haute Macabre Editorial - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424058744_19a190_HKsZ_eEWgAAdJd5.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นชั้นสูงแนว Brutalist Botanical Haute Macabre - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -4262,22 +4263,22 @@ A complex editorial photography prompt featuring avant-garde macabre couture wit
 
 ---
 
-### No. 88: การตลาดผลิตภัณฑ์ - Luxury Street Fashion Portrait
+### No. 88: การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นสตรีทสุดหรู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A high-fashion prompt for a cinematic portrait of a young woman in urban attire, leaning against a mirrored wall.
+คำสั่ง (Prompt) สำหรับสร้างภาพพอร์ตเทรตแนวไฮแฟชั่นของหญิงสาวในชุดสตรีทที่กำลังพิงกำแพงกระจกเงา
 
 #### 📝 คำสั่ง
 
 ```
-Create a cinematic, ultra-realistic full-body portrait of a {argument name="subject" default="stylish 20-year-old girl"} leaning casually against a {argument name="background" default="modern dark mirrored wall outdoors"}. She has beautiful, flowing curly hair.
-**Outfit & Accessories:** An {argument name="outfit" default="oversized, biscuit-colored branded A/X t-shirt, loose black-wash baggy jeans, and clean white sneakers"}. She is wearing a luxury diamond wristwatch and a delicate gold neck chain.
-**Pose & Style:** She is standing in a full confident, comfortable, and luxury fashion pose.
-**Quality:** Photorealistic, 8K resolution, high-fidelity details, dramatic depth of field with cinematic lighting.
+สร้างภาพพอร์ตเทรตเต็มตัวแนวภาพยนตร์ที่สมจริงเป็นพิเศษของ {argument name="subject" default="หญิงสาววัย 20 ปีที่มีสไตล์"} ที่กำลังยืนพิง {argument name="background" default="กำแพงกระจกเงาสีเข้มทันสมัยกลางแจ้ง"} อย่างเป็นธรรมชาติ เธอมีผมหยิกสลวยสวยงาม
+**ชุดและเครื่องประดับ:** {argument name="outfit" default="เสื้อยืดแบรนด์ A/X ทรงโอเวอร์ไซส์สีบิสกิต กางเกงยีนส์ทรงแบ็กกี้สีดำฟอก และรองเท้าผ้าใบสีขาวสะอาดตา"} เธอสวมนาฬิกาข้อมือเพชรสุดหรูและสร้อยคอทองคำเส้นเล็ก
+**ท่าทางและสไตล์:** เธอยืนในท่าโพสต์แบบแฟชั่นที่ดูมั่นใจ สบายๆ และหรูหรา
+**คุณภาพ:** สมจริงเหมือนภาพถ่าย, ความละเอียด 8K, รายละเอียดคมชัดสูง, ระยะชัดลึกที่น่าทึ่งพร้อมแสงแบบภาพยนตร์
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -4285,7 +4286,7 @@ Create a cinematic, ultra-realistic full-body portrait of a {argument name="subj
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424058862_ttluw9_HKq_owIbEAAd_UP.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Luxury Street Fashion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424058862_ttluw9_HKq_owIbEAAd_UP.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นสตรีทสุดหรู - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -4299,19 +4300,19 @@ Create a cinematic, ultra-realistic full-body portrait of a {argument name="subj
 
 ---
 
-### No. 89: การตลาดผลิตภัณฑ์ - Copper Wall High Fashion Gowns
+### No. 89: การตลาดผลิตภัณฑ์ - ชุดราตรีแฟชั่นชั้นสูงกับผนังทองแดง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-An editorial photography prompt featuring models in silk satin and pleated gowns against a weathered copper architectural backdrop.
+พรอมต์สำหรับการถ่ายภาพเชิงบรรณาธิการที่นำเสนอนางแบบในชุดผ้าไหมซาตินและชุดเดรสอัดพลีท ตัดกับฉากหลังสถาปัตยกรรมผนังทองแดงที่ดูเก่าแก่
 
 #### 📝 คำสั่ง
 
 ```
-A high-fashion, editorial photography capture of {argument name="subjects" default="two elegant models"} posing against a dramatic architectural backdrop made of large, weathered copper panels. The background features a mix of warm, brushed copper and sections with a green, oxidized verdigris patina. On the left, a model with sleek, slicked-back hair looks over her shoulder at the camera, wearing a sophisticated, floor-length silk satin gown in a {argument name="color 1" default="warm champagne gold"} color with an asymmetrical, structured neckline. On the right, the second model stands on a slightly raised platform, wearing a sleeveless, {argument name="color 2" default="rust-orange"} gown featuring a finely pleated, tiered ruffled skirt that cascades down. She has a classic bob hairstyle and rests her hands gently against the curved copper wall. Lush green Monstera and tropical plants in matching copper planters frame the scene, adding a natural touch. The lighting is warm and cinematic, casting soft shadows and highlighting the rich textures of the fabric and the metallic walls.
+ภาพถ่ายแฟชั่นชั้นสูงสไตล์บรรณาธิการของ {argument name="subjects" default="นางแบบสง่างามสองคน"} ที่กำลังโพสท่าอยู่หน้าฉากหลังสถาปัตยกรรมอันน่าทึ่งซึ่งทำจากแผ่นทองแดงขนาดใหญ่ที่ผ่านกาลเวลา ฉากหลังเป็นการผสมผสานระหว่างสีทองแดงขัดเงาโทนอุ่นและส่วนที่เป็นคราบสนิมสีเขียวอมฟ้า ทางด้านซ้าย นางแบบผมเรียบแปล้เสยไปด้านหลังหันมองข้ามไหล่มาที่กล้อง สวมชุดราตรีผ้าไหมซาตินยาวจรดพื้นดีไซน์หรูหราในโทน {argument name="color 1" default="สีทองแชมเปญโทนอุ่น"} พร้อมคอเสื้อแบบอสมมาตรที่มีโครงสร้างชัดเจน ทางด้านขวา นางแบบคนที่สองยืนอยู่บนแท่นที่ยกสูงขึ้นเล็กน้อย สวมชุดเดรสแขนกุด {argument name="color 2" default="สีส้มสนิม"} ที่โดดเด่นด้วยกระโปรงระบายอัดพลีทละเอียดเป็นชั้นๆ ที่ทิ้งตัวลงมา เธอไว้ผมทรงบ็อบคลาสสิกและวางมือเบาๆ ลงบนผนังทองแดงที่โค้งมน ต้นมอนสเตอร่าสีเขียวชอุ่มและพืชเขตร้อนในกระถางทองแดงที่เข้าชุดกันช่วยตีกรอบฉากให้ดูสมบูรณ์ยิ่งขึ้น เพิ่มสัมผัสแห่งธรรมชาติ แสงที่ใช้มีความอบอุ่นและให้ความรู้สึกเหมือนภาพยนตร์ สร้างเงาที่นุ่มนวลและขับเน้นพื้นผิวที่หรูหราของเนื้อผ้าและผนังโลหะให้โดดเด่น
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -4319,7 +4320,7 @@ A high-fashion, editorial photography capture of {argument name="subjects" defau
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424062445_oyb3za_HKq_CxQW4AAcHIt.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Copper Wall High Fashion Gowns - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424062445_oyb3za_HKq_CxQW4AAcHIt.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ชุดราตรีแฟชั่นชั้นสูงกับผนังทองแดง - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -4333,24 +4334,24 @@ A high-fashion, editorial photography capture of {argument name="subjects" defau
 
 ---
 
-### No. 90: การตลาดผลิตภัณฑ์ - Premium Anime Typographic Poster
+### No. 90: การตลาดผลิตภัณฑ์ - โปสเตอร์อนิเมะสไตล์ Typographic ระดับพรีเมียม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A sophisticated prompt for creating high-fashion anime-style posters with bold typography and cinematic lighting, ideal for brand visuals or stylized character portraits.
+คำสั่ง (Prompt) คุณภาพสูงสำหรับการสร้างโปสเตอร์สไตล์อนิเมะแฟชั่นชั้นสูง ที่โดดเด่นด้วยการจัดวางตัวอักษรที่ทรงพลังและแสงแบบภาพยนตร์ เหมาะอย่างยิ่งสำหรับงานภาพลักษณ์แบรนด์หรือภาพพอร์ตเทรตตัวละครที่มีสไตล์
 
 #### 📝 คำสั่ง
 
 ```
-Create a {argument name="style" default="premium anime-style typographic poster"}. Accurately recreate the person's face and features based on the reference photo. Show her in a stylish side-walking pose with a modern, high-fashion outfit and a confident expression. Place "{argument name="main text" default="AI VISUAL EDITOR"}" in huge, bold English typography behind the subject, using textured orange letters on a dark vintage background. 
+สร้าง {argument name="style" default="premium anime-style typographic poster"} โดยจำลองใบหน้าและลักษณะเฉพาะของบุคคลจากภาพอ้างอิงให้แม่นยำ จัดท่าทางให้เธอเดินหันข้างอย่างมีสไตล์ สวมชุดแฟชั่นทันสมัยและแสดงสีหน้ามั่นใจ วางข้อความ "{argument name="main text" default="AI VISUAL EDITOR"}" ด้วยตัวอักษรภาษาอังกฤษขนาดใหญ่และหนาไว้ด้านหลังตัวละคร โดยใช้ตัวอักษรสีส้มที่มีพื้นผิวบนพื้นหลังแนววินเทจสีเข้ม
 
-Add professional-themed text on the left side:
+เพิ่มข้อความเชิงวิชาชีพที่ด้านซ้าย:
 "AI VISUAL EDITOR is more than a career. It is passion, discipline, growth, and impact. Every challenge builds expertise, every step creates success. Focused on progress. Driven by purpose."
 
-Subtly integrate the branding handle "{argument name="handle" default="AIwithkinza"}" on the clothing. Include the signature watermark "Kinza 💫" subtly in the bottom corner of the design. Premium poster aesthetic, cinematic lighting, clean composition, grain texture, ultra-detailed digital illustration, 4K, 9:16 aspect ratio.
+ใส่ชื่อแบรนด์ "{argument name="handle" default="AIwithkinza"}" ลงบนเสื้อผ้าอย่างแนบเนียน และใส่ลายน้ำที่เป็นเอกลักษณ์ "Kinza 💫" ไว้ที่มุมล่างของภาพอย่างประณีต เน้นความสวยงามระดับพรีเมียม แสงแบบภาพยนตร์ องค์ประกอบภาพที่สะอาดตา เพิ่มพื้นผิวแบบเกรน (grain) ภาพประกอบดิจิทัลที่มีรายละเอียดสูง ความละเอียด 4K สัดส่วนภาพ 9:16
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -4358,7 +4359,7 @@ Subtly integrate the branding handle "{argument name="handle" default="AIwithkin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424050516_5cv5d2_HKqi-xzbgAAF78S.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Premium Anime Typographic Poster - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424050516_5cv5d2_HKqi-xzbgAAF78S.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - โปสเตอร์อนิเมะสไตล์ Typographic ระดับพรีเมียม - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -4372,21 +4373,21 @@ Subtly integrate the branding handle "{argument name="handle" default="AIwithkin
 
 ---
 
-### No. 91: การตลาดผลิตภัณฑ์ - Italian Villa Travel Editorial
+### No. 91: การตลาดผลิตภัณฑ์ - บทความท่องเที่ยววิลล่าในอิตาลี
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A romantic, photorealistic portrait of a woman on a Mediterranean balcony, captured with luxury travel magazine aesthetics.
+ภาพพอร์ตเทรตสมจริงสุดโรแมนติกของหญิงสาวบนระเบียงริมทะเลเมดิเตอร์เรเนียน ถ่ายทอดด้วยสุนทรียภาพแบบนิตยสารท่องเที่ยวหรู
 
 #### 📝 คำสั่ง
 
 ```
-Photorealistic romantic {argument name="location" default="European travel editorial"} portrait of a beautiful young woman, standing in an open {argument name="doorway color" default="crimson-red"} balcony doorway of a luxurious {argument name="villa type" default="Italian coastal villa"}. She wears a pink-and-white micro pinstripe sundress with a deep plunging neckline with delicate red velvet floral ruffle trim along the inner V-neckline. Front buttons, thin straps, elegant ruby-red drop earrings, delicate gold with red stone bracelet. Fair pinkish flawless skin, natural soft-glam makeup, large brown striking eyes, subtle peach blush, pink-rosy plumpy lips. Dark brown hair styled in a messy romantic low updo with loose face-framing wavy strands. Her body is turned slightly away from camera while leaning gently against the doorframe, hands relaxed together in front of her body. She looks toward the camera with a soft dreamy expression, lips slightly parted. Vintage floral wallpaper, lace-covered table, flowers and antique decor inside the room. Bright Mediterranean coastline, turquoise water, white cliffside buildings and flower boxes visible outside the balcony. Eye-level shot, medium portrait framing, 85mm lens, f/1.8, shallow depth of field, creamy bokeh, natural window light, soft diffused daylight, warm filmic tones, luxury travel magazine aesthetic, highly detailed, photorealistic, cinematic, elegant, romantic atmosphere.
+ภาพพอร์ตเทรตสมจริงสุดโรแมนติกของหญิงสาวสวย {argument name="location" default="บทความท่องเที่ยวในยุโรป"} ยืนอยู่ที่ประตูระเบียง {argument name="doorway color" default="สีแดงเข้ม"} ของ {argument name="villa type" default="วิลล่าริมชายฝั่งอิตาลี"} สุดหรู เธอสวมชุดเดรสสายเดี่ยวลายทางเล็กสีชมพูขาว คอวีลึกตกแต่งด้วยระบายผ้ากำมะหยี่สีแดงอย่างประณีตที่ขอบคอเสื้อ ติดกระดุมด้านหน้า สายเดี่ยวบาง สวมต่างหูหยดน้ำสีแดงทับทิมและสร้อยข้อมือทองประดับหินสีแดง ผิวขาวอมชมพูไร้ที่ติ แต่งหน้าสไตล์ซอฟต์แกลมอย่างเป็นธรรมชาติ ดวงตาสีน้ำตาลคู่สวย ปัดแก้มโทนพีชอ่อนๆ ริมฝีปากอวบอิ่มสีชมพูกุหลาบ ผมสีน้ำตาลเข้มเกล้าต่ำแบบยุ่งๆ สไตล์โรแมนติก ปล่อยปอยผมล้อมกรอบหน้า ร่างกายหันออกจากกล้องเล็กน้อยขณะพิงขอบประตู มือประสานกันอย่างผ่อนคลายด้านหน้า เธอมองมาที่กล้องด้วยแววตาฝันหวาน ริมฝีปากเผยอเล็กน้อย ภายในห้องตกแต่งด้วยวอลเปเปอร์ลายดอกไม้วินเทจ โต๊ะปูด้วยผ้าลูกไม้ ประดับด้วยดอกไม้และของตกแต่งโบราณ ด้านนอกระเบียงมองเห็นชายฝั่งเมดิเตอร์เรเนียนที่สดใส น้ำทะเลสีเทอร์ควอยซ์ อาคารสีขาวบนหน้าผา และกระถางดอกไม้ ถ่ายในระดับสายตา จัดเฟรมแบบพอร์ตเทรตขนาดกลาง เลนส์ 85 มม. f/1.8 ระยะชัดลึกตื้น โบเก้ละมุน แสงธรรมชาติจากหน้าต่าง แสงกลางวันแบบนุ่มนวล โทนภาพยนตร์ที่อบอุ่น สุนทรียภาพแบบนิตยสารท่องเที่ยวหรู รายละเอียดสูง สมจริงระดับภาพถ่าย ให้บรรยากาศที่ดูหรูหราและโรแมนติก
 
-Negative prompt: standing centered, ruffles around entire cups, dark moody lighting, harsh shadows, heavy makeup, modern interior, wide-angle distortion, cartoon, CGI, blur, watermark.
+Negative prompt: ยืนอยู่ตรงกลาง, ระบายรอบคัพเสื้อ, แสงมืดทึบ, แสงเงาจัด, แต่งหน้าจัด, การตกแต่งภายในแบบโมเดิร์น, ภาพบิดเบี้ยวจากเลนส์มุมกว้าง, การ์ตูน, CGI, ภาพเบลอ, ลายน้ำ
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -4394,19 +4395,19 @@ Negative prompt: standing centered, ruffles around entire cups, dark moody light
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424055074_cmmmtc_HKqcr_TakAACa5Y.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Italian Villa Travel Editorial - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424055074_cmmmtc_HKqcr_TakAACa5Y.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - บทความท่องเที่ยววิลล่าในอิตาลี - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424055110_7mt4no_HKqctx2b0AAxC-q.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Italian Villa Travel Editorial - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424055110_7mt4no_HKqctx2b0AAxC-q.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - บทความท่องเที่ยววิลล่าในอิตาลี - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424055085_lo7wan_HKqcvTPacAA1pUE.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Italian Villa Travel Editorial - Image 3">
+<img src="https://cms-assets.youmind.com/media/1781424055085_lo7wan_HKqcvTPacAA1pUE.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - บทความท่องเที่ยววิลล่าในอิตาลี - Image 3">
 </div>
 
 #### 📌 รายละเอียด
@@ -4420,22 +4421,22 @@ Negative prompt: standing centered, ruffles around entire cups, dark moody light
 
 ---
 
-### No. 92: การตลาดผลิตภัณฑ์ - Patterned Orange Jumpsuit Fashion Lifestyle
+### No. 92: การตลาดผลิตภัณฑ์ - แฟชั่นไลฟ์สไตล์ชุดจัมพ์สูทสีส้มลายกราฟิก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A detailed lifestyle photography prompt for a woman in a stylized orange jumpsuit with geometric patterns, set in a studio environment.
+พรอมต์สำหรับการถ่ายภาพไลฟ์สไตล์แบบละเอียดของหญิงสาวในชุดจัมพ์สูทสีส้มที่มีลวดลายเรขาคณิต ในบรรยากาศสตูดิโอ
 
 #### 📝 คำสั่ง
 
 ```
-Ultra-realistic fashion lifestyle photography of a cheerful young woman with shoulder-length wavy dark brown hair, wearing round thin-metal eyeglasses, small hoop earrings, and subtle natural makeup with {argument name="lipstick color" default="bright orange"} lipstick. She is seated comfortably in a {argument name="furniture" default="modern molded lounge chair with a light-blue cushioned interior and smooth curved design"}. Her pose is relaxed and confident, with one hand gently touching her glasses and the other resting naturally on the chair armrest. She is smiling directly at the camera with a warm, genuine expression.
-She wears a stylish tailored {argument name="outfit" default="orange jumpsuit featuring bold white abstract geometric line patterns"}, a belted waist, rolled-up sleeves, wide-leg pants, and a soft satin-like fabric with realistic folds and texture. The outfit maintains the exact same pattern and design, only changing the original red color to a vibrant orange. She pairs it with clean white crew socks and minimalist white leather sneakers.
-Studio fashion editorial setup with a seamless vibrant blue background and matching blue wall, contrasted by a smooth orange floor. Full-body composition, centered framing, seated pose, legs casually crossed, modern contemporary aesthetic. Soft professional studio lighting with balanced highlights and shadows, sharp focus, highly detailed skin texture, realistic fabric rendering, premium fashion campaign photography, magazine-quality styling, natural color grading, ultra-realistic, DSLR quality, shallow depth of field, crisp details, luxury commercial photoshoot, 8K resolution.
-Negative Prompt: blurry, low resolution, extra fingers, deformed hands, distorted face, bad anatomy, duplicated limbs, unrealistic proportions, overexposed lighting, oversaturated colors, watermark, logo, text, cropped feet, cartoon, CGI, illustration, painting, artificial skin texture, exaggerated makeup, unnatural pose.
+ภาพถ่ายแฟชั่นไลฟ์สไตล์ที่สมจริงเป็นพิเศษของหญิงสาวผู้ร่าเริงที่มีผมสีน้ำตาลเข้มหยักศกยาวประบ่า สวมแว่นตากรอบโลหะบางทรงกลม ต่างหูห่วงขนาดเล็ก และแต่งหน้าโทนธรรมชาติด้วยลิปสติกสี {argument name="lipstick color" default="ส้มสดใส"} เธอนั่งอยู่อย่างสบายบน {argument name="furniture" default="เก้าอี้เลานจ์ทรงโมเดิร์นที่มีเบาะรองนั่งสีฟ้าอ่อนและดีไซน์โค้งมนเรียบเนียน"} ท่าทางของเธอผ่อนคลายและมั่นใจ มือข้างหนึ่งแตะแว่นตาเบาๆ และอีกข้างวางบนที่พักแขนของเก้าอี้อย่างเป็นธรรมชาติ เธอกำลังยิ้มให้กล้องด้วยสีหน้าที่อบอุ่นและจริงใจ
+เธอสวม {argument name="outfit" default="ชุดจัมพ์สูทสั่งตัดที่มีสไตล์ โดดเด่นด้วยลวดลายเส้นเรขาคณิตนามธรรมสีขาว"} คาดเอว แขนเสื้อพับขึ้น กางเกงขากว้าง และเนื้อผ้าซาตินที่นุ่มนวลพร้อมรอยพับและพื้นผิวที่สมจริง ชุดยังคงลวดลายและดีไซน์เดิมไว้ทั้งหมด เพียงแค่เปลี่ยนจากสีแดงดั้งเดิมเป็นสีส้มสดใส เธอจับคู่กับถุงเท้าสีขาวสะอาดตาและรองเท้าผ้าใบหนังสีขาวสไตล์มินิมอล
+การจัดวางแบบสตูดิโอแฟชั่นเอดิเตอร์เรียลด้วยฉากหลังสีน้ำเงินสดใสไร้รอยต่อและผนังสีน้ำเงินที่เข้ากัน ตัดกับพื้นสีส้มเรียบเนียน องค์ประกอบภาพเต็มตัว จัดวางไว้ตรงกลาง ท่านั่งไขว่ห้างอย่างเป็นกันเอง ความสวยงามแบบร่วมสมัย แสงสตูดิโอระดับมืออาชีพที่นุ่มนวลพร้อมไฮไลท์และเงาที่สมดุล โฟกัสคมชัด พื้นผิวผิวหนังที่มีรายละเอียดสูง การเรนเดอร์เนื้อผ้าที่สมจริง ภาพถ่ายแคมเปญแฟชั่นระดับพรีเมียม สไตล์คุณภาพนิตยสาร การปรับสีที่เป็นธรรมชาติ สมจริงเป็นพิเศษ คุณภาพระดับ DSLR ระยะชัดลึกตื้น รายละเอียดคมชัด การถ่ายภาพเชิงพาณิชย์ที่หรูหรา ความละเอียด 8K
+Negative Prompt: เบลอ, ความละเอียดต่ำ, นิ้วเกิน, มือผิดรูป, ใบหน้าบิดเบี้ยว, กายวิภาคผิดปกติ, แขนขาซ้ำซ้อน, สัดส่วนไม่สมจริง, แสงจ้าเกินไป, สีอิ่มตัวเกินไป, ลายน้ำ, โลโก้, ข้อความ, เท้าถูกตัด, การ์ตูน, CGI, ภาพประกอบ, จิตรกรรม, พื้นผิวผิวหนังเทียม, การแต่งหน้าที่ดูเกินจริง, ท่าทางที่ไม่เป็นธรรมชาติ
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -4443,25 +4444,25 @@ Negative Prompt: blurry, low resolution, extra fingers, deformed hands, distorte
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424059865_19risw_HKqc7U4aQAEGEGF.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Patterned Orange Jumpsuit Fashion Lifestyle - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424059865_19risw_HKqc7U4aQAEGEGF.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - แฟชั่นไลฟ์สไตล์ชุดจัมพ์สูทสีส้มลายกราฟิก - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424059871_1erlrw_HKqc7-7a4AAZ5JN.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Patterned Orange Jumpsuit Fashion Lifestyle - Image 2">
+<img src="https://cms-assets.youmind.com/media/1781424059871_1erlrw_HKqc7-7a4AAZ5JN.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - แฟชั่นไลฟ์สไตล์ชุดจัมพ์สูทสีส้มลายกราฟิก - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424059875_d25pwf_HKqc8iIbgAAKLat.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Patterned Orange Jumpsuit Fashion Lifestyle - Image 3">
+<img src="https://cms-assets.youmind.com/media/1781424059875_d25pwf_HKqc8iIbgAAKLat.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - แฟชั่นไลฟ์สไตล์ชุดจัมพ์สูทสีส้มลายกราฟิก - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424060844_ds1lss_HKqc9GXbEAAS9aQ.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Patterned Orange Jumpsuit Fashion Lifestyle - Image 4">
+<img src="https://cms-assets.youmind.com/media/1781424060844_ds1lss_HKqc9GXbEAAS9aQ.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - แฟชั่นไลฟ์สไตล์ชุดจัมพ์สูทสีส้มลายกราฟิก - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -4475,33 +4476,33 @@ Negative Prompt: blurry, low resolution, extra fingers, deformed hands, distorte
 
 ---
 
-### No. 93: การตลาดผลิตภัณฑ์ - Red Monochrome Fashion Studio Portrait
+### No. 93: การตลาดผลิตภัณฑ์ - ภาพถ่ายพอร์ตเทรตแฟชั่นสตูดิโอในโทนสีแดงโมโนโครม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A high-fashion editorial photography prompt set in an intense monochrome red studio, featuring a dramatic low-angle perspective and detailed realistic textures.
+ชุดคำสั่งสำหรับสร้างภาพถ่ายแฟชั่นแนวอิดิทอเรียลในสตูดิโอโทนสีแดงเข้มข้น โดดเด่นด้วยมุมกล้องต่ำที่ดูมีพลังและรายละเอียดพื้นผิวที่สมจริง
 
 #### 📝 คำสั่ง
 
 ```
-Ultra-realistic fashion portrait photography, UHD 18K, vertical aspect ratio 2:3, cinematic editorial masterpiece. A {argument name="subject" default="young women"} sits casually on a simple chair in the middle of a minimalist studio entirely covered in {argument name="color theme" default="intense, bright red"}. The camera is positioned at an extreme low angle from below, creating a dominant and dramatic perspective that makes the figure appear strong, charismatic, and alluring.
+ภาพถ่ายพอร์ตเทรตแฟชั่นที่สมจริงเป็นพิเศษ ความละเอียด UHD 18K อัตราส่วนภาพแนวตั้ง 2:3 ผลงานระดับมาสเตอร์พีซแนวภาพยนตร์อิดิทอเรียล {argument name="subject" default="หญิงสาว"} นั่งอย่างเป็นกันเองบนเก้าอี้เรียบง่ายกลางสตูดิโอสไตล์มินิมอลที่ปกคลุมไปด้วย {argument name="color theme" default="สีแดงสดเข้มข้น"} ทั้งหมด กล้องถูกวางในมุมต่ำสุดจากด้านล่าง สร้างมุมมองที่ดูโดดเด่นและน่าทึ่ง ทำให้ตัวแบบดูแข็งแกร่ง มีเสน่ห์ และดึงดูดใจ
 
-The women sits with her body slightly slumped back against the back of the chair. Her legs are spread loosely, creating a natural and confident pose. Her right hand hangs loosely beside her thigh, while her left hand rests on her knee with loose, relaxed fingers. Her shoulders are slightly slumped, reinforcing a tired yet elegant impression.
+หญิงสาวนั่งโดยเอนตัวไปด้านหลังพนักเก้าอี้เล็กน้อย ขาของเธอแยกออกจากกันอย่างสบายๆ สร้างท่าทางที่เป็นธรรมชาติและมั่นใจ มือขวาห้อยลงข้างต้นขาอย่างผ่อนคลาย ในขณะที่มือซ้ายวางบนเข่าด้วยนิ้วที่ผ่อนคลาย ไหล่ของเธอตกเล็กน้อย ช่วยเสริมลุคที่ดูเหนื่อยล้าแต่ยังคงความสง่างาม
 
-Her head is raised and tilted slightly back, revealing a strong jawline and long neck. Her eyes are gently closed as if she is enjoying a moment of silence, lost in thought, or feeling the warmth of the light enveloping her body. Her lips are slightly parted, conveying a subtle emotional nuance of exhaustion, longing, and serenity.
+ศีรษะของเธอเชิดขึ้นและเอียงไปด้านหลังเล็กน้อย เผยให้เห็นแนวกรามที่ชัดเจนและลำคอยาว ดวงตาของเธอปิดลงเบาๆ ราวกับกำลังเพลิดเพลินกับช่วงเวลาแห่งความเงียบงัน จมอยู่ในความคิด หรือสัมผัสถึงความอบอุ่นของแสงที่โอบล้อมร่างกาย ริมฝีปากของเธอเผยอออกเล็กน้อย สื่อถึงอารมณ์ที่ละเอียดอ่อนของความเหนื่อยล้า ความโหยหา และความสงบ
 
-Her wavy hair with a natural texture appears slightly messy, creating a lively and spontaneous impression. The skin appears clean, healthy, and realistic, with fine pore details and soft reflections of light on the face, neck, and hands. There are no tattoos on the body; the focus is entirely on the facial structure, expression, and the play of light that shapes the body's contours.
+ผมหยักศกที่มีพื้นผิวเป็นธรรมชาติดูยุ่งเล็กน้อย สร้างความรู้สึกที่มีชีวิตชีวาและเป็นธรรมชาติ ผิวดูสะอาด สุขภาพดี และสมจริง พร้อมรายละเอียดรูขุมขนที่ชัดเจนและการสะท้อนของแสงที่นุ่มนวลบนใบหน้า ลำคอ และมือ ไม่มีรอยสักบนร่างกาย โดยเน้นไปที่โครงสร้างใบหน้า การแสดงออก และการเล่นของแสงที่ช่วยกำหนดรูปทรงของร่างกาย
 
-The {argument name="clothing" default="long-sleeved white shirt"} is worn casually. The top few buttons are undone, creating a more casual and elegant silhouette. The sleeves are rolled up below the elbows, revealing the fabric's natural, realistic creased texture. The well-cut dark trousers are paired with a classic leather belt, providing a masculine and modern touch.
+{argument name="clothing" default="เสื้อเชิ้ตสีขาวแขนยาว"} ถูกสวมใส่อย่างสบายๆ กระดุมด้านบนถูกปลดออกสองสามเม็ด สร้างรูปทรงที่ดูเป็นกันเองและสง่างาม แขนเสื้อถูกพับขึ้นเหนือข้อศอก เผยให้เห็นพื้นผิวรอยยับของผ้าที่เป็นธรรมชาติและสมจริง กางเกงขายาวทรงสวยจับคู่กับเข็มขัดหนังคลาสสิก มอบสัมผัสที่ดูมีความเป็นชายและทันสมัย
 
-The studio lighting is dramatic, with a deep red hue dominating the entire background and surrounding space. The strong red light comes from behind and to the sides, creating contrasting silhouettes and soft shadows that emphasize the shape of the body and face. A thin layer of atmospheric smoke or haze permeates the air, making the red light appear deeper and more cinematic.
+แสงในสตูดิโอมีความดราม่า โดยมีโทนสีแดงเข้มปกคลุมทั่วทั้งฉากหลังและพื้นที่โดยรอบ แสงสีแดงที่เข้มข้นส่องมาจากด้านหลังและด้านข้าง สร้างเงาที่ตัดกันและเงาที่นุ่มนวลซึ่งเน้นรูปทรงของร่างกายและใบหน้า มีชั้นหมอกควันบางๆ กระจายอยู่ในอากาศ ทำให้แสงสีแดงดูมีความลึกและมีความเป็นภาพยนตร์มากขึ้น
 
-The background is kept simple, with no distracting elements, just a gradation of bright red to dark red, creating an emotional and intense atmosphere. The combination of the bright red with the white clothing creates a strong and eye-catching visual contrast.
+ฉากหลังถูกจัดให้เรียบง่าย ไม่มีองค์ประกอบที่รบกวนสายตา มีเพียงการไล่เฉดสีจากแดงสว่างไปจนถึงแดงเข้ม สร้างบรรยากาศที่เปี่ยมไปด้วยอารมณ์และความเข้มข้น การผสมผสานระหว่างสีแดงสดกับเสื้อผ้าสีขาวสร้างคอนทราสต์ทางสายตาที่โดดเด่นและสะดุดตา
 
-Luxury fashion campaign, dramatic studio lighting, cinematic low-angle portrait, intense monochromatic red environment, editorial photography, photorealistic skin texture, realistic fabric folds, masculine elegance, emotional storytelling, moody atmosphere, volumetric light, subtle haze, contemporary fashion aesthetic, ultra detailed face, sharp focus, award-winning photography, premium magazine cover quality, masterpiece composition, extraordinary realism, hyper realistic portrait.
+แคมเปญแฟชั่นหรูหรา, แสงสตูดิโอดราม่า, พอร์ตเทรตมุมต่ำแบบภาพยนตร์, สภาพแวดล้อมสีแดงโมโนโครมเข้มข้น, ภาพถ่ายอิดิทอเรียล, พื้นผิวผิวสมจริง, รอยยับของผ้าที่สมจริง, ความสง่างามแบบผู้ชาย, การเล่าเรื่องด้วยอารมณ์, บรรยากาศที่ลึกลับ, แสงแบบวอลูเมตริก, หมอกควันจางๆ, สุนทรียศาสตร์แฟชั่นร่วมสมัย, ใบหน้าที่มีรายละเอียดสูง, โฟกัสที่คมชัด, ภาพถ่ายระดับรางวัล, คุณภาพปกนิตยสารระดับพรีเมียม, องค์ประกอบภาพระดับมาสเตอร์พีซ, ความสมจริงที่เหนือชั้น, พอร์ตเทรตที่สมจริงเกินจริง
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -4509,7 +4510,7 @@ Luxury fashion campaign, dramatic studio lighting, cinematic low-angle portrait,
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424060254_ezaii4_HKqTWmfbYAAo7fs.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Red Monochrome Fashion Studio Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424060254_ezaii4_HKqTWmfbYAAo7fs.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพถ่ายพอร์ตเทรตแฟชั่นสตูดิโอในโทนสีแดงโมโนโครม - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -5527,19 +5528,19 @@ Luxury fashion campaign, dramatic studio lighting, cinematic low-angle portrait,
 
 ---
 
-### No. 120: สินทรัพย์เกม - Pixar Style 3D Businessman
+### No. 120: สินทรัพย์เกม - นักธุรกิจสไตล์ 3D แบบ Pixar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A charming 3D animated character design of a businessman walking in a city, inspired by Pixar film renders.
+การออกแบบตัวละครแอนิเมชัน 3D สุดน่ารักของนักธุรกิจที่กำลังเดินอยู่ในเมือง โดยได้รับแรงบันดาลใจจากการเรนเดอร์ภาพยนตร์ของ Pixar
 
 #### 📝 คำสั่ง
 
 ```
-Charming stylized 3D animated {argument name="character" default="African American businessman"} character standing walking outside on a {argument name="setting" default="busy city sidewalk"} talking on his mobile phone on a sunny day, large expressive brown eyes, soft rounded facial features, slightly exaggerated proportions, short brown hair hair, warm rosy cheeks, warm golden morning light, cinematic soft lighting, shallow depth of field, subsurface scattering skin, ultra-detailed 3D animated film render, {argument name="style" default="Pixar-inspired style"}, 85mm lens, high resolution, highly detailed, soft bokeh background, volumetric light, hyperreal human, ultra realistic face, doll face, realistic 3d human portrait
+ตัวละครแอนิเมชัน 3D สไตล์น่ารัก {argument name="character" default="นักธุรกิจชายชาวแอฟริกันอเมริกัน"} กำลังเดินอยู่ด้านนอกบน {argument name="setting" default="ทางเท้าในเมืองที่พลุกพล่าน"} พร้อมคุยโทรศัพท์มือถือในวันที่แดดสดใส ดวงตาสีน้ำตาลคู่โตที่ดูมีชีวิตชีวา โครงหน้ามนนุ่มนวล สัดส่วนที่ดูเกินจริงเล็กน้อย ผมสั้นสีน้ำตาล แก้มอมชมพูดูอบอุ่น แสงยามเช้าสีทองอันอบอุ่น แสงนุ่มนวลแบบภาพยนตร์ ระยะชัดลึกตื้น ผิวหนังแบบ subsurface scattering การเรนเดอร์ภาพยนตร์แอนิเมชัน 3D ที่ละเอียดสูง {argument name="style" default="สไตล์ที่ได้รับแรงบันดาลใจจาก Pixar"} เลนส์ 85 มม. ความละเอียดสูง รายละเอียดคมชัด พื้นหลังโบเก้ละมุน แสงวอลูเมตริก มนุษย์สมจริงแบบไฮเปอร์เรียล ใบหน้าสมจริงเป็นพิเศษ ใบหน้าตุ๊กตา ภาพพอร์ตเทรตมนุษย์ 3D ที่สมจริง
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -5547,7 +5548,7 @@ Charming stylized 3D animated {argument name="character" default="African Americ
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781424055171_gzis1m_HKM7uAuX0AAWB_h.jpg" width="600" alt="สินทรัพย์เกม - Pixar Style 3D Businessman - Image 1">
+<img src="https://cms-assets.youmind.com/media/1781424055171_gzis1m_HKM7uAuX0AAWB_h.jpg" width="600" alt="สินทรัพย์เกม - นักธุรกิจสไตล์ 3D แบบ Pixar - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -5630,6 +5631,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-14T09:02:19.039Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-14T12:33:32.090Z</sub>
 
 </div>
