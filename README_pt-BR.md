@@ -143,9 +143,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **14480** |
+| 📝 Total de prompts | **14479** |
 | ⭐ Destaque | **9** |
-| 🔄 Última atualização | **quarta-feira, 17 de junho de 2026 às 09:32:03 UTC** |
+| 🔄 Última atualização | **quarta-feira, 17 de junho de 2026 às 13:08:41 UTC** |
 
 </div>
 
@@ -2063,47 +2063,7 @@ Pôster de colagem de garota streetwear ultra estética, fundo sombrio em preto 
 
 ---
 
-### No. 31: Publicação em Mídias Sociais - Retrato de Estúdio Vermelho Cinematográfico
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrição
-
-Um retrato de estúdio monocromático vermelho e ousado com uma estética minimalista de alta moda, perfeito para fotos de personagens dramáticos.
-
-#### 📝 Prompt
-
-```
-Foto de {argument name="subject" default="Eu"}, vestindo {argument name="clothing" default="uma jaqueta preta com zíper, calças pretas e botas pretas"}, sentado de forma relaxada e reclinada em uma cadeira moderna de estrutura metálica fina em um estúdio minimalista. Ele está recostado com as pernas esticadas para frente, uma mão descansando no braço da cadeira, a outra na coxa, olhando para o lado com uma expressão calma, {argument name="lighting" default="iluminação vermelha dramática em toda a cena"}, fundo e piso inteiramente banhados em uma cor vermelha saturada intensa, alto contraste, retrato de estúdio cinematográfico, fundo vermelho liso e sem emendas, atmosfera temperamental, estilo de fotografia de moda, detalhes nítidos, iluminação profissional
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684782036_b47ilo_HK6gSJaakAA6nZn.jpg" width="600" alt="Publicação em Mídias Sociais - Retrato de Estúdio Vermelho Cinematográfico - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684781966_mi7y3h_HK6gSOjaQAATOBO.jpg" width="600" alt="Publicação em Mídias Sociais - Retrato de Estúdio Vermelho Cinematográfico - Image 2">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [Harboris](https://x.com/harboriis)
-- **Fonte:** [Twitter Post](https://x.com/harboriis/status/2066765524202406286)
-- **Publicado:** 16 de junho de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?id=25870)**
-
----
-
-### No. 32: Publicação em Mídias Sociais - Retrato de Selfie em Quarto Aconchegante
+### No. 31: Publicação em Mídias Sociais - Retrato de Selfie em Quarto Aconchegante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2137,7 +2097,7 @@ Um retrato de alta qualidade com proporção 2:3 de uma {argument name="subject"
 
 ---
 
-### No. 33: Publicação em Mídias Sociais - Retrato Masculino Cinematográfico em Noite Chuvosa
+### No. 32: Publicação em Mídias Sociais - Retrato Masculino Cinematográfico em Noite Chuvosa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2171,7 +2131,7 @@ Um retrato cinematográfico melancólico e de alto contraste de um homem em uma 
 
 ---
 
-### No. 34: Publicação em Mídias Sociais - Retrato da Vitória na Copa do Mundo
+### No. 33: Publicação em Mídias Sociais - Retrato da Vitória na Copa do Mundo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2202,6 +2162,43 @@ Uma fotografia de corpo inteiro de uma jovem mulher em pé dentro de um estádio
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?id=25872)**
+
+---
+
+### No. 34: Publicação em Mídias Sociais - Estética de Retrato em Sala de Aula Preppy
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Um prompt de estética colegial estruturada, apresentando itens de vestuário específicos e um cenário de sala de aula para um visual suave e curado.
+
+#### 📝 Prompt
+
+```
+"subject": "{argument name="detalhes do sujeito" default="jovem mulher, cabelos castanhos longos com franja, olhar sutil, brincos de gota em formato de coração, pingente de cruz"}",
+  "outfit": "{argument name="roupa" default="camisa polo justa rosa blush, minissaia xadrez azul, tênis brancos"}",
+  "setting": "{argument name="cenário de fundo" default="sala de aula, fundo com armário de madeira e lousa branca"}",
+  "mood": "preppy, suave, estética colegial"
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781684779393_vr948k_HK5k9gvagAADa46.jpg" width="600" alt="Publicação em Mídias Sociais - Estética de Retrato em Sala de Aula Preppy - Image 1">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [ⁱᵃᵐ|𝚂𝚑𝚊𝚍𝚘𝚠𝚋𝚢𝚝𝚎𒆜](https://x.com/_Shadow__byte_)
+- **Fonte:** [Twitter Post](https://x.com/_Shadow__byte_/status/2066700290737508450)
+- **Publicado:** 16 de junho de 2026
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?id=25866)**
 
 ---
 
@@ -5684,7 +5681,7 @@ Um enorme caminhão autônomo de serviço pesado projetado para transportar {arg
 
 <div align="center">
 
-### 🎯 14360 mais prompts não mostrados aqui
+### 🎯 14359 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5747,6 +5744,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-17T09:32:03.737Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-17T13:08:41.427Z</sub>
 
 </div>

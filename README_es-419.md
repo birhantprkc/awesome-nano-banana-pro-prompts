@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **14480** |
+| 📝 Total de prompts | **14479** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **miércoles, 17 de junio de 2026, 9:31:45 a.m. UTC** |
+| 🔄 Última actualización | **miércoles, 17 de junio de 2026, 1:08:15 p.m. UTC** |
 
 </div>
 
@@ -2063,47 +2063,7 @@ Póster tipo collage de chica con estilo urbano ultra estético, fondo melancól
 
 ---
 
-### No. 31: Publicación en redes sociales - Retrato de estudio cinematográfico en rojo
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un audaz retrato de estudio monocromático en rojo con una estética minimalista de alta costura, perfecto para tomas de personajes dramáticos.
-
-#### 📝 Prompt
-
-```
-Foto de {argument name="subject" default="mí"}, vistiendo una {argument name="clothing" default="chaqueta negra con cremallera, pantalones negros y botas negras"}, sentado de forma relajada y reclinada en una silla moderna de estructura metálica delgada en un estudio minimalista. Está recostado hacia atrás con las piernas estiradas hacia adelante, una mano descansando en el brazo de la silla y la otra en su muslo, mirando hacia un lado con una expresión tranquila, {argument name="lighting" default="iluminación roja dramática en toda la escena"}, todo el fondo y el suelo bañados en un intenso color rojo saturado, alto contraste, retrato de estudio cinematográfico, fondo rojo liso y sin costuras, atmósfera melancólica, estilo de fotografía de moda, detalles nítidos, iluminación profesional
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684782036_b47ilo_HK6gSJaakAA6nZn.jpg" width="600" alt="Publicación en redes sociales - Retrato de estudio cinematográfico en rojo - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684781966_mi7y3h_HK6gSOjaQAATOBO.jpg" width="600" alt="Publicación en redes sociales - Retrato de estudio cinematográfico en rojo - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Harboris](https://x.com/harboriis)
-- **Fuente:** [Twitter Post](https://x.com/harboriis/status/2066765524202406286)
-- **Publicado:** 16 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=25870)**
-
----
-
-### No. 32: Publicación en redes sociales - Retrato selfie en una habitación acogedora
+### No. 31: Publicación en redes sociales - Retrato selfie en una habitación acogedora
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2137,7 +2097,7 @@ Un retrato de alta calidad con relación de aspecto 2:3 de una {argument name="s
 
 ---
 
-### No. 33: Publicación en redes sociales - Retrato masculino cinematográfico en noche lluviosa
+### No. 32: Publicación en redes sociales - Retrato masculino cinematográfico en noche lluviosa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2171,7 +2131,7 @@ Un retrato cinematográfico melancólico y de alto contraste de un hombre en una
 
 ---
 
-### No. 34: Publicación en redes sociales - Retrato de la victoria en la Copa del Mundo
+### No. 33: Publicación en redes sociales - Retrato de la victoria en la Copa del Mundo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2202,6 +2162,43 @@ Una fotografía de cuerpo completo de una mujer joven de pie dentro de un estadi
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=25872)**
+
+---
+
+### No. 34: Publicación en redes sociales - Estética de retrato escolar estilo preppy
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt con estética de colegiala estructurada que incluye prendas de vestir específicas y un entorno de aula para lograr un estilo suave y curado.
+
+#### 📝 Prompt
+
+```
+"subject": "{argument name="detalles del sujeto" default="mujer joven, cabello castaño largo con flequillo, mirada sutil, aretes de corazón, dije de cruz"}",
+  "outfit": "{argument name="atuendo" default="polo ajustado rosa rubor, minifalda de cuadros azul, tenis blancos"}",
+  "setting": "{argument name="entorno de fondo" default="aula, fondo de casillero de madera y pizarra"}",
+  "mood": "preppy, suave, estética de colegiala"
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781684779393_vr948k_HK5k9gvagAADa46.jpg" width="600" alt="Publicación en redes sociales - Estética de retrato escolar estilo preppy - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [ⁱᵃᵐ|𝚂𝚑𝚊𝚍𝚘𝚠𝚋𝚢𝚝𝚎𒆜](https://x.com/_Shadow__byte_)
+- **Fuente:** [Twitter Post](https://x.com/_Shadow__byte_/status/2066700290737508450)
+- **Publicado:** 16 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=25866)**
 
 ---
 
@@ -5684,7 +5681,7 @@ Un camión de carga pesada autónomo y masivo diseñado para transportar {argume
 
 <div align="center">
 
-### 🎯 14360 prompts más no mostrados aquí
+### 🎯 14359 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5747,6 +5744,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-17T09:31:45.284Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-17T13:08:15.844Z</sub>
 
 </div>

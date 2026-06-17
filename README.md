@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **14480** |
+| 📝 Total Prompts | **14479** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Wednesday, June 17, 2026 at 9:31:03 AM UTC** |
+| 🔄 Last Updated | **Wednesday, June 17, 2026 at 1:07:24 PM UTC** |
 
 </div>
 
@@ -2063,47 +2063,7 @@ Ultra aesthetic streetwear girl collage poster, black and gray moody background,
 
 ---
 
-### No. 31: Social Media Post - Cinematic Red Studio Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A bold, monochromatic red studio portrait with a minimalist, high-fashion aesthetic, perfect for dramatic character shots.
-
-#### 📝 Prompt
-
-```
-Photo Of {argument name="subject" default="Me"}, Wearing A {argument name="clothing" default="Black Zip-up Jacket, Black Pants And Black Boots"}, Sitting Relaxed And Reclined On A Modern Thin Metal-frame Chair In A Minimalist Studio. He Is Leaning Back With Legs Stretched Forward, One Hand Resting On The Chair Arm, The Other On His Thigh, Looking To The Side With A Calm Expression, {argument name="lighting" default="Dramatic Full-scene Red Lighting"}, Entire Background And Floor Bathed In Intense Saturated Red Color, High Contrast, Cinematic Studio Portrait, Smooth Seamless Red Backdrop, Moody Atmosphere, Fashion Photography Style, Sharp Details, Professional Lighting
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684782036_b47ilo_HK6gSJaakAA6nZn.jpg" width="600" alt="Social Media Post - Cinematic Red Studio Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684781966_mi7y3h_HK6gSOjaQAATOBO.jpg" width="600" alt="Social Media Post - Cinematic Red Studio Portrait - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Harboris](https://x.com/harboriis)
-- **Source:** [Twitter Post](https://x.com/harboriis/status/2066765524202406286)
-- **Published:** June 16, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=25870)**
-
----
-
-### No. 32: Social Media Post - Cozy Bedroom Selfie Portrait
+### No. 31: Social Media Post - Cozy Bedroom Selfie Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2137,7 +2097,7 @@ A high-quality, 2:3 aspect ratio portrait of a {argument name="subject" default=
 
 ---
 
-### No. 33: Social Media Post - Rainy Night Cinematic Masculine Portrait
+### No. 32: Social Media Post - Rainy Night Cinematic Masculine Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2171,7 +2131,7 @@ A brooding, high-contrast cinematic portrait of a man in a rainy city street at 
 
 ---
 
-### No. 34: Social Media Post - World Cup Victory Portrait
+### No. 33: Social Media Post - World Cup Victory Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2202,6 +2162,43 @@ A full-body photograph of a young woman standing inside a stadium and {argument 
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=25872)**
+
+---
+
+### No. 34: Social Media Post - Preppy Classroom Portrait Aesthetic
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A structured school-girl aesthetic prompt featuring specific clothing items and a classroom setting for a soft, curated look.
+
+#### 📝 Prompt
+
+```
+"subject": "{argument name="subject details" default="young woman, long brown hair with bangs, subtle gaze, heart drop earrings, cross charm"}",
+  "outfit": "{argument name="clothing outfit" default="blush pink fitted polo top, blue plaid mini skirt, white sneakers"}",
+  "setting": "{argument name="background setting" default="classroom, wood locker and whiteboard background"}",
+  "mood": "preppy, soft, school-girl aesthetic"
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781684779393_vr948k_HK5k9gvagAADa46.jpg" width="600" alt="Social Media Post - Preppy Classroom Portrait Aesthetic - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [ⁱᵃᵐ|𝚂𝚑𝚊𝚍𝚘𝚠𝚋𝚢𝚝𝚎𒆜](https://x.com/_Shadow__byte_)
+- **Source:** [Twitter Post](https://x.com/_Shadow__byte_/status/2066700290737508450)
+- **Published:** June 16, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=25866)**
 
 ---
 
@@ -5683,7 +5680,7 @@ A massive autonomous heavy-duty cargo truck designed to transport entire {argume
 
 <div align="center">
 
-### 🎯 14360 more prompts not shown here
+### 🎯 14359 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5746,6 +5743,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-17T09:31:03.769Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-17T13:07:24.589Z</sub>
 
 </div>

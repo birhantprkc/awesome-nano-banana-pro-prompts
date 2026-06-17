@@ -143,9 +143,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **14480** |
+| 📝 Toplam İstem | **14479** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **17 Haziran 2026 Çarşamba 09:32:14 UTC** |
+| 🔄 Son Güncelleme | **17 Haziran 2026 Çarşamba 13:08:51 UTC** |
 
 </div>
 
@@ -2063,47 +2063,7 @@ Ultra estetik sokak modası kız kolaj posteri, siyah ve gri karamsar arka plan,
 
 ---
 
-### No. 31: Sosyal Medya Gönderisi - Sinematik Kırmızı Stüdyo Portresi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Dramatik karakter çekimleri için mükemmel, minimalist ve yüksek moda estetiğine sahip, cesur, monokromatik kırmızı bir stüdyo portresi.
-
-#### 📝 İstem
-
-```
-Minimalist bir stüdyoda, modern ve ince metal çerçeveli bir sandalyede rahat ve arkasına yaslanmış bir şekilde oturan, {argument name="clothing" default="Siyah Fermuarlı Ceket, Siyah Pantolon ve Siyah Botlar"} giymiş {argument name="subject" default="Ben"} fotoğrafı. Bacakları öne doğru uzatılmış, bir eli sandalyenin kolçağında, diğeri uyluğunun üzerinde, sakin bir ifadeyle yana doğru bakıyor, {argument name="lighting" default="Dramatik tam sahne kırmızı aydınlatma"}, tüm arka plan ve zemin yoğun doygun kırmızı renkle yıkanmış, yüksek kontrast, sinematik stüdyo portresi, pürüzsüz ve kesintisiz kırmızı fon, karamsar atmosfer, moda fotoğrafçılığı tarzı, keskin detaylar, profesyonel aydınlatma
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684782036_b47ilo_HK6gSJaakAA6nZn.jpg" width="600" alt="Sosyal Medya Gönderisi - Sinematik Kırmızı Stüdyo Portresi - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684781966_mi7y3h_HK6gSOjaQAATOBO.jpg" width="600" alt="Sosyal Medya Gönderisi - Sinematik Kırmızı Stüdyo Portresi - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Harboris](https://x.com/harboriis)
-- **Kaynak:** [Twitter Post](https://x.com/harboriis/status/2066765524202406286)
-- **Yayınlandı:** 16 Haziran 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=25870)**
-
----
-
-### No. 32: Sosyal Medya Gönderisi - Sıcak Bir Yatak Odasında Selfie Portresi
+### No. 31: Sosyal Medya Gönderisi - Sıcak Bir Yatak Odasında Selfie Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2137,7 +2097,7 @@ Altın saatte, sıcak, 90'lar film tarzında, yumuşak örgü dokular ve nostalj
 
 ---
 
-### No. 33: Sosyal Medya Gönderisi - Yağmurlu Gece Sinematik Maskülen Portre
+### No. 32: Sosyal Medya Gönderisi - Yağmurlu Gece Sinematik Maskülen Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2171,7 +2131,7 @@ Yağmurlu bir şehir sokağında, gece vakti çekilmiş, dramatik neon ışıkla
 
 ---
 
-### No. 34: Sosyal Medya Gönderisi - Dünya Kupası Zafer Portresi
+### No. 33: Sosyal Medya Gönderisi - Dünya Kupası Zafer Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2202,6 +2162,43 @@ Bir stadyumun içinde duran ve {argument name="activity" default="altın Dünya 
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=25872)**
+
+---
+
+### No. 34: Sosyal Medya Gönderisi - Preppy Sınıf Portresi Estetiği
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Yumuşak ve özenle hazırlanmış bir görünüm için belirli kıyafet parçaları ve sınıf ortamı içeren, yapılandırılmış bir okul kızı estetiği istemi.
+
+#### 📝 İstem
+
+```
+"subject": "{argument name="özne detayları" default="genç kadın, kahverengi uzun kaküllü saçlar, hafif bakışlar, kalp şeklinde sallantılı küpeler, haç kolye"}",
+  "outfit": "{argument name="kıyafet kombini" default="pudra pembesi dar polo yaka üst, mavi ekose mini etek, beyaz spor ayakkabılar"}",
+  "setting": "{argument name="arka plan ortamı" default="sınıf, ahşap dolap ve beyaz tahta arka planı"}",
+  "mood": "preppy, yumuşak, okul kızı estetiği"
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781684779393_vr948k_HK5k9gvagAADa46.jpg" width="600" alt="Sosyal Medya Gönderisi - Preppy Sınıf Portresi Estetiği - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [ⁱᵃᵐ|𝚂𝚑𝚊𝚍𝚘𝚠𝚋𝚢𝚝𝚎𒆜](https://x.com/_Shadow__byte_)
+- **Kaynak:** [Twitter Post](https://x.com/_Shadow__byte_/status/2066700290737508450)
+- **Yayınlandı:** 16 Haziran 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=25866)**
 
 ---
 
@@ -5684,7 +5681,7 @@ Atlas Titan Yük Taşıyıcı
 
 <div align="center">
 
-### 🎯 14360 burada gösterilmeyen daha fazla istem
+### 🎯 14359 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5747,6 +5744,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-17T09:32:14.381Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-17T13:08:51.405Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **14480** |
+| 📝 Totale prompt | **14479** |
 | ⭐ In evidenza | **9** |
-| 🔄 Ultimo aggiornamento | **mercoledì 17 giugno 2026 alle ore 09:31:59 UTC** |
+| 🔄 Ultimo aggiornamento | **mercoledì 17 giugno 2026 alle ore 13:08:35 UTC** |
 
 </div>
 
@@ -2063,47 +2063,7 @@ Poster collage di una ragazza in stile streetwear ultra estetico, sfondo suggest
 
 ---
 
-### No. 31: Post sui social media - Ritratto in studio rosso cinematografico
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrizione
-
-Un audace ritratto in studio monocromatico rosso con un'estetica minimalista e di alta moda, perfetto per scatti di personaggi drammatici.
-
-#### 📝 Prompt
-
-```
-Foto di {argument name="subject" default="Me"}, che indossa {argument name="clothing" default="una giacca con zip nera, pantaloni neri e stivali neri"}, seduto in modo rilassato su una moderna sedia con sottile struttura in metallo in uno studio minimalista. È appoggiato allo schienale con le gambe distese in avanti, una mano appoggiata sul bracciolo della sedia, l'altra sulla coscia, guarda di lato con un'espressione calma, {argument name="lighting" default="illuminazione rossa drammatica dell'intera scena"}, sfondo e pavimento interamente immersi in un intenso colore rosso saturo, alto contrasto, ritratto in studio cinematografico, fondale rosso liscio e senza giunture, atmosfera suggestiva, stile fotografia di moda, dettagli nitidi, illuminazione professionale
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684782036_b47ilo_HK6gSJaakAA6nZn.jpg" width="600" alt="Post sui social media - Ritratto in studio rosso cinematografico - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684781966_mi7y3h_HK6gSOjaQAATOBO.jpg" width="600" alt="Post sui social media - Ritratto in studio rosso cinematografico - Image 2">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Harboris](https://x.com/harboriis)
-- **Fonte:** [Twitter Post](https://x.com/harboriis/status/2066765524202406286)
-- **Pubblicato:** 16 giugno 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=25870)**
-
----
-
-### No. 32: Post sui social media - Ritratto selfie in una camera da letto accogliente
+### No. 31: Post sui social media - Ritratto selfie in una camera da letto accogliente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2137,7 +2097,7 @@ Un ritratto di alta qualità con proporzioni 2:3 di una {argument name="subject"
 
 ---
 
-### No. 33: Post sui social media - Ritratto maschile cinematografico in una notte di pioggia
+### No. 32: Post sui social media - Ritratto maschile cinematografico in una notte di pioggia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2171,7 +2131,7 @@ Un ritratto cinematografico cupo e ad alto contrasto di un uomo in una strada ci
 
 ---
 
-### No. 34: Post sui social media - Ritratto della vittoria alla Coppa del Mondo
+### No. 33: Post sui social media - Ritratto della vittoria alla Coppa del Mondo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2202,6 +2162,43 @@ Una fotografia a figura intera di una giovane donna in piedi all'interno di uno 
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=25872)**
+
+---
+
+### No. 34: Post sui social media - Estetica ritratto in aula stile preppy
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrizione
+
+Un prompt per un'estetica da studentessa strutturata, con capi d'abbigliamento specifici e un'ambientazione in aula per un look curato e delicato.
+
+#### 📝 Prompt
+
+```
+"subject": "{argument name="dettagli soggetto" default="giovane donna, capelli castani lunghi con frangia, sguardo sottile, orecchini a goccia a cuore, ciondolo a croce"}",
+  "outfit": "{argument name="abbigliamento" default="polo aderente rosa cipria, minigonna a quadri blu, sneakers bianche"}",
+  "setting": "{argument name="ambientazione sfondo" default="aula scolastica, sfondo con armadietti in legno e lavagna bianca"}",
+  "mood": "preppy, delicato, estetica da studentessa"
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781684779393_vr948k_HK5k9gvagAADa46.jpg" width="600" alt="Post sui social media - Estetica ritratto in aula stile preppy - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [ⁱᵃᵐ|𝚂𝚑𝚊𝚍𝚘𝚠𝚋𝚢𝚝𝚎𒆜](https://x.com/_Shadow__byte_)
+- **Fonte:** [Twitter Post](https://x.com/_Shadow__byte_/status/2066700290737508450)
+- **Pubblicato:** 16 giugno 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=25866)**
 
 ---
 
@@ -5684,7 +5681,7 @@ Un massiccio camion autonomo per carichi pesanti progettato per trasportare inte
 
 <div align="center">
 
-### 🎯 14360 altri prompt non mostrati qui
+### 🎯 14359 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5747,6 +5744,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-17T09:31:59.019Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-17T13:08:35.425Z</sub>
 
 </div>

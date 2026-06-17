@@ -143,9 +143,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **14480** |
+| 📝 Gesamtanzahl Prompts | **14479** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Mittwoch, 17. Juni 2026 um 09:31:49 UTC** |
+| 🔄 Zuletzt aktualisiert | **Mittwoch, 17. Juni 2026 um 13:08:23 UTC** |
 
 </div>
 
@@ -2063,47 +2063,7 @@ Ultra-ästhetisches Streetwear-Girl-Collagen-Poster, stimmungsvoller schwarz-gra
 
 ---
 
-### No. 31: Social-Media-Beitrag - Cinematisches rotes Studio-Porträt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein markantes, monochromes rotes Studio-Porträt mit minimalistischer High-Fashion-Ästhetik, perfekt für dramatische Charakteraufnahmen.
-
-#### 📝 Prompt
-
-```
-Foto von {argument name="subject" default="mir"}, trägt eine {argument name="clothing" default="schwarze Zip-up-Jacke, schwarze Hose und schwarze Stiefel"}, sitzt entspannt und zurückgelehnt auf einem modernen Stuhl mit dünnem Metallrahmen in einem minimalistischen Studio. Er lehnt sich zurück, die Beine nach vorne gestreckt, eine Hand ruht auf der Armlehne, die andere auf seinem Oberschenkel, blickt mit ruhigem Ausdruck zur Seite, {argument name="lighting" default="dramatische, den gesamten Raum ausfüllende rote Beleuchtung"}, der gesamte Hintergrund und Boden in intensives, gesättigtes Rot getaucht, hoher Kontrast, cinematisches Studio-Porträt, glatter, nahtloser roter Hintergrund, stimmungsvolle Atmosphäre, Fashion-Fotografie-Stil, scharfe Details, professionelle Beleuchtung
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684782036_b47ilo_HK6gSJaakAA6nZn.jpg" width="600" alt="Social-Media-Beitrag - Cinematisches rotes Studio-Porträt - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684781966_mi7y3h_HK6gSOjaQAATOBO.jpg" width="600" alt="Social-Media-Beitrag - Cinematisches rotes Studio-Porträt - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Harboris](https://x.com/harboriis)
-- **Quelle:** [Twitter Post](https://x.com/harboriis/status/2066765524202406286)
-- **Veröffentlicht:** 16. Juni 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25870)**
-
----
-
-### No. 32: Social-Media-Beitrag - Gemütliches Schlafzimmer-Selfie-Porträt
+### No. 31: Social-Media-Beitrag - Gemütliches Schlafzimmer-Selfie-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2137,7 +2097,7 @@ Ein hochwertiges Porträt im 2:3-Seitenverhältnis einer {argument name="subject
 
 ---
 
-### No. 33: Social-Media-Beitrag - Cinematisches maskulines Porträt in regnerischer Nacht
+### No. 32: Social-Media-Beitrag - Cinematisches maskulines Porträt in regnerischer Nacht
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2171,7 +2131,7 @@ Ein düsteres, kontrastreiches kinoreifes Porträt eines Mannes in einer regneri
 
 ---
 
-### No. 34: Social-Media-Beitrag - Porträt zum Weltmeisterschaftssieg
+### No. 33: Social-Media-Beitrag - Porträt zum Weltmeisterschaftssieg
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2202,6 +2162,43 @@ Eine Ganzkörperaufnahme einer jungen Frau, die in einem Stadion steht und {argu
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25872)**
+
+---
+
+### No. 34: Social-Media-Beitrag - Preppy Klassenzimmer-Porträt-Ästhetik
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein strukturierter Prompt im Schulmädchen-Stil mit spezifischen Kleidungsstücken und einem Klassenzimmer-Setting für einen sanften, kuratierten Look.
+
+#### 📝 Prompt
+
+```
+"subject": "{argument name="subject details" default="junge Frau, langes braunes Haar mit Pony, subtiler Blick, herzförmige Ohrhänger, Kreuz-Anhänger"}",
+  "outfit": "{argument name="clothing outfit" default="hellrosa eng anliegendes Poloshirt, blauer karierter Minirock, weiße Sneaker"}",
+  "setting": "{argument name="background setting" default="Klassenzimmer, Hintergrund mit Holzspinden und Whiteboard"}",
+  "mood": "preppy, sanft, Schulmädchen-Ästhetik"
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781684779393_vr948k_HK5k9gvagAADa46.jpg" width="600" alt="Social-Media-Beitrag - Preppy Klassenzimmer-Porträt-Ästhetik - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [ⁱᵃᵐ|𝚂𝚑𝚊𝚍𝚘𝚠𝚋𝚢𝚝𝚎𒆜](https://x.com/_Shadow__byte_)
+- **Quelle:** [Twitter Post](https://x.com/_Shadow__byte_/status/2066700290737508450)
+- **Veröffentlicht:** 16. Juni 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=25866)**
 
 ---
 
@@ -5684,7 +5681,7 @@ Ein massiver, autonomer Schwerlast-LKW, der für den Transport ganzer {argument 
 
 <div align="center">
 
-### 🎯 14360 weitere Prompts hier nicht angezeigt
+### 🎯 14359 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5747,6 +5744,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-17T09:31:49.956Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-17T13:08:23.522Z</sub>
 
 </div>

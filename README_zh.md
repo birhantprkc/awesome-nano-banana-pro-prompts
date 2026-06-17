@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **14480** |
+| 📝 提示词总数 | **14479** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年6月17日星期三 UTC 09:31:08** |
+| 🔄 最后更新 | **2026年6月17日星期三 UTC 13:07:30** |
 
 </div>
 
@@ -2063,47 +2063,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 31: 社交媒体帖子 - 电影感红色影棚人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张大胆的单色红色影棚人像，具有极简主义的高级时尚美感，非常适合戏剧性的角色摄影。
-
-#### 📝 提示词
-
-```
-一张 {argument name="subject" default="我"} 的照片，身穿 {argument name="clothing" default="黑色拉链夹克、黑色长裤和黑色靴子"}，姿态放松地斜靠在极简主义影棚内的一把现代纤细金属框架椅上。他向后倚靠，双腿向前伸展，一只手放在椅子的扶手上，另一只手放在大腿上，神情平静地看向侧方，{argument name="lighting" default="戏剧性的全景红色灯光"}，整个背景和地面浸没在浓郁饱和的红色中，高对比度，电影感影棚人像，平滑无缝的红色背景，情绪化氛围，时尚摄影风格，细节锐利，专业布光
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684782036_b47ilo_HK6gSJaakAA6nZn.jpg" width="600" alt="社交媒体帖子 - 电影感红色影棚人像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684781966_mi7y3h_HK6gSOjaQAATOBO.jpg" width="600" alt="社交媒体帖子 - 电影感红色影棚人像 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Harboris](https://x.com/harboriis)
-- **来源:** [Twitter Post](https://x.com/harboriis/status/2066765524202406286)
-- **发布时间:** 2026年6月16日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=25870)**
-
----
-
-### No. 32: 社交媒体帖子 - 温馨卧室自拍肖像
+### No. 31: 社交媒体帖子 - 温馨卧室自拍肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2137,7 +2097,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 33: 社交媒体帖子 - 雨夜电影感男性肖像
+### No. 32: 社交媒体帖子 - 雨夜电影感男性肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2171,7 +2131,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 34: 社交媒体帖子 - 世界杯夺冠肖像
+### No. 33: 社交媒体帖子 - 世界杯夺冠肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2202,6 +2162,43 @@ https://t.co/QxbYpfFVj6
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=25872)**
+
+---
+
+### No. 34: 社交媒体帖子 - 学院风教室人像美学
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个结构化的学院风少女美学提示词，包含特定的服装单品和教室背景，营造出柔和、精致的视觉效果。
+
+#### 📝 提示词
+
+```
+"subject": "{argument name="subject details" default="年轻女性，棕色长发配刘海，眼神柔和，心形吊坠耳环，十字架吊坠"}",
+  "outfit": "{argument name="clothing outfit" default="淡粉色修身 Polo 衫，蓝色格子百褶裙，白色运动鞋"}",
+  "setting": "{argument name="background setting" default="教室，木质储物柜和白板背景"}",
+  "mood": "学院风，柔和，少女美学"
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781684779393_vr948k_HK5k9gvagAADa46.jpg" width="600" alt="社交媒体帖子 - 学院风教室人像美学 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [ⁱᵃᵐ|𝚂𝚑𝚊𝚍𝚘𝚠𝚋𝚢𝚝𝚎𒆜](https://x.com/_Shadow__byte_)
+- **来源:** [Twitter Post](https://x.com/_Shadow__byte_/status/2066700290737508450)
+- **发布时间:** 2026年6月16日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=25866)**
 
 ---
 
@@ -5684,7 +5681,7 @@ Atlas Titan 货运车
 
 <div align="center">
 
-### 🎯 14360 更多提示词未在此显示
+### 🎯 14359 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5747,6 +5744,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-17T09:31:08.574Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-17T13:07:30.751Z</sub>
 
 </div>

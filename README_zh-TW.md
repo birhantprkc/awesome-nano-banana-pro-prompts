@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **14480** |
+| 📝 提示詞總數 | **14479** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年6月17日 星期三 上午9:31:12 [UTC]** |
+| 🔄 最後更新 | **2026年6月17日 星期三 下午1:07:36 [UTC]** |
 
 </div>
 
@@ -2063,47 +2063,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 31: 社群媒體貼文 - 電影感紅色攝影棚人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一張大膽的單色紅色攝影棚人像，具有極簡主義的高級時尚美感，非常適合戲劇性的角色攝影。
-
-#### 📝 提示詞
-
-```
-{argument name="subject" default="我"} 的照片，身穿 {argument name="clothing" default="黑色拉鍊外套、黑色長褲與黑色靴子"}，以放鬆的姿勢斜靠在極簡風格攝影棚內的一張現代細金屬框架椅子上。他向後倚靠，雙腿向前伸展，一隻手放在椅扶手上，另一隻手放在大腿上，神情冷靜地看向側方，{argument name="lighting" default="戲劇性的全場景紅色燈光"}，整個背景與地板沐浴在濃郁飽和的紅色中，高對比度，電影感攝影棚人像，平滑無縫的紅色背景，情緒化氛圍，時尚攝影風格，細節銳利，專業燈光
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684782036_b47ilo_HK6gSJaakAA6nZn.jpg" width="600" alt="社群媒體貼文 - 電影感紅色攝影棚人像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684781966_mi7y3h_HK6gSOjaQAATOBO.jpg" width="600" alt="社群媒體貼文 - 電影感紅色攝影棚人像 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Harboris](https://x.com/harboriis)
-- **來源:** [Twitter Post](https://x.com/harboriis/status/2066765524202406286)
-- **發布時間:** 2026年6月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=25870)**
-
----
-
-### No. 32: 社群媒體貼文 - 溫馨臥室自拍人像
+### No. 31: 社群媒體貼文 - 溫馨臥室自拍人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2137,7 +2097,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 33: 社群媒體貼文 - 雨夜電影感男性肖像
+### No. 32: 社群媒體貼文 - 雨夜電影感男性肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2171,7 +2131,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 34: 社群媒體貼文 - 世界盃奪冠肖像
+### No. 33: 社群媒體貼文 - 世界盃奪冠肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2202,6 +2162,43 @@ https://t.co/QxbYpfFVj6
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=25872)**
+
+---
+
+### No. 34: 社群媒體貼文 - 學院風教室人像美學
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一個結構化的學院風女孩美學提示詞，包含特定的服裝單品與教室場景，營造出柔和、精緻的視覺效果。
+
+#### 📝 提示詞
+
+```
+"subject": "{argument name="subject details" default="年輕女性，長棕髮配瀏海，眼神柔和，心形垂墜耳環，十字架吊飾"}",
+  "outfit": "{argument name="clothing outfit" default="淡粉色合身 Polo 衫，藍色格紋迷你裙，白色球鞋"}",
+  "setting": "{argument name="background setting" default="教室，木質置物櫃與白板背景"}",
+  "mood": "學院風，柔和，校園女孩美學"
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781684779393_vr948k_HK5k9gvagAADa46.jpg" width="600" alt="社群媒體貼文 - 學院風教室人像美學 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [ⁱᵃᵐ|𝚂𝚑𝚊𝚍𝚘𝚠𝚋𝚢𝚝𝚎𒆜](https://x.com/_Shadow__byte_)
+- **來源:** [Twitter Post](https://x.com/_Shadow__byte_/status/2066700290737508450)
+- **發布時間:** 2026年6月16日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=25866)**
 
 ---
 
@@ -5687,7 +5684,7 @@ Atlas Titan 貨運車
 
 <div align="center">
 
-### 🎯 14360 更多提示詞未在此顯示
+### 🎯 14359 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5750,6 +5747,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-17T09:31:12.976Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-17T13:07:36.469Z</sub>
 
 </div>

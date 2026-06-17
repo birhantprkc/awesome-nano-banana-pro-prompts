@@ -143,9 +143,9 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **14480** |
+| 📝 Total des prompts | **14479** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **mercredi 17 juin 2026 à 09:31:54 UTC** |
+| 🔄 Dernière mise à jour | **mercredi 17 juin 2026 à 13:08:29 UTC** |
 
 </div>
 
@@ -2063,47 +2063,7 @@ Affiche de collage de fille streetwear ultra esthétique, fond sombre noir et gr
 
 ---
 
-### No. 31: Publication sur les réseaux sociaux - Portrait studio rouge cinématographique
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Un portrait studio monochrome rouge audacieux à l'esthétique minimaliste et haute couture, idéal pour des clichés de personnages dramatiques.
-
-#### 📝 Prompt
-
-```
-Photo de {argument name="subject" default="Moi"}, portant {argument name="clothing" default="une veste zippée noire, un pantalon noir et des bottes noires"}, assis de manière décontractée sur une chaise moderne à structure métallique fine dans un studio minimaliste. Il est penché en arrière, les jambes allongées vers l'avant, une main posée sur l'accoudoir de la chaise, l'autre sur sa cuisse, regardant sur le côté avec une expression calme, {argument name="lighting" default="éclairage rouge dramatique sur toute la scène"}, tout l'arrière-plan et le sol baignés dans une couleur rouge saturée intense, contraste élevé, portrait studio cinématographique, fond rouge lisse et homogène, atmosphère moody, style photographie de mode, détails nets, éclairage professionnel
-```
-
-#### 🖼️ Images générées
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684782036_b47ilo_HK6gSJaakAA6nZn.jpg" width="600" alt="Publication sur les réseaux sociaux - Portrait studio rouge cinématographique - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1781684781966_mi7y3h_HK6gSOjaQAATOBO.jpg" width="600" alt="Publication sur les réseaux sociaux - Portrait studio rouge cinématographique - Image 2">
-</div>
-
-#### 📌 Détails
-
-- **Auteur:** [Harboris](https://x.com/harboriis)
-- **Source:** [Twitter Post](https://x.com/harboriis/status/2066765524202406286)
-- **Publié:** 16 juin 2026
-- **Langues:** en
-
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=25870)**
-
----
-
-### No. 32: Publication sur les réseaux sociaux - Portrait selfie dans une chambre douillette
+### No. 31: Publication sur les réseaux sociaux - Portrait selfie dans une chambre douillette
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2137,7 +2097,7 @@ Un portrait de haute qualité au format 2:3 d'une {argument name="subject" defau
 
 ---
 
-### No. 33: Publication sur les réseaux sociaux - Portrait masculin cinématographique sous une nuit pluvieuse
+### No. 32: Publication sur les réseaux sociaux - Portrait masculin cinématographique sous une nuit pluvieuse
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2171,7 +2131,7 @@ Un portrait cinématographique sombre et contrasté d'un homme dans une rue urba
 
 ---
 
-### No. 34: Publication sur les réseaux sociaux - Portrait de victoire en Coupe du Monde
+### No. 33: Publication sur les réseaux sociaux - Portrait de victoire en Coupe du Monde
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2202,6 +2162,43 @@ Une photographie en pied d'une jeune femme debout dans un stade et {argument nam
 - **Langues:** en
 
 **[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=25872)**
+
+---
+
+### No. 34: Publication sur les réseaux sociaux - Esthétique portrait de classe preppy
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Un prompt à l'esthétique écolière structurée, mettant en avant des vêtements spécifiques et un décor de salle de classe pour un look doux et soigné.
+
+#### 📝 Prompt
+
+```
+"subject": "{argument name="détails du sujet" default="jeune femme, longs cheveux bruns avec frange, regard subtil, boucles d'oreilles en forme de cœur, pendentif croix"}",
+  "outfit": "{argument name="tenue vestimentaire" default="polo ajusté rose poudré, mini-jupe à carreaux bleue, baskets blanches"}",
+  "setting": "{argument name="décor d'arrière-plan" default="salle de classe, casiers en bois et tableau blanc en arrière-plan"}",
+  "mood": "preppy, doux, esthétique écolière"
+```
+
+#### 🖼️ Images générées
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1781684779393_vr948k_HK5k9gvagAADa46.jpg" width="600" alt="Publication sur les réseaux sociaux - Esthétique portrait de classe preppy - Image 1">
+</div>
+
+#### 📌 Détails
+
+- **Auteur:** [ⁱᵃᵐ|𝚂𝚑𝚊𝚍𝚘𝚠𝚋𝚢𝚝𝚎𒆜](https://x.com/_Shadow__byte_)
+- **Source:** [Twitter Post](https://x.com/_Shadow__byte_/status/2066700290737508450)
+- **Publié:** 16 juin 2026
+- **Langues:** en
+
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=25866)**
 
 ---
 
@@ -5684,7 +5681,7 @@ Un immense camion de transport autonome ultra-robuste conçu pour transporter de
 
 <div align="center">
 
-### 🎯 14360 prompts supplémentaires non affichés ici
+### 🎯 14359 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5747,6 +5744,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-17T09:31:54.669Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-17T13:08:29.835Z</sub>
 
 </div>
