@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **14654** |
+| 📝 Total Prompts | **14653** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Thursday, July 2, 2026 at 8:59:28 AM UTC** |
+| 🔄 Last Updated | **Thursday, July 2, 2026 at 12:34:56 PM UTC** |
 
 </div>
 
@@ -4121,47 +4121,7 @@ A clean professional storyboard sheet on a {argument name="background color" def
 
 ---
 
-### No. 84: Product Marketing - Cinematic Threads Inspired Fashion Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A high-fashion editorial prompt for a male model in ivory streetwear featuring holographic social media interfaces and a luxury techwear aesthetic.
-
-#### 📝 Prompt
-
-```
-Ultra-cinematic editorial digital artwork in a clean white monochrome aesthetic inspired by Threads branding. A confident {argument name="subject" default="young male fashion model"} stands at the center wearing premium oversized {argument name="outfit color" default="ivory"} streetwear, cropped bomber jacket, layered utility cargo pants with long flowing fabric ribbons moving dramatically in the wind. Around him float multiple translucent holographic social media interface panels displaying a Threads profile. The profile shows "{argument name="social media handle" default="@chatGPT"}", verified badge, AI creator bio, profile statistics, carousel posts of futuristic AI artwork and prompt designs, all recreated in a clean modern UI without copying the real interface exactly. Behind him is a massive glowing Threads spiral logo embedded into a futuristic matte concrete wall with subtle circuit textures. Bright volumetric lighting, soft global illumination, cinematic depth of field, foreground blurred interface panels, premium fashion photography composition, hyper-realistic, ultra detailed, 8K, magazine cover quality, luxury techwear aesthetic, centered composition, no text outside UI, no watermark in 4:5 size.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1782977582339_5savgh_HMIvPYCaEAAUCXg.jpg" width="600" alt="Product Marketing - Cinematic Threads Inspired Fashion Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1782977582755_rhtu5d_HMIvPytacAAfbqB.jpg" width="600" alt="Product Marketing - Cinematic Threads Inspired Fashion Portrait - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Aijaz](https://x.com/iamsofiaijaz)
-- **Source:** [Twitter Post](https://x.com/iamsofiaijaz/status/2072270733997437263)
-- **Published:** July 1, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=27304)**
-
----
-
-### No. 85: Product Marketing - Professional Studio Portrait with 3D Text
+### No. 84: Product Marketing - Professional Studio Portrait with 3D Text
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4196,7 +4156,7 @@ Professional photography, ultra-realistic 8K, full-body studio portrait of the s
 
 ---
 
-### No. 86: Product Marketing - Man on Vintage Leather Sofa
+### No. 85: Product Marketing - Man on Vintage Leather Sofa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4230,7 +4190,7 @@ A high-quality lifestyle photograph of a man seated on a classic Chesterfield so
 
 ---
 
-### No. 87: Product Marketing - Luxury Fashion Editorial Studio Shoot
+### No. 86: Product Marketing - Luxury Fashion Editorial Studio Shoot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4270,7 +4230,7 @@ A high-end luxury fashion editorial photoshoot of a {argument name="subject" def
 
 ---
 
-### No. 88: Product Marketing - Cinematic Aurora Heart Lovers Photography
+### No. 87: Product Marketing - Cinematic Aurora Heart Lovers Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4304,7 +4264,7 @@ Ultra-realistic cinematic photography. {argument name="subject" default="Two lov
 
 ---
 
-### No. 89: Product Marketing - Streetwear Editorial Fashion Poster
+### No. 88: Product Marketing - Streetwear Editorial Fashion Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4344,7 +4304,7 @@ Create a high-fashion streetwear editorial poster featuring a stylish {argument 
 
 ---
 
-### No. 90: Product Marketing - Formal Menswear Coastal Editorial
+### No. 89: Product Marketing - Formal Menswear Coastal Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4378,7 +4338,7 @@ A {argument name="subject clothing" default="handsome man in a sharp, pitch-blac
 
 ---
 
-### No. 91: Product Marketing - High Contrast Monochrome Male Portrait
+### No. 90: Product Marketing - High Contrast Monochrome Male Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4412,7 +4372,7 @@ A cinematic high-contrast black-and-white portrait captured from a three-quarter
 
 ---
 
-### No. 92: Product Marketing - South Asian Woman in Vibrant Bazaar
+### No. 91: Product Marketing - South Asian Woman in Vibrant Bazaar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4446,7 +4406,7 @@ A structured JSON-style prompt for a cinematic portrait of a woman with a Persia
 
 ---
 
-### No. 93: Product Marketing - Cyberpunk Urban Fashion Portrait
+### No. 92: Product Marketing - Cyberpunk Urban Fashion Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4480,7 +4440,7 @@ A {argument name="subject" default="confident young woman with shoulder-length w
 
 ---
 
-### No. 94: Product Marketing - Luxury Mediterranean Fashion Portrait
+### No. 93: Product Marketing - Luxury Mediterranean Fashion Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4514,7 +4474,7 @@ Create an ultra-realistic luxury lifestyle fashion portrait in a vertical 4:5 co
 
 ---
 
-### No. 95: Product Marketing - Industrial Football Locker Room Campaign
+### No. 94: Product Marketing - Industrial Football Locker Room Campaign
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4548,7 +4508,7 @@ Ultra-realistic editorial sports-fashion campaign featuring {argument name="subj
 
 ---
 
-### No. 96: Product Marketing - Professional Gym Mirror Selfie Portrait
+### No. 95: Product Marketing - Professional Gym Mirror Selfie Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4582,7 +4542,7 @@ A high-quality, professional editorial-style portrait of a {argument name="subje
 
 ---
 
-### No. 97: Product Marketing - Luxury Indoor Menswear Lookbook
+### No. 96: Product Marketing - Luxury Indoor Menswear Lookbook
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4616,7 +4576,7 @@ A confident male in his thirties stands deliberately posed with his body turned 
 
 ---
 
-### No. 98: Product Marketing - Urban Rooftop Sunset Portrait
+### No. 97: Product Marketing - Urban Rooftop Sunset Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4657,6 +4617,45 @@ NEGATIVE PROMPT: CGI, 3D render, fake, artificial, synthetic, plastic skin, wax 
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=26719)**
+
+---
+
+### No. 98: Product Marketing - Ethereal Motion Blur Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A cinematic, soft-focus prompt for generating ethereal portraits of women with golden hair, featuring artistic motion blur and a painterly, nostalgic atmosphere.
+
+#### 📝 Prompt
+
+```
+A soft-focus, cinematic portrait of a young woman with delicate facial features and light golden hair, caught in motion. Her face appears partially blurred and ghosted, with flowing strands of hair captured mid-sway, creating a dreamy, ethereal motion effect. Her expression is serene and slightly distant, with parted lips and eyes softly open.The entire frame is bathed in golden beige and sepia tones, evoking a nostalgic, painterly atmosphere. The lighting is natural and diffused, coming from a nearby window, casting a warm glow on her skin and illuminating the strands of hair that dance across the frame. Photographed with a Canon EOS R5 using an 85mm lens at f/1.2, ISO 320, shutter speed 1/8s with intentional slow exposure and handheld movement to create the artistic motion blur. The focus is soft, with a shallow depth of field that isolates the subject from the pale, creamy background. Post-processed in Adobe Lightroom and Photoshop: cinematic LUTs applied, warmth enhanced through split-toning (shadows in soft amber, highlights in cream), clarity reduced, and motion streaks refined with displacement layers and radial blur filters. A very subtle fine grain adds a filmic mood: emotional, hazy, poetic. Style references: fine art portraiture, vintage editorial, and analog dream sequences. 4K ultra-resolution, no harsh contrasts, smooth gradients preserved.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1782460096159_fad85e_HLqWGMLXgAAsej9.jpg" width="600" alt="Product Marketing - Ethereal Motion Blur Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1782460096097_yogb4h_HLqWGL5WAAAXPse.jpg" width="600" alt="Product Marketing - Ethereal Motion Blur Portrait - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Anissa](https://x.com/SimplyAnnisa)
+- **Source:** [Twitter Post](https://x.com/SimplyAnnisa/status/2070132015664370008)
+- **Published:** June 25, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=26723)**
 
 ---
 
@@ -5506,7 +5505,7 @@ Dark sci-fi cyberpunk concept art inspired by the Blade Runner 2049 cinematic ae
 
 <div align="center">
 
-### 🎯 14534 more prompts not shown here
+### 🎯 14533 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5569,6 +5568,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-02T08:59:28.821Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-02T12:34:56.718Z</sub>
 
 </div>

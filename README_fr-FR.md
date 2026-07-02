@@ -143,9 +143,9 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **14654** |
+| 📝 Total des prompts | **14653** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **jeudi 2 juillet 2026 à 09:00:20 UTC** |
+| 🔄 Dernière mise à jour | **jeudi 2 juillet 2026 à 12:35:45 UTC** |
 
 </div>
 
@@ -4120,47 +4120,7 @@ Une feuille de storyboard professionnelle et épurée sur un {argument name="bac
 
 ---
 
-### No. 84: Marketing produit - Portrait de mode inspiré par l'esthétique de Threads
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Un prompt éditorial de haute couture pour un mannequin masculin en streetwear ivoire, intégrant des interfaces holographiques de réseaux sociaux et une esthétique techwear de luxe.
-
-#### 📝 Prompt
-
-```
-Œuvre d'art numérique éditoriale ultra-cinématographique dans une esthétique monochrome blanc épuré inspirée par l'image de marque de Threads. Un {argument name="subject" default="jeune mannequin homme"} confiant se tient au centre, vêtu d'un streetwear premium oversize de couleur {argument name="outfit color" default="ivoire"}, composé d'un blouson bomber court et d'un pantalon cargo utilitaire superposé avec de longs rubans de tissu flottant de manière spectaculaire dans le vent. Autour de lui flottent plusieurs panneaux d'interface holographiques translucides de réseaux sociaux affichant un profil Threads. Le profil affiche "{argument name="social media handle" default="@chatGPT"}", un badge de vérification, une biographie de créateur IA, des statistiques de profil, et des carrousels de publications présentant des œuvres d'art IA futuristes et des designs de prompts, le tout recréé dans une interface utilisateur moderne et épurée sans copier exactement l'interface réelle. Derrière lui se trouve un immense logo en spirale de Threads lumineux incrusté dans un mur en béton mat futuriste aux textures de circuits subtiles. Éclairage volumétrique lumineux, illumination globale douce, profondeur de champ cinématographique, panneaux d'interface flous au premier plan, composition de photographie de mode premium, hyper-réaliste, ultra détaillé, 8K, qualité couverture de magazine, esthétique techwear de luxe, composition centrée, pas de texte en dehors de l'interface utilisateur, pas de filigrane, au format 4:5.
-```
-
-#### 🖼️ Images générées
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1782977582339_5savgh_HMIvPYCaEAAUCXg.jpg" width="600" alt="Marketing produit - Portrait de mode inspiré par l'esthétique de Threads - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1782977582755_rhtu5d_HMIvPytacAAfbqB.jpg" width="600" alt="Marketing produit - Portrait de mode inspiré par l'esthétique de Threads - Image 2">
-</div>
-
-#### 📌 Détails
-
-- **Auteur:** [Aijaz](https://x.com/iamsofiaijaz)
-- **Source:** [Twitter Post](https://x.com/iamsofiaijaz/status/2072270733997437263)
-- **Publié:** 1 juillet 2026
-- **Langues:** en
-
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=27304)**
-
----
-
-### No. 85: Marketing produit - Portrait de studio professionnel avec texte 3D
+### No. 84: Marketing produit - Portrait de studio professionnel avec texte 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4195,7 +4155,7 @@ Photographie professionnelle, ultra-réaliste 8K, portrait de studio en pied de 
 
 ---
 
-### No. 86: Marketing produit - Homme sur canapé en cuir vintage
+### No. 85: Marketing produit - Homme sur canapé en cuir vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4229,7 +4189,7 @@ Une photographie lifestyle de haute qualité représentant un homme assis sur un
 
 ---
 
-### No. 87: Marketing produit - Shooting éditorial de mode de luxe en studio
+### No. 86: Marketing produit - Shooting éditorial de mode de luxe en studio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4269,7 +4229,7 @@ Un shooting photo éditorial de mode de luxe haut de gamme mettant en scène {ar
 
 ---
 
-### No. 88: Marketing produit - Photographie cinématographique de couple sous des aurores boréales
+### No. 87: Marketing produit - Photographie cinématographique de couple sous des aurores boréales
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4303,7 +4263,7 @@ Photographie cinématographique ultra-réaliste. {argument name="subject" defaul
 
 ---
 
-### No. 89: Marketing produit - Affiche de mode éditoriale streetwear
+### No. 88: Marketing produit - Affiche de mode éditoriale streetwear
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4343,7 +4303,7 @@ Créez une affiche éditoriale de mode streetwear haute couture mettant en vedet
 
 ---
 
-### No. 90: Marketing produit - Éditorial de mode masculine formelle en bord de mer
+### No. 89: Marketing produit - Éditorial de mode masculine formelle en bord de mer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4377,7 +4337,7 @@ Un {argument name="subject clothing" default="homme élégant vêtu d'un costume
 
 ---
 
-### No. 91: Marketing produit - Portrait masculin monochrome à haut contraste
+### No. 90: Marketing produit - Portrait masculin monochrome à haut contraste
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4411,7 +4371,7 @@ Un portrait cinématographique en noir et blanc à haut contraste capturé sous 
 
 ---
 
-### No. 92: Marketing produit - Femme sud-asiatique dans un bazar vibrant
+### No. 91: Marketing produit - Femme sud-asiatique dans un bazar vibrant
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4445,7 +4405,7 @@ Un prompt structuré au format JSON pour un portrait cinématographique d'une fe
 
 ---
 
-### No. 93: Marketing produit - Portrait de mode urbaine cyberpunk
+### No. 92: Marketing produit - Portrait de mode urbaine cyberpunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4479,7 +4439,7 @@ Un {argument name="subject" default="jeune femme confiante aux cheveux bruns ond
 
 ---
 
-### No. 94: Marketing produit - Portrait de mode méditerranéen de luxe
+### No. 93: Marketing produit - Portrait de mode méditerranéen de luxe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4513,7 +4473,7 @@ Créez un portrait de mode lifestyle de luxe ultra-réaliste dans une compositio
 
 ---
 
-### No. 95: Marketing produit - Campagne vestiaire de football industriel
+### No. 94: Marketing produit - Campagne vestiaire de football industriel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4547,7 +4507,7 @@ Campagne de mode sportive éditoriale ultra-réaliste mettant en scène {argumen
 
 ---
 
-### No. 96: Marketing produit - Portrait professionnel de selfie au miroir en salle de sport
+### No. 95: Marketing produit - Portrait professionnel de selfie au miroir en salle de sport
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4581,7 +4541,7 @@ Un portrait éditorial professionnel de haute qualité d'une {argument name="sub
 
 ---
 
-### No. 97: Marketing produit - Lookbook de mode masculine d'intérieur de luxe
+### No. 96: Marketing produit - Lookbook de mode masculine d'intérieur de luxe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4615,7 +4575,7 @@ Un homme confiant dans la trentaine se tient dans une pose délibérée, le corp
 
 ---
 
-### No. 98: Marketing produit - Portrait urbain sur un toit au coucher du soleil
+### No. 97: Marketing produit - Portrait urbain sur un toit au coucher du soleil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4656,6 +4616,45 @@ NEGATIVE PROMPT : CGI, rendu 3D, faux, artificiel, synthétique, peau plastique,
 - **Langues:** en
 
 **[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=26719)**
+
+---
+
+### No. 98: Marketing produit - Portrait éthéré avec flou de mouvement
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Un prompt cinématographique à mise au point douce pour générer des portraits éthérés de femmes aux cheveux dorés, caractérisé par un flou de mouvement artistique et une atmosphère nostalgique digne d'une peinture.
+
+#### 📝 Prompt
+
+```
+Un portrait cinématographique à mise au point douce d'une jeune femme aux traits délicats et aux cheveux blond doré, saisie en plein mouvement. Son visage apparaît partiellement flou et fantomatique, avec des mèches de cheveux flottantes capturées en plein balancement, créant un effet de mouvement onirique et éthéré. Son expression est sereine et légèrement lointaine, les lèvres entrouvertes et les yeux doucement ouverts. L'ensemble du cadre est baigné de tons beige doré et sépia, évoquant une atmosphère nostalgique et picturale. L'éclairage est naturel et diffus, provenant d'une fenêtre voisine, projetant une lueur chaude sur sa peau et illuminant les mèches de cheveux qui dansent à travers le cadre. Photographié avec un Canon EOS R5 utilisant un objectif 85 mm à f/1.2, ISO 320, vitesse d'obturation 1/8s avec une pose lente intentionnelle et un mouvement à main levée pour créer le flou de mouvement artistique. La mise au point est douce, avec une faible profondeur de champ qui isole le sujet de l'arrière-plan pâle et crémeux. Post-traité dans Adobe Lightroom et Photoshop : LUTs cinématographiques appliquées, chaleur accentuée par le split-toning (ombres en ambre doux, hautes lumières en crème), clarté réduite, et traînées de mouvement affinées avec des calques de déplacement et des filtres de flou radial. Un grain très fin ajoute une ambiance filmique : émotionnelle, brumeuse, poétique. Références de style : portrait d'art, éditorial vintage et séquences de rêve analogiques. Ultra-haute résolution 4K, pas de contrastes durs, dégradés fluides préservés.
+```
+
+#### 🖼️ Images générées
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1782460096159_fad85e_HLqWGMLXgAAsej9.jpg" width="600" alt="Marketing produit - Portrait éthéré avec flou de mouvement - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1782460096097_yogb4h_HLqWGL5WAAAXPse.jpg" width="600" alt="Marketing produit - Portrait éthéré avec flou de mouvement - Image 2">
+</div>
+
+#### 📌 Détails
+
+- **Auteur:** [Anissa](https://x.com/SimplyAnnisa)
+- **Source:** [Twitter Post](https://x.com/SimplyAnnisa/status/2070132015664370008)
+- **Publié:** 25 juin 2026
+- **Langues:** en
+
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=26723)**
 
 ---
 
@@ -5505,7 +5504,7 @@ Concept art cyberpunk de science-fiction sombre inspiré par l'esthétique ciné
 
 <div align="center">
 
-### 🎯 14534 prompts supplémentaires non affichés ici
+### 🎯 14533 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5568,6 +5567,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-02T09:00:20.608Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-02T12:35:45.115Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **14654** |
+| 📝 คำสั่งทั้งหมด | **14653** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันพฤหัสบดีที่ 2 กรกฎาคม พ.ศ. 2569 เวลา 8 นาฬิกา 59 นาที 51 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันพฤหัสบดีที่ 2 กรกฎาคม พ.ศ. 2569 เวลา 12 นาฬิกา 35 นาที 18 วินาที UTC** |
 
 </div>
 
@@ -4120,47 +4120,7 @@ Negative Prompt:
 
 ---
 
-### No. 84: การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นแนว Cinematic ที่ได้รับแรงบันดาลใจจาก Threads
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์สำหรับภาพถ่ายแฟชั่นชั้นสูงของนายแบบในชุดสตรีทแวร์สีงาช้าง พร้อมอินเทอร์เฟซโซเชียลมีเดียแบบโฮโลแกรมและสไตล์ลักชูรีเทคแวร์
-
-#### 📝 คำสั่ง
-
-```
-ผลงานศิลปะดิจิทัลแนวบรรณาธิการแบบอัลตร้าซีนีมาติกในโทนสีขาวสะอาดตาที่ได้รับแรงบันดาลใจจากแบรนด์ Threads นายแบบหนุ่มมั่นใจ {argument name="subject" default="นายแบบแฟชั่นชายรุ่นใหม่"} ยืนอยู่ตรงกลางในชุดสตรีทแวร์โอเวอร์ไซส์ระดับพรีเมียมสี {argument name="outfit color" default="งาช้าง"} สวมแจ็คเก็ตบอมเบอร์ครอป กางเกงคาร์โก้แบบมีเลเยอร์พร้อมริบบิ้นผ้าขายาวที่พริ้วไหวอย่างมีพลังตามแรงลม รอบตัวเขามีแผงอินเทอร์เฟซโซเชียลมีเดียแบบโฮโลแกรมโปร่งแสงลอยอยู่ โดยแสดงโปรไฟล์ของ Threads บนโปรไฟล์แสดง "{argument name="social media handle" default="@chatGPT"}" เครื่องหมายยืนยันตัวตน ประวัติผู้สร้าง AI สถิติโปรไฟล์ และโพสต์แบบสไลด์ที่แสดงผลงานศิลปะ AI และการออกแบบพรอมต์แห่งอนาคต ทั้งหมดถูกสร้างขึ้นใหม่ในรูปแบบ UI ที่ทันสมัยและสะอาดตาโดยไม่คัดลอกอินเทอร์เฟซจริงทั้งหมด ด้านหลังของเขาคือโลโก้เกลียว Threads ขนาดใหญ่ที่เรืองแสงฝังอยู่ในผนังคอนกรีตด้านแห่งอนาคตที่มีพื้นผิววงจรจางๆ แสงวอลูเมตริกที่สว่างไสว การกระจายแสงทั่วทั้งภาพที่นุ่มนวล ระยะชัดลึกแบบภาพยนตร์ แผงอินเทอร์เฟซเบลอที่ด้านหน้า องค์ประกอบภาพถ่ายแฟชั่นระดับพรีเมียม สมจริงขั้นสูง รายละเอียดคมชัดระดับ 8K คุณภาพระดับปกนิตยสาร สไตล์ลักชูรีเทคแวร์ จัดองค์ประกอบภาพแบบกึ่งกลาง ไม่มีข้อความนอก UI ไม่มีลายน้ำ ในอัตราส่วน 4:5
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1782977582339_5savgh_HMIvPYCaEAAUCXg.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นแนว Cinematic ที่ได้รับแรงบันดาลใจจาก Threads - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1782977582755_rhtu5d_HMIvPytacAAfbqB.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นแนว Cinematic ที่ได้รับแรงบันดาลใจจาก Threads - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Aijaz](https://x.com/iamsofiaijaz)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/iamsofiaijaz/status/2072270733997437263)
-- **เผยแพร่เมื่อ:** 1 กรกฎาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=27304)**
-
----
-
-### No. 85: การตลาดผลิตภัณฑ์ - ภาพถ่ายพอร์ตเทรตสตูดิโอระดับมืออาชีพพร้อมข้อความ 3D
+### No. 84: การตลาดผลิตภัณฑ์ - ภาพถ่ายพอร์ตเทรตสตูดิโอระดับมืออาชีพพร้อมข้อความ 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4196,7 +4156,7 @@ Negative Prompt:
 
 ---
 
-### No. 86: การตลาดผลิตภัณฑ์ - ชายหนุ่มบนโซฟาหนังวินเทจ
+### No. 85: การตลาดผลิตภัณฑ์ - ชายหนุ่มบนโซฟาหนังวินเทจ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4230,7 +4190,7 @@ Negative Prompt:
 
 ---
 
-### No. 87: การตลาดผลิตภัณฑ์ - การถ่ายภาพแฟชั่นเอดิเตอร์เรียลสุดหรูในสตูดิโอ
+### No. 86: การตลาดผลิตภัณฑ์ - การถ่ายภาพแฟชั่นเอดิเตอร์เรียลสุดหรูในสตูดิโอ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4270,7 +4230,7 @@ Negative Prompt:
 
 ---
 
-### No. 88: การตลาดผลิตภัณฑ์ - ภาพถ่ายคู่รักท่ามกลางแสงออโรร่าสุดโรแมนติก
+### No. 87: การตลาดผลิตภัณฑ์ - ภาพถ่ายคู่รักท่ามกลางแสงออโรร่าสุดโรแมนติก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4304,7 +4264,7 @@ Negative Prompt:
 
 ---
 
-### No. 89: การตลาดผลิตภัณฑ์ - โปสเตอร์แฟชั่นแนวสตรีทแวร์
+### No. 88: การตลาดผลิตภัณฑ์ - โปสเตอร์แฟชั่นแนวสตรีทแวร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4344,7 +4304,7 @@ Negative Prompt:
 
 ---
 
-### No. 90: การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นชุดสูททางการริมชายฝั่ง
+### No. 89: การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นชุดสูททางการริมชายฝั่ง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4378,7 +4338,7 @@ Negative Prompt:
 
 ---
 
-### No. 91: การตลาดผลิตภัณฑ์ - ภาพถ่ายพอร์ตเทรตผู้ชายขาวดำที่มีคอนทราสต์สูง
+### No. 90: การตลาดผลิตภัณฑ์ - ภาพถ่ายพอร์ตเทรตผู้ชายขาวดำที่มีคอนทราสต์สูง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4412,7 +4372,7 @@ Negative Prompt:
 
 ---
 
-### No. 92: การตลาดผลิตภัณฑ์ - หญิงสาวชาวเอเชียใต้ในตลาดที่มีสีสันสดใส
+### No. 91: การตลาดผลิตภัณฑ์ - หญิงสาวชาวเอเชียใต้ในตลาดที่มีสีสันสดใส
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4446,7 +4406,7 @@ Negative Prompt:
 
 ---
 
-### No. 93: การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นแนวไซเบอร์พังค์ในเมือง
+### No. 92: การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นแนวไซเบอร์พังค์ในเมือง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4480,7 +4440,7 @@ Negative Prompt:
 
 ---
 
-### No. 94: การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นไลฟ์สไตล์หรูหราสไตล์เมดิเตอร์เรเนียน
+### No. 93: การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นไลฟ์สไตล์หรูหราสไตล์เมดิเตอร์เรเนียน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4514,7 +4474,7 @@ Negative Prompt:
 
 ---
 
-### No. 95: การตลาดผลิตภัณฑ์ - แคมเปญแฟชั่นกีฬาในห้องล็อกเกอร์สไตล์อินดัสเทรียล
+### No. 94: การตลาดผลิตภัณฑ์ - แคมเปญแฟชั่นกีฬาในห้องล็อกเกอร์สไตล์อินดัสเทรียล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4548,7 +4508,7 @@ Negative Prompt:
 
 ---
 
-### No. 96: การตลาดผลิตภัณฑ์ - ภาพถ่ายพอร์ตเทรตเซลฟี่หน้ากระจกในยิมแบบมืออาชีพ
+### No. 95: การตลาดผลิตภัณฑ์ - ภาพถ่ายพอร์ตเทรตเซลฟี่หน้ากระจกในยิมแบบมืออาชีพ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4582,7 +4542,7 @@ Negative Prompt:
 
 ---
 
-### No. 97: การตลาดผลิตภัณฑ์ - ลุคบุคเสื้อผ้าบุรุษระดับหรูสำหรับถ่ายในร่ม
+### No. 96: การตลาดผลิตภัณฑ์ - ลุคบุคเสื้อผ้าบุรุษระดับหรูสำหรับถ่ายในร่ม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4616,7 +4576,7 @@ Negative Prompt:
 
 ---
 
-### No. 98: การตลาดผลิตภัณฑ์ - ภาพถ่ายพอร์ตเทรตบนดาดฟ้าเมืองยามพระอาทิตย์ตก
+### No. 97: การตลาดผลิตภัณฑ์ - ภาพถ่ายพอร์ตเทรตบนดาดฟ้าเมืองยามพระอาทิตย์ตก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4657,6 +4617,45 @@ NEGATIVE PROMPT: CGI, เรนเดอร์ 3D, ของปลอม, ปร
 - **ภาษา:** en
 
 **[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=26719)**
+
+---
+
+### No. 98: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตแนว Ethereal Motion Blur
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์แนวภาพยนตร์แบบซอฟต์โฟกัสสำหรับการสร้างภาพพอร์ตเทรตหญิงสาวผมสีทองที่ดูเลื่อนลอย โดดเด่นด้วยเอฟเฟกต์ Motion Blur เชิงศิลปะและบรรยากาศแบบภาพวาดที่ชวนให้คิดถึงวันวาน
+
+#### 📝 คำสั่ง
+
+```
+ภาพพอร์ตเทรตแนวภาพยนตร์แบบซอฟต์โฟกัสของหญิงสาวที่มีใบหน้าอ่อนหวานและผมสีทองสว่าง ขณะกำลังเคลื่อนไหว ใบหน้าของเธอปรากฏร่องรอยความเบลอและภาพซ้อนบางส่วน พร้อมเส้นผมที่พริ้วไหวราวกับถูกจับภาพไว้กลางคัน สร้างเอฟเฟกต์การเคลื่อนไหวที่ดูชวนฝันและเลื่อนลอย สีหน้าของเธอสงบนิ่งและดูห่างเหินเล็กน้อย ริมฝีปากเผยอออกและดวงตาเปิดกว้างอย่างแผ่วเบา ทั้งเฟรมอาบไปด้วยโทนสีเบจทองและซีเปีย ทำให้รู้สึกถึงบรรยากาศที่เหมือนภาพวาดและชวนให้คิดถึงอดีต แสงเป็นแบบธรรมชาติและนุ่มนวลที่ส่องผ่านหน้าต่างใกล้ๆ ทำให้เกิดแสงอุ่นบนผิวและส่องสว่างเส้นผมที่พริ้วไหวไปทั่วเฟรม ถ่ายด้วยกล้อง Canon EOS R5 เลนส์ 85mm ที่ f/1.2, ISO 320, ความเร็วชัตเตอร์ 1/8s โดยใช้การเปิดรับแสงนานและการขยับกล้องด้วยมือเพื่อสร้างเอฟเฟกต์ Motion Blur เชิงศิลปะ โฟกัสมีความนุ่มนวลพร้อมระยะชัดลึกที่ตื้น ช่วยแยกตัวแบบออกจากพื้นหลังสีครีมจางๆ ผ่านการปรับแต่งใน Adobe Lightroom และ Photoshop: ใช้ Cinematic LUTs, เพิ่มความอบอุ่นด้วยการทำ Split-toning (เงามืดโทนสีอำพันอ่อน, ไฮไลท์โทนสีครีม), ลดความคมชัด และปรับแต่งเส้นสายการเคลื่อนไหวด้วย Displacement layers และ Radial blur filters เพิ่มเกรนละเอียดเล็กน้อยเพื่อสร้างอารมณ์แบบฟิล์ม: ให้ความรู้สึกซึ้งกินใจ, เลือนลาง, และเป็นบทกวี อ้างอิงสไตล์: ภาพพอร์ตเทรตวิจิตรศิลป์, นิตยสารวินเทจ, และฉากความฝันแบบอนาล็อก ความละเอียดระดับ 4K, ไม่มีคอนทราสต์ที่รุนแรง, คงการไล่ระดับสีที่นุ่มนวล
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1782460096159_fad85e_HLqWGMLXgAAsej9.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตแนว Ethereal Motion Blur - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1782460096097_yogb4h_HLqWGL5WAAAXPse.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตแนว Ethereal Motion Blur - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Anissa](https://x.com/SimplyAnnisa)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/SimplyAnnisa/status/2070132015664370008)
+- **เผยแพร่เมื่อ:** 25 มิถุนายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=26723)**
 
 ---
 
@@ -5506,7 +5505,7 @@ NEGATIVE PROMPT: CGI, เรนเดอร์ 3D, ของปลอม, ปร
 
 <div align="center">
 
-### 🎯 14534 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 14533 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5569,6 +5568,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-07-02T08:59:51.696Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-07-02T12:35:18.862Z</sub>
 
 </div>
