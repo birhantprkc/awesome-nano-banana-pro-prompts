@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **14805** |
+| 📝 提示詞總數 | **14804** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年7月16日 星期四 上午8:43:30 [UTC]** |
+| 🔄 最後更新 | **2026年7月16日 星期四 中午12:28:01 [UTC]** |
 
 </div>
 
@@ -1565,41 +1565,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: 社群媒體貼文 - 男子與獅子的情感肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一張超寫實的直式肖像，描繪了一名男子與一頭獅子在荒涼雪景中共享溫馨時刻，重點在於真實的紋理與面部一致性。
-
-#### 📝 提示詞
-
-```
-一張超寫實的直式肖像，描繪了一名 {argument name="subject" default="男子"} 與一頭雄偉的 {argument name="animal" default="雄獅"} 額頭相抵，共享親密溫馨的時刻。該男子留著濃密的深色自然髮型，身穿一件簡約、深色的厚重冬裝外套。他雙眼緊閉，表情流露出深沉的平靜或連結感。獅子的臉部靠近男子，雙眼也溫柔地閉上。獅子擁有濃密、飽滿的深褐色鬃毛，以及極其細緻、逼真的毛髮。背景為 {argument name="setting" default="荒涼的雪景"}。請確保面部與參考圖像保持 100% 一致。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784185547731_hcxfn6_HNPkbxIbQAAdWXz.jpg" width="600" alt="社群媒體貼文 - 男子與獅子的情感肖像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Mr. Tariq](https://x.com/AiWithTariq)
-- **來源:** [Twitter Post](https://x.com/AiWithTariq/status/2077255036858667332)
-- **發布時間:** 2026年7月15日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=28783)**
-
----
-
-### No. 22: 社群媒體貼文 - 韓系街頭風格高角度人像
+### No. 21: 社群媒體貼文 - 韓系街頭風格高角度人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1651,7 +1617,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: 社群媒體貼文 - 手工刺繡紡織效果
+### No. 22: 社群媒體貼文 - 手工刺繡紡織效果
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1685,7 +1651,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 24: 社群媒體貼文 - 寫實風格時尚模特夏季變體
+### No. 23: 社群媒體貼文 - 寫實風格時尚模特夏季變體
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1738,7 +1704,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 25: 社群媒體貼文 - 電影感雨中騎士肖像
+### No. 24: 社群媒體貼文 - 電影感雨中騎士肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1772,7 +1738,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 26: 社群媒體貼文 - 時尚雜誌風格四宮格人像
+### No. 25: 社群媒體貼文 - 時尚雜誌風格四宮格人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1824,7 +1790,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 27: 社群媒體貼文 - 機場跑道上的巨型女性電影感肖像
+### No. 26: 社群媒體貼文 - 機場跑道上的巨型女性電影感肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1858,7 +1824,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 28: 社群媒體貼文 - 奢華時尚雜誌風格男性肖像
+### No. 27: 社群媒體貼文 - 奢華時尚雜誌風格男性肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1904,7 +1870,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 29: 社群媒體貼文 - 高級時裝 Sherpa 外套編輯攝影
+### No. 28: 社群媒體貼文 - 高級時裝 Sherpa 外套編輯攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1943,6 +1909,41 @@ https://t.co/QxbYpfFVj6
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=28450)**
+
+---
+
+### No. 29: 社群媒體貼文 - 粗獷男性戶外肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一個以冒險為主題的戶外肖像提示詞，描述一位站在森林場景中復古越野車旁的粗獷男性。
+
+#### 📝 提示詞
+
+```
+乾淨的電影感戶外生活風格肖像，主角為一位 {argument name="subject" default="年輕粗獷男性"}，以四分之三側面站立，頭部微微低垂並轉向一側，目光向下，表情平靜且沉思。他擁有豐盈且具自然紋理的深色捲髮，蓬鬆而凌亂。修剪整齊的濃密深色鬍鬚與八字鬍覆蓋下顎與臉頰。他穿著一件 {argument name="clothing" default="深海軍藍色技術連帽外套/防風夾克"} —— 結構感強且具戶外氣息，寬鬆的連帽垂在頸後，設計簡約俐落，胸前有小拉鍊口袋細節，雙手隨意插在口袋中。畫面底部可見深橄欖綠色長褲，腰間隱約露出淺色內搭衣物。他站在沙礫感的戶外地面上。在他身後，停放著一輛 {argument name="vehicle" default="粗獷復古越野車"} —— 一輛經典方正的 4x4 SUV，深森林綠車身搭配白色車頂與車頂架，背景經過柔焦處理，營造出冒險或越野生活方式的氛圍。車輛後方的背景是模糊的深綠色樹木與枝葉，暗示著森林或荒野露營地。光線明亮、自然且具有方向性 —— 強烈的戶外日光從右上方射入，在他的頭髮、額頭與夾克肩部形成溫暖的自然高光，臉部與身體其餘部分則呈現柔和的自然陰影。色調：深海軍藍夾克、橄欖綠長褲、溫暖的自然膚色、柔和的森林綠車身與背景、溫暖的沙地色調。攝影風格：戶外冒險生活風格雜誌攝影，乾淨的自然光，85mm 鏡頭，淺景深效果使車輛與背景柔和模糊，照片級真實感，8K 解析度。
+請使用提供的臉部參考圖進行所有臉部細節處理 —— 骨骼結構、眼睛、眉毛、鼻子、下顎線、鬍鬚與膚色應完全取自參考照片。僅在參考臉部的基礎上應用低頭沉思的目光與明亮的自然戶外光影。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1783927795883_rjhveu_HNChcwZacAAmyXi.jpg" width="600" alt="社群媒體貼文 - 粗獷男性戶外肖像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66)
+- **來源:** [Twitter Post](https://x.com/iamahmedfaraz66/status/2076336951184249038)
+- **發布時間:** 2026年7月12日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=28459)**
 
 ---
 
@@ -4198,42 +4199,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 84: 產品行銷 - 粗獷男性戶外肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-這是一個以冒險為主題的戶外肖像提示詞，描述一位站在森林場景中復古越野車旁的粗獷男性。
-
-#### 📝 提示詞
-
-```
-乾淨的電影感戶外生活風格肖像，主角為一位 {argument name="subject" default="年輕粗獷男性"}，以四分之三側面站立，頭部微微低垂並轉向一側，目光向下，表情平靜且沉思。他擁有豐盈且具自然紋理的深色捲髮，蓬鬆而凌亂。修剪整齊的濃密深色鬍鬚與八字鬍覆蓋下顎與臉頰。他穿著一件 {argument name="clothing" default="深海軍藍色技術連帽外套/防風夾克"} —— 結構感強且具戶外氣息，寬鬆的連帽垂在頸後，設計簡約俐落，胸前有小拉鍊口袋細節，雙手隨意插在口袋中。畫面底部可見深橄欖綠色長褲，腰間隱約露出淺色內搭衣物。他站在沙礫感的戶外地面上。在他身後，停放著一輛 {argument name="vehicle" default="粗獷復古越野車"} —— 一輛經典方正的 4x4 SUV，深森林綠車身搭配白色車頂與車頂架，背景經過柔焦處理，營造出冒險或越野生活方式的氛圍。車輛後方的背景是模糊的深綠色樹木與枝葉，暗示著森林或荒野露營地。光線明亮、自然且具有方向性 —— 強烈的戶外日光從右上方射入，在他的頭髮、額頭與夾克肩部形成溫暖的自然高光，臉部與身體其餘部分則呈現柔和的自然陰影。色調：深海軍藍夾克、橄欖綠長褲、溫暖的自然膚色、柔和的森林綠車身與背景、溫暖的沙地色調。攝影風格：戶外冒險生活風格雜誌攝影，乾淨的自然光，85mm 鏡頭，淺景深效果使車輛與背景柔和模糊，照片級真實感，8K 解析度。
-請使用提供的臉部參考圖進行所有臉部細節處理 —— 骨骼結構、眼睛、眉毛、鼻子、下顎線、鬍鬚與膚色應完全取自參考照片。僅在參考臉部的基礎上應用低頭沉思的目光與明亮的自然戶外光影。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1783927795883_rjhveu_HNChcwZacAAmyXi.jpg" width="600" alt="產品行銷 - 粗獷男性戶外肖像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66)
-- **來源:** [Twitter Post](https://x.com/iamahmedfaraz66/status/2076336951184249038)
-- **發布時間:** 2026年7月12日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=28459)**
-
----
-
-### No. 85: 產品行銷 - 濕潤石板上的編輯風格產品攝影
+### No. 84: 產品行銷 - 濕潤石板上的編輯風格產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4273,7 +4239,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 86: 產品行銷 - 現代奢華豪宅建築
+### No. 85: 產品行銷 - 現代奢華豪宅建築
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4306,7 +4272,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 87: 產品行銷 - 夏季 AI 工具發布海報
+### No. 86: 產品行銷 - 夏季 AI 工具發布海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4340,7 +4306,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 88: 產品行銷 - 體育編輯海報設計
+### No. 87: 產品行銷 - 體育編輯海報設計
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4382,7 +4348,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 89: 產品行銷 - 手工時尚石墨素描
+### No. 88: 產品行銷 - 手工時尚石墨素描
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4428,7 +4394,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 90: 產品行銷 - 電影級強烈健身肖像
+### No. 89: 產品行銷 - 電影級強烈健身肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4464,7 +4430,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 91: 產品行銷 - 城市夜景西裝人像
+### No. 90: 產品行銷 - 城市夜景西裝人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4498,7 +4464,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 92: 產品行銷 - 城市橋樑生活攝影
+### No. 91: 產品行銷 - 城市橋樑生活攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4548,7 +4514,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 93: 產品行銷 - 韓系時尚伸展台特輯
+### No. 92: 產品行銷 - 韓系時尚伸展台特輯
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4593,7 +4559,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 94: 電子商務主圖 - 海濱生活風格產品攝影
+### No. 93: 電子商務主圖 - 海濱生活風格產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4627,7 +4593,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 95: 電子商務主圖 - 極簡風格年輕男子攝影棚肖像
+### No. 94: 電子商務主圖 - 極簡風格年輕男子攝影棚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4661,7 +4627,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 96: 電子商務主圖 - 奢華護膚品商業攝影
+### No. 95: 電子商務主圖 - 奢華護膚品商業攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4703,7 +4669,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 97: 電子商務主圖 - 極簡風格耳機電商產品照
+### No. 96: 電子商務主圖 - 極簡風格耳機電商產品照
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4749,7 +4715,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 98: 電子商務主圖 - 櫻花美妝宣傳活動
+### No. 97: 電子商務主圖 - 櫻花美妝宣傳活動
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4783,7 +4749,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 99: 電子商務主圖 - 抹茶保養品廣告
+### No. 98: 電子商務主圖 - 抹茶保養品廣告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4817,7 +4783,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 100: 電子商務主圖 - 玫瑰金香水廣告
+### No. 99: 電子商務主圖 - 玫瑰金香水廣告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4850,7 +4816,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 101: 電子商務主圖 - 主題式 Knolling 平鋪網格
+### No. 100: 電子商務主圖 - 主題式 Knolling 平鋪網格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4884,7 +4850,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 102: 電子商務主圖 - 男性模特兒時尚攝影修圖
+### No. 101: 電子商務主圖 - 男性模特兒時尚攝影修圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4918,7 +4884,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 103: 電子商務主圖 - 奢華檸檬護膚品產品攝影
+### No. 102: 電子商務主圖 - 奢華檸檬護膚品產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4952,7 +4918,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 104: 電子商務主圖 - 真空包裝玩具攝影
+### No. 103: 電子商務主圖 - 真空包裝玩具攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4986,7 +4952,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 105: 電子商務主圖 - 都市夏季街頭時尚人像
+### No. 104: 電子商務主圖 - 都市夏季街頭時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5026,7 +4992,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 106: 電子商務主圖 - 奢華金色茶杯與山間溪流
+### No. 105: 電子商務主圖 - 奢華金色茶杯與山間溪流
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5060,7 +5026,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 107: 電子商務主圖 - 爆裂熔岩焦糖甜點
+### No. 106: 電子商務主圖 - 爆裂熔岩焦糖甜點
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5112,7 +5078,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 108: 電子商務主圖 - 奢華鏡面自拍人像
+### No. 107: 電子商務主圖 - 奢華鏡面自拍人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5146,7 +5112,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 109: 電子商務主圖 - 微距奢華餅乾牛奶飛濺
+### No. 108: 電子商務主圖 - 微距奢華餅乾牛奶飛濺
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5187,7 +5153,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 110: 電子商務主圖 - 寫實亞洲女性居家服肖像
+### No. 109: 電子商務主圖 - 寫實亞洲女性居家服肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5233,7 +5199,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 111: 電子商務主圖 - 鼠尾草綠單色時尚造型圖集
+### No. 110: 電子商務主圖 - 鼠尾草綠單色時尚造型圖集
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5273,7 +5239,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 112: 電子商務主圖 - 巴基斯坦 Maxi 長裙時尚
+### No. 111: 電子商務主圖 - 巴基斯坦 Maxi 長裙時尚
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5307,7 +5273,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 113: 遊戲素材 - 奇幻神話龐克森林儀式
+### No. 112: 遊戲素材 - 奇幻神話龐克森林儀式
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5341,7 +5307,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 114: 遊戲素材 - 3D 動畫女性肖像
+### No. 113: 遊戲素材 - 3D 動畫女性肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5380,7 +5346,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 115: 遊戲素材 - 半寫實數位插畫概念藝術
+### No. 114: 遊戲素材 - 半寫實數位插畫概念藝術
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5426,7 +5392,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 116: 遊戲素材 - 奇幻神話龐克風格浮空島微縮模型
+### No. 115: 遊戲素材 - 奇幻神話龐克風格浮空島微縮模型
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5460,7 +5426,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 117: 遊戲素材 - 科幻戰術士兵角色設計圖
+### No. 116: 遊戲素材 - 科幻戰術士兵角色設計圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5500,7 +5466,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 118: 遊戲素材 - 未來環形巨型城市概念藝術
+### No. 117: 遊戲素材 - 未來環形巨型城市概念藝術
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5550,7 +5516,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 119: 遊戲素材 - 吸血鬼騎士陽光曝曬
+### No. 118: 遊戲素材 - 吸血鬼騎士陽光曝曬
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5584,7 +5550,7 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
-### No. 120: 遊戲素材 - 空靈奇幻公主數位肖像
+### No. 119: 遊戲素材 - 空靈奇幻公主數位肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5624,13 +5590,55 @@ inkpunk {argument name="style" default="dieselpunk"} 動作雨中城市場景。
 
 ---
 
+### No. 120: 遊戲素材 - 奇幻遊戲角色：女戰士 Jo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一套為名為 Jo 的女戰士角色所設計的詳細提示詞，包含戰場上的靜態肖像以及保持角色一致性的激烈戰鬥場景。
+
+#### 📝 提示詞
+
+```
+創建一個超寫實 8K 電影級奇幻遊戲角色 Jo，她是一位無所畏懼的女戰士，也是傳奇的榜樣。她自信地站在岩石戰場之上，背景是戲劇性的夕陽，身穿帶有藍色發光能量線的黑紅色戰甲。她銀色的長髮在風中飄動，堅定的表情散發著勇氣與領導力。她一手拿著 {argument name="weapon one" default="巨大的附魔劍"}，另一手拿著 {argument name="weapon two" default="未來感能量長槍"}。在她身後，一支紀律嚴明的精英戰士軍隊手持旗幟、盾牌、劍和發光武器，綿延整個戰場。天空中充滿了風暴雲、煙霧、火花以及穿透雲層的陽光。史詩級電影光效、體積霧、飛舞的餘燼、高細節盔甲、真實質感、Unreal Engine 5 品質、AAA 遊戲概念藝術、動態構圖、超清晰對焦、戲劇性氛圍、強大的女性指揮官，無文字，無浮水印，16:9。
+
+創建一個超寫實 8K 電影級 AAA 遊戲動作場景，主角為上一張圖片中相同的女戰士「Jo」。保持 100% 的角色一致性：相同的臉龐、相同的銀白色長髮、相同的面部特徵、相同的身體比例、相同的帶有藍色發光能量裝飾的黑紅色盔甲、右手拿著相同的附魔深紅色巨劍、左手拿著相同的未來感藍色能量長槍，設計、顏色、配件和整體外觀必須完全一致。Jo 處於激烈的戰場中央，無畏地衝向成千上萬的敵軍戰士。她正在揮舞發光的深紅色巨劍並同時刺出藍色能量長槍，施展強大的攻擊。敵軍士兵被她攻擊的衝擊力擊退。戰場上充滿了巨大的爆炸、魔法衝擊波、飛濺的火花、破碎的武器、煙霧、灰塵、燃燒的攻城器械、倒塌的建築物以及發光的能量軌跡。在 Jo 身後，她忠誠的軍隊在她的領導下向前推進，而敵軍則從四面八方包圍他們。天空因風暴雲、閃電、火焰和飛舞的餘燼而變得昏暗，營造出史詩般的戰爭氛圍。使用戲劇性的低角度電影鏡頭、動態動作姿勢、強烈而堅定的面部表情、真實的動態模糊、體積光、耶穌光、超細節盔甲紋理、頭髮與斗篷的真實物理效果、Unreal Engine 5 品質、超寫實、AAA 遊戲電影感、史詩奇幻戰爭、極致細節，無血腥，無殘暴，無文字，無浮水印，16:9 比例。角色外觀必須與第一張圖片完全一致，不得有任何改變。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1782721360652_bwz32z_HL4AUsyaYAAxQOr.jpg" width="600" alt="遊戲素材 - 奇幻遊戲角色：女戰士 Jo - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1782721360627_lvlw3y_HL4AUvCaMAAjQrF.jpg" width="600" alt="遊戲素材 - 奇幻遊戲角色：女戰士 Jo - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Julia Clark](https://x.com/JuliaClarky)
+- **來源:** [Twitter Post](https://x.com/JuliaClarky/status/2071093239126610378)
+- **發布時間:** 2026年6月28日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=27030)**
+
+---
+
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 14685 更多提示詞未在此顯示
+### 🎯 14684 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5693,6 +5701,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-16T08:43:30.102Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-16T12:28:01.656Z</sub>
 
 </div>
